@@ -32,8 +32,8 @@
             "state": {
               "type": "obsidian-leaflet-map-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
+              "icon": "lucide-ghost",
+              "title": "obsidian-leaflet-map-view"
             }
           },
           {
@@ -52,9 +52,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Sequências"
             }
+          },
+          {
+            "id": "4926ddc62651cbec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,8 +85,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
             }
           },
           {
@@ -116,9 +128,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "edc85f6596a1781f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,8 +222,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -210,8 +232,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -220,8 +242,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -232,6 +254,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "72d9d5725eb80475",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -268,6 +300,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "7793f9c695b9defe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1c25709d095303",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -286,21 +334,19 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "map-of-content:Update Map of Content": false,
-      "rpg-manager:RPG Manager": false,
+      "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "calendarium:Open Calendarium": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "229e6aa8a9657310",
+  "active": "5b1c25709d095303",
   "lastOpenFiles": [
     "Seções/Capítulo 1/Parte 2 - O Contrato.md",
     "Seções/Sequências.canvas",
