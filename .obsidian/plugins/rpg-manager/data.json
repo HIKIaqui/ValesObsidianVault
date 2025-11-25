@@ -1,0 +1,150 @@
+{
+  "automaticMove": false,
+  "useSceneAnalyser": true,
+  "version": "4.1.14",
+  "customAttributes": [
+    {
+      "customName": "Constituição",
+      "type": "Number",
+      "id": "_constituio",
+      "isCustom": true,
+      "customTypes": [
+        "campaign",
+        "adventure",
+        "scene",
+        "session",
+        "playercharacter",
+        "nonplayercharacter",
+        "event",
+        "location",
+        "faction",
+        "chapter",
+        "monster",
+        "object",
+        "subplot",
+        "clue"
+      ]
+    },
+    {
+      "customName": "Mente",
+      "type": "Number",
+      "id": "_mente",
+      "isCustom": true,
+      "customTypes": [
+        "adventure",
+        "campaign",
+        "session",
+        "scene",
+        "location",
+        "nonplayercharacter",
+        "playercharacter",
+        "faction",
+        "event",
+        "clue",
+        "subplot",
+        "object",
+        "chapter",
+        "monster"
+      ]
+    },
+    {
+      "customName": "Agilidade",
+      "type": "Number",
+      "id": "_agilidade",
+      "isCustom": true,
+      "customTypes": [
+        "campaign",
+        "scene",
+        "adventure",
+        "nonplayercharacter",
+        "session",
+        "playercharacter",
+        "event",
+        "location",
+        "faction",
+        "clue",
+        "subplot",
+        "chapter",
+        "monster",
+        "object"
+      ]
+    },
+    {
+      "customName": "Social",
+      "type": "Number",
+      "id": "_social",
+      "isCustom": true,
+      "customTypes": [
+        "campaign",
+        "scene",
+        "adventure",
+        "playercharacter",
+        "session",
+        "location",
+        "nonplayercharacter",
+        "clue",
+        "event",
+        "object",
+        "subplot",
+        "faction",
+        "chapter",
+        "monster"
+      ]
+    },
+    {
+      "customName": "Sorte",
+      "type": "Number",
+      "id": "_sorte",
+      "isCustom": true,
+      "customTypes": [
+        "campaign",
+        "scene",
+        "adventure",
+        "nonplayercharacter",
+        "session",
+        "playercharacter",
+        "location",
+        "event",
+        "faction",
+        "clue",
+        "object",
+        "subplot",
+        "chapter",
+        "monster"
+      ]
+    },
+    {
+      "customName": "PV",
+      "type": "Number",
+      "id": "_pv",
+      "isCustom": true,
+      "customTypes": [
+        "playercharacter",
+        "nonplayercharacter",
+        "monster"
+      ]
+    },
+    {
+      "customName": "PE",
+      "type": "Number",
+      "id": "_pe",
+      "isCustom": true,
+      "customTypes": [
+        "nonplayercharacter",
+        "playercharacter",
+        "monster"
+      ]
+    },
+    {
+      "customName": "Estresse",
+      "type": "Number",
+      "id": "_estresse",
+      "isCustom": true,
+      "customTypes": [
+        "playercharacter",
+        "nonplayercharacter"
+      ]
+    }
+  ],
+  "forceFullWidth": true
+}
