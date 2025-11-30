@@ -3,5 +3,6 @@
   "textFontFamily": "Arial",
   "monospaceFontFamily": "Monocraft Nerd Font",
   "interfaceFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "obsidian"
 }
