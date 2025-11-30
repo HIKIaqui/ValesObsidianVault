@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infecção dos Substituidores.md",
+                "file": "Personagens/Posto Avançado Safira/Raska.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infecção dos Substituidores"
+              "title": "Raska"
             }
           }
         ],
@@ -349,20 +349,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "41b47014b844f5c1",
   "lastOpenFiles": [
-    "Personagens/Posto Avançado Safira/Raska.md",
-    "Seções/Sequências.canvas",
-    "Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
-    "Personagens/Posto Avançado Safira",
-    "Seções/Capítulo 1/Parte 2 - O Contrato.md",
-    "Infecção dos Substituidores.md",
-    "O Chamado do Onírico/Capítulo 1 - Na Sombra do S.P.E.C.T.E.R.md",
-    "O Chamado do Onírico/Capítulo 2 - O.N.I.md",
-    "O Chamado do Onírico/Capítulo 3 - Em busca de Dean.md",
     "Personagens/Dean de Malaquita.md",
     "Personagens/Míriam de Ametista.md",
     "Seções/Capítulo 1/Parte 0 - Taverna.md",
+    "Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
+    "Seções/Capítulo 1/Parte 2 - O Contrato.md",
+    "Seções/Sequências.canvas",
+    "Infecção dos Substituidores.md",
+    "Personagens/Posto Avançado Safira/Raska.md",
+    "Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
+    "Personagens/Posto Avançado Safira",
+    "O Chamado do Onírico/Capítulo 1 - Na Sombra do S.P.E.C.T.E.R.md",
+    "O Chamado do Onírico/Capítulo 2 - O.N.I.md",
+    "O Chamado do Onírico/Capítulo 3 - Em busca de Dean.md",
     "O Chamado do Onírico/O Chamado do Onírico.md",
     "Assets/11. Monsters/Esquecido.md",
     "Assets/03. Non Player Characters/Míriam.md",
@@ -370,7 +371,6 @@
     "Assets/11. Monsters",
     "Assets",
     "O Chamado do Onírico",
-    "Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
     "Untitled.base",
     "Personagens/Caçadores Contratados por Dean",
     "2025-11-01.md",

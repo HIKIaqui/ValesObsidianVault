@@ -2,10 +2,10 @@ Feral Felina mercadora que divide o balcão do bar com Torko
 
 Tem sua loja improvisada no canto direito do balcão do bar.
 
-**Apelidos:**  
+**Apelidos:**  Ras
 **Espécie / Classe:**  
 **Origem (Reino):**  
-**Idade:**  
+**Idade:**  24
 **Local Atual:**  
 **Função no Mundo / Papel na História:**  
 
