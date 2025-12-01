@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "objetificação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -349,8 +349,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "41b47014b844f5c1",
+  "active": "e6f635c859c3cc43",
   "lastOpenFiles": [
+    "Personagens/Template NPC.md",
+    "Personagens/Posto Avançado Safira/Raska.md",
     "Personagens/Dean de Malaquita.md",
     "Personagens/Míriam de Ametista.md",
     "Seções/Capítulo 1/Parte 0 - Taverna.md",
@@ -358,7 +360,6 @@
     "Seções/Capítulo 1/Parte 2 - O Contrato.md",
     "Seções/Sequências.canvas",
     "Infecção dos Substituidores.md",
-    "Personagens/Posto Avançado Safira/Raska.md",
     "Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
     "Personagens/Posto Avançado Safira",
     "O Chamado do Onírico/Capítulo 1 - Na Sombra do S.P.E.C.T.E.R.md",

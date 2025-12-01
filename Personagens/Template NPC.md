@@ -1,20 +1,15 @@
-Feral Felina mercadora que divide o balcão do bar com Torko.  
-Tem sua loja improvisada no canto direito do balcão do bar.
-
-**Apelidos:**  Rás
-**Espécie / Classe:** Semi-Humana Feral Mercadora
-**Origem (Reino):** Safira
-**Idade:**  24
-**Local Atual:** Posto de Caçadores de Safira
-**Função no Mundo / Papel na História:** Mercadora que passa perna, vende caos e faz o dinheiro dos jogadores evaporar
+**Apelidos:**  
+**Espécie / Classe:** 
+**Origem (Reino):** 
+**Idade:** 
+**Local Atual:**
+**Função no Mundo / Papel na História:** 
 
 ---
 
 ## 🧠 Personalidade
 **Descrição Geral:**  
-Raska vive em um estado permanente de charme manipulador + malícia safira-core. É extrovertida, explosiva, brincalhona e perigosa de um jeito quase felino: aparenta fofura, mas morde sem aviso. Ela tem consciência total do efeito que causa nos outros, especialmente homens trouxas, e usa isso como arma comercial.  
-Apesar da fachada de caos, existe um fundo vulnerável: traumas antigos de objetificação e exploração. Ela esconde isso atrás do humor e da autoconfiança exagerada.  
-Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel o suficiente.
+(Como o NPC pensa, age, vê o mundo, tom de voz, humor, traumas, peculiaridades sociais.)
 
 **Traços Centrais:**  
 -  
@@ -56,10 +51,10 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 
 ## 🧩 Relações Importantes
 **Aliados / Amigos:**  
--  Torko
+-  
 
 **Rivais / Tretas:**  
--  Clientes antigos
+-  
 
 **Família:**  
 -  
