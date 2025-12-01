@@ -185,3 +185,15 @@ Apesar do temperamento ácido, é excepcionalmente inteligente e uma das pessoas
 - [[Raska]] chama Illya de “Nanica”. Illya detesta esse apelido mais do que qualquer piada sobre “Ilha”. Ela tenta responder com insultos elegantes, mas nada atinge Raska. Esse apelido reduz Illya de forma infantil e direta, e a frustra especialmente porque ela não consegue revidar no mesmo nível sem perder dignidade acadêmica.
 - Apesar das provocações constantes, Illya e [[Raska]] são amigas… ou o mais próximo que Illya consegue ter de uma. Trocam ofensas formais e apelidos irritantes como forma de afeto. Illya respeita a sobrevivência de Raska e, em silêncio, protege ela quando necessário. Raska é uma das poucas pessoas que Illya tolera de forma quase afetiva.
 - Illya possui aversão profunda a qualquer menção de sexo. Reage com nojo, desconforto real e indignação moral, quase uma fobia. Qualquer flerte a deixa travada e irritada. Isso contrasta com a abertura sexual de [[Raska]], gerando atrito constante, e paradoxalmente fortalecendo uma amizade estranhamente funcional.
+- Illya criou uma ala da biblioteca reservada para todo material que ela considera inadequado, a “Seção D - Literatura de Baixa Relevância Acadêmica”. Isso vai desde conteúdo sexual explícito até romances melosos. Para ela, qualquer insinuação física já é indecência. Ela lacra livros, exige justificativas para acesso e evita olhar diretamente para a prateleira. Raska frequenta a seção como forma de provocação.
+- **Hipervigilância Sexual Repressiva:** Illya tenta evitar qualquer conteúdo sexual, o que resulta no oposto. Sua sensibilidade ao tema é tão extrema que ela enxerga conotação íntima onde não existe, classificando até romances inofensivos como indecentes. Esse mecanismo de defesa a torna, ironicamente, mais consciente do tema do que pessoas abertamente sexualizadas, como Raska. Isso cria conflitos constantes e humor involuntário.
+
+A bilioteca tem um cartaz na seção D:
+- É proibido ler em voz alta.
+- É proibido comentar conteúdo com a bibliotecária.
+- É proibido deixar páginas marcadas.
+- É proibido trazer esse material para a sala principal.
+- É proibido conversar sobre o tema em qualquer lugar da biblioteca.
+- É proibido mencionar o teor do conteúdo para terceiros.
+- É proibido rir.
+- É proibido fingir que leu só para provocar a bibliotecária.
