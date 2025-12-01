@@ -58,7 +58,8 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 
 ## 🧩 Relações Importantes
 **Aliados / Amigos:**  
--  Torko
+- [[Torko]]
+- [[Illya]] (É uma quase “Amizade”)
 
 **Rivais / Tretas:**  
 -  Clientes antigos
@@ -139,11 +140,13 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 ## 📌 Notas do Mestre
 
 -  Nunca trate Raska como vilã. Ela é oportunista, não cruel.
-- Torko é a única pessoa que ela realmente respeita.
+- [[Torko]] é a única pessoa que ela realmente respeita.
 - A tensão romântica entre eles é sutil e não deve ser explícita sem desenvolvimento.  
 - Raska deve ser sempre caótica, charmosa e imprevisível.  
 - Ela aprende lições… mas só por umas horas.
-- Quando incomodada, Raska chama Torko como se esperasse apoio incondicional. O irônico é que Torko nunca resolve suas tretas. Ele só impede violência física e deixa o problema nas mãos dela novamente. Isso cria uma comédia recorrente onde ela busca proteção emocional, mas recebe apenas manutenção operacional.
-- Raska nunca leva a sério as ameaças de Torko de expulsá-la. Ela sabe que ele fala da boca pra fora: se realmente se incomodasse, já teria contratado outra pessoa. A relação dos dois funciona na ironia: ela provoca, ele ameaça expulsar, e ambos continuam juntos no balcão no dia seguinte.
-- Raska seduz o mundo, mas é com Torko que ela se desarma. Seu flerte com ele é íntimo, desesperado e vulnerável: o jeito torto que aprendeu para pedir afeto. Ela tenta melhorar para merecê-lo, mas seus hábitos de sobrevivência entram em conflito com quem ela deseja ser. Ela o ama, mas não sabe amar de outro jeito.
+- Quando incomodada, Raska chama [[Torko]] como se esperasse apoio incondicional. O irônico é que Torko nunca resolve suas tretas. Ele só impede violência física e deixa o problema nas mãos dela novamente. Isso cria uma comédia recorrente onde ela busca proteção emocional, mas recebe apenas manutenção operacional.
+- Raska nunca leva a sério as ameaças de [[Torko]] de expulsá-la. Ela sabe que ele fala da boca pra fora: se realmente se incomodasse, já teria contratado outra pessoa. A relação dos dois funciona na ironia: ela provoca, ele ameaça expulsar, e ambos continuam juntos no balcão no dia seguinte.
+- Raska seduz o mundo, mas é com [[Torko]] que ela se desarma. Seu flerte com ele é íntimo, desesperado e vulnerável: o jeito torto que aprendeu para pedir afeto. Ela tenta melhorar para merecê-lo, mas seus hábitos de sobrevivência entram em conflito com quem ela deseja ser. Ela o ama, mas não sabe amar de outro jeito.
 - Raska possui uma profunda carência emocional que aprendeu a expressar de forma sexualizada. Por ter sido vista quase sempre pelo valor do seu corpo, ela usa sensualidade como único idioma afetivo que conhece. Para chamar a atenção de Torko, ela exagera no atrevimento e no flerte, não por desejo puro, mas porque não sabe pedir cuidado sem oferecer o corpo junto. Seu comportamento ousado é, na verdade, vulnerabilidade mascarada.
+- Raska chama [[Illya]] de “Nanica” para provocar. Ela sabe que Illya odeia o apelido e usa isso como arma social. Para Raska, é uma forma de “brincar”; para Illya, é tortura psicológica em formato fonético.
+- Raska irrita [[Illya]] diariamente, mas demonstra afeto assim: provocando, chamando de Nanica, puxando conversa e aparecendo na biblioteca sem motivo. No fundo, Raska gosta de Illya porque ela é estável, sincera e uma das poucas pessoas que nunca tentou usar ela. É uma amizade torta, imperfeita e cheia de xingamentos formais… mas é verdadeira.
