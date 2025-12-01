@@ -1,7 +1,9 @@
 Feral Felina mercadora que divide o balcão do bar com Torko.  
 Tem sua loja improvisada no canto direito do balcão do bar.
+Vende itens duvidosos, exagera nos preços e usa seu charme de “garota gato” como arma de sobrevivência.
+Não é má, só profundamente oportunista e marcada pelo mundo.
 
-**Apelidos:**  Rás
+**Apelidos:** Rás, A Gata
 **Espécie / Classe:** Semi-Humana Feral Mercadora
 **Origem (Reino):** Safira
 **Idade:**  26
@@ -116,12 +118,14 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 ---
 
 ## 🎨 Aparência
-- Descrição física detalhada  
-- Roupas  
-- Postura  
-- Voz  
-- Cheiro  
-- Marca registrada  
+- Pequena, ágil e incrivelmente expressiva.
+- É uma garota comum, mas com orelhas e cauda de felina de pelagem cinza com listras pretas.
+- Tem cabelo preto, bem escuro, de tamanho médio. Olhos castanhos e pele branca, muito bem cuidada.
+- Veste peças curtas, coloridas e cheias de bolsas e fitas. Tem também um sino na ponta da cauda.
+- Postura confiante, inclinada para frente, sempre pronta para fugir ou provocar.
+- Voz doce e rouca, com flerte natural.    
+- Cheiro de especiarias doces misturado com perfume barato.  
+- Marca registrada: Cauda sempre balançando em ritmo de provocação.
 
 ---
 
@@ -133,7 +137,11 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 ---
 
 ## 📌 Notas do Mestre
-(Uso livre: ajustes futuros, eventos que mudou, como reagiu aos jogadores, pequenas correções.)
 
--  
--  
+-  Nunca trate Raska como vilã. Ela é oportunista, não cruel.
+- Torko é a única pessoa que ela realmente respeita.
+- A tensão romântica entre eles é sutil e não deve ser explícita sem desenvolvimento.  
+- Raska deve ser sempre caótica, charmosa e imprevisível.  
+- Ela aprende lições… mas só por umas horas.
+- Quando incomodada, Raska chama Torko como se esperasse apoio incondicional. O irônico é que Torko nunca resolve suas tretas. Ele só impede violência física e deixa o problema nas mãos dela novamente. Isso cria uma comédia recorrente onde ela busca proteção emocional, mas recebe apenas manutenção operacional.
+- 

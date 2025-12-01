@@ -131,5 +131,5 @@
 ## 📌 Notas do Mestre
 (Uso livre: ajustes futuros, eventos que mudou, como reagiu aos jogadores, pequenas correções.)
 
--  
--  
+-  Torko sempre intervém quando Raska clama por ajuda, mas sua ajuda se limita a impedir agressões. Ele não conserta as consequências dos golpes dela, o que deixa os alvos sempre focados nela. Isso gera uma repetição constante de caos e broncas.
+-  Torko frequentemente ameaça expulsar Raska do bar, alegando que ela causa confusão demais. No entanto, isso nunca passa de discurso vazio. Apesar de se fazer de gerente indiferente, ele nunca tomou nenhuma ação real para substituí-la, e a verdade é que o bar depende da presença dela. Suas ameaças fazem parte de uma rotina quase doméstica de reclamações, broncas e afeto disfarçado.
