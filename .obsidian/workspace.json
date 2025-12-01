@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "objetificação",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,6 +166,16 @@
             }
           },
           {
+            "id": "0f8b588a5716ad7e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
             "id": "c2a6ad378dede818",
             "type": "leaf",
             "state": {
@@ -219,16 +229,6 @@
             }
           },
           {
-            "id": "0f8b588a5716ad7e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
             "id": "8cf747f18f7fb268",
             "type": "leaf",
             "state": {
@@ -269,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "9de22783f7f1ce46",
@@ -349,7 +349,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e6f635c859c3cc43",
+  "active": "41b47014b844f5c1",
   "lastOpenFiles": [
     "Personagens/Template NPC.md",
     "Personagens/Posto Avançado Safira/Raska.md",
