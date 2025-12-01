@@ -48,37 +48,44 @@
 
 ## 🧷 História e Contexto
 (Resumo do passado, eventos traumáticos, conexões com reinos, mudança de vida, razão de ser quem é.)
-
--  
--  
--  
+- Filha de uma família acadêmica de Diamante, educada desde cedo na arte da catalogação.
+- Trabalhou na biblioteca real, mas pediu transferência após escândalo envolvendo documentos mal arquivados (que ela levou muito a sério).
+- Escolheu Safira por considerá-lo um “ambiente com baixo padrão, fácil de elevar”. Descobriu que estava terrivelmente enganada.
+- Desde então, tenta manter o posto organizado enquanto o resto do mundo implode ao redor.
+- Acredita que a biblioteca é o último bastião da civilização.
 
 ---
 
 ## 🧩 Relações Importantes
 **Aliados / Amigos:**  
--  
+-  [[Raska]]
 
 **Rivais / Tretas:**  
--  
+-  [[Raska]]
 
 **Família:**  
 -  
 
 **Relações Especiais com PCs:**  
-(Preenche durante a campanha.)  
--  
+- Respeita jogadores inteligentes
+- Despreza os que fazem perguntas óbvias
+- Corrige erros de gramática de magias e runas
+- Pode se irritar facilmente se zombarem dela
 
 ---
 
 ## 💼 Ocupação / Utilidade Mecânica
 (O que o NPC oferece aos jogadores em termos de sistema.)
 
-- Serviços:  
-- Preços:  
-- Itens únicos:  
-- Benefícios por reputação:  
-- Penalidades por treta:  
+##### Serviços:  
+- Pesquisa histórica
+- Informações sobre monstros e regiões
+- Consultoria sobre magia tradicional
+- Acesso a registros da Guilda
+Preços:  
+Itens únicos:  
+Benefícios por reputação:  
+Penalidades por treta:  
 
 ---
 

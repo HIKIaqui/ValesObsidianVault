@@ -59,10 +59,11 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 ## 🧩 Relações Importantes
 **Aliados / Amigos:**  
 - [[Torko]]
-- [[Illya]] (É uma quase “Amizade”)
+- [[Illya]]
 
 **Rivais / Tretas:**  
 -  Clientes antigos
+- [[Illya]]
 
 **Família:**  
 -  
