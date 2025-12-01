@@ -344,9 +344,7 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "8fa79cca0ea25702",
