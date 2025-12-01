@@ -1,26 +1,3 @@
 [
-  "obsidian-style-settings",
-  "obsidian-excalidraw-plugin",
-  "dataview",
-  "templater-obsidian",
-  "obsidian-tasks-plugin",
-  "calendar",
-  "obsidian-kanban",
-  "obsidian-icon-folder",
-  "cmdr",
-  "pdf-plus",
-  "obsidian-emoji-toolbar",
-  "advanced-canvas",
-  "file-tree-alternative",
-  "colored-text",
-  "periodic-notes",
-  "map-of-content",
-  "obsidian-git",
-  "fantasy-content-generator",
-  "obsidian-5e-statblocks",
-  "calendarium",
-  "obsidian-leaflet-plugin",
-  "obsidian-admonition",
-  "obsidian-dice-roller",
-  "initiative-tracker"
+  "folder-notes"
 ]

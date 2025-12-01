@@ -4,7 +4,7 @@ Tem sua loja improvisada no canto direito do balcão do bar.
 **Apelidos:**  Rás
 **Espécie / Classe:** Semi-Humana Feral Mercadora
 **Origem (Reino):** Safira
-**Idade:**  24
+**Idade:**  26
 **Local Atual:** Posto de Caçadores de Safira
 **Função no Mundo / Papel na História:** Mercadora que passa perna, vende caos e faz o dinheiro dos jogadores evaporar
 
@@ -26,7 +26,7 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 -  
 
 **Coisas que ama:**  
--  
+-  Dinheiro
 **Coisas que odeia:**  
 -  
 
