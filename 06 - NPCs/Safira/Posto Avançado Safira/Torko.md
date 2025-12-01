@@ -1,6 +1,6 @@
 
-**Apelidos:** Grandão
-**Espécie / Classe:** Humano Barman
+**Apelidos:** Torto, Caneco, Grandão
+**Espécie / Classe:** Humano / Barman (ex-caçador)
 **Origem (Reino):** Citrino
 **Idade:** 31
 **Local Atual:** [[Posto de Caçadores Safira]]
