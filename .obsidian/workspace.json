@@ -16,9 +16,9 @@
               "state": {
                 "file": "Seções/Sequências.canvas",
                 "viewState": {
-                  "x": 420,
-                  "y": 702.8583077901449,
-                  "zoom": -1.1963972128035034
+                  "x": 261.04491305936335,
+                  "y": 374.5814978040469,
+                  "zoom": 0.13693612052982973
                 }
               },
               "pinned": true,
@@ -44,17 +44,17 @@
             }
           },
           {
-            "id": "41b47014b844f5c1",
+            "id": "8fa79cca0ea25702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Posto Avançado Safira/Raska.md",
+                "file": "Personagens/Template NPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raska"
+              "title": "Template NPC"
             }
           }
         ],
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -344,21 +344,23 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "map-of-content:Update Map of Content": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "41b47014b844f5c1",
+  "active": "8fa79cca0ea25702",
   "lastOpenFiles": [
-    "Personagens/Template NPC.md",
     "Personagens/Posto Avançado Safira/Raska.md",
+    "Personagens/Template NPC.md",
+    "Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
+    "Seções/Sequências.canvas",
     "Personagens/Dean de Malaquita.md",
     "Personagens/Míriam de Ametista.md",
     "Seções/Capítulo 1/Parte 0 - Taverna.md",
     "Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
     "Seções/Capítulo 1/Parte 2 - O Contrato.md",
-    "Seções/Sequências.canvas",
     "Infecção dos Substituidores.md",
-    "Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
     "Personagens/Posto Avançado Safira",
     "O Chamado do Onírico/Capítulo 1 - Na Sombra do S.P.E.C.T.E.R.md",
     "O Chamado do Onírico/Capítulo 2 - O.N.I.md",
