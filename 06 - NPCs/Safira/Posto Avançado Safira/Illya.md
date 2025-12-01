@@ -1,38 +1,59 @@
-**Apelidos:** “Nanica” (Apelido dado por Raska, que ela odeia profundamente)
+**Apelidos:** “Nanica” (Apelido dado por [[Raska]], que ela odeia profundamente)
 **Espécie / Classe:** Humana / Arquivista
 **Origem (Reino):** Diamante
 **Idade:** 32
-**Local Atual:**
-**Função no Mundo / Papel na História:** 
+**Local Atual:** Biblioteca do Posto de Caçadores Safira
+**Função no Mundo / Papel na História:** Guardiã dos registros, fonte de informação confiável, antagonista informal do caos.
 
 ---
 
 ## 🧠 Personalidade
 **Descrição Geral:**  
 (Como o NPC pensa, age, vê o mundo, tom de voz, humor, traumas, peculiaridades sociais.)
+Illya é formal, séria e intolerante a incompetência.
+Fala de forma precisa e educada, mas com frieza calculada.
+Nunca usa palavrões, exceto quando alguém faz a piada com seu nome… o único momento em que sua máscara acadêmica rui.
+Despreza bagunça emocional e humor barato.
+Apesar do temperamento ácido, é excepcionalmente inteligente e uma das pessoas mais confiáveis do posto.
 
 **Traços Centrais:**  
--  
--  
--  
+- Extremamente organizada
+- Sarcástica de forma educada
+- Perfeccionista
+- Impaciente com ignorância
+- Vocabulário vasto usado como arma verbal
+- Senso de humor negativo (ela não acha nada engraçado)
 
 **Defeitos / Vulnerabilidades:**  
--  
--  
+- Zero tolerância a erro simples
+- Arrogância intelectual
+- Dificuldade de admitir quando está errada
+- Raiva reprimida
+- Fica profundamente irritada com a piada sobre “Ilha”
 
 **Coisas que ama:**  
--  
-**Coisas que odeia:**  
--  
+- Silêncio absoluto
+- Livros preservados
+- Registro histórico coerente
+- Pessoas que devolvem livros limpos
+- Ordem e previsibilidade
+
+**Coisas que odeia:**    
+- Caçadores barulhentos
+- Trocadilhos
+- A piada sobre “Ilha”
+- Gente que tenta flertar com ela
+- [[Raska]]
 
 ---
 
 ## 🎭 Maneirismos
 (Ações repetidas, trejeitos, postura, cacoetes, forma de falar, frases típicas.)
-
--  
--  
--  
+- Ajusta os óculos quando está ficando irritada
+- Fecha livros devagar para demonstrar desaprovação
+- Respira fundo antes de insultar alguém educadamente
+- Aponta páginas com a ponta do dedo como se ensinasse uma criança
+- Classifica pessoas mentalmente como “inúteis” ou “aceitáveis”
 
 **Frases típicas:**  
 - Deixe de me importunar com esse humor de submoradia cognitiva.
@@ -48,6 +69,7 @@
 
 ## 🧷 História e Contexto
 (Resumo do passado, eventos traumáticos, conexões com reinos, mudança de vida, razão de ser quem é.)
+
 - Filha de uma família acadêmica de Diamante, educada desde cedo na arte da catalogação.
 - Trabalhou na biblioteca real, mas pediu transferência após escândalo envolvendo documentos mal arquivados (que ela levou muito a sério).
 - Escolheu Safira por considerá-lo um “ambiente com baixo padrão, fácil de elevar”. Descobriu que estava terrivelmente enganada.
@@ -58,13 +80,18 @@
 
 ## 🧩 Relações Importantes
 **Aliados / Amigos:**  
--  [[Raska]]
+- [[Raska]]
+- [[Torko]] (ela respeita a eficiência e calma dele)
+- Dra. Mireu (conversam formalmente e funcionam bem juntas)
 
 **Rivais / Tretas:**  
 -  [[Raska]]
+- Soren (bateem cabeça em decisões administrativas)
+- Qualquer caçador barulhento
 
 **Família:**  
--  
+- Pais em Diamante, acadêmicos severos
+- Nenhum contato frequente
 
 **Relações Especiais com PCs:**  
 - Respeita jogadores inteligentes
@@ -82,10 +109,19 @@
 - Informações sobre monstros e regiões
 - Consultoria sobre magia tradicional
 - Acesso a registros da Guilda
-Preços:  
-Itens únicos:  
-Benefícios por reputação:  
-Penalidades por treta:  
+##### Preços:  
+- Gratuito para pesquisa básica
+- Cobranças em favores ou promessas de devolver livros intactos
+- Penalidades severas para dano em material
+##### Itens únicos / Benefícios:  
+- Acesso a documentos raros de Diamante
+- Conhecimento profundo de criaturas específicas
+- Pode fornecer pistas importantes de contratos
+- Ajuda PCs inteligentes com bônus temporários de conhecimento
+##### Penalidades por treta:  
+- Se falarem a piada do nome, ela se recusa a ajudar por 24h
+- Jogadores que devolvem livros danificados ganham reputação negativa
+- Se fizerem bagunça na biblioteca, ela expulsa imediatamente
 
 ---
 
@@ -117,9 +153,10 @@ Penalidades por treta:
 ## 🗣️ Ganchos Narrativos
 (Como esse NPC pode puxar missões, dilemas, conflitos ou comédia.)
 
--  
--  
--  
+- Illya descobre um registro antigo sobre uma criatura em Safira e pede ajuda para resgatar o documento original.
+- Um livro raro some da biblioteca e ela acusa os PCs até provarem inocência.
+- Um visitante importante de Diamante a obriga a mostrar serviço — e ela contrata os PCs para arrumar o caos.
+- Raska faz TUDO para irritá-la e causa um incidente que afeta a campanha.
 
 ---
 
