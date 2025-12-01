@@ -144,4 +144,5 @@ Sabe sobreviver em Safira porque aprendeu cedo a ser divertida, rápida e cruel 
 - Raska deve ser sempre caótica, charmosa e imprevisível.  
 - Ela aprende lições… mas só por umas horas.
 - Quando incomodada, Raska chama Torko como se esperasse apoio incondicional. O irônico é que Torko nunca resolve suas tretas. Ele só impede violência física e deixa o problema nas mãos dela novamente. Isso cria uma comédia recorrente onde ela busca proteção emocional, mas recebe apenas manutenção operacional.
-- 
+- Raska nunca leva a sério as ameaças de Torko de expulsá-la. Ela sabe que ele fala da boca pra fora: se realmente se incomodasse, já teria contratado outra pessoa. A relação dos dois funciona na ironia: ela provoca, ele ameaça expulsar, e ambos continuam juntos no balcão no dia seguinte.
+- Raska provoca todos, mas reserva o lado mais atrevido e vulnerável para Torko. Com ele, o flerte deixa de ser arma e vira tentativa real de conexão, que ela esconde atrás de humor e ousadia. É o único homem que a desarma emocionalmente. E exatamente por isso ela tenta tanto.
