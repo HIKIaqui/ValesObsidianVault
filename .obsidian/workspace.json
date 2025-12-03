@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - NPCs/Entidades Oníricas/O Curioso.md",
+                "file": "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Curioso"
+              "title": "Entidades Oníricas"
             }
           }
         ]
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - NPCs/Entidades Oníricas/O Curioso.md",
+                "file": "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O Curioso"
+              "title": "Outgoing links from Entidades Oníricas"
             }
           },
           {
@@ -295,24 +295,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - NPCs/Entidades Oníricas/O Curioso.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
+    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
+    "Infecção dos Substituidores.md",
+    "06 - NPCs/Míriam de Ametista.md",
+    "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
     "07 - Contratos/Template de Contrato.md",
     "99 - FileClasses/Contrato.md",
     "01 - Lore Geral/Cosmologia/Ordem.md",
     "01 - Lore Geral/Cosmologia/Véu Comum.md",
     "01 - Lore Geral/Cosmologia/Reflexo.md",
     "01 - Lore Geral/Cosmologia/Onírico.md",
-    "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
     "01 - Lore Geral/Cosmologia",
-    "06 - NPCs/Entidades Oníricas/O Curioso.md",
     "Untitled Kanban.md",
     "06 - NPCs/Entidades Oníricas",
-    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Untitled Kanban.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
     "06 - NPCs/Template NPC.md",
     "99 - FileClasses",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira/Reino de Safira.md",
@@ -326,8 +328,6 @@
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade/05 - Jade.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/04 - Diamante.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala/03 - Opala.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/01 - Rubi.md",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora (Capital)",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates",

@@ -1,4 +1,3 @@
-
 **Apelidos:** Torto, Caneco, Grandão
 **Espécie / Classe:** Humano / Barman (ex-caçador)
 **Origem (Reino):** Citrino
