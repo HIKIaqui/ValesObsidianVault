@@ -156,4 +156,4 @@ Pactos, mesmo com entidades “humildes”, podem resultar em:
 
 > Curiosidade é o motor de seus atos, mas essa curiosidade vem de dor, então seus comportamentos são destrutivos por natureza.
 
-> [!note] Toda entidade é um espelho distorcido de um sofrimento humano real.
+> Toda entidade é um espelho distorcido de um sofrimento humano real.
