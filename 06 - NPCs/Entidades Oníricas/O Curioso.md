@@ -1,0 +1,6 @@
+- extremamente curiosa;
+- sem moralidade;
+- sem maldade intencional;
+- vê o hospedeiro como _“seu mundo particular”_;
+- vê o sofrimento humano como dados;
+- vê sensações físicas como experiências fascinantes.
