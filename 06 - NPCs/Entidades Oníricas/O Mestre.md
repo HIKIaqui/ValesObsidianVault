@@ -8,7 +8,7 @@
 
 ## Descrição Geral
 
-O Mestre é uma entidade onírica formada do sofrimento humano causado pela injustiça e pela falta de controle sobre a própria vida. Ele representa a dor de viver num mundo onde o caos decide destinos, onde pessoas fazem tudo certo e ainda assim perdem, onde a existência não parece seguir regras claras.
+O Mestre é uma [^1]entidade onírica formada do sofrimento humano causado pela injustiça e pela falta de controle sobre a própria vida. Ele representa a dor de viver num mundo onde o caos decide destinos, onde pessoas fazem tudo certo e ainda assim perdem, onde a existência não parece seguir regras claras.
 
 Sua forma de agir é a obsessão absoluta por **controle estrutural**.  
 Para ele, o universo só é tolerável quando funciona como **um jogo perfeitamente equilibrado**, onde todas as peças estão sujeitas às mesmas regras e onde resultados não são influenciados por acaso.
@@ -56,12 +56,15 @@ Humanos, para ele, são menos “seres vivos” e mais “agentes dentro do sist
 
 ---
 
-## Manifestação no Véu Comum
-Descrever:
-- forma física que assume
-- como distorce o ambiente
-- efeitos psicológicos e sobrenaturais
-- sinais de sua aproximação
+## Manifestação d’O Mestre
+O Mestre só se manifesta de uma forma: ele organiza jogos.
+
+Sempre que aparece, o ambiente se transforma em um palco ou arena, com regras claras e estrutura rígida. Ele surge como mestre de cerimônias, juiz ou narrador, variando apenas o figurino, nunca a função.
+
+Uma plateia de [[entidades oníricas]] acompanha cada partida. Essas entidades tomam forma de manequins, fantoches ou bonecos imóveis, pois suas formas verdadeiras não podem existir no [[Véu Comum]] sem distorção. Sua presença é parte essencial do ritual de Controle que define O Mestre.
+
+O Mestre não existe fora de um jogo. Ele não interage com o mundo sem que um conjunto de regras tenha sido estabelecido. Sua manifestação é sempre teatral, lógica e completamente imparcial.
+
 
 ---
 
@@ -77,33 +80,57 @@ Listar claramente (use ✔ pra ficar fácil de ler):
 
 ---
 
-## Pactos e Conexões
-- Que tipo de pacto costuma fazer
-- Condições típicas
-- Preços pagos
-- Por que uma entidade desse tipo busca hospedeiros
-- Ganhos e riscos para o humano
+## **Pactos e Conexões**
+
+O Mestre **não faz pactos voluntários**.  
+Ele nunca negocia poder, força ou dominação.
+
+Toda interação com ele segue três leis:
+
+1. **Deve haver um jogo.**
+2. **O jogo deve ter regras claras e iguais para todos.**
+3. **Quem perde, perde absolutamente.**
+
+Pactos espontâneos podem surgir se alguém:
+
+- implorar por justiça
+- desejar regras fixas
+- pedir um mundo menos caótico
+- buscar redenção estrutural
+
+Mas o Mestre nunca dá poder diretamente.  
+Ele dá **participação**.
+
+Participar do jogo _é_ o pacto.
 
 ---
 
 ## Nível de Perigo
-**(Nível 1–5 conforme o bestiário dos Vales)**  
-- Justificativa
-- Escopo da ameaça
-- Por que caçadores temem ou evitam contato
+
+>[!danger] **Nível 5 – Existencial.**  
+
+O Mestre não destrói cidades.  
+Ele reestrutura a realidade em volta delas.
+
+Seu poder não é físico, mas **conceitual**: ele altera as leis que governam o mundo dentro de sua área de influência.
+
+Não pode ser morto por nenhum meio comum, pois não possui forma física real.  
+Ele pode apenas **encerrar o jogo** ou **se retirar**.
 
 ---
 
 ## Exemplos de Manifestações
-- eventos
-- sonhos
-- criaturas derivadas
-- minions (ex: larvas, sombras, ecos)
+- Os Jogos
 
 ---
 
 ## Notas Importantes
-- coisas que caçadores precisam saber
-- fraquezas conceituais
-- comportamentos inevitáveis
-- mitos e interpretações comuns
+- O Mestre é a única entidade que busca ORDEM ao invés de caos.
+- Não sente prazer, dor ou ódio.
+- Trata humanos como peças, não como vítimas.
+- Acredita que a morte não é punição, mas **resultado lógico**.
+- Sua “justiça” é perfeita, mas completamente desumana.
+- A existência dele é a prova de que até necessidades abstratas podem gerar entidades no Onírico.
+- Ele não força ninguém a jogar, **mas se você começar, não pode parar**.
+
+[^1]: [[Entidades Oníricas]]
