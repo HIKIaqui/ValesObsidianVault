@@ -5,7 +5,7 @@ Não é má, só profundamente oportunista e marcada pelo mundo.
 
 **Apelidos:** Rás, A Gata
 **Espécie / Classe:** Semi-Humana Feral Mercadora
-**Origem (Reino):** Safira
+**Origem (Reino):** [[04 - Safira]]
 **Idade:**  26
 **Local Atual:** Posto de Caçadores de Safira
 **Função no Mundo / Papel na História:** Mercadora que passa perna, vende caos e faz o dinheiro dos jogadores evaporar

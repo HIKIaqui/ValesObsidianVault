@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Contratos/Template de Contrato.md",
+                "file": "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template de Contrato"
+              "title": "Raska"
             }
           }
         ]
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Contratos/Template de Contrato.md",
+                "file": "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Template de Contrato"
+              "title": "Outgoing links from Raska"
             }
           },
           {
@@ -295,6 +295,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
+    "07 - Contratos/Template de Contrato.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
     "99 - FileClasses/Contrato.md",
     "06 - NPCs/Template NPC.md",
@@ -322,12 +328,6 @@
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/03 - Turmalina.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
-    "06 - NPCs/Mirel.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates",
     "Untitled 1",
     "06 - NPCs/Chamado dos Vermes",
