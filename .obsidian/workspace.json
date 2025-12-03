@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 - Contratos/Template de Contrato.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Template de Contrato"
             }
           }
         ]
@@ -91,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,11 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "07 - Contratos/Template de Contrato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Template de Contrato"
             }
           },
           {
@@ -185,16 +190,6 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "68af602b3cf7efb2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
             }
           },
           {
@@ -294,13 +289,15 @@
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - NPCs/Template NPC.md",
+    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
     "99 - FileClasses/Contrato.md",
+    "06 - NPCs/Template NPC.md",
     "99 - FileClasses",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira/Reino de Safira.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira",
@@ -330,7 +327,6 @@
     "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
     "06 - NPCs/Mirel.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates",
     "Untitled 1",
