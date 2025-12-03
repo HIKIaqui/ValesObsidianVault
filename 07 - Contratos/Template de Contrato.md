@@ -1,12 +1,17 @@
+---
+fileClass: Contrato
+Regiões:
+Cidades/Locais:
+---
+
 # {{Nome do Contrato}}
 
   
 
 ## 📍 Local
 
-- Região: [[Região]]
-
-- Reino/Cidade: [[Lugar]]
+- Região: 
+- Local: Lugar
 
   
 

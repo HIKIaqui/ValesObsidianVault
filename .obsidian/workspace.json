@@ -1,40 +1,23 @@
 {
   "main": {
-    "id": "bc595a8c06d1f3e9",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "acab3a0424204a14",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a676a261e53a2273",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "empty",
               "state": {},
-              "pinned": true,
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "cc73c4b9c0b84150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - NPCs/Template NPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template NPC"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,16 +122,6 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Sequências"
-            }
-          },
-          {
-            "id": "0f8b588a5716ad7e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
             }
           },
           {
@@ -220,8 +193,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -230,8 +203,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -240,8 +213,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           }
         ],
@@ -301,6 +274,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "homepage:Open homepage": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -309,62 +293,50 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-git:Open Git source control": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "map-of-content:Update Map of Content": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cc73c4b9c0b84150",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - NPCs/Template NPC.md",
+    "99 - FileClasses/Contrato.md",
+    "99 - FileClasses",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira/Reino de Safira.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Reino de Turmalina/Reino de Turmalina.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Reino de Turmalina",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/Reino de Citrino/Reino de Citrino.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/Reino de Citrino",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade/05 - Jade.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/04 - Diamante.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala/03 - Opala.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/01 - Rubi.md",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/03 - Floresta dos Lamentos/03 - Floresta dos Lamentos.md",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora (Capital)",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/03 - Turmalina.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
     "06 - NPCs/Mirel.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates",
-    "Região.md",
-    "07 - Contratos/Template de Contrato.md",
     "Untitled 1",
-    "06 - NPCs/Míriam de Ametista.md",
-    "06 - NPCs/Dean de Malaquita.md",
-    "06 - NPCs/Template NPC.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
     "06 - NPCs/Chamado dos Vermes",
-    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
-    "06 - NPCs/Safira",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Posto de Caçadores Safira.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/Reino de Diamante/Reino de Diamante.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/Reino de Diamante/Lamdelion/Cidade Secreta.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/Reino de Diamante/Lamdelion/Lamdelion.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/Reino de Diamante/Lamdelion",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/Reino de Diamante",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/02 - Ágata",
-    "08 - Campanhas/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
-    "08 - Campanhas/Seções/Capítulo 1/Parte 2 - O Contrato.md",
     "08 - Campanhas/Seções/Sequências.canvas",
-    "08 - Campanhas/Seções/Capítulo 1/Parte 0 - Taverna.md",
     "Seções/Sequências.canvas",
-    "06 - NPCs/Caçadores Contratados por Dean/Ramir de Citrino.md",
-    "Personagens/Template NPC.md",
-    "Personagens/Posto Avançado Safira/Raska.md",
-    "Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
-    "Personagens/Dean de Malaquita.md",
-    "Personagens/Míriam de Ametista.md",
-    "Seções/Capítulo 1/Parte 0 - Taverna.md",
-    "Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
     "Untitled.canvas"
   ]
 }
