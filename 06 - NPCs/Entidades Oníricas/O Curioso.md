@@ -1,3 +1,4 @@
+#Entidade
 - extremamente curiosa;
 - sem moralidade;
 - sem maldade intencional;

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
+                "file": "06 - NPCs/Entidades Oníricas/O Mestre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entidades Oníricas"
+              "title": "O Mestre"
             }
           }
         ]
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
+                "file": "06 - NPCs/Entidades Oníricas/O Mestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Entidades Oníricas"
+              "title": "Outgoing links from O Mestre"
             }
           },
           {
@@ -211,9 +211,45 @@
               "icon": "lucide-ghost",
               "title": "initiative-tracker-view"
             }
+          },
+          {
+            "id": "0079713ab1673148",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "541ecb405fe6b909",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "803a1f66782783fc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "0ed4ae165499d0e1",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       },
       {
         "id": "9de22783f7f1ce46",
@@ -295,9 +331,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - NPCs/Entidades Oníricas/Template.md",
-    "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
     "06 - NPCs/Entidades Oníricas/O Curioso.md",
+    "06 - NPCs/Entidades Oníricas/O Mestre.md",
+    "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
+    "06 - NPCs/Entidades Oníricas/Entidades Template.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
@@ -327,7 +364,6 @@
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade/05 - Jade.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/04 - Diamante.md",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora (Capital)",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates",
