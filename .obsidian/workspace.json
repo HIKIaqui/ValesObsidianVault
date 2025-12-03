@@ -11,18 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "06 - NPCs/Entidades Oníricas/O Curioso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "O Curioso"
             }
           }
         ]
@@ -138,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "06 - NPCs/Entidades Oníricas/O Curioso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled Kanban"
+              "title": "Outgoing links from O Curioso"
             }
           },
           {
@@ -299,8 +295,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
     "Untitled Kanban.md",
+    "06 - NPCs/Entidades Oníricas/O Curioso.md",
+    "06 - NPCs/Entidades Oníricas",
+    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Untitled Kanban.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
@@ -331,10 +329,8 @@
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/03 - Turmalina.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates",
     "Untitled 1",
-    "06 - NPCs/Chamado dos Vermes",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas",
     "Untitled.canvas"
