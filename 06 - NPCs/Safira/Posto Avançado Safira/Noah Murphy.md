@@ -1,6 +1,7 @@
+#Safira #NPC
 **Apelidos:** Murphy, “Anjinho Perdido”
 **Espécie / Classe:** Humano / Caçador de Monstros
-**Origem (Reino):** Citrino
+**Origem (Reino):** [[02 - Citrino|Citrino]]
 **Idade:** 27
 **Local Atual:** Posto de Caçadores de Safira
 **Função no Mundo / Papel na História:** Caçador de grau baixo que se tornou presença constante na enfermaria, estabelecendo uma relação quase-afetiva e extremamente respeitosa com Mirel.

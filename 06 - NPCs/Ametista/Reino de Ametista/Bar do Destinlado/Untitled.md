@@ -1,17 +1,16 @@
-#Safira #NPC
-**Apelidos:** Torto, Caneco, Grandão
-**Espécie / Classe:** Humano / Barman (ex-caçador)
-**Origem (Reino):** [[02 - Citrino|Citrino]]
-**Idade:** 37
-**Local Atual:** [[Posto de Caçadores Safira]]
+#Ametista #NPC
+**Apelidos:**  
+**Espécie / Classe:** 
+**Origem (Reino):** 
+**Idade:** 
+**Local Atual:**
 **Função no Mundo / Papel na História:** 
 
 ---
 
 ## 🧠 Personalidade
 **Descrição Geral:**  
-Homem cansado que agora toma conta do bar do [[Posto de Caçadores Safira]]. Evita problemas e envolvimento direto em situações que possam gerar eles o máximo possível.
-Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade ou destruam algo.
+(Como o NPC pensa, age, vê o mundo, tom de voz, humor, traumas, peculiaridades sociais.)
 
 **Traços Centrais:**  
 -  
@@ -32,7 +31,7 @@ Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade 
 ## 🎭 Maneirismos
 (Ações repetidas, trejeitos, postura, cacoetes, forma de falar, frases típicas.)
 
--  Sempre limpando copos.
+-  
 -  
 -  
 
@@ -113,7 +112,7 @@ Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade 
 ---
 
 ## 🎨 Aparência
-- Homem grande e forte. 
+- Descrição física detalhada  
 - Roupas  
 - Postura  
 - Voz  
@@ -132,7 +131,5 @@ Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade 
 ## 📌 Notas do Mestre
 (Uso livre: ajustes futuros, eventos que mudou, como reagiu aos jogadores, pequenas correções.)
 
--  Torko sempre intervém quando Raska clama por ajuda, mas sua ajuda se limita a impedir agressões. Ele não conserta as consequências dos golpes dela, o que deixa os alvos sempre focados nela. Isso gera uma repetição constante de caos e broncas.
--  Torko frequentemente ameaça expulsar Raska do bar, alegando que ela causa confusão demais. No entanto, isso nunca passa de discurso vazio. Apesar de se fazer de gerente indiferente, ele nunca tomou nenhuma ação real para substituí-la, e a verdade é que o bar depende da presença dela. Suas ameaças fazem parte de uma rotina quase doméstica de reclamações, broncas e afeto disfarçado.
-- Torko corta o flerte da Raska com firmeza, não por desinteresse, mas por medo de machucá-la. Ele sabe que existe amor entre eles, mas acredita que cruzar essa linha destruiria a estabilidade frágil que os mantém juntos. Ele a ama demais para entrar num relacionamento onde poderia perder a paciência com ela… e perdê-la.
-- Torko compreende que a sexualização da carência de Raska é resultado de traumas antigos. Por isso corta o flerte dela com firmeza e respeito. Ele gosta dela, mas sabe que corresponder ao flerte reforçaria padrões destrutivos e poderia sufocar a independência dela. Ama Raska demais para validar a parte dela que se acha digna apenas quando se oferece.
+-  
+-  

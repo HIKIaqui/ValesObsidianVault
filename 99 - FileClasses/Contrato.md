@@ -16,15 +16,11 @@ fields:
       valuesFromDVQuery: dv.pages('#Cidade').map(p => p.file.name)
     path: ""
     id: OxAQ5w
-version: "2.48"
+version: "2.52"
 limit: 20
 mapWithTag: false
 icon: package
 tagNames:
-  - Contratos
-  - Reino
-  - Local
-  - Cidade
 filesPaths:
 bookmarksGroups:
 excludes:

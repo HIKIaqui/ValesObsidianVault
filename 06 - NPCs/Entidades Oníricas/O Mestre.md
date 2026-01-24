@@ -8,7 +8,7 @@
 
 ## Descrição Geral
 
-O Mestre é uma [^1]entidade onírica formada do sofrimento humano causado pela injustiça e pela falta de controle sobre a própria vida. Ele representa a dor de viver num mundo onde o caos decide destinos, onde pessoas fazem tudo certo e ainda assim perdem, onde a existência não parece seguir regras claras.
+O Mestre é uma [[Entidades Oníricas|entidade onírica]] formada do sofrimento humano causado pela injustiça e pela falta de controle. Ele representa a dor de viver em um mundo onde o caos decide destinos, onde pessoas fazem tudo certo e ainda assim perdem, onde a existência não parece seguir regras claras.
 
 Sua forma de agir é a obsessão absoluta por **controle estrutural**.  
 Para ele, o universo só é tolerável quando funciona como **um jogo perfeitamente equilibrado**, onde todas as peças estão sujeitas às mesmas regras e onde resultados não são influenciados por acaso.
@@ -132,5 +132,3 @@ Ele pode apenas **encerrar o jogo** ou **se retirar**.
 - Sua “justiça” é perfeita, mas completamente desumana.
 - A existência dele é a prova de que até necessidades abstratas podem gerar entidades no Onírico.
 - Ele não força ninguém a jogar, **mas se você começar, não pode parar**.
-
-[^1]: [[Entidades Oníricas]]

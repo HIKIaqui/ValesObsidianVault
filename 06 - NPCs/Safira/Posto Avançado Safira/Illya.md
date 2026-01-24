@@ -1,8 +1,9 @@
+#Safira #NPC
 **Apelidos:** “Nanica” (Apelido dado por [[Raska]], que ela odeia profundamente)
 **Espécie / Classe:** Humana / Arquivista
-**Origem (Reino):** Diamante
+**Origem (Reino):** [[04 - Diamante|Diamante]]
 **Idade:** 32
-**Local Atual:** Biblioteca do Posto de Caçadores Safira
+**Local Atual:** Biblioteca do [[Posto de Caçadores Safira]]
 **Função no Mundo / Papel na História:** Guardiã dos registros, fonte de informação confiável, antagonista informal do caos.
 
 ---
@@ -82,11 +83,11 @@ Apesar do temperamento ácido, é excepcionalmente inteligente e uma das pessoas
 **Aliados / Amigos:**  
 - [[Raska]]
 - [[Torko]] (ela respeita a eficiência e calma dele)
-- Dra. Mireu (conversam formalmente e funcionam bem juntas)
+- [[Mirel]] (conversam formalmente e funcionam bem juntas)
 
 **Rivais / Tretas:**  
--  [[Raska]]
-- Soren (bateem cabeça em decisões administrativas)
+- [[Raska]]
+- [[Soren]] (batem cabeça em decisões administrativas)
 - Qualquer caçador barulhento
 
 **Família:**  

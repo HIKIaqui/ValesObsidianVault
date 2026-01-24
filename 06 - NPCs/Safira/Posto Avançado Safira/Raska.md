@@ -1,3 +1,4 @@
+#Safira #NPC
 Feral Felina mercadora que divide o balcão do bar com Torko.  
 Tem sua loja improvisada no canto direito do balcão do bar.
 Vende itens duvidosos, exagera nos preços e usa seu charme de “garota gato” como arma de sobrevivência.
@@ -5,7 +6,7 @@ Não é má, só profundamente oportunista e marcada pelo mundo.
 
 **Apelidos:** Rás, A Gata
 **Espécie / Classe:** Semi-Humana Feral Mercadora
-**Origem (Reino):** [[04 - Safira]]
+**Origem (Reino):** [[04 - Safira|Safira]]
 **Idade:**  26
 **Local Atual:** Posto de Caçadores de Safira
 **Função no Mundo / Papel na História:** Mercadora que passa perna, vende caos e faz o dinheiro dos jogadores evaporar

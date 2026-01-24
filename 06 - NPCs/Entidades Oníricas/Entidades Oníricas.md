@@ -141,7 +141,7 @@ Pactos, mesmo com entidades “humildes”, podem resultar em:
 - **Rei dos Vermes**: resultado emocional da depressão e da desesperança coletiva; usa estética de peste, mas sua verdadeira origem é a dissolução emocional humana.
 
 - **A Besta (entidade do feral-lobo)**: nasce do medo da morte e do desespero familiar; pequena mas profundamente ligada ao hospedeiro; manifesta-se em momentos críticos.
-    
+
 
 ---
 

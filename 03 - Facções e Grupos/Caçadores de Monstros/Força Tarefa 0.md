@@ -1,0 +1,2 @@
+Força tarefa secreta comandada por [[Míriam de Ametista]]. 
+Existe para lidar por baixo dos panos com as piores situações que a guilda encara, onde normalmente não há nenhuma escolha realmente boa, apenas menos catastrófica.

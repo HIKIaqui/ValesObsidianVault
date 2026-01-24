@@ -1,0 +1,1 @@
+São aqueles que se arriscam ao realizar [[07 - Contratos|contratos]] organizados pela [[Guilda de Caçadores]], salvando vidas inocentes de na maioria das vezes ataques de monstros, sendo pagos com estrelas no final de tudo.

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "38acc8cdf0e28051",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ffa1f0522a1997b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - NPCs/Entidades Oníricas/O Mestre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "O Mestre"
+              "title": "New tab"
             }
           }
         ]
@@ -40,8 +36,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
             }
           },
           {
@@ -90,8 +86,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
             }
           }
         ],
@@ -226,6 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -235,6 +232,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -244,12 +242,13 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       },
       {
         "id": "9de22783f7f1ce46",
@@ -313,7 +312,6 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "homepage:Open homepage": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "switcher:Open quick switcher": false,
@@ -325,48 +323,47 @@
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-git:Open Git source control": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ffa1f0522a1997b6",
   "lastOpenFiles": [
-    "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
-    "06 - NPCs/Entidades Oníricas/O Mestre.md",
-    "01 - Lore Geral/Cosmologia/Véu Comum.md",
-    "06 - NPCs/Entidades Oníricas/O Curioso.md",
-    "06 - NPCs/Entidades Oníricas/Entidades Template.md",
+    "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
+    "01 - Lore Geral/Base Política e Econômica",
+    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
+    "07 - Contratos/07 - Contratos.md",
+    "11 - Encontros Aleatórios/Untitled",
+    "11 - Encontros Aleatórios",
+    "03 - Facções e Grupos/Cidade Secreta/Culto da Névoa.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/O Caçador do Bar.md",
+    "01 - Lore Geral/Âncora Onírica.md",
+    "10 - Itens, Artefatos, Tecnologia/Artefatos Amaldiçoados",
+    "01 - Lore Geral/Vermes da Insanidade e Alvos.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Soren.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
-    "Infecção dos Substituidores.md",
-    "06 - NPCs/Míriam de Ametista.md",
-    "07 - Contratos/Template de Contrato.md",
-    "99 - FileClasses/Contrato.md",
-    "01 - Lore Geral/Cosmologia/Ordem.md",
-    "01 - Lore Geral/Cosmologia/Reflexo.md",
-    "01 - Lore Geral/Cosmologia/Onírico.md",
-    "01 - Lore Geral/Cosmologia",
-    "Untitled Kanban.md",
-    "06 - NPCs/Entidades Oníricas",
-    "06 - NPCs/Safira/Posto Avançado Safira/Untitled Kanban.md",
-    "06 - NPCs/Template NPC.md",
-    "99 - FileClasses",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira/Reino de Safira.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Reino de Turmalina/Reino de Turmalina.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Reino de Turmalina",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/Reino de Citrino/Reino de Citrino.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/Reino de Citrino",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Bar do Destinlado.md",
+    "06 - NPCs/Safira/Posto Avançado Safira/Dona Relma.md",
+    "06 - NPCs/Dean de Malaquita.md",
+    "06 - NPCs/Entidades Oníricas/Entidades Oníricas.md",
+    "06 - NPCs/Ametista/Reino de Ametista/Bar do Destinlado/Untitled.md",
+    "06 - NPCs/Caçadores Contratados por Dean/Ramir de Citrino.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade/05 - Jade.md",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora (Capital)",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon.md",
+    "03 - Facções e Grupos/Caçadores de Monstros/Guilda de Caçadores.md",
+    "03 - Facções e Grupos/Caçadores de Monstros/Força Tarefa 0.md",
+    "01 - Lore Geral/Termos/Contrato Aberto.md",
+    "Contrato Aberto.md",
+    "08 - Campanhas/Seções/Capítulo 1/Parte 0 - Taverna.md",
+    "03 - Facções e Grupos/Cidade Secreta/Untitled",
+    "03 - Facções e Grupos/Cidade Secreta",
+    "03 - Facções e Grupos/Caçadores de Monstros",
+    "07 - Contratos/Lado Esquerdo/Ametista",
+    "06 - NPCs/Ametista/Reino de Ametista",
+    "06 - NPCs/Ametista/Reino de Ametista/Bar do Destinlado",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas",
     "Untitled.canvas"

@@ -1,0 +1,1 @@
+Território da Tika. Ninguém briga aqui.
