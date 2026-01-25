@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f628714ac5f9ba4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f23404292acec232",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -322,12 +322,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f23404292acec232",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "01 - Lore Geral/Base Política e Econômica",
