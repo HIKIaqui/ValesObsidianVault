@@ -1,0 +1,1 @@
+Para que a vida exista de forma coesa, é necessário que exista dor, responsável por ensinar humanos sobre os seus limites e punir aqueles que tentam negar esse fato.

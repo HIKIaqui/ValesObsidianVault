@@ -16,8 +16,8 @@
     "advanced": false
   },
   "icons": [
-    "octicons",
-    "rpg"
+    "rpg",
+    "octicons"
   ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
