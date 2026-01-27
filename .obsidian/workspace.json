@@ -323,11 +323,15 @@
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - NPCs/Entidades Oníricas/O Mestre.md",
+    "Infecção dos Substituidores.md",
+    "06 - NPCs/Entidades Oníricas/O Curioso.md",
     "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "01 - Lore Geral/Base Política e Econômica",
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
@@ -355,9 +359,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Guilda de Caçadores.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Força Tarefa 0.md",
-    "01 - Lore Geral/Termos/Contrato Aberto.md",
-    "Contrato Aberto.md",
-    "08 - Campanhas/Seções/Capítulo 1/Parte 0 - Taverna.md",
     "03 - Facções e Grupos/Cidade Secreta/Untitled",
     "03 - Facções e Grupos/Cidade Secreta",
     "03 - Facções e Grupos/Caçadores de Monstros",
