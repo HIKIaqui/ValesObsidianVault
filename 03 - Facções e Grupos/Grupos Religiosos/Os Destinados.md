@@ -39,41 +39,110 @@ A interpretação **é o veredito**.
 ---
 ### Estrutura Interna:
 
-**Observadores**
-
+##### Observadores
 - Registram eventos
 - Identificam padrões
 - Anotam insistências
 - Não punem
 
-####Intérpretes**
-
+##### Intérpretes
 - Definem o que foi “desvio”
-    
 - Classificam ações como interferência
-    
 - Emitem pareceres morais
-    
 - Moldam decisões políticas
-    
 
-**Corretores do Caminho**
-
+##### Alinhadores do Caminho
 - Lidam com “casos graves”
-    
 - Isolam, removem ou silenciam
-    
 - Preferem punições discretas
-    
 - Executam quando necessário
-    
 
-**Voz da Mãe**
-
+##### Voz da Mãe
 - Figura máxima do culto
-    
 - Nunca ordena diretamente
-    
 - Apenas constata
-    
 - Seu silêncio também é interpretação
+
+---
+### Práticas do Culto:
+
+- Orações de aceitação, nunca de pedido
+- Rituais silenciosos
+- Leituras de tragédias passadas
+- Cerimônias de “reconhecimento do caminho”
+- Repetição de frases tranquilizadoras
+
+Nada soa violento.  
+E isso é intencional.
+
+---
+### O verdadeiro perigo:
+
+Você não precisa saber que errou.
+
+Basta que alguém interprete que você:
+- tentou mudar demais
+- salvou quem “já tinha caído”
+- insistiu em evitar um resultado recorrente
+- não aceitou o que veio
+
+A partir daí:
+- reputação some
+- proteção legal cai
+- aliados se afastam
+- o resto “acontece”
+
+---
+### Punições:
+
+Execuções públicas existem, mas são raras e cerimoniais.
+Muito mais comuns:
+- desaparecimentos
+- prisões sem acusação formal
+- exílios forçados
+- trabalhos “necessários”
+- mortes que ninguém oficialmente ordenou
+
+O culto não mata diretamente.  
+Ele **autoriza a morte**.
+
+---
+### Relação com o Governo:
+
+- Instituição separada
+- Poder político superior ao da elite
+- O governo evita confronto
+- Decisões civis buscam aprovação moral do culto
+
+O governo governa.  
+Os Destinados legitimam o governo.
+
+---
+### O erro fundamental:
+
+[[Destino]] não decide nada.  
+Ela apenas define o que **pode** acontecer.
+
+Os Destinados transformaram possibilidade em obrigação  
+e aceitação em arma.
+
+---
+### Frase-síntese do Culto:
+
+> **“Não fomos nós que decidimos.  
+> O caminho apenas se revelou.”
+
+---
+### Verdade que ninguém diz em voz alta:
+
+> **Os Destinados não punem crimes.  
+> Eles punem tentativas.**
+
+E em Ametista, tentar mudar algo  
+é o erro mais imperdoável de todos.
+
+---
+### Extra:
+
+Aqueles que praticam magia ou manipulam forças fundamentais normalmente tendem a se tornar alvos do culto, justamente porque mexem com "A ordem natural do mundo".
+Caçadores são os únicos a manipular forças fundamentais do mundo 
