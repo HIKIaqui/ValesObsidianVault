@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
+                "file": "03 - Facções e Grupos/Grupos Religiosos/Os Destinados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maldição"
+              "title": "Os Destinados"
             }
           }
         ]
@@ -333,8 +333,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
+    "03 - Facções e Grupos/Grupos Religiosos/Os Destinados.md",
+    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Destino.md",
     "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
+    "03 - Facções e Grupos/Grupos Religiosos",
+    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
+    "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
+    "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md",
     "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Limite.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Inconsistência.md",
@@ -343,13 +350,9 @@
     "Home.canvas",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Continuidade.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Causa e Consequência.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Destino.md",
     "09 - Cronologia e História/Geral/Geral.md",
     "09 - Cronologia e História/Geral",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses",
-    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
-    "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado",
     "01 - Lore Geral/Forças Fundamentais/Elemental",
     "01 - Lore Geral/Forças Fundamentais/Mana",
@@ -362,14 +365,12 @@
     "01 - Lore Geral/Base Política e Econômica",
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
     "07 - Contratos/07 - Contratos.md",
-    "11 - Encontros Aleatórios/Untitled",
     "03 - Facções e Grupos/Cidade Secreta/Culto da Névoa.md",
     "06 - NPCs/Safira/Posto Avançado Safira/O Caçador do Bar.md",
     "01 - Lore Geral/Âncora Onírica.md",
     "01 - Lore Geral/Vermes da Insanidade e Alvos.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Soren.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
   ]
