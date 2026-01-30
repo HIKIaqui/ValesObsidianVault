@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d994c510ccce25",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "61c167ec876f866c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Maldição"
             }
           }
         ]
@@ -327,9 +331,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "61c167ec876f866c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
     "98 - Dev/Homepage.canvas",
+    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Limite.md",
+    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Inconsistência.md",
+    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Mudança.md",
     "98 - Dev",
     "Home.canvas",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Continuidade.md",
@@ -338,11 +347,9 @@
     "09 - Cronologia e História/Geral/Geral.md",
     "09 - Cronologia e História/Geral",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses",
-    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
     "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
     "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md",
-    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado",
     "01 - Lore Geral/Forças Fundamentais/Elemental",
     "01 - Lore Geral/Forças Fundamentais/Mana",
@@ -363,9 +370,6 @@
     "06 - NPCs/Safira/Posto Avançado Safira/Soren.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Noah Murphy.md",
     "06 - NPCs/Safira/Posto Avançado Safira/Illya.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Mirel.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Torko.md",
-    "06 - NPCs/Safira/Posto Avançado Safira/Raska.md",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
   ]
