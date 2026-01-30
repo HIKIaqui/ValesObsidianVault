@@ -61,7 +61,7 @@ O Mestre só se manifesta de uma forma: ele organiza jogos.
 
 Sempre que aparece, o ambiente se transforma em um palco ou arena, com regras claras e estrutura rígida. Ele surge como mestre de cerimônias, juiz ou narrador, variando apenas o figurino, nunca a função.
 
-Uma plateia de [[entidades oníricas]] acompanha cada partida. Essas entidades tomam forma de manequins, fantoches ou bonecos imóveis, pois suas formas verdadeiras não podem existir no [[Véu Comum]] sem distorção. Sua presença é parte essencial do ritual de Controle que define O Mestre.
+Uma plateia de [[Entidades Oníricas]] acompanha cada partida. Essas entidades tomam forma de manequins, fantoches ou bonecos imóveis, pois suas formas verdadeiras não podem existir no [[Véu Comum]] sem distorção. Sua presença é parte essencial do ritual de Controle que define O Mestre.
 
 O Mestre não existe fora de um jogo. Ele não interage com o mundo sem que um conjunto de regras tenha sido estabelecido. Sua manifestação é sempre teatral, lógica e completamente imparcial.
 
