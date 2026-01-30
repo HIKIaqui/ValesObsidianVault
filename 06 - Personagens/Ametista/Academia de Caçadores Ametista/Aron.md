@@ -3,7 +3,7 @@
 **Origem (Reino):** [[01 - Rubi]]
 **Idade:** 56 Anos
 **Local Atual:** [[02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
-**Função no Mundo / Papel na História:** 
+**Função no Mundo / Papel na História:** Diretor da Academia de Caçadores Ametista. Pai adotivo de Violet.
 
 ---
 
