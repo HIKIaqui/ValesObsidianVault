@@ -145,4 +145,4 @@ E em Ametista, tentar mudar algo
 ### Extra:
 
 Aqueles que praticam magia ou manipulam [[forças fundamentais]] tendem a se tornar alvos do culto, justamente porque mexem com "A ordem natural do mundo".
-Caçadores são os únicos tolerados pelos Destinados, devido a um tratado feito entre Aron e o culto.
+Caçadores são os únicos tolerados pelos Destinados, devido a um tratado feito entre [[Aron]] e o culto.

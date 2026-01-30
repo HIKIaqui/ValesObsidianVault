@@ -1,8 +1,8 @@
 **Apelidos:** Velho (usado por Violet), Barba Ruiva, Diretor.
 **Espécie / Classe:** Humano, Caçador de Monstros Aposentado. 
-**Origem (Reino):** Rubi
-**Idade:** 
-**Local Atual:** [[Academia de Caçadores Ametista]]
+**Origem (Reino):** [[01 - Rubi]]
+**Idade:** 56 Anos
+**Local Atual:** [[02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
 **Função no Mundo / Papel na História:** 
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 ## 💼 Ocupação / Utilidade Mecânica
-(O que o NPC oferece aos jogadores em termos de sistema.)
+Diretor da [[02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
 
 - Serviços:  
 - Preços:  
