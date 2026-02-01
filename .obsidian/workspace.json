@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "06 - Personagens/Ametista/Academia de Caçadores Ametista/Aron.md",
-                "mode": "source",
-                "source": false
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Aron"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -333,8 +336,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - Personagens/Ametista/Academia de Caçadores Ametista/Academia de Caçadores Ametista.md",
     "06 - Personagens/Ametista/Academia de Caçadores Ametista/Aron.md",
+    "06 - Personagens/Ametista/Academia de Caçadores Ametista/Academia de Caçadores Ametista.md",
     "03 - Facções e Grupos/Grupos Religiosos/Os Destinados.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
     "07 - Contratos/07 - Contratos.md",
