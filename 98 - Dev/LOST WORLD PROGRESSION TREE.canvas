@@ -1,8 +1,8 @@
 {
 	"nodes":[
+		{"id":"0206049cc3a359bd","type":"group","x":40,"y":-720,"width":400,"height":2040,"label":"CLASS"},
+		{"id":"01462dbc328d3950","type":"group","x":680,"y":-900,"width":400,"height":2040,"label":"SKILL BOOKS"},
 		{"id":"7887870b80c9a884","type":"group","x":960,"y":-2120,"width":2640,"height":280,"label":"MAIN ATTRIBUTES"},
-		{"id":"01462dbc328d3950","type":"group","x":680,"y":-900,"width":400,"height":1820,"label":"SKILL BOOKS"},
-		{"id":"0206049cc3a359bd","type":"group","x":40,"y":-720,"width":400,"height":1280,"label":"CLASS"},
 		{"id":"d8e1ca42b43d5cf6","type":"group","x":-540,"y":-360,"width":340,"height":720,"label":"MAIN CLASS ARCHETYPE"},
 		{
 			"id":"eb3b572414f55efb",
@@ -43,9 +43,9 @@
 			"type":"text",
 			"text":"# **RANGER**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":120,
+			"x":100,
 			"y":-680,
-			"width":240,
+			"width":280,
 			"height":60
 		},
 		{
@@ -113,9 +113,9 @@
 			"type":"text",
 			"text":"# **ROGUE**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":120,
+			"x":100,
 			"y":-420,
-			"width":240,
+			"width":280,
 			"height":60
 		},
 		{
@@ -133,9 +133,9 @@
 			"type":"text",
 			"text":"# **WARRIOR**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":120,
+			"x":100,
 			"y":-260,
-			"width":240,
+			"width":280,
 			"height":60
 		},
 		{
@@ -163,9 +163,9 @@
 			"type":"text",
 			"text":"# **TANK**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":120,
+			"x":100,
 			"y":-100,
-			"width":240,
+			"width":280,
 			"height":60
 		},
 		{
@@ -173,9 +173,9 @@
 			"type":"text",
 			"text":"# **BERSERKER**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":120,
+			"x":100,
 			"y":60,
-			"width":240,
+			"width":280,
 			"height":60
 		},
 		{
@@ -203,9 +203,59 @@
 			"type":"text",
 			"text":"# **FORCE MASTER**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":120,
+			"x":100,
 			"y":220,
-			"width":240,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"51c62b0f2e3e1653",
+			"type":"text",
+			"text":"###### **Force Mastery**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":140,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"4c4ad4ffe1c11aa9",
+			"type":"text",
+			"text":"# **PALADIN**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":100,
+			"y":400,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"99ad3a92ce920f8a",
+			"type":"text",
+			"text":"# **PRIEST**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":100,
+			"y":560,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"f0208cb9a4d6d300",
+			"type":"text",
+			"text":"###### **Paladin Libram**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":240,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"cf5d6fd369752a4b",
+			"type":"text",
+			"text":"###### **Holy Book**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":340,
+			"width":320,
 			"height":60
 		}
 	],
@@ -266,12 +316,14 @@
 		},
 		{
 			"id":"66f49b23ed90c137",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"eb3b572414f55efb",
 			"fromSide":"right",
 			"toNode":"99557aa22a3ad271",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"ac5f1d98f43c2e68",
@@ -284,21 +336,23 @@
 		},
 		{
 			"id":"608e23bbbc36cbf4",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
 			"fromNode":"a3699cf6d837e31b",
 			"fromSide":"right",
 			"toNode":"a419de93adf579b4",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"991f3f60626f5c8c",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
 			"fromNode":"a3699cf6d837e31b",
 			"fromSide":"right",
 			"toNode":"e8ad21a77fe9ee25",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"da14014de1a1d35d",
@@ -320,30 +374,39 @@
 		},
 		{
 			"id":"77465e89103b4f05",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
 			"fromNode":"a3699cf6d837e31b",
 			"fromSide":"right",
 			"toNode":"ae67377e0436a026",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"b9af0ae380392d46",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"2d87f6face173813",
 			"fromSide":"right",
 			"toNode":"1035ff4e3335cbee",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"5"
 		},
 		{
 			"id":"bd5d9b5123090fc2",
-			"styleAttributes":{},
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"arrow":null,
+				"path":"dotted"
+			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"a3699cf6d837e31b",
 			"fromSide":"right",
 			"toNode":"1035ff4e3335cbee",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"adaf69514c57df32",
@@ -352,6 +415,84 @@
 			"fromNode":"1035ff4e3335cbee",
 			"fromSide":"right",
 			"toNode":"6b17be64a1da37fa",
+			"toSide":"left"
+		},
+		{
+			"id":"ed6469220c444fac",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2d87f6face173813",
+			"fromSide":"right",
+			"toNode":"7d552245b795b6a8",
+			"toSide":"left",
+			"color":"5"
+		},
+		{
+			"id":"bcdc0e82c7bfbe2b",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"a3699cf6d837e31b",
+			"fromSide":"right",
+			"toNode":"7d552245b795b6a8",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"ab4c7e341571cd44",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7d552245b795b6a8",
+			"fromSide":"right",
+			"toNode":"51c62b0f2e3e1653",
+			"toSide":"left"
+		},
+		{
+			"id":"4ee0af11e2d46aa2",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"69de1064061ec251",
+			"fromSide":"right",
+			"toNode":"4c4ad4ffe1c11aa9",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"fb236cd6adaf8e89",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"a3699cf6d837e31b",
+			"fromSide":"right",
+			"toNode":"4c4ad4ffe1c11aa9",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"485e86674ca7e0fd",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"69de1064061ec251",
+			"fromSide":"right",
+			"toNode":"99ad3a92ce920f8a",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"e5d49fd38c511f4c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99ad3a92ce920f8a",
+			"fromSide":"right",
+			"toNode":"cf5d6fd369752a4b",
+			"toSide":"left"
+		},
+		{
+			"id":"eb2d2c56083d6120",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4c4ad4ffe1c11aa9",
+			"fromSide":"right",
+			"toNode":"f0208cb9a4d6d300",
 			"toSide":"left"
 		}
 	],
