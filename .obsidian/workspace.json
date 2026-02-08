@@ -330,11 +330,17 @@
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "09 - Cronologia e História/Linha do Tempo.canvas",
+    "Caractere Interessante.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Contrato.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon",
     "98 - Dev/Homepage.canvas",
     "06 - Personagens/Ametista/Academia de Caçadores Ametista/Aron.md",
     "06 - Personagens/Ametista/Academia de Caçadores Ametista/Academia de Caçadores Ametista.md",
@@ -361,17 +367,13 @@
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Limite.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Inconsistência.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Mudança.md",
     "98 - Dev",
     "Home.canvas",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Continuidade.md",
     "09 - Cronologia e História/Geral",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses",
     "01 - Lore Geral/Forças Fundamentais/Sagrado",
     "01 - Lore Geral/Forças Fundamentais/Elemental",
     "01 - Lore Geral/Forças Fundamentais/Mana",
-    "01 - Lore Geral/Forças Fundamentais/Maldição",
-    "01 - Lore Geral/Forças Fundamentais",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
   ]

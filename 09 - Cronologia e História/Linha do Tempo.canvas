@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"7b9cd1acf31fffa5",
+			"type":"text",
+			"text":"Fundação do Reino de Rubi e criação do calendário de Rubi\n**Ano 0**",
+			"styleAttributes":{},
+			"x":-380,
+			"y":220,
+			"width":260,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -13,36 +13,31 @@ Cidades/Locais:
 - Região: 
 - Local: Lugar
 
-  
-
+---
 ## 🎯 Tipo de Contrato
 
 - Classificação: (Verde / Laranja / Escarlate / etc.)
 
 - Grau de Perigo estimado:
 
-  
-
+---
 ## 🧾 Resumo
 
 Uma frase explicando o problema.
 
-  
-
+---
 ## 🧩 Contexto
 
 História, boatos, como o contrato chegou até a Guilda/caçadores.
 
-  
-
+---
 ## 🎯 Objetivos
 
 - Objetivo principal:
 
 - Objetivos secundários / opcionais:
-
   
-
+---
 ## 🧠 Informações Conhecidas
 
 - O que o cliente conta
@@ -51,8 +46,7 @@ História, boatos, como o contrato chegou até a Guilda/caçadores.
 
 - O que é mentira / omitido
 
-  
-
+---
 ## 🐉 Ameaças Envolvidas
 
 - [[Criatura 1]]
@@ -61,8 +55,7 @@ História, boatos, como o contrato chegou até a Guilda/caçadores.
 
 - Fatores ambientais
 
-  
-
+---
 ## 👥 NPCs Envolvidos
 
 - Cliente:
@@ -71,8 +64,7 @@ História, boatos, como o contrato chegou até a Guilda/caçadores.
 
 - Inimigos:
 
-  
-
+---
 ## 🧱 Complicações Potenciais
 
 - Reviravoltas
@@ -81,16 +73,14 @@ História, boatos, como o contrato chegou até a Guilda/caçadores.
 
 - Consequências se tiver “sucesso parcial”
 
-  
-
+---
 ## 💰 Recompensas
 
 - Oficiais
 
 - Extras (se os jogadores forem espertos)
 
-  
-
+---
 ## 🧷 Notas do Mestre
 
 Aqui tu anota improvisos, mudanças após a sessão etc.
