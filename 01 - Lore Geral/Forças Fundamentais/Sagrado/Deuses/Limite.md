@@ -52,7 +52,7 @@ Ela é.
 “Não. Isso já é demais.”
 
 ---
-### Relação com Inconsistência:
+### Relação com [[Inconsistência]]:
 
 Inconsistência é a criança que tenta.
 Limite é quem supervisiona.
