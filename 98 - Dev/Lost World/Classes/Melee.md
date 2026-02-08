@@ -1,5 +1,7 @@
 
 # Gear Progression:
 
-## Early Game:
+### Early Game:
 
+##### Step 1:
+> 
