@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"01462dbc328d3950","type":"group","x":680,"y":-900,"width":400,"height":1440,"label":"SKILL BOOKS"},
-		{"id":"0206049cc3a359bd","type":"group","x":40,"y":-720,"width":400,"height":1040,"label":"CLASS"},
-		{"id":"d8e1ca42b43d5cf6","type":"group","x":-540,"y":-360,"width":340,"height":380,"label":"MAIN CLASS ARCHETYPE"},
+		{"id":"7887870b80c9a884","type":"group","x":960,"y":-2120,"width":2640,"height":280,"label":"MAIN ATTRIBUTES"},
+		{"id":"01462dbc328d3950","type":"group","x":680,"y":-900,"width":400,"height":1820,"label":"SKILL BOOKS"},
+		{"id":"0206049cc3a359bd","type":"group","x":40,"y":-720,"width":400,"height":1280,"label":"CLASS"},
+		{"id":"d8e1ca42b43d5cf6","type":"group","x":-540,"y":-360,"width":340,"height":720,"label":"MAIN CLASS ARCHETYPE"},
 		{
 			"id":"eb3b572414f55efb",
 			"type":"text",
@@ -138,12 +139,72 @@
 			"height":60
 		},
 		{
+			"id":"351af21058090748",
+			"type":"text",
+			"text":"###### **Juggernaut's Techniques**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":-160,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"e58d172d797a0ced",
+			"type":"text",
+			"text":"###### **Oath of Defiance**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":-60,
+			"width":320,
+			"height":60
+		},
+		{
 			"id":"ae67377e0436a026",
 			"type":"text",
-			"text":"# **WARRIOR**",
+			"text":"# **TANK**",
 			"styleAttributes":{"textAlign":"center"},
 			"x":120,
-			"y":-80,
+			"y":-100,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"1035ff4e3335cbee",
+			"type":"text",
+			"text":"# **BERSERKER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":60,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"6b17be64a1da37fa",
+			"type":"text",
+			"text":"###### **Ancient Rune Tome**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":40,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"69de1064061ec251",
+			"type":"text",
+			"text":"# **SUPPORT**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-470,
+			"y":40,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"7d552245b795b6a8",
+			"type":"text",
+			"text":"# **FORCE MASTER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":220,
 			"width":240,
 			"height":60
 		}
@@ -237,6 +298,60 @@
 			"fromNode":"a3699cf6d837e31b",
 			"fromSide":"right",
 			"toNode":"e8ad21a77fe9ee25",
+			"toSide":"left"
+		},
+		{
+			"id":"da14014de1a1d35d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ae67377e0436a026",
+			"fromSide":"right",
+			"toNode":"351af21058090748",
+			"toSide":"left"
+		},
+		{
+			"id":"59bf670a34736c62",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ae67377e0436a026",
+			"fromSide":"right",
+			"toNode":"e58d172d797a0ced",
+			"toSide":"left"
+		},
+		{
+			"id":"77465e89103b4f05",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3699cf6d837e31b",
+			"fromSide":"right",
+			"toNode":"ae67377e0436a026",
+			"toSide":"left"
+		},
+		{
+			"id":"b9af0ae380392d46",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2d87f6face173813",
+			"fromSide":"right",
+			"toNode":"1035ff4e3335cbee",
+			"toSide":"left"
+		},
+		{
+			"id":"bd5d9b5123090fc2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3699cf6d837e31b",
+			"fromSide":"right",
+			"toNode":"1035ff4e3335cbee",
+			"toSide":"left"
+		},
+		{
+			"id":"adaf69514c57df32",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1035ff4e3335cbee",
+			"fromSide":"right",
+			"toNode":"6b17be64a1da37fa",
 			"toSide":"left"
 		}
 	],
