@@ -1,0 +1,5 @@
+
+# Gear Progression:
+
+## Early Game:
+

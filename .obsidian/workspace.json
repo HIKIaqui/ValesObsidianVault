@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/LOST WORLD PROGRESSION TREE.canvas",
-                "viewState": {
-                  "x": 480.9728968556168,
-                  "y": 534.2417128165498,
-                  "zoom": -0.6666666666666665
-                }
+                "file": "98 - Dev/Lost World/Classes/Melee.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LOST WORLD PROGRESSION TREE"
+              "icon": "lucide-file",
+              "title": "Melee"
             }
           }
         ]
@@ -330,7 +327,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "98 - Dev/LOST WORLD PROGRESSION TREE.canvas",
+    "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
+    "98 - Dev/Lost World/Classes/Melee.md",
+    "98 - Dev/Lost World/Classes",
+    "98 - Dev/Lost World",
     "98 - Dev/Homepage.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Clareira na Mata.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Vila.md",
@@ -363,12 +363,9 @@
     "06 - Personagens/Safira/Posto Avançado Safira/Illya.md",
     "06 - Personagens/Safira/Posto Avançado Safira/Dona Relma.md",
     "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
-    "06 - Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
     "03 - Facções e Grupos/Grupos Religiosos",
     "98 - Dev",
     "Home.canvas",
-    "09 - Cronologia e História/Geral",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
   ]

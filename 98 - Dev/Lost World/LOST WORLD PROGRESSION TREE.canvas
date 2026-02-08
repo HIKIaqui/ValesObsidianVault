@@ -174,7 +174,7 @@
 			"text":"# **BERSERKER**",
 			"styleAttributes":{"textAlign":"center"},
 			"x":100,
-			"y":60,
+			"y":40,
 			"width":280,
 			"height":60
 		},
@@ -204,7 +204,7 @@
 			"text":"# **FORCE MASTER**",
 			"styleAttributes":{"textAlign":"center"},
 			"x":100,
-			"y":220,
+			"y":140,
 			"width":280,
 			"height":60
 		},
@@ -216,26 +216,6 @@
 			"x":720,
 			"y":140,
 			"width":320,
-			"height":60
-		},
-		{
-			"id":"4c4ad4ffe1c11aa9",
-			"type":"text",
-			"text":"# **PALADIN**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":100,
-			"y":400,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"99ad3a92ce920f8a",
-			"type":"text",
-			"text":"# **PRIEST**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":100,
-			"y":560,
-			"width":280,
 			"height":60
 		},
 		{
@@ -256,6 +236,26 @@
 			"x":720,
 			"y":340,
 			"width":320,
+			"height":60
+		},
+		{
+			"id":"4c4ad4ffe1c11aa9",
+			"type":"text",
+			"text":"# **PALADIN**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":100,
+			"y":240,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"99ad3a92ce920f8a",
+			"type":"text",
+			"text":"# **PRIEST**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":100,
+			"y":340,
+			"width":280,
 			"height":60
 		}
 	],
