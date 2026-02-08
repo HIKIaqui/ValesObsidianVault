@@ -15,8 +15,8 @@
               "state": {
                 "file": "98 - Dev/Homepage.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 10,
+                  "y": 230,
                   "zoom": 0
                 }
               },
@@ -253,6 +253,20 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "783b6d39b68ccb91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 8
@@ -311,6 +325,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -324,7 +340,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -336,12 +351,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Clareira na Mata.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Vila.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Isis.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Cabana de Isis na Mata.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/O Poço.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Casa da Dona Mirela e Nino.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais",
+    "07 - Contratos/Template de Documento Contrato.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "Caractere Interessante.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Contrato.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon",
-    "98 - Dev/Homepage.canvas",
     "06 - Personagens/Ametista/Academia de Caçadores Ametista/Aron.md",
     "06 - Personagens/Ametista/Academia de Caçadores Ametista/Academia de Caçadores Ametista.md",
     "03 - Facções e Grupos/Grupos Religiosos/Os Destinados.md",
@@ -358,22 +384,11 @@
     "06 - Personagens/Safira/Posto Avançado Safira/Dona Relma.md",
     "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
     "06 - Personagens/Caçadores Contratados por Dean/Ramir de Citrino.md",
-    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Destino.md",
     "03 - Facções e Grupos/Grupos Religiosos",
-    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
-    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
-    "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Limite.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Inconsistência.md",
     "98 - Dev",
     "Home.canvas",
     "09 - Cronologia e História/Geral",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado",
-    "01 - Lore Geral/Forças Fundamentais/Elemental",
-    "01 - Lore Geral/Forças Fundamentais/Mana",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
   ]
