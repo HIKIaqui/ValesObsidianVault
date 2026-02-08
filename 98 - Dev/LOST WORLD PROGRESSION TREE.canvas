@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"01462dbc328d3950","type":"group","x":680,"y":-900,"width":400,"height":1440,"label":"SKILL BOOKS"},
 		{"id":"0206049cc3a359bd","type":"group","x":40,"y":-720,"width":400,"height":1040,"label":"CLASS"},
 		{"id":"d8e1ca42b43d5cf6","type":"group","x":-540,"y":-360,"width":340,"height":380,"label":"MAIN CLASS ARCHETYPE"},
 		{
@@ -37,13 +38,73 @@
 			"height":60
 		},
 		{
-			"id":"abc07215f0c1cd8f",
+			"id":"99557aa22a3ad271",
 			"type":"text",
-			"text":"",
-			"styleAttributes":{},
+			"text":"# **RANGER**",
+			"styleAttributes":{"textAlign":"center"},
 			"x":120,
 			"y":-680,
-			"width":260,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"e8ad21a77fe9ee25",
+			"type":"text",
+			"text":"# **ROGUE**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-560,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"a419de93adf579b4",
+			"type":"text",
+			"text":"# **ROGUE**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-440,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"cf131da3eb780ea2",
+			"type":"text",
+			"text":"### **RANGER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":760,
+			"y":-580,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"b04c4032b87dc022",
+			"type":"text",
+			"text":"### **RANGER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":760,
+			"y":-780,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"1ec91abc8223d1de",
+			"type":"text",
+			"text":"### **RANGER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":760,
+			"y":-680,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"4b51ec607351bf08",
+			"type":"text",
+			"text":"### **RANGER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":760,
+			"y":-880,
+			"width":240,
 			"height":60
 		}
 	],
