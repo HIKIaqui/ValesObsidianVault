@@ -1,0 +1,56 @@
+{
+	"nodes":[
+		{"id":"0206049cc3a359bd","type":"group","x":40,"y":-720,"width":400,"height":1040,"label":"CLASS"},
+		{"id":"d8e1ca42b43d5cf6","type":"group","x":-540,"y":-360,"width":340,"height":380,"label":"MAIN CLASS ARCHETYPE"},
+		{
+			"id":"eb3b572414f55efb",
+			"type":"text",
+			"text":"# **RANGED**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-470,
+			"y":-320,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"a3699cf6d837e31b",
+			"type":"text",
+			"text":"# **MELEE**",
+			"styleAttributes":{
+				"textAlign":"center",
+				"border":null,
+				"shape":null
+			},
+			"x":-470,
+			"y":-200,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"2d87f6face173813",
+			"type":"text",
+			"text":"# **MAGE**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-470,
+			"y":-80,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"abc07215f0c1cd8f",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":120,
+			"y":-680,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"0289c8b5a012496a"
+	}
+}
