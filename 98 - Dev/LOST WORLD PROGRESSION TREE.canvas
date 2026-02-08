@@ -48,67 +48,198 @@
 			"height":60
 		},
 		{
-			"id":"e8ad21a77fe9ee25",
-			"type":"text",
-			"text":"# **ROGUE**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":120,
-			"y":-560,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"a419de93adf579b4",
-			"type":"text",
-			"text":"# **ROGUE**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":120,
-			"y":-440,
-			"width":240,
-			"height":60
-		},
-		{
 			"id":"cf131da3eb780ea2",
 			"type":"text",
-			"text":"### **RANGER**",
+			"text":"###### **War Archery Instructions**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":760,
-			"y":-580,
-			"width":240,
+			"x":720,
+			"y":-560,
+			"width":320,
 			"height":60
 		},
 		{
 			"id":"b04c4032b87dc022",
 			"type":"text",
-			"text":"### **RANGER**",
+			"text":"###### **Bounty List**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":760,
-			"y":-780,
-			"width":240,
+			"x":720,
+			"y":-760,
+			"width":320,
 			"height":60
 		},
 		{
 			"id":"1ec91abc8223d1de",
 			"type":"text",
-			"text":"### **RANGER**",
+			"text":"###### **Tundric Hunting**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":760,
-			"y":-680,
-			"width":240,
+			"x":720,
+			"y":-660,
+			"width":320,
 			"height":60
 		},
 		{
 			"id":"4b51ec607351bf08",
 			"type":"text",
-			"text":"### **RANGER**",
+			"text":"###### **Archery Manual**",
 			"styleAttributes":{"textAlign":"center"},
-			"x":760,
-			"y":-880,
+			"x":720,
+			"y":-860,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"e954b6b2f1b2476a",
+			"type":"text",
+			"text":"###### **Rogue's Handbook**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":-460,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"91220c37e7e65088",
+			"type":"text",
+			"text":"###### **Trickster's Book of Shadows**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":-360,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"e8ad21a77fe9ee25",
+			"type":"text",
+			"text":"# **ROGUE**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-420,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"09ab391375eef517",
+			"type":"text",
+			"text":"###### **Warrior's Codex**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":-260,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"a419de93adf579b4",
+			"type":"text",
+			"text":"# **WARRIOR**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-260,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"ae67377e0436a026",
+			"type":"text",
+			"text":"# **WARRIOR**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":120,
+			"y":-80,
 			"width":240,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"7fd506eeb82aebc0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99557aa22a3ad271",
+			"fromSide":"right",
+			"toNode":"4b51ec607351bf08",
+			"toSide":"left"
+		},
+		{
+			"id":"460dfeac240ab9ad",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99557aa22a3ad271",
+			"fromSide":"right",
+			"toNode":"b04c4032b87dc022",
+			"toSide":"left"
+		},
+		{
+			"id":"8533b82519319890",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99557aa22a3ad271",
+			"fromSide":"right",
+			"toNode":"1ec91abc8223d1de",
+			"toSide":"left"
+		},
+		{
+			"id":"0ae3876dd1cfd8a8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e8ad21a77fe9ee25",
+			"fromSide":"right",
+			"toNode":"e954b6b2f1b2476a",
+			"toSide":"left"
+		},
+		{
+			"id":"91fe4f0ec026b9bd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e8ad21a77fe9ee25",
+			"fromSide":"right",
+			"toNode":"91220c37e7e65088",
+			"toSide":"left"
+		},
+		{
+			"id":"8dc7d677e9843ad2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99557aa22a3ad271",
+			"fromSide":"right",
+			"toNode":"cf131da3eb780ea2",
+			"toSide":"left"
+		},
+		{
+			"id":"66f49b23ed90c137",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"eb3b572414f55efb",
+			"fromSide":"right",
+			"toNode":"99557aa22a3ad271",
+			"toSide":"left"
+		},
+		{
+			"id":"ac5f1d98f43c2e68",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a419de93adf579b4",
+			"fromSide":"right",
+			"toNode":"09ab391375eef517",
+			"toSide":"left"
+		},
+		{
+			"id":"608e23bbbc36cbf4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3699cf6d837e31b",
+			"fromSide":"right",
+			"toNode":"a419de93adf579b4",
+			"toSide":"left"
+		},
+		{
+			"id":"991f3f60626f5c8c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3699cf6d837e31b",
+			"fromSide":"right",
+			"toNode":"e8ad21a77fe9ee25",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{},
