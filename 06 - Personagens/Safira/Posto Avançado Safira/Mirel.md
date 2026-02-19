@@ -174,17 +174,7 @@ Penalidades por treta:
 ## ⚔️ Combate (Opcional)
 (NPC normalmente não combate, mas aqui fica ficha básica caso precise.)
 
-- **Grau de Perigo:** 1
-- **PV:** 15
-- **Armadura:** 1
-- **Esquiva:** 25
-- **Ataques:**  
-  - Arranhão Feral: Técnica | Dano 1d6 | Precisão 0 | Sangramento 2 (Dif. 15)
-  - Chute Felino: Porrada | Dano 1d4 | Precisão 0 | Alvo testa Resistência (Dif. 15) ou é derrubado, sofrendo atordoado 1.
-
 - **Características Únicas:**   
-  - Instinto Feral: +5 para identificar emoções humanas.
-  - Pulo de Gato: Pode se mover entre superfícies altas sem testes.
 - **Fraquezas e Medos:**  
 
 ---

@@ -1,44 +1,69 @@
 #Safira #NPC
+O único “adulto” real do [[Posto de Caçadores Safira|posto]].
+
 **Apelidos:** Torto, Caneco, Grandão
 **Espécie / Classe:** Humano / Barman (ex-caçador)
 **Origem (Reino):** [[02 - Citrino|Citrino]]
 **Idade:** 37
 **Local Atual:** [[Posto de Caçadores Safira]]
-**Função no Mundo / Papel na História:** 
+**Função no Mundo / Papel na História:** Eixo de estabilidade do [[Posto de Caçadores Safira]]. 
+Ex-caçador que escolheu sobreviver em vez de ser lembrado. 
+Mantém a ordem física e emocional quando o resto falha.
 
 ---
-
 ## 🧠 Personalidade
 **Descrição Geral:**  
-Homem cansado que agora toma conta do bar do [[Posto de Caçadores Safira]]. Evita problemas e envolvimento direto em situações que possam gerar eles o máximo possível.
+Homem cansado que agora toma conta do bar do [[Posto de Caçadores Safira]]. Evita problemas e envolvimento direto em situações que possam gerar problemas o máximo possível.
 Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade ou destruam algo.
 
 **Traços Centrais:**  
--  
--  
--  
+- Extremamente paciente
+- Observador silencioso
+- Autoridade natural sem precisar elevar a voz
+- Protetor sem ser controlador
+- Cético com heroísmo
+- Sabe ler ambiente antes da briga começar
+
+Ele não fala muito porque já viu demais.
 
 **Defeitos / Vulnerabilidades:**  
--  
--  
+- Evita envolvimento emocional profundo
+- Guarda culpa antiga que nunca resolveu
+- Medo genuíno de perder alguém de novo
+- Se acostumou a viver pela função, não pelo desejo  
 
 **Coisas que ama:**  
--  
+- Rotina previsível
+- Barulho de copos e conversa normal
+- Gente voltando viva de contrato
+- Ver [[Raska]] rindo (mesmo que ele finja que não)
+- [[Noah Murphy|Noah]] voltando inteiro
+- [[Mirel]] comendo
+
 **Coisas que odeia:**  
--  
+- Jovem querendo provar que é imortal
+- Briga desnecessária
+- Cheiro de sangue fresco
+- Quando [[Illya]] fica séria demais
+- O silêncio absoluto antes de notícia ruim
 
 ---
 
 ## 🎭 Maneirismos
 (Ações repetidas, trejeitos, postura, cacoetes, forma de falar, frases típicas.)
+- Limpa copo mesmo quando já está limpo
+- Encosta o pano no ombro
+- Cruza os braços e só olha quando alguém está prestes a fazer merda
+- Fica imóvel e bufa quando está irritado
+- Usa apelido como forma de carinho seco
 
--  Sempre limpando copos.
--  
--  
-
-**Frases típicas:**  
-- “...”  
-- “...”  
+**Frases típicas:** 
+- “Já acabou?”
+- “Vai sentar.”
+- “Não.”
+- “Bebe água.”
+- “Tu não precisa provar nada.”
+- “Raska.”  
 
 ---
 
@@ -52,16 +77,34 @@ Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade 
 ---
 
 ## 🧩 Relações Importantes
-**Aliados / Amigos:**  
--  
 
-**Rivais / Tretas:**  
--  
+### [[Raska]]
 
-**Família:**  
--  
+Ele a ama.
+Mas ama como quem segura um copo cheio demais. Qualquer movimento errado derrama.
+Ele sabe que se cruzar a linha, ele vira porto emocional dela. E ele tem medo de não conseguir sustentar isso.
 
-**Relações Especiais com PCs:**  
+### [[Mirel]]
+
+Ele a respeita profundamente.
+Vê o cansaço dela, mas não comenta.
+Mesmo assim, sempre deixa comida perto.
+
+### [[Noah Murphy|Noah]]
+
+Ele protege.
+Não porque acha fraco.
+Mas porque Noah é o tipo que o mundo devora.
+
+### [[Illya]]
+
+Ele entende que ela é a cabeça.
+Ele é o corpo.
+Nunca competem.
+
+
+
+**Relações Especiais com PJs:**  
 (Preenche durante a campanha.)  
 -  
 
@@ -113,12 +156,14 @@ Ele é o cabeça no posto, sempre evitando que os outros ali briguem de verdade 
 ---
 
 ## 🎨 Aparência
-- Homem grande e forte. 
-- Roupas  
-- Postura  
-- Voz  
-- Cheiro  
-- Marca registrada  
+- Homem grande, ombros largos
+- Pele parda escura.
+- Careca
+- Cicatriz antiga no braço
+- Roupas simples e resistentes
+- Voz grave e baixa
+- Cheiro de álcool, madeira e fumaça
+- Marca registrada: olhar que mede a sala inteira em dois segundos
 
 ---
 

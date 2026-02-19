@@ -56,7 +56,7 @@ Nesse formato, cada campo carrega informações específicas sobre a origem Aq e
 >>>2 -> Eliminação
 >>>3 -> Contenção
 >>>4 -> Confirmação de Ameaça
->>>5 -> Ritual / Maldição
+>>>5 -> Ritual / [[Fenda Abortada]] / Maldição
 >>>6 -> Espiritual
 >>>7 -> Emergencial
 >>>8 -> Estudo

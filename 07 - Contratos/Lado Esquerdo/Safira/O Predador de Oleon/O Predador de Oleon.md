@@ -7,7 +7,7 @@
 
 - **Região:** [[04 - Safira|Safira]]
 - **Local:** Vilarejo de Oleon
-- **Ambiente:** Vila antiga, casas coladas, poços velhos, mata próxima com trilhas usadas por crianças
+- **Ambiente:** Vila antiga, casas coladas, um poço velho, mata próxima com trilhas usadas por crianças
   
 --------------------------------
 ## Tipo de Contrato
@@ -44,8 +44,9 @@ O estado do corpo:
 - consumo parcial e descuidado.  
 
 A vila entra em pânico.
-Pela primeira vez, ninguém consegue chamar isso de acidente.
-A Guilda é chamada.
+> Pela primeira vez, ninguém consegue chamar isso de acidente.
+
+A Guilda é chamada pelos moradores da vila.
 
 ---
 ## Objetivos
@@ -65,7 +66,13 @@ A Guilda é chamada.
 
 - O que o cliente conta
 
+Os moradores dizem que algo do tipo nunca aconteceu, e parecem se sentir ofendidos caso algum caçador insista na possibilidade.
+
+Alguns juram que é o monstro da velha louca da vila, atraído por ela.
+
 - O que a Guilda sabe
+
+[[Illya]], a bibliotecária do [[Posto de Caçadores Safira]] afirma que diversos contratos sobre desaparecimentos de crianças já foram abertos para essa mesma vila, porém eram sempre fechados em seguida pelos próprios moradores, que insistiram todas as vezes que “foi apenas um mal entendido”.
 
 - O que é mentira / omitido
 
@@ -85,6 +92,8 @@ O caso foi encerrado como:
 Com o tempo, virou lenda urbana.
 Coisa de gente velha.
 Coisa que ninguém gosta de lembrar.
+
+Durante os anos seguintes, diversos casos de desaparecimentos de crianças aconteceram. Muito mais casos do que anteriormente acontecia na vila.
   
 ---
 ## Ameaças Envolvidas
@@ -96,7 +105,7 @@ Coisa que ninguém gosta de lembrar.
 - Fatores ambientais
 
 ---
-## 👥 NPCs Envolvidos
+## NPCs Envolvidos
 
 ### Dona Mirela
 - Moradora antiga, considerada “maluca”.

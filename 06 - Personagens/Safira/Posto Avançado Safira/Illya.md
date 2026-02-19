@@ -124,6 +124,19 @@ Apesar do temperamento ácido, é excepcionalmente inteligente e uma das pessoas
 - Jogadores que devolvem livros danificados ganham reputação negativa
 - Se fizerem bagunça na biblioteca, ela expulsa imediatamente
 
+#### Avaliação de Risco:
+
+Antes de sair pra contrato,
+os jogadores podem pedir análise dela.
+Ela fornece:
+- Grau real provável (às vezes maior que o anunciado).
+- Fatores ocultos.
+- Perguntas que eles deveriam fazer.
+- Alertas sobre inconsistências.
+Mas isso exige:
+- Respeito dela.
+- Ou argumento inteligente.
+
 ---
 
 ## ⚔️ Combate (Opcional)

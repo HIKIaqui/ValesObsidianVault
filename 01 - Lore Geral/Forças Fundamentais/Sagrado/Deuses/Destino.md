@@ -1,4 +1,4 @@
-É chamada pelos humanos de “Mãe Destino”, porque esses interpretam a responsabilidade do destino de forma errônea, achando que ela é quem decide o que acontece.
+É chamada pelos humanos de “**Mãe Destino**”, porque esses interpretam a responsabilidade do destino de forma errônea, achando que ela é quem decide o que acontece.
 
 Destino apenas enxerga as possibilidades da realidade, tornando elas possíveis.
 
