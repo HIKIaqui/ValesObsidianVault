@@ -23,21 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "fe2856cff3ff84e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,7 +328,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe2856cff3ff84e9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "01 - Lore Geral/Termos/Fenda Abortada.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md",
