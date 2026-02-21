@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": 10,
-                  "y": 230,
-                  "zoom": 0
-                }
+                "file": "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Nutrivapor S.A/Nutrivapor S.A.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Nutrivapor S.A"
             }
           }
         ]
@@ -330,11 +327,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/04 - Diamante.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Nutrivapor S.A/Nutrivapor S.A.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/01 - Rubi.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Nutrivapor S.A",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala/03 - Opala.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Untitled/Untitled.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Untitled/Nutrivapor S.A..md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md",
+    "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Termos/Fenda Abortada.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "01 - Lore Geral/Termos/Outro Lado do Véu.md",
-    "98 - Dev/Homepage.canvas",
     "98 - Dev/Lost World/Classes/Melee.md",
     "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
     "98 - Dev/Lost World/Classes",
@@ -359,16 +365,7 @@
     "06 - Personagens/Ametista/Academia de Caçadores Ametista/Academia de Caçadores Ametista.md",
     "03 - Facções e Grupos/Grupos Religiosos/Os Destinados.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
-    "07 - Contratos/07 - Contratos.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista.md",
-    "06 - Personagens/Ametista/Ametista.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
-    "Untitled.md",
-    "06 - Personagens/Template NPC.md",
-    "06 - Personagens/Safira/Posto Avançado Safira/Mirel.md",
     "06 - Personagens/Ametista/Academia de Caçadores Ametista",
-    "03 - Facções e Grupos/Grupos Religiosos",
-    "98 - Dev",
     "Home.canvas",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
