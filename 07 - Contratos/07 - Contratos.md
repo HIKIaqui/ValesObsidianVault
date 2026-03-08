@@ -72,7 +72,7 @@ Nesse formato, cada campo carrega informações específicas sobre a origem Aq e
 >>>2 -> Letal
 >>>3 -> Extremo
 >>>4 -> Catástrofe
->>>5 -> Existencial
+>>>5 -> Apocalíptico
 >>>9 -> Não Identificado
 
 #### “YY” Número Sequencial

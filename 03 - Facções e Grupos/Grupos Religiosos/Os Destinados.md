@@ -1,4 +1,4 @@
-## ***O Culto da Mãe Destino***
+## ***O Culto da [[Destino|Mãe Destino]]***
 
 Os Destinados acreditam que o [[destino]] não apenas permite os acontecimentos, mas que **interferir neles é um erro moral grave**.
 

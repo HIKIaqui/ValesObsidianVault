@@ -39,26 +39,6 @@
 			"height":60
 		},
 		{
-			"id":"99557aa22a3ad271",
-			"type":"text",
-			"text":"# **RANGER**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":100,
-			"y":-680,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"cf131da3eb780ea2",
-			"type":"text",
-			"text":"###### **War Archery Instructions**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":720,
-			"y":-560,
-			"width":320,
-			"height":60
-		},
-		{
 			"id":"b04c4032b87dc022",
 			"type":"text",
 			"text":"###### **Bounty List**",
@@ -85,6 +65,36 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":720,
 			"y":-860,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"69de1064061ec251",
+			"type":"text",
+			"text":"# **SUPPORT**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-470,
+			"y":40,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"99557aa22a3ad271",
+			"type":"text",
+			"text":"# **RANGER**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":100,
+			"y":-680,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"cf131da3eb780ea2",
+			"type":"text",
+			"text":"###### **War Archery Instructions**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":-560,
 			"width":320,
 			"height":60
 		},
@@ -149,6 +159,16 @@
 			"height":60
 		},
 		{
+			"id":"cf5d6fd369752a4b",
+			"type":"text",
+			"text":"###### **Holy Book**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":340,
+			"width":320,
+			"height":60
+		},
+		{
 			"id":"e58d172d797a0ced",
 			"type":"text",
 			"text":"###### **Oath of Defiance**",
@@ -189,16 +209,6 @@
 			"height":60
 		},
 		{
-			"id":"69de1064061ec251",
-			"type":"text",
-			"text":"# **SUPPORT**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-470,
-			"y":40,
-			"width":200,
-			"height":60
-		},
-		{
 			"id":"7d552245b795b6a8",
 			"type":"text",
 			"text":"# **FORCE MASTER**",
@@ -225,16 +235,6 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":720,
 			"y":240,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"cf5d6fd369752a4b",
-			"type":"text",
-			"text":"###### **Holy Book**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":720,
-			"y":340,
 			"width":320,
 			"height":60
 		},
@@ -291,6 +291,7 @@
 			"id":"0ae3876dd1cfd8a8",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"e8ad21a77fe9ee25",
 			"fromSide":"right",
 			"toNode":"e954b6b2f1b2476a",
