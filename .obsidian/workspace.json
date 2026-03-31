@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "a8f331e465e0c171",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -304,8 +317,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "publish:Publicar mudanças": false,
+      "bases:Criar nova base": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -316,20 +336,22 @@
       "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a8f331e465e0c171",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Animador.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos/Diário na Cabana da Floresta.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Diário na Cabana.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Cheiro Forte sem Fonte.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Cadáveres em Decomposição.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Marceneiro Matou a Família.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação",
+    "98 - Dev/Homepage.canvas",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Termanutri S.A/Termanutri S.A.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos/Lista de Desaparecidos.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos/Reformas Recentes e Orçamento.md",
@@ -347,11 +369,8 @@
     "10 - Itens, Artefatos, Tecnologia/Únicos",
     "Untitled.md",
     "01 - Lore Geral/Termos/Âncora Onírica.md",
-    "98 - Dev/Homepage.canvas",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/01 - Rubi.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Empresa de Energia",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Empresa de Ferramentas",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/04 - Diamante.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala/03 - Opala.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Untitled/Untitled.md",
@@ -361,13 +380,7 @@
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "01 - Lore Geral/Termos/Outro Lado do Véu.md",
-    "98 - Dev/Lost World/Classes/Melee.md",
     "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Clareira na Mata.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Vila.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Isis.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Cabana de Isis na Mata.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "Home.canvas",
     "08 - Campanhas/Seções/Sequências.canvas",

@@ -13,7 +13,7 @@
 ---
 ## Resumo
 
-Cadáveres de moradores em estado avançado de decomposição são encontrados nas casas do vilarejo. O problema: Quase todos no vilarejo juram que aquelas pessoas estavam vivas no dia anterior.
+Cadáveres de moradores em estado avançado de decomposição são encontrados nas casas do vilarejo. O problema? Quase todos no vilarejo juram que aquelas pessoas estavam vivas no dia anterior.
 
 Analistas da [[Guilda de Caçadores]] apontam para a possibilidade de um monstro com habilidades decompositoras ou de manipulação temporal.
 
@@ -39,7 +39,7 @@ O caso foi encaminhado à guilda após o número de desaparecidos chegar a 15, c
 ## Informações Conhecidas
 
 - Moradores afirmam que viram o morto no dia anterior andando pela vila.
-- (Persuasão Dif. 15) Os moradores dizem que ele estava agindo estranho na última semana.
+- (Persuasão Dif. 15) Os moradores dizem que ele vinha agindo estranho na última semana. “Diferente do seu normal. Confuso.”
 
 - O que a Guilda sabe
 

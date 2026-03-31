@@ -120,7 +120,7 @@ O porco não resolve nada sozinho. Quando alguém faz algo que ameaça os Filhos
 
 ---
 
-## 🧓 Limite imposto pela Tika
+## Limite imposto pela Tika
 
 Tika detesta os Filhos da Carne. Eles sabem disso.
 Eles existem porque são tolerados, e não porque são aceitos. 
