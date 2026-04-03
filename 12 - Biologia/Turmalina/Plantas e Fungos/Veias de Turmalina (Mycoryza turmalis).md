@@ -2,7 +2,7 @@ Fungo decompositor que se expande pelo subterrâneo de quase toda a região de [
 
 Forma uma vasta rede micelial interligada, responsável pela decomposição de matéria orgânica e redistribuição de nutrientes no ecossistema local.
 
-Atua em sinergia com o [[Pulmãode Turmalina]], que liberam espaço e mantêm o ambiente ideal para seu crescimento. Em troca, o fungo transfere parte dos nutrientes absorvidos, sustentando o desenvolvimento dessas estruturas fúngicas maciças.
+Atua em sinergia com o [[Pulmões de Turmalina (Turmyces vascularis)]], que liberam espaço e mantêm o ambiente ideal para seu crescimento. Em troca, o fungo transfere parte dos nutrientes absorvidos, sustentando o desenvolvimento dessas estruturas fúngicas maciças.
 
 Essa relação é essencial para o equilíbrio biológico da [[Floresta de Turmalina]].
 
@@ -17,7 +17,7 @@ Essa contaminação altera o comportamento do micélio, que passa a reagir de fo
 
 Como consequência, corpos em processo de decomposição podem ser parcialmente reestruturados pela rede fúngica, resultando na formação de entidades conhecidas como "[[Escarniçador]]".
 
-Em estágios mais avançados, a contaminação pode se espalhar pela rede subterrânea, afetando diretamente o [[Pulmãode Turmalina]], que passa a apresentar coloração avermelhada e sinais de degeneração estrutural.
+Em estágios mais avançados, a contaminação pode se espalhar pela rede subterrânea, afetando diretamente o [[Pulmões de Turmalina (Turmyces vascularis)]], que passa a apresentar coloração avermelhada e sinais de degeneração estrutural.
 
 Regiões afetadas tendem a apresentar maior incidência de atividade aberrante, sendo consideradas ambientalmente instáveis e de alto risco.
 
