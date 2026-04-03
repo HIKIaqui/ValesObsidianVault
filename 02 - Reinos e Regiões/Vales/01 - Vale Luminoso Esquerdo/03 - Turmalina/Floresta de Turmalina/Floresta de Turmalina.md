@@ -1,0 +1,1 @@
+Uma floresta cheia de cogumelos gigantes azuis, além de outros fungos.
