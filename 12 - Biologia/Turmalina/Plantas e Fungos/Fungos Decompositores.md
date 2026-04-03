@@ -1,0 +1,1 @@
+Atuam em sinergia com [[Cogumelos Azuis Gigantes]], que liberam espaço para que cresça. Em troca, esse fungo retorna parte dos nutrientes que absorve para o outro.

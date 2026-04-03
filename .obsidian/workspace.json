@@ -25,15 +25,17 @@
             }
           },
           {
-            "id": "a8f331e465e0c171",
+            "id": "606d686cb4629d1c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "12 - Biologia/Turmalina/Plantas e Fungos/Fungos Decompositores.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.4"
+              "icon": "lucide-file",
+              "title": "Fungos Decompositores"
             }
           }
         ],
@@ -341,9 +343,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a8f331e465e0c171",
+  "active": "606d686cb4629d1c",
   "lastOpenFiles": [
+    "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos Azuis Gigantes.md",
+    "12 - Biologia/Turmalina/Plantas e Fungos/Fungos Decompositores.md",
+    "12 - Biologia/Turmalina/Plantas e Fungos",
+    "04 - Criaturas e Bestiário/Constructo Magnético.md",
+    "12 - Biologia/Turmalina",
+    "12 - Biologia",
     "04 - Criaturas e Bestiário/Animador.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Reino de Turmalina/Reino de Turmalina.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/03 - Turmalina.md",
+    "98 - Dev/Homepage.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos/Diário na Cabana da Floresta.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Diário na Cabana.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
@@ -352,35 +363,26 @@
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Marceneiro Matou a Família.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação",
-    "98 - Dev/Homepage.canvas",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Termanutri S.A/Termanutri S.A.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos/Lista de Desaparecidos.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos/Reformas Recentes e Orçamento.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai",
-    "04 - Criaturas e Bestiário/Constructo Magnético.md",
     "07 - Contratos/Lado Esquerdo/Ametista/Porta dos Carnicidas/Porta dos Carnicidas.md",
     "07 - Contratos/Lado Esquerdo/Ametista/Porta dos Carnicidas",
     "10 - Itens, Artefatos, Tecnologia/Consumíveis/TermaNutri/Caldo “Vapor Quente”.md",
     "10 - Itens, Artefatos, Tecnologia/Consumíveis/TermaNutri",
     "10 - Itens, Artefatos, Tecnologia/Consumíveis",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Traje Hidráulico.md",
-    "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas",
-    "10 - Itens, Artefatos, Tecnologia/Únicos",
     "Untitled.md",
     "01 - Lore Geral/Termos/Âncora Onírica.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/01 - Rubi.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Empresa de Energia",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/04 - Diamante/04 - Diamante.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala/03 - Opala.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Untitled/Untitled.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Untitled/Nutrivapor S.A..md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md",
-    "01 - Lore Geral/Termos/Fenda Abortada.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md",
-    "01 - Lore Geral/Cosmologia/Cosmologia.md",
-    "01 - Lore Geral/Termos/Outro Lado do Véu.md",
     "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "Home.canvas",
