@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infecção dos Substituidores.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Infecção dos Substituidores"
+              "title": "Leaflet Map"
             }
           }
         ]
@@ -325,57 +321,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "522bf18077f4d43c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e88336dd88c6b1aa",
-        "type": "window",
-        "children": [
-          {
-            "id": "871b37c9eddc2870",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "870840e326d549c2",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/account/billing",
-                    "title": "Account - Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Account - Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "870840e326d549c2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Infecção dos Substituidores.md",
-    "Untitled Kanban.md",
+    "98 - Dev/Homepage.canvas",
     "Caractere Interessante.md",
+    "Infecção dos Substituidores.md",
+    "Sem título.canvas",
+    "Untitled Kanban.md",
     "02 - Reinos e Regiões/Template de Reino.md",
     "04 - Criaturas e Bestiário/Animador.md",
     "04 - Criaturas e Bestiário/Constructo Magnético.md",
     "Untitled.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
-    "98 - Dev/Homepage.canvas",
     "Recording 20260404170817.m4a",
     "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
@@ -398,7 +356,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Cheiro Forte sem Fonte.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Cadáveres em Decomposição.md",
-    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Marceneiro Matou a Família.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos",

@@ -8,7 +8,8 @@
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
   "markerIcons": [],
   "color": "#dddddd",
@@ -30,7 +31,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {},
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
