@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -290,
-                  "zoom": -0.9924820307159838
-                }
+                "file": "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Cogumelos azuis brilhantes"
             }
           }
         ]
@@ -328,8 +325,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
     "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
@@ -337,7 +335,6 @@
     "04 - Criaturas e Bestiário/Animador.md",
     "04 - Criaturas e Bestiário/Constructo Magnético.md",
     "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
-    "98 - Dev/Homepage.canvas",
     "Caractere Interessante.md",
     "Infecção dos Substituidores.md",
     "Sem título.canvas",

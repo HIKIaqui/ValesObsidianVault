@@ -1,0 +1,1 @@
+Fungos que parasitam [[Pulmões de Turmalina (Turmyces vascularis)]], absorvendo parte de sua energia, a convertendo em luz e alimento. A quantidade absorvida é mínima, de forma que apenas causa um leve inconveniente para os grandes cogumelos de Turmalina.
