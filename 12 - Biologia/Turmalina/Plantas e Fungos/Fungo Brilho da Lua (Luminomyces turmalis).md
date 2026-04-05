@@ -3,4 +3,4 @@ Fungos que parasitam [[Pulmões de Turmalina (Turmyces vascularis)]], absorvendo
 ---
 ## Infecção por Maldição
 
-Quando os [[Pulmões de Turmalina (Turmyces vascularis)]] que estão parasitando estão doentes com energia de maldição, 
+Quando os [[Pulmões de Turmalina (Turmyces vascularis)]] que estão parasitando estão doentes com energia de maldição, sua energia deixa de alimentar os Brilho da Lua, de forma que estes param de iluminar.

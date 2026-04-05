@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
-                "mode": "source",
-                "source": false
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -0.9924820307159838
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cogumelos azuis brilhantes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -325,12 +328,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "12 - Biologia/Turmalina/Plantas e Fungos/Fungo Brilho da Lua (Luminomyces turmalis).md",
+    "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
     "98 - Dev/Homepage.canvas",
     "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
-    "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "04 - Criaturas e Bestiário/Animador.md",
     "04 - Criaturas e Bestiário/Constructo Magnético.md",
