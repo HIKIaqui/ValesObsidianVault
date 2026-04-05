@@ -10,7 +10,7 @@ Cada contrato emitido pela Guilda possui um código de registro único, usado pa
 O formato padrão é:
 ### **GCM-AAA-RRZ-TLYY**
 
-Nesse formato, cada campo carrega informações específicas sobre a origem Aq e a natureza do contrato, sendo:
+Nesse formato, cada campo carrega informações específicas sobre a origem e a natureza do contrato, sendo:
 
 #### “GCM-” Instituição Emissora
 > Os três dígitos iniciais indicam a instituição responsável pela emissão do contrato.
