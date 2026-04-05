@@ -11,17 +11,14 @@
             "id": "cffc2a2b346eb2f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -290,
-                  "zoom": -0.9924820307159838
-                }
+                "file": "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Veias de Turmalina (Mycoryza turmalis)"
             }
           }
         ]
@@ -330,20 +327,21 @@
   },
   "active": "cffc2a2b346eb2f3",
   "lastOpenFiles": [
+    "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
+    "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
+    "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
+    "04 - Criaturas e Bestiário/Animador.md",
+    "04 - Criaturas e Bestiário/Constructo Magnético.md",
+    "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
     "98 - Dev/Homepage.canvas",
     "Caractere Interessante.md",
     "Infecção dos Substituidores.md",
     "Sem título.canvas",
     "Untitled Kanban.md",
     "02 - Reinos e Regiões/Template de Reino.md",
-    "04 - Criaturas e Bestiário/Animador.md",
-    "04 - Criaturas e Bestiário/Constructo Magnético.md",
     "Untitled.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
-    "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
     "Recording 20260404170817.m4a",
-    "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
-    "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (.md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmãode Turmalina.md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmão de Turmalina.md",
@@ -368,7 +366,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Documentos",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai",
     "07 - Contratos/Lado Esquerdo/Ametista/Porta dos Carnicidas",
-    "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "Home.canvas",
     "08 - Campanhas/Seções/Sequências.canvas",
