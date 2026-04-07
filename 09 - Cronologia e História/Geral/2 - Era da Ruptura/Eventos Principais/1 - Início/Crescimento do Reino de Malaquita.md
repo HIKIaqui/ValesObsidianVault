@@ -2,16 +2,15 @@
 Início da Era da Ruptura
 
 ## Descrição  
-Um novo reino se expande com foco absoluto em avanço científico e controle das [[Forças Fundamentais]]. Diferente dos demais, Malaquita não vê a magia como algo perigoso e que deve ser usado com extremo cuidado, mas como um recurso a ser explorado e dominado.
+Um novo reino se expande com foco absoluto em avanço científico e controle das [[Forças Fundamentais]]. Diferente dos demais, Malaquita não vê tais forças como algo perigoso de se mexer, mas sim como um recurso a ser explorado e dominado.
   
 ## Consequências  
-- Surgimento dos primeiros manipuladores de [[Elemental]] humanos  
-- Redução da dependência de ferramentas e tecnologia primitiva  
-- Aumento da confiança humana frente às criaturas dos Vales  
-- Início da ideia de que humanos podem "dominar" o mundo  
+- Centralização de conhecimento mágico e científico  
+- Formação de uma elite intelectual desconectada da ética  
+- Início da visão utilitarista da vida
   
 ## Conexões  
-- [[Surgimento dos Caçadores Ancestrais]]
+- [[Perda do Conhecimento Original]]
   
 ## Notas
-...
+Malaquita não começa como vilão. Começa como “eficiente”.
