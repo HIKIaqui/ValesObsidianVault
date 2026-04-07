@@ -6,13 +6,12 @@ Com o retorno das grandes ameaças e a ausência de figuras estabilizadoras, o m
   
 ## Consequências  
 - Aumento de conflitos locais e globais  
-- Surgimento dos protagonistas de "Violet de..."
 - Mundo em estado de tensão constante
+- Início de "Violet de..."
   
 ## Conexões
-- [[Derrota do Rei dos Vermes]]
-- [[Retorno do Rei dos Vermes]]
-- [[Rei Drummond]]
+- [[Retorno do Rei dos Vermes]]  
+- [[Morte de Drummond]]
   
 ## Notas
 ...
