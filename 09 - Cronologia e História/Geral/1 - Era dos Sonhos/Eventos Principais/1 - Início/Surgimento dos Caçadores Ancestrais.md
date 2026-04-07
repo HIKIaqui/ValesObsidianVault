@@ -1,5 +1,5 @@
 ## Período  
-Início-Meio da Era dos Sonhos
+Início da Era dos Sonhos
 
 ## Descrição  
 Um pequeno grupo de indivíduos extremamente habilidosos decide usar de manipulação [[Elemental]] para enfrentar criaturas perigosas e salvar inocentes. Esses indivíduos se tornam conhecidos como os primeiros [[Caçadores]], não como organização, mas como símbolo.
@@ -11,7 +11,7 @@ Um pequeno grupo de indivíduos extremamente habilidosos decide usar de manipula
 - Inspiração para gerações futuras
   
 ## Conexões  
-- [[Despertar da Magia Elemental Humana]]  
+- [[Despertar da Força Elemental Humana]]  
 - [[Primeiras Grandes Caçadas]]
 
 ## Notas

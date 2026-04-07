@@ -11,7 +11,7 @@ Alguns humanos descobrem a possibilidade de canalizar e manipular elementos fís
 - Início da ideia de que humanos podem "dominar" o mundo  
   
 ## Conexões  
-- [[09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/1 - Início/Surgimento dos Caçadores Ancestrais]]  
+- [[Surgimento dos Caçadores Ancestrais]]
   
 ## Notas
 ...
