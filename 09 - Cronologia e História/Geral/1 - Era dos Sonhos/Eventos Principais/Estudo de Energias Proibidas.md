@@ -1,7 +1,7 @@
 ## Período  
-Início da Era dos Sonhos
+Meio da Era dos Sonhos
 ## Descrição  
-Alguns humanos descobrem a possibilidade de canalizar e manipular elementos físicos do mundo com seus corpos, o que acaba sendo chamado de poder [[Elemental]]. Esse marco transforma completamente a relação da humanidade com a natureza, permitindo a algumas pessoas o controle direto sobre fogo, água, vento e outros elementos.  
+Um dos Caçadores Ancestrais começa a explorar formas de energia além da [[Elemental]], incluindo maldições, mana de mortos e estruturas mais profundas da realidade.
   
 ## Consequências  
 - Surgimento dos primeiros manipuladores de [[Elemental]] humanos  
