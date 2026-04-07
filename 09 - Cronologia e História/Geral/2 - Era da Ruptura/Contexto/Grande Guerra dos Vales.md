@@ -1,0 +1,1 @@
+Diversos reinos dos Vales se uniram para lutar contra as 
