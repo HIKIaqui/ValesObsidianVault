@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -290,
-                  "zoom": -0.9924820307159838
-                }
+                "file": "09 - Cronologia e História/Geral/Geral.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Geral"
             }
           }
         ]
@@ -330,14 +327,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "09 - Cronologia e História/Linha do Tempo.canvas",
+    "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
+    "98 - Dev/Homepage.canvas",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada",
     "09 - Cronologia e História/Geral/3 - Era do Vazio",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura",
-    "98 - Dev/Homepage.canvas",
     "12 - Biologia/Turmalina/Plantas e Fungos/Fungo Brilho da Lua (Luminomyces turmalis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Cogumelos azuis brilhantes.md",
-    "12 - Biologia/Turmalina/Plantas e Fungos/Veias de Turmalina (Mycoryza turmalis).md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "04 - Criaturas e Bestiário/Animador.md",
@@ -369,8 +367,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Cheiro Forte sem Fonte.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas",
-    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação",
-    "09 - Cronologia e História/Linha do Tempo.canvas",
     "Home.canvas",
     "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
