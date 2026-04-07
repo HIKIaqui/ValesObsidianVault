@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Grande Guerra dos Vales.md",
+                "file": "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Fundação da Guilda dos Caçadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grande Guerra dos Vales"
+              "title": "Fundação da Guilda dos Caçadores"
             }
           }
         ]
@@ -327,8 +327,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Reconstrução dos Reinos.md",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Fundação da Guilda dos Caçadores.md",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/F",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Crescimento do Reino de Malaquita.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Personagens Históricos/Rei Drummond.md",
+    "diamante.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Grande Guerra dos Vales.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Queda de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha de Néxora.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Colapso Interno de Malaquita.md",
@@ -337,7 +343,6 @@
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Abertura da Fenda Onírica.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Início dos Experimentos Humanos.md",
     "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Crescimento do Reino de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Sem título.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/1 - Início/Despertar da Força Elemental Humana.md",
     "09 - Cronologia e História/Geral/Geral.md",
@@ -349,11 +354,7 @@
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Pecados Capitais.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Guilda de Caçadores.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Caçadores Ancestrais.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Ascensão do Caçador Renegado.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Sem título",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/2 - Meio/Estudo de Energias Proibidas.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/1 - Início/Surgimento dos Caçadores Ancestrais.md",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/1 - Início",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/3 - Fim",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/2 - Meio",
@@ -362,10 +363,9 @@
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Secundários/2 - Meio",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Homepage.canvas",
-    "98 - Dev/Lost World/LOST WORLD PROGRESSION TREE.canvas",
+    "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
     "Home.canvas",

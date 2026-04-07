@@ -1,1 +1,1 @@
-Diversos reinos dos Vales se uniram para lutar contra as 
+Diversos reinos dos Vales se uniram para lutar contra as barbaridades cometidas por [[02 - Malaquita|Malaquita]], atacando Malaquita.
