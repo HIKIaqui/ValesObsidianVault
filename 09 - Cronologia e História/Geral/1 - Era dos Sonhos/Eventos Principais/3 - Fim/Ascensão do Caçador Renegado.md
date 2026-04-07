@@ -5,8 +5,8 @@ Fim da Era dos Sonhos
 O caçador que explorava energias proibidas rompe completamente com o grupo, abandonando os ideais originais e passando a seguir sua própria visão de mundo.
   
 ## Consequências  
-- Fragmentação dos Caçadores Ancestrais  
-- Surgimento de seguidores leais ao Renegado  
+- Fragmentação dos [[Caçadores Ancestrais]]  
+- Surgimento de seguidores leais ao [[Caçador Renegado|Renegado]]  
 - Formação inicial dos futuros Pecados Capitais
   
 ## Conexões  

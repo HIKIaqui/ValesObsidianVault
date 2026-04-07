@@ -1,1 +1,1 @@
-Aquele que se rebelou
+O [[Caçadores Ancestrais|Caçador Ancestral]] com ideais diferentes dos outros. Acreditava que a melhor forma de salvar a humanidade seria "domar o mundo".

@@ -2,7 +2,7 @@
 Meio da Era dos Sonhos
 
 ## Descrição  
-Um dos Caçadores Ancestrais começa a explorar formas de energia além da [[Elemental]], incluindo [[Maldição]], [[Mana]] de mortos e estruturas mais profundas da realidade.
+Um dos [[Caçadores Ancestrais]] começa a explorar formas de energia além da [[Elemental]], incluindo [[Maldição]], [[Mana]] de mortos e estruturas mais profundas da realidade.
   
 ## Consequências  
 - Primeira ruptura ideológica entre os [[Caçadores]]
