@@ -10,7 +10,7 @@ Data de Emissão: ___ / ___ / ___
 
 Status: 
 
-- [ ]  #task 
+- [ ]  #task
 - [ ] 
 
 ---
