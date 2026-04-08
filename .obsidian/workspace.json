@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
+                "file": "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exposição da Verdade da Guilda por Elgor"
+              "title": "01 - Vale Luminoso Esquerdo"
             }
           }
         ]
@@ -320,18 +320,21 @@
       "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "map-of-content:Update Map of Content": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Diamante se Torna uma Potência.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Projeto ONI.md",
     "01 - Lore Geral/Termos/Fenda Vazada.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Laboratório Central de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Néxora.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/A Aposentadoria de Elgor.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Normalização do Horror.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Início da Era da Coroa Quebrada.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Morte de Drummond.md",
@@ -351,7 +354,6 @@
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Colapso Interno de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Surgimento dos Vermes da Insanidade.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Criação de Criaturas Artificiais.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Abertura da Fenda Onírica.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Sem título",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/1 - Início",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/3 - Fim",
@@ -362,7 +364,6 @@
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim",
     "09 - Cronologia e História/Linha do Tempo.canvas",
-    "98 - Dev/Homepage.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
