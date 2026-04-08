@@ -1,0 +1,2 @@
+ONI (Observação de Nexo Instável)
+Grupo de pesquisa no [[Laboratório Central de Malaquita|Laboratório Central de Néxora]] focado em estudar a [[Abertura da Fenda Onírica|fenda]] aberta no subsolo da instalação.

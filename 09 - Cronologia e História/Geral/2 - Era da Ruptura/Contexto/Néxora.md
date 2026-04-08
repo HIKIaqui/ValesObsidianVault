@@ -1,0 +1,1 @@
+Capital do reino de [[02 - Malaquita|Malaquita]]. Cidade cheia de laboratórios e fábricas enormes. Em Néxora se localizava o [[Laboratório Central de Malaquita]]

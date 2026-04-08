@@ -1,0 +1,1 @@
+[[Rei Drummond]] assume o trono de [[04 - Diamante|Diamante]]. Em sua gestão, o reino cresce sem parar e se torna uma enorme potência nos Vales, competindo apenas com [[01 - Rubi|Rubi]].
