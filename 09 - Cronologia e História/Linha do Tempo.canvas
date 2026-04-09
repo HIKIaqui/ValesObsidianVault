@@ -65,7 +65,7 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":860,
+			"x":800,
 			"y":320,
 			"width":300,
 			"height":100,
@@ -80,7 +80,22 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":1320,
+			"x":1240,
+			"y":320,
+			"width":300,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"ea5d1455e0a7ef80",
+			"type":"text",
+			"text":"# [[Guerra dos Caçadores Ancestrais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1680,
 			"y":320,
 			"width":300,
 			"height":100,
@@ -95,26 +110,56 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":1720,
+			"x":2120,
 			"y":320,
 			"width":300,
 			"height":100,
 			"color":"3"
 		},
 		{
-			"id":"ea5d1455e0a7ef80",
+			"id":"a4037a6938667215",
 			"type":"text",
-			"text":"# [[eradossonhopsfim]]",
+			"text":"# [[Perda do Conhecimento Original]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":1640,
-			"y":500,
+			"x":2620,
+			"y":320,
+			"width":320,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"cc07e546d60c0cc4",
+			"type":"text",
+			"text":"# [[Formação do Mito dos Caçadores]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":3120,
+			"y":320,
 			"width":300,
 			"height":100,
 			"color":"3"
+		},
+		{
+			"id":"bc9fabae9f848d73",
+			"type":"text",
+			"text":"# [[Formação dos Pecados Capitais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1680,
+			"y":20,
+			"width":300,
+			"height":100,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -125,26 +170,19 @@
 			"fromNode":"e934560254e30990",
 			"fromSide":"right",
 			"toNode":"263f0613c389cadb",
-			"toSide":"left"
-		},
-		{
-			"id":"457155c654eb663f",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"e934560254e30990",
-			"fromSide":"left",
-			"toNode":"7b9cd1acf31fffa5",
-			"toSide":"right"
+			"toSide":"left",
+			"color":"3"
 		},
 		{
 			"id":"dc26b2559f7f3c17",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"263f0613c389cadb",
 			"fromSide":"bottom",
 			"toNode":"ea0d835d529b53a5",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"936187a0e6af6e53",
@@ -153,7 +191,8 @@
 			"fromNode":"263f0613c389cadb",
 			"fromSide":"right",
 			"toNode":"598f60e1198ccf4b",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"3"
 		},
 		{
 			"id":"6f70b9fc5c923e10",
@@ -162,7 +201,70 @@
 			"fromNode":"598f60e1198ccf4b",
 			"fromSide":"right",
 			"toNode":"84b4e7e8a2348006",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"c09f43ebf27a12f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84b4e7e8a2348006",
+			"fromSide":"right",
+			"toNode":"ea5d1455e0a7ef80",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"dbfebb25dc75ed1e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ea5d1455e0a7ef80",
+			"fromSide":"right",
+			"toNode":"1cf5b83a55b265e2",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"515112e17d36921c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b9cd1acf31fffa5",
+			"fromSide":"right",
+			"toNode":"e934560254e30990",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"39141bd96851f13c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1cf5b83a55b265e2",
+			"fromSide":"right",
+			"toNode":"a4037a6938667215",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"ace0a40c92d24a77",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a4037a6938667215",
+			"fromSide":"right",
+			"toNode":"cc07e546d60c0cc4",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"f36fc24c372d05eb",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"84b4e7e8a2348006",
+			"fromSide":"right",
+			"toNode":"bc9fabae9f848d73",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{
