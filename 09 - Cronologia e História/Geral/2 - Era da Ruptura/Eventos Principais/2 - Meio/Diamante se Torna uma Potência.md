@@ -8,8 +8,7 @@ Meio da Era da Ruptura
 - O poder político, econômico e militar de [[04 - Diamante|Diamante]] cresce absurdamente em pouco tempo.
   
 ## Conexões  
-- [[Início dos Experimentos Humanos]]
-- [[Criação de Criaturas Artificiais]]
+...
   
 ## Notas
 ...

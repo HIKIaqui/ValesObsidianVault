@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Diamante se Torna uma Potência.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "09 - Cronologia e História/Linha do Tempo.canvas",
+                "viewState": {
+                  "x": 3533.8776155382757,
+                  "y": 483.58206310949333,
+                  "zoom": -0.6666666666666667
                 }
               },
-              "icon": "lucide-file",
-              "title": "Diamante se Torna uma Potência"
+              "icon": "lucide-layout-dashboard",
+              "title": "Linha do Tempo"
             }
           }
         ]
@@ -337,8 +330,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Declaração de Guerra Contra Malaquita.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Colapso Interno de Malaquita.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha de Néxora.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Diamante se Torna uma Potência.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Declaração de Guerra Contra Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Criação de Criaturas Artificiais.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Abertura da Fenda Onírica.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Início dos Experimentos Humanos.md",
@@ -364,9 +360,6 @@
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Néxora.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/A Aposentadoria de Elgor.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Normalização do Horror.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Início da Era da Coroa Quebrada.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Morte de Drummond.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Retorno do Rei dos Vermes.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/F",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Sem título",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/1 - Início",
