@@ -210,21 +210,6 @@
 			"color":"2"
 		},
 		{
-			"id":"8da792d58dae3fef",
-			"type":"text",
-			"text":"# [[Abertura da Fenda Onírica]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5120,
-			"y":300,
-			"width":300,
-			"height":120,
-			"color":"3"
-		},
-		{
 			"id":"edcccf1ef86f2f61",
 			"type":"text",
 			"text":"# [[Diamante se Torna uma Potência]]",
@@ -234,10 +219,10 @@
 				"border":null
 			},
 			"x":4760,
-			"y":160,
+			"y":120,
 			"width":300,
 			"height":120,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"6c2028bd80b44581",
@@ -249,7 +234,97 @@
 				"border":null
 			},
 			"x":4760,
-			"y":440,
+			"y":480,
+			"width":300,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"8da792d58dae3fef",
+			"type":"text",
+			"text":"# [[Abertura da Fenda Onírica]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5160,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"85f27c5b87131787",
+			"type":"text",
+			"text":"# [[Criação do Projeto ONI]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5640,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"df96d1325fa6cd80",
+			"type":"text",
+			"text":"# [[Batalha de Néxora]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6060,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"91b6d7b4c80a8c51",
+			"type":"text",
+			"text":"# [[Colapso Interno de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5870,
+			"y":540,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"248bd5f2e0c0827e",
+			"type":"text",
+			"text":"# [[Surgimento dos Vermes da Insanidade]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6740,
+			"y":480,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"46c4d5fb0493cf06",
+			"type":"text",
+			"text":"# [[Queda de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6360,
+			"y":600,
 			"width":300,
 			"height":120,
 			"color":"3"
@@ -393,7 +468,8 @@
 			"fromNode":"40d54f5bdb04f25a",
 			"fromSide":"right",
 			"toNode":"8da792d58dae3fef",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"3"
 		},
 		{
 			"id":"2f7f0eb22a60b697",
@@ -402,7 +478,8 @@
 			"fromNode":"40d54f5bdb04f25a",
 			"fromSide":"right",
 			"toNode":"6c2028bd80b44581",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
 		},
 		{
 			"id":"d6cde42aee703d0c",
@@ -411,7 +488,18 @@
 			"fromNode":"40d54f5bdb04f25a",
 			"fromSide":"right",
 			"toNode":"edcccf1ef86f2f61",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"23473a48dd04db60",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8da792d58dae3fef",
+			"fromSide":"right",
+			"toNode":"85f27c5b87131787",
+			"toSide":"left",
+			"color":"3"
 		}
 	],
 	"metadata":{
