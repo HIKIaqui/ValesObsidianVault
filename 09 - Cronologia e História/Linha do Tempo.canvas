@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1240,"color":"5","label":"Era dos Sonhos"},
+		{"id":"b0ff206cca1437b7","type":"group","x":6160,"y":-2480,"width":3960,"height":1137,"color":"5","label":"Era do Vazio"},
+		{"id":"7864ad06414869dc","type":"group","x":6160,"y":-3840,"width":3960,"height":1137,"color":"5","label":"Era da Coroa Quebrada"},
+		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1120,"color":"5","label":"Era dos Sonhos"},
+		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-200,"width":3960,"height":1120,"color":"5","label":"Era da Ruptura"},
 		{
 			"id":"e934560254e30990",
 			"type":"text",
@@ -13,7 +16,7 @@
 			"x":-40,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -28,7 +31,7 @@
 			"x":380,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -58,7 +61,7 @@
 			"x":800,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -73,7 +76,7 @@
 			"x":1240,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -88,7 +91,7 @@
 			"x":1680,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -103,7 +106,7 @@
 			"x":2120,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -115,10 +118,10 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":2620,
+			"x":2560,
 			"y":320,
 			"width":320,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -130,10 +133,10 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":3120,
+			"x":3040,
 			"y":320,
 			"width":300,
-			"height":100,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -166,15 +169,90 @@
 			"color":"#e100ff"
 		},
 		{
+			"id":"c7c24db147fddc24",
+			"type":"text",
+			"text":"# [[Crescimento do Reino de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":3960,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"40d54f5bdb04f25a",
+			"type":"text",
+			"text":"# [[Início dos Experimentos Humanos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4340,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
 			"id":"7b9cd1acf31fffa5",
 			"type":"text",
 			"text":"# Fundação do Reino de Rubi e criação do calendário de Rubi\n**Ano 0**",
 			"styleAttributes":{},
 			"x":-400,
-			"y":260,
+			"y":290,
 			"width":260,
 			"height":220,
 			"color":"2"
+		},
+		{
+			"id":"8da792d58dae3fef",
+			"type":"text",
+			"text":"# [[Abertura da Fenda Onírica]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5120,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"edcccf1ef86f2f61",
+			"type":"text",
+			"text":"# [[Diamante se Torna uma Potência]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":160,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"6c2028bd80b44581",
+			"type":"text",
+			"text":"# [[Criação de Criaturas Artificiais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":440,
+			"width":300,
+			"height":120,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -230,22 +308,33 @@
 			"color":"3"
 		},
 		{
-			"id":"dbfebb25dc75ed1e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"ea5d1455e0a7ef80",
-			"fromSide":"right",
-			"toNode":"1cf5b83a55b265e2",
-			"toSide":"left",
-			"color":"3"
-		},
-		{
 			"id":"515112e17d36921c",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"7b9cd1acf31fffa5",
 			"fromSide":"right",
 			"toNode":"e934560254e30990",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"f36fc24c372d05eb",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"84b4e7e8a2348006",
+			"fromSide":"right",
+			"toNode":"bc9fabae9f848d73",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"dbfebb25dc75ed1e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ea5d1455e0a7ef80",
+			"fromSide":"right",
+			"toNode":"1cf5b83a55b265e2",
 			"toSide":"left",
 			"color":"3"
 		},
@@ -272,15 +361,57 @@
 			"color":"3"
 		},
 		{
-			"id":"f36fc24c372d05eb",
+			"id":"7f2fd031cec8bf57",
+			"styleAttributes":{
+				"arrow":null,
+				"pathfindingMethod":"square"
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c6494b8dc09256c3",
+			"fromSide":"right",
+			"toNode":"0f7dcf9878c871df",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"ef2668dfb894f958",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c7c24db147fddc24",
+			"fromSide":"right",
+			"toNode":"40d54f5bdb04f25a",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"47067f563af2cff2",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"84b4e7e8a2348006",
+			"fromNode":"40d54f5bdb04f25a",
 			"fromSide":"right",
-			"toNode":"bc9fabae9f848d73",
-			"toSide":"left",
-			"color":"1"
+			"toNode":"8da792d58dae3fef",
+			"toSide":"left"
+		},
+		{
+			"id":"2f7f0eb22a60b697",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"40d54f5bdb04f25a",
+			"fromSide":"right",
+			"toNode":"6c2028bd80b44581",
+			"toSide":"left"
+		},
+		{
+			"id":"d6cde42aee703d0c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"40d54f5bdb04f25a",
+			"fromSide":"right",
+			"toNode":"edcccf1ef86f2f61",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
