@@ -116,7 +116,7 @@ ou de acordo com o recado que quer mandar.
 
 ---
 
-## 🧓 Limite imposto pela Tika
+## Limite imposto pela Tika
 
 Tika **não confia** nos Sem Rosto.  
 E eles sabem disso.
