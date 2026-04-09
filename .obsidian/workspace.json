@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
-                "mode": "source",
-                "source": false
+                "file": "09 - Cronologia e História/Linha do Tempo.canvas",
+                "viewState": {
+                  "x": 1554.561732851986,
+                  "y": 349.3718411552346,
+                  "zoom": -0.3091635765629951
+                }
               },
-              "icon": "lucide-file",
-              "title": "01 - Vale Luminoso Esquerdo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Linha do Tempo"
             }
           }
         ]
@@ -325,10 +328,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
+    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/2 - Meio/Estudo de Energias Proibidas.md",
+    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Ascensão do Caçador Renegado.md",
+    "09 - Cronologia e História/Linha do Tempo.canvas",
+    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/1 - Início/Despertar da Força Elemental Humana.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/3 - Era do Vazio.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
+    "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/2 - Era da Ruptura.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/1 - Era dos Sonhos.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/06 - Bismuto",
@@ -353,10 +361,6 @@
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Crescimento do Reino de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Personagens Históricos/Rei Drummond.md",
     "diamante.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Contexto/Grande Guerra dos Vales.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Queda de Malaquita.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha de Néxora.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Sem título",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/1 - Início",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/3 - Fim",
@@ -364,7 +368,6 @@
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Secundários/1 - Início",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Secundários/3 - Fim",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Secundários/2 - Meio",
-    "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",

@@ -5,13 +5,166 @@
 			"type":"text",
 			"text":"Fundação do Reino de Rubi e criação do calendário de Rubi\n**Ano 0**",
 			"styleAttributes":{},
-			"x":-380,
-			"y":220,
+			"x":-400,
+			"y":320,
 			"width":260,
-			"height":100
+			"height":100,
+			"color":"2"
+		},
+		{
+			"id":"e934560254e30990",
+			"type":"text",
+			"text":"# [[Despertar da Força Elemental Humana]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":-40,
+			"y":320,
+			"width":300,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"263f0613c389cadb",
+			"type":"text",
+			"text":"# [[Surgimento dos Caçadores Ancestrais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":380,
+			"y":320,
+			"width":300,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"ea0d835d529b53a5",
+			"type":"text",
+			"text":"# [[Primeiras Grandes Caçadas]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":680,
+			"y":700,
+			"width":300,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"598f60e1198ccf4b",
+			"type":"text",
+			"text":"# [[Estudo de Energias Proibidas]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":860,
+			"y":320,
+			"width":300,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"84b4e7e8a2348006",
+			"type":"text",
+			"text":"# [[Ascensão do Caçador Renegado]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1320,
+			"y":320,
+			"width":300,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"1cf5b83a55b265e2",
+			"type":"text",
+			"text":"# [[Queda dos Caçadores Ancestrais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1720,
+			"y":320,
+			"width":300,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"ea5d1455e0a7ef80",
+			"type":"text",
+			"text":"# [[eradossonhopsfim]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1640,
+			"y":500,
+			"width":300,
+			"height":100,
+			"color":"3"
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"e3e80eb40e288945",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e934560254e30990",
+			"fromSide":"right",
+			"toNode":"263f0613c389cadb",
+			"toSide":"left"
+		},
+		{
+			"id":"457155c654eb663f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e934560254e30990",
+			"fromSide":"left",
+			"toNode":"7b9cd1acf31fffa5",
+			"toSide":"right"
+		},
+		{
+			"id":"dc26b2559f7f3c17",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"263f0613c389cadb",
+			"fromSide":"bottom",
+			"toNode":"ea0d835d529b53a5",
+			"toSide":"left"
+		},
+		{
+			"id":"936187a0e6af6e53",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"263f0613c389cadb",
+			"fromSide":"right",
+			"toNode":"598f60e1198ccf4b",
+			"toSide":"left"
+		},
+		{
+			"id":"6f70b9fc5c923e10",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"598f60e1198ccf4b",
+			"fromSide":"right",
+			"toNode":"84b4e7e8a2348006",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
