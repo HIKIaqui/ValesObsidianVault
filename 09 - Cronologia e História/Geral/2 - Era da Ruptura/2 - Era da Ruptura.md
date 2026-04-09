@@ -1,1 +1,1 @@
-“Mas aquelas pessoas cruéis vieram, com ideias perigosas demais pra chamar de progresso.”
+“Mas aquelas pessoas cruéis vieram, com ideias perigosas demais para chamar de progresso.”

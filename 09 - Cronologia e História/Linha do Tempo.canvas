@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-160,"width":3960,"height":1260,"color":"5","label":"Era da Ruptura"},
 		{"id":"b0ff206cca1437b7","type":"group","x":6160,"y":-2480,"width":3960,"height":1137,"color":"5","label":"Era do Vazio"},
 		{"id":"7864ad06414869dc","type":"group","x":6160,"y":-3840,"width":3960,"height":1137,"color":"5","label":"Era da Coroa Quebrada"},
 		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1120,"color":"5","label":"Era dos Sonhos"},
+		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-160,"width":3280,"height":1260,"color":"5","label":"Era da Ruptura"},
 		{
 			"id":"e934560254e30990",
 			"type":"text",
@@ -80,21 +80,6 @@
 			"color":"3"
 		},
 		{
-			"id":"a4037a6938667215",
-			"type":"text",
-			"text":"# [[Perda do Conhecimento Original]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2560,
-			"y":320,
-			"width":320,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"bc9fabae9f848d73",
 			"type":"text",
 			"text":"# [[Formação dos Pecados Capitais]]",
@@ -112,12 +97,12 @@
 		{
 			"id":"7b9cd1acf31fffa5",
 			"type":"text",
-			"text":"# Fundação do Reino de Rubi e criação do calendário de Rubi\n**Ano 0**",
+			"text":"# Fundação do Reino de Rubi e criação do calendário de Rubi\n# **Ano 0**",
 			"styleAttributes":{},
 			"x":-400,
-			"y":290,
+			"y":280,
 			"width":260,
-			"height":220,
+			"height":240,
 			"color":"2"
 		},
 		{
@@ -136,6 +121,35 @@
 			"color":"4"
 		},
 		{
+			"id":"44842be34861aa04",
+			"type":"text",
+			"text":"# Amarelo: Linha do Tempo Principal\n\n# Vermelho: Eventos Principais Divergentes\n\n# Verde: Eventos Secundários\n\n# Seta Laranja: Evento que Influenciou a Linha do Tempo Principal\n\n# Azul: Eras da História",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-400,
+			"y":-1240,
+			"width":1080,
+			"height":860,
+			"color":"#e100ff"
+		},
+		{
+			"id":"a4037a6938667215",
+			"type":"text",
+			"text":"# [[Perda do Conhecimento Original]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":2560,
+			"y":320,
+			"width":320,
+			"height":160,
+			"color":"3"
+		},
+		{
 			"id":"ea5d1455e0a7ef80",
 			"type":"text",
 			"text":"# [[Guerra dos Caçadores Ancestrais]]",
@@ -149,35 +163,6 @@
 			"width":300,
 			"height":160,
 			"color":"3"
-		},
-		{
-			"id":"cc07e546d60c0cc4",
-			"type":"text",
-			"text":"# [[Formação do Mito dos Caçadores]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":3040,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"44842be34861aa04",
-			"type":"text",
-			"text":"# Amarelo: Linha do Tempo Principal\n\n# Vermelho: Linhas do Tempo Principais Divergentes\n\n# Verde: Linhas do Tempo Secundárias\n\n# Laranja: Evento que Influenciou a Linha do Tempo Principal",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-400,
-			"y":-820,
-			"width":420,
-			"height":440,
-			"color":"#e100ff"
 		},
 		{
 			"id":"a017b0050957dce7",
@@ -195,34 +180,34 @@
 			"color":"3"
 		},
 		{
-			"id":"91b6d7b4c80a8c51",
+			"id":"f1dcdaa82223f56b",
 			"type":"text",
-			"text":"# [[Colapso Interno de Malaquita]]",
+			"text":"# [[Declaração de Guerra Contra Malaquita]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":5700,
-			"y":760,
-			"width":340,
-			"height":120,
+			"x":5190,
+			"y":290,
+			"width":350,
+			"height":230,
 			"color":"3"
 		},
 		{
-			"id":"248bd5f2e0c0827e",
+			"id":"edcccf1ef86f2f61",
 			"type":"text",
-			"text":"# [[Surgimento dos Vermes da Insanidade]]",
+			"text":"# [[Diamante se Torna uma Potência]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":6140,
-			"y":580,
-			"width":340,
+			"x":4760,
+			"y":120,
+			"width":310,
 			"height":120,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"46c4d5fb0493cf06",
@@ -233,10 +218,25 @@
 				"shape":"pill",
 				"border":null
 			},
-			"x":6660,
-			"y":280,
-			"width":300,
+			"x":6780,
+			"y":345,
+			"width":340,
 			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"cc07e546d60c0cc4",
+			"type":"text",
+			"text":"# [[Formação do Mito dos Caçadores]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":3040,
+			"y":320,
+			"width":300,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -270,21 +270,6 @@
 			"color":"1"
 		},
 		{
-			"id":"f1dcdaa82223f56b",
-			"type":"text",
-			"text":"# [[Declaração de Guerra Contra Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5190,
-			"y":290,
-			"width":350,
-			"height":230,
-			"color":"3"
-		},
-		{
 			"id":"85f27c5b87131787",
 			"type":"text",
 			"text":"# [[Criação do Projeto ONI]]",
@@ -298,21 +283,6 @@
 			"width":300,
 			"height":120,
 			"color":"1"
-		},
-		{
-			"id":"df96d1325fa6cd80",
-			"type":"text",
-			"text":"# [[Batalha de Néxora]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":345,
-			"width":340,
-			"height":120,
-			"color":"3"
 		},
 		{
 			"id":"c7c24db147fddc24",
@@ -345,17 +315,47 @@
 			"color":"3"
 		},
 		{
-			"id":"edcccf1ef86f2f61",
+			"id":"df96d1325fa6cd80",
 			"type":"text",
-			"text":"# [[Diamante se Torna uma Potência]]",
+			"text":"# [[Batalha de Néxora]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":4760,
-			"y":120,
-			"width":310,
+			"x":6280,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"91b6d7b4c80a8c51",
+			"type":"text",
+			"text":"# [[Colapso Interno de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":760,
+			"width":340,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"248bd5f2e0c0827e",
+			"type":"text",
+			"text":"# [[Surgimento dos Vermes da Insanidade]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":940,
+			"width":340,
 			"height":120,
 			"color":"1"
 		}
@@ -540,7 +540,7 @@
 		},
 		{
 			"id":"b2d26f60c5f0dcd5",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromNode":"a017b0050957dce7",
 			"fromSide":"right",
@@ -572,13 +572,44 @@
 		},
 		{
 			"id":"01d5dd89dd9c08c2",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromNode":"c6494b8dc09256c3",
 			"fromSide":"right",
 			"toNode":"0f7dcf9878c871df",
 			"toSide":"left",
 			"color":"5"
+		},
+		{
+			"id":"d2eb26f1b2ab46ef",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"85f27c5b87131787",
+			"fromSide":"right",
+			"toNode":"91b6d7b4c80a8c51",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"8b43975791978da9",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"85f27c5b87131787",
+			"fromSide":"right",
+			"toNode":"248bd5f2e0c0827e",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"a48a96e2ac10b94b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"91b6d7b4c80a8c51",
+			"fromSide":"right",
+			"toNode":"46c4d5fb0493cf06",
+			"toSide":"bottom",
+			"color":"2"
 		}
 	],
 	"metadata":{
