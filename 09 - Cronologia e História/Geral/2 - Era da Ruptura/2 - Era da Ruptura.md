@@ -1,0 +1,1 @@
+“Mas aquelas pessoas cruéis vieram, com ideias perigosas demais pra chamar de progresso.”

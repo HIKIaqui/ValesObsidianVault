@@ -1,0 +1,1 @@
+“E quando os vilões se foram, todos perceberam que eles nada mais eram do que um reflexo do pior da humanidade, agora impresso permanentemente no mundo.”

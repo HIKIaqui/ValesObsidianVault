@@ -1,1 +1,1 @@
-“Antes de tudo, esse mundo era um conto de 
+“Antes de tudo, esse mundo era um Conto de Fadas.”
