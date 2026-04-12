@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1560,"color":"5","label":"Era dos Sonhos"},
-		{"id":"b0ff206cca1437b7","type":"group","x":7480,"y":-200,"width":3960,"height":1560,"color":"5","label":"Era do Vazio"},
 		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-200,"width":3280,"height":1560,"color":"5","label":"Era da Ruptura"},
+		{"id":"b0ff206cca1437b7","type":"group","x":7480,"y":-200,"width":3000,"height":1560,"color":"5","label":"Era do Vazio"},
 		{"id":"7864ad06414869dc","type":"group","x":6160,"y":-3840,"width":3960,"height":1137,"color":"5","label":"Era da Coroa Quebrada"},
 		{
 			"id":"263f0613c389cadb",
@@ -553,6 +553,21 @@
 			"width":340,
 			"height":200,
 			"color":"4"
+		},
+		{
+			"id":"86adb78364e66d74",
+			"type":"text",
+			"text":"# [[Início da Era da Coroa Quebrada]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":10120,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -838,9 +853,9 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"cc07e546d60c0cc4",
-			"fromSide":"right",
+			"fromSide":"top",
 			"toNode":"907ed8f188a38170",
-			"toSide":"bottom",
+			"toSide":"top",
 			"color":"3"
 		},
 		{
@@ -963,6 +978,7 @@
 			"id":"7724431646eab09e",
 			"styleAttributes":{"pathfindingMethod":"a-star"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"3605fb9b023bc54d",
 			"fromSide":"right",
 			"toNode":"8268183394c49e3c",
@@ -989,6 +1005,27 @@
 			"fromSide":"right",
 			"toNode":"b46c7b30c55bcb9e",
 			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"75f4412877ce4cff",
+			"styleAttributes":{"pathfindingMethod":"square","path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"907ed8f188a38170",
+			"fromSide":"bottom",
+			"toNode":"b46c7b30c55bcb9e",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"0e7a3bc9acb3ea87",
+			"styleAttributes":{"pathfindingMethod":"a-star","path":"dotted"},
+			"toFloating":false,
+			"fromNode":"a4037a6938667215",
+			"fromSide":"bottom",
+			"toNode":"b46c7b30c55bcb9e",
+			"toSide":"bottom",
 			"color":"4"
 		}
 	],

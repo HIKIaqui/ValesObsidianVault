@@ -5,7 +5,7 @@ Fim da Era do Vazio
 ## Descrição  
 Após anos reunindo informações e confrontando inconsistências, [[Elgor]] expõe publicamente a verdadeira origem da [[Guilda de Caçadores]].  
 
-Ele revela que a instituição foi construída sobre mitos distorcidos dos [[Caçadores Ancestrais]], sustentando uma imagem heroica que não corresponde à realidade.  
+Ele revela que a instituição foi construída sobre mitos distorcidos dos [[Caçadores Ancestrais]], sustentando uma imagem heroica que não corresponde necessariamente à realidade.  
   
 A revelação se espalha principalmente entre [[caçadores]] veteranos, que reconhecem a verdade com base em suas próprias experiências.
   
