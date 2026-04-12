@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1300,"color":"5","label":"Era dos Sonhos"},
-		{"id":"b0ff206cca1437b7","type":"group","x":6160,"y":-2480,"width":3960,"height":1137,"color":"5","label":"Era do Vazio"},
+		{"id":"b0ff206cca1437b7","type":"group","x":7480,"y":-160,"width":3960,"height":1260,"color":"5","label":"Era do Vazio"},
 		{"id":"7864ad06414869dc","type":"group","x":6160,"y":-3840,"width":3960,"height":1137,"color":"5","label":"Era da Coroa Quebrada"},
-		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-160,"width":3280,"height":1260,"color":"5","label":"Era da Ruptura"},
+		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-200,"width":3280,"height":1300,"color":"5","label":"Era da Ruptura"},
 		{
 			"id":"a4037a6938667215",
 			"type":"text",
@@ -18,126 +18,6 @@
 			"width":320,
 			"height":160,
 			"color":"3"
-		},
-		{
-			"id":"f1dcdaa82223f56b",
-			"type":"text",
-			"text":"# [[Declaração de Guerra Contra Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5190,
-			"y":290,
-			"width":350,
-			"height":230,
-			"color":"3"
-		},
-		{
-			"id":"edcccf1ef86f2f61",
-			"type":"text",
-			"text":"# [[Diamante se Torna uma Potência]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":120,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"6c2028bd80b44581",
-			"type":"text",
-			"text":"# [[Criação de Criaturas Artificiais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":520,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"8da792d58dae3fef",
-			"type":"text",
-			"text":"# [[Abertura da Fenda Onírica]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":760,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"c7c24db147fddc24",
-			"type":"text",
-			"text":"# [[Crescimento do Reino de Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":3960,
-			"y":340,
-			"width":300,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"40d54f5bdb04f25a",
-			"type":"text",
-			"text":"# [[Início dos Experimentos Humanos]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4340,
-			"y":340,
-			"width":300,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"91b6d7b4c80a8c51",
-			"type":"text",
-			"text":"# [[Colapso Interno de Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":760,
-			"width":340,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"248bd5f2e0c0827e",
-			"type":"text",
-			"text":"# [[Surgimento dos Vermes da Insanidade]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":940,
-			"width":340,
-			"height":120,
-			"color":"1"
 		},
 		{
 			"id":"1cf5b83a55b265e2",
@@ -182,66 +62,6 @@
 			"y":320,
 			"width":300,
 			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"a017b0050957dce7",
-			"type":"text",
-			"text":"# [[Grande Guerra dos Vales]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"predefined-process",
-				"border":null
-			},
-			"x":5700,
-			"y":290,
-			"width":350,
-			"height":230,
-			"color":"3"
-		},
-		{
-			"id":"46c4d5fb0493cf06",
-			"type":"text",
-			"text":"# [[Queda de Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6780,
-			"y":345,
-			"width":340,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"85f27c5b87131787",
-			"type":"text",
-			"text":"# [[Criação do Projeto ONI]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5215,
-			"y":760,
-			"width":300,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"df96d1325fa6cd80",
-			"type":"text",
-			"text":"# [[Batalha de Néxora]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":345,
-			"width":340,
-			"height":120,
 			"color":"3"
 		},
 		{
@@ -358,6 +178,246 @@
 			"width":260,
 			"height":240,
 			"color":"2"
+		},
+		{
+			"id":"4170ca83f49997a2",
+			"type":"text",
+			"text":"# [[Reconstrução dos Reinos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":7580,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"907ed8f188a38170",
+			"type":"text",
+			"text":"# [[Fundação da Guilda dos Caçadores]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":8040,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"e5c2afbd007c949b",
+			"type":"text",
+			"text":"# [[Economia da Sobrevivência]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":8480,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"edcccf1ef86f2f61",
+			"type":"text",
+			"text":"# [[Diamante se Torna uma Potência]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":80,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"f1dcdaa82223f56b",
+			"type":"text",
+			"text":"# [[Declaração de Guerra Contra Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5190,
+			"y":250,
+			"width":350,
+			"height":230,
+			"color":"3"
+		},
+		{
+			"id":"85f27c5b87131787",
+			"type":"text",
+			"text":"# [[Criação do Projeto ONI]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5215,
+			"y":720,
+			"width":300,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"a017b0050957dce7",
+			"type":"text",
+			"text":"# [[Grande Guerra dos Vales]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"predefined-process",
+				"border":null
+			},
+			"x":5700,
+			"y":250,
+			"width":350,
+			"height":230,
+			"color":"3"
+		},
+		{
+			"id":"46c4d5fb0493cf06",
+			"type":"text",
+			"text":"# [[Queda de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6780,
+			"y":305,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"91b6d7b4c80a8c51",
+			"type":"text",
+			"text":"# [[Colapso Interno de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":720,
+			"width":340,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"248bd5f2e0c0827e",
+			"type":"text",
+			"text":"# [[Surgimento dos Vermes da Insanidade]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":900,
+			"width":340,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"df96d1325fa6cd80",
+			"type":"text",
+			"text":"# [[Batalha de Néxora]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":305,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"c7c24db147fddc24",
+			"type":"text",
+			"text":"# [[Crescimento do Reino de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":3960,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"6c2028bd80b44581",
+			"type":"text",
+			"text":"# [[Criação de Criaturas Artificiais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":480,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"8da792d58dae3fef",
+			"type":"text",
+			"text":"# [[Abertura da Fenda Onírica]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":720,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"40d54f5bdb04f25a",
+			"type":"text",
+			"text":"# [[Início dos Experimentos Humanos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4340,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"1165d38ca9462931",
+			"type":"text",
+			"text":"# [[Economia da Sobrevivência]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":8940,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -560,17 +620,6 @@
 			"color":"2"
 		},
 		{
-			"id":"19f8f4a97f9c5392",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"cc07e546d60c0cc4",
-			"fromSide":"bottom",
-			"toNode":"ea0d835d529b53a5",
-			"toSide":"right",
-			"color":"2"
-		},
-		{
 			"id":"01d5dd89dd9c08c2",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
@@ -611,6 +660,40 @@
 			"toNode":"46c4d5fb0493cf06",
 			"toSide":"bottom",
 			"color":"2"
+		},
+		{
+			"id":"8b56e9798c51db92",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4170ca83f49997a2",
+			"fromSide":"right",
+			"toNode":"907ed8f188a38170",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"3cc6ca6cca2a1c32",
+			"styleAttributes":{
+				"pathfindingMethod":"square",
+				"arrow":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ea0d835d529b53a5",
+			"fromSide":"right",
+			"toNode":"cc07e546d60c0cc4",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"7c3e2407ec80e97d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"907ed8f188a38170",
+			"fromSide":"right",
+			"toNode":"e5c2afbd007c949b",
+			"toSide":"left",
+			"color":"3"
 		}
 	],
 	"metadata":{
