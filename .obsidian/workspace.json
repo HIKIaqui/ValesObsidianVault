@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "09 - Cronologia e História/Linha do Tempo.canvas",
+                "file": "98 - Dev/Homepage.canvas",
                 "viewState": {
-                  "x": 5064.879879876159,
-                  "y": 436.32075754553557,
-                  "zoom": -1.0681554770591999
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -0.9924820307159838
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linha do Tempo"
+              "title": "Homepage"
             }
           }
         ]
@@ -330,6 +330,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "09 - Cronologia e História/Linha do Tempo.canvas",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Morte de Drummond.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Economia da Sobrevivência.md",
@@ -340,7 +341,6 @@
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Retorno do Rei dos Vermes.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Fundação da Guilda dos Caçadores.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Reconstrução dos Reinos.md",
-    "09 - Cronologia e História/Linha do Tempo.canvas",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Queda de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Surgimento dos Vermes da Insanidade.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
@@ -356,7 +356,6 @@
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Ascensão do Caçador Renegado.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Formação dos Pecados Capitais.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/2 - Meio/Estudo de Energias Proibidas.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/1 - Início/Despertar da Força Elemental Humana.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/06 - Bismuto",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/99 - Penumbra Direita",
     "98 - Dev/Homepage.canvas",
