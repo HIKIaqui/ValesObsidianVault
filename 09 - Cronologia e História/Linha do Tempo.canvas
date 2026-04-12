@@ -5,21 +5,6 @@
 		{"id":"7864ad06414869dc","type":"group","x":6160,"y":-3840,"width":3960,"height":1137,"color":"5","label":"Era da Coroa Quebrada"},
 		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-200,"width":3280,"height":1300,"color":"5","label":"Era da Ruptura"},
 		{
-			"id":"1cf5b83a55b265e2",
-			"type":"text",
-			"text":"# [[Queda dos Caçadores Ancestrais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2120,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"ea5d1455e0a7ef80",
 			"type":"text",
 			"text":"# [[Guerra dos Caçadores Ancestrais]]",
@@ -63,21 +48,6 @@
 			"width":300,
 			"height":160,
 			"color":"3"
-		},
-		{
-			"id":"ea0d835d529b53a5",
-			"type":"text",
-			"text":"# [[Primeiras Grandes Caçadas]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":680,
-			"y":700,
-			"width":300,
-			"height":100,
-			"color":"4"
 		},
 		{
 			"id":"263f0613c389cadb",
@@ -135,21 +105,6 @@
 			"color":"2"
 		},
 		{
-			"id":"a4037a6938667215",
-			"type":"text",
-			"text":"# [[Perda do Conhecimento Original]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2560,
-			"y":320,
-			"width":320,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"bc9fabae9f848d73",
 			"type":"text",
 			"text":"# [[Formação dos Pecados Capitais]]",
@@ -180,19 +135,34 @@
 			"color":"3"
 		},
 		{
-			"id":"4170ca83f49997a2",
+			"id":"1cf5b83a55b265e2",
 			"type":"text",
-			"text":"# [[Reconstrução dos Reinos]]",
+			"text":"# [[Queda dos Caçadores Ancestrais]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":7580,
-			"y":345,
-			"width":340,
-			"height":120,
+			"x":2120,
+			"y":320,
+			"width":300,
+			"height":160,
 			"color":"3"
+		},
+		{
+			"id":"ea0d835d529b53a5",
+			"type":"text",
+			"text":"# [[Primeiras Grandes Caçadas]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":680,
+			"y":700,
+			"width":300,
+			"height":100,
+			"color":"4"
 		},
 		{
 			"id":"edcccf1ef86f2f61",
@@ -240,21 +210,6 @@
 			"color":"3"
 		},
 		{
-			"id":"f1dcdaa82223f56b",
-			"type":"text",
-			"text":"# [[Declaração de Guerra Contra Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5190,
-			"y":250,
-			"width":350,
-			"height":230,
-			"color":"3"
-		},
-		{
 			"id":"46c4d5fb0493cf06",
 			"type":"text",
 			"text":"# [[Queda de Malaquita]]",
@@ -267,6 +222,51 @@
 			"y":305,
 			"width":340,
 			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"a017b0050957dce7",
+			"type":"text",
+			"text":"# [[Grande Guerra dos Vales]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"predefined-process",
+				"border":null
+			},
+			"x":5700,
+			"y":250,
+			"width":350,
+			"height":230,
+			"color":"3"
+		},
+		{
+			"id":"4170ca83f49997a2",
+			"type":"text",
+			"text":"# [[Reconstrução dos Reinos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":7580,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"f1dcdaa82223f56b",
+			"type":"text",
+			"text":"# [[Declaração de Guerra Contra Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5190,
+			"y":250,
+			"width":350,
+			"height":230,
 			"color":"3"
 		},
 		{
@@ -285,21 +285,6 @@
 			"color":"1"
 		},
 		{
-			"id":"248bd5f2e0c0827e",
-			"type":"text",
-			"text":"# [[Surgimento dos Vermes da Insanidade]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":900,
-			"width":340,
-			"height":120,
-			"color":"1"
-		},
-		{
 			"id":"df96d1325fa6cd80",
 			"type":"text",
 			"text":"# [[Batalha de Néxora]]",
@@ -312,66 +297,6 @@
 			"y":305,
 			"width":340,
 			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"6c2028bd80b44581",
-			"type":"text",
-			"text":"# [[Criação de Criaturas Artificiais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":480,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"8da792d58dae3fef",
-			"type":"text",
-			"text":"# [[Abertura da Fenda Onírica]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":720,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"85f27c5b87131787",
-			"type":"text",
-			"text":"# [[Criação do Projeto ONI]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5215,
-			"y":720,
-			"width":300,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"a017b0050957dce7",
-			"type":"text",
-			"text":"# [[Grande Guerra dos Vales]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"predefined-process",
-				"border":null
-			},
-			"x":5700,
-			"y":250,
-			"width":350,
-			"height":230,
 			"color":"3"
 		},
 		{
@@ -437,7 +362,7 @@
 		{
 			"id":"cee15d3bf89fe875",
 			"type":"text",
-			"text":"# [[Fundação da Guilda dos Caçadores]]",
+			"text":"# [[Morte de Drummond]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
@@ -448,6 +373,96 @@
 			"width":340,
 			"height":120,
 			"color":"3"
+		},
+		{
+			"id":"a4037a6938667215",
+			"type":"text",
+			"text":"# [[Perda do Conhecimento Original]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":2560,
+			"y":320,
+			"width":320,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"248bd5f2e0c0827e",
+			"type":"text",
+			"text":"# [[Surgimento dos Vermes da Insanidade]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":900,
+			"width":340,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"6c2028bd80b44581",
+			"type":"text",
+			"text":"# [[Criação de Criaturas Artificiais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":480,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"8da792d58dae3fef",
+			"type":"text",
+			"text":"# [[Abertura da Fenda Onírica]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":720,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"85f27c5b87131787",
+			"type":"text",
+			"text":"# [[Criação do Projeto ONI]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5215,
+			"y":720,
+			"width":300,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"7a29c476c4005963",
+			"type":"text",
+			"text":"# Ascensão de Drummond",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4340,
+			"y":80,
+			"width":300,
+			"height":120,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -570,19 +585,10 @@
 			"id":"2f7f0eb22a60b697",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"40d54f5bdb04f25a",
 			"fromSide":"right",
 			"toNode":"6c2028bd80b44581",
-			"toSide":"left",
-			"color":"1"
-		},
-		{
-			"id":"d6cde42aee703d0c",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"40d54f5bdb04f25a",
-			"fromSide":"right",
-			"toNode":"edcccf1ef86f2f61",
 			"toSide":"left",
 			"color":"1"
 		},
@@ -798,6 +804,27 @@
 			"toNode":"e5c2afbd007c949b",
 			"toSide":"bottom",
 			"color":"1"
+		},
+		{
+			"id":"e818045f6405935f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"7a29c476c4005963",
+			"fromSide":"right",
+			"toNode":"edcccf1ef86f2f61",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"d866a16f5baa659b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"edcccf1ef86f2f61",
+			"fromSide":"top",
+			"toNode":"cee15d3bf89fe875",
+			"toSide":"top",
+			"color":"2"
 		}
 	],
 	"metadata":{

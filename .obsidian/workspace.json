@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8ff9c6647d53deb4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "917f4644aeaefb17",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "09 - Cronologia e História/Linha do Tempo.canvas",
-                "viewState": {
-                  "x": 4797.725475192499,
-                  "y": 602.0566828794042,
-                  "zoom": -0.6666666666666667
+                "file": "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Rei dos Vermes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Linha do Tempo"
+              "icon": "lucide-file",
+              "title": "Rei dos Vermes"
             }
           }
         ]
@@ -328,12 +335,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "917f4644aeaefb17",
   "lastOpenFiles": [
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Surgimento dos Vermes da Insanidade.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Rei dos Vermes.md",
+    "09 - Cronologia e História/Linha do Tempo.canvas",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Diamante se Torna uma Potência.md",
+    "98 - Dev/Homepage.canvas",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/1 - Início/Sobreviventes de Malaquita.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Economia da Sobrevivência.md",
-    "09 - Cronologia e História/Linha do Tempo.canvas",
-    "98 - Dev/Homepage.canvas",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Morte de Drummond.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Normalização do Horror.md",
@@ -343,11 +353,9 @@
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Fundação da Guilda dos Caçadores.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Reconstrução dos Reinos.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Queda de Malaquita.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Surgimento dos Vermes da Insanidade.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Colapso Interno de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha de Néxora.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Diamante se Torna uma Potência.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Declaração de Guerra Contra Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Criação de Criaturas Artificiais.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Abertura da Fenda Onírica.md",
