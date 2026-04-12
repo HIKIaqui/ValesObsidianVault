@@ -1,24 +1,9 @@
 {
 	"nodes":[
-		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1300,"color":"5","label":"Era dos Sonhos"},
-		{"id":"b0ff206cca1437b7","type":"group","x":7480,"y":-200,"width":3960,"height":1300,"color":"5","label":"Era do Vazio"},
+		{"id":"c6494b8dc09256c3","type":"group","x":-440,"y":-200,"width":3960,"height":1560,"color":"5","label":"Era dos Sonhos"},
+		{"id":"b0ff206cca1437b7","type":"group","x":7480,"y":-200,"width":3960,"height":1560,"color":"5","label":"Era do Vazio"},
+		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-200,"width":3280,"height":1560,"color":"5","label":"Era da Ruptura"},
 		{"id":"7864ad06414869dc","type":"group","x":6160,"y":-3840,"width":3960,"height":1137,"color":"5","label":"Era da Coroa Quebrada"},
-		{"id":"0f7dcf9878c871df","type":"group","x":3920,"y":-200,"width":3280,"height":1300,"color":"5","label":"Era da Ruptura"},
-		{
-			"id":"ea5d1455e0a7ef80",
-			"type":"text",
-			"text":"# [[Guerra dos Caçadores Ancestrais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1680,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
 		{
 			"id":"263f0613c389cadb",
 			"type":"text",
@@ -90,6 +75,21 @@
 			"color":"4"
 		},
 		{
+			"id":"cc07e546d60c0cc4",
+			"type":"text",
+			"text":"# [[Formação do Mito dos Caçadores]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":3040,
+			"y":320,
+			"width":300,
+			"height":160,
+			"color":"3"
+		},
+		{
 			"id":"c7c24db147fddc24",
 			"type":"text",
 			"text":"# [[Crescimento do Reino de Malaquita]]",
@@ -102,6 +102,51 @@
 			"y":300,
 			"width":300,
 			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"bc9fabae9f848d73",
+			"type":"text",
+			"text":"# [[Formação dos Pecados Capitais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1680,
+			"y":20,
+			"width":300,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"1cf5b83a55b265e2",
+			"type":"text",
+			"text":"# [[Queda dos Caçadores Ancestrais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":2120,
+			"y":320,
+			"width":300,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"a4037a6938667215",
+			"type":"text",
+			"text":"# [[Perda do Conhecimento Original]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":2560,
+			"y":320,
+			"width":320,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -118,6 +163,36 @@
 			"width":300,
 			"height":120,
 			"color":"1"
+		},
+		{
+			"id":"edcccf1ef86f2f61",
+			"type":"text",
+			"text":"# [[Diamante se Torna uma Potência]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":80,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"ea5d1455e0a7ef80",
+			"type":"text",
+			"text":"# [[Guerra dos Caçadores Ancestrais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1680,
+			"y":320,
+			"width":300,
+			"height":160,
+			"color":"3"
 		},
 		{
 			"id":"598f60e1198ccf4b",
@@ -150,66 +225,6 @@
 			"color":"3"
 		},
 		{
-			"id":"bc9fabae9f848d73",
-			"type":"text",
-			"text":"# [[Formação dos Pecados Capitais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1680,
-			"y":20,
-			"width":300,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"cc07e546d60c0cc4",
-			"type":"text",
-			"text":"# [[Formação do Mito dos Caçadores]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":3040,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"1cf5b83a55b265e2",
-			"type":"text",
-			"text":"# [[Queda dos Caçadores Ancestrais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2120,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"edcccf1ef86f2f61",
-			"type":"text",
-			"text":"# [[Diamante se Torna uma Potência]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":80,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
 			"id":"40d54f5bdb04f25a",
 			"type":"text",
 			"text":"# [[Início dos Experimentos Humanos]]",
@@ -222,51 +237,6 @@
 			"y":300,
 			"width":300,
 			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"248bd5f2e0c0827e",
-			"type":"text",
-			"text":"# [[Surgimento dos Vermes da Insanidade]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5700,
-			"y":900,
-			"width":350,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"276937efdceea108",
-			"type":"text",
-			"text":"# [[Descoberta do Rei dos Vermes]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":900,
-			"width":340,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"a4037a6938667215",
-			"type":"text",
-			"text":"# [[Perda do Conhecimento Original]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2560,
-			"y":320,
-			"width":320,
-			"height":160,
 			"color":"3"
 		},
 		{
@@ -285,16 +255,31 @@
 			"color":"3"
 		},
 		{
-			"id":"4170ca83f49997a2",
+			"id":"f1dcdaa82223f56b",
 			"type":"text",
-			"text":"# [[Reconstrução dos Reinos]]",
+			"text":"# [[Declaração de Guerra Contra Malaquita]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":7580,
-			"y":345,
+			"x":5190,
+			"y":250,
+			"width":350,
+			"height":230,
+			"color":"3"
+		},
+		{
+			"id":"46c4d5fb0493cf06",
+			"type":"text",
+			"text":"# [[Queda de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6760,
+			"y":305,
 			"width":340,
 			"height":120,
 			"color":"3"
@@ -313,6 +298,81 @@
 			"width":340,
 			"height":120,
 			"color":"1"
+		},
+		{
+			"id":"6c2028bd80b44581",
+			"type":"text",
+			"text":"# [[Criação de Criaturas Artificiais]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":480,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"8da792d58dae3fef",
+			"type":"text",
+			"text":"# [[Abertura da Fenda Onírica]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4760,
+			"y":720,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"df96d1325fa6cd80",
+			"type":"text",
+			"text":"# [[Batalha de Néxora]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":305,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"4170ca83f49997a2",
+			"type":"text",
+			"text":"# [[Reconstrução dos Reinos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":7580,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"8268183394c49e3c",
+			"type":"text",
+			"text":"# [[Retorno do Rei dos Vermes]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":9340,
+			"y":300,
+			"width":340,
+			"height":200,
+			"color":"3"
 		},
 		{
 			"id":"1165d38ca9462931",
@@ -343,6 +403,21 @@
 			"width":340,
 			"height":120,
 			"color":"3"
+		},
+		{
+			"id":"85f27c5b87131787",
+			"type":"text",
+			"text":"# [[Criação do Projeto ONI]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5215,
+			"y":720,
+			"width":300,
+			"height":120,
+			"color":"1"
 		},
 		{
 			"id":"e5c2afbd007c949b",
@@ -390,77 +465,32 @@
 			"color":"1"
 		},
 		{
-			"id":"df96d1325fa6cd80",
+			"id":"fa7a19bb5b55a994",
 			"type":"text",
-			"text":"# [[Batalha de Néxora]]",
+			"text":"# [[Sobreviventes de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":7580,
+			"y":600,
+			"width":340,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"276937efdceea108",
+			"type":"text",
+			"text":"# [[Descoberta do Rei dos Vermes]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
 			"x":6280,
-			"y":305,
+			"y":960,
 			"width":340,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"f1dcdaa82223f56b",
-			"type":"text",
-			"text":"# [[Declaração de Guerra Contra Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5190,
-			"y":250,
-			"width":350,
-			"height":230,
-			"color":"3"
-		},
-		{
-			"id":"6c2028bd80b44581",
-			"type":"text",
-			"text":"# [[Criação de Criaturas Artificiais]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":480,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"8da792d58dae3fef",
-			"type":"text",
-			"text":"# [[Abertura da Fenda Onírica]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4760,
-			"y":720,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"85f27c5b87131787",
-			"type":"text",
-			"text":"# [[Criação do Projeto ONI]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5215,
-			"y":720,
-			"width":300,
 			"height":120,
 			"color":"1"
 		},
@@ -474,25 +504,55 @@
 				"border":null
 			},
 			"x":6760,
-			"y":900,
+			"y":960,
 			"width":340,
 			"height":120,
 			"color":"1"
 		},
 		{
-			"id":"46c4d5fb0493cf06",
+			"id":"248bd5f2e0c0827e",
 			"type":"text",
-			"text":"# [[Queda de Malaquita]]",
+			"text":"# [[Surgimento dos Vermes da Insanidade]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":6760,
-			"y":305,
+			"x":5700,
+			"y":960,
+			"width":350,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"94a6c64a1065921e",
+			"type":"text",
+			"text":"# [[A Aposentadoria de Elgor]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":8840,
+			"y":1160,
 			"width":340,
 			"height":120,
-			"color":"3"
+			"color":"4"
+		},
+		{
+			"id":"b46c7b30c55bcb9e",
+			"type":"text",
+			"text":"# [[Exposição da Verdade da Guilda por Elgor]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":9340,
+			"y":1120,
+			"width":340,
+			"height":200,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -877,6 +937,59 @@
 			"toNode":"91b6d7b4c80a8c51",
 			"toSide":"left",
 			"color":"1"
+		},
+		{
+			"id":"76c12cf24f6ddfe0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"276937efdceea108",
+			"fromSide":"right",
+			"toNode":"3605fb9b023bc54d",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"59327109cee2cad4",
+			"styleAttributes":{"pathfindingMethod":"a-star","path":"dotted"},
+			"toFloating":false,
+			"fromNode":"edcccf1ef86f2f61",
+			"fromSide":"bottom",
+			"toNode":"3605fb9b023bc54d",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"7724431646eab09e",
+			"styleAttributes":{"pathfindingMethod":"a-star"},
+			"toFloating":false,
+			"fromNode":"3605fb9b023bc54d",
+			"fromSide":"right",
+			"toNode":"8268183394c49e3c",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"98ff4fff90573eef",
+			"styleAttributes":{"pathfindingMethod":"square","path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"46c4d5fb0493cf06",
+			"fromSide":"right",
+			"toNode":"fa7a19bb5b55a994",
+			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"2808151b15220266",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"94a6c64a1065921e",
+			"fromSide":"right",
+			"toNode":"b46c7b30c55bcb9e",
+			"toSide":"left",
+			"color":"4"
 		}
 	],
 	"metadata":{
