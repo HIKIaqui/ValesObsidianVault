@@ -20,36 +20,6 @@
 			"color":"3"
 		},
 		{
-			"id":"84b4e7e8a2348006",
-			"type":"text",
-			"text":"# [[Ascensão do Caçador Renegado]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1240,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"598f60e1198ccf4b",
-			"type":"text",
-			"text":"# [[Estudo de Energias Proibidas]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":800,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"263f0613c389cadb",
 			"type":"text",
 			"text":"# [[Surgimento dos Caçadores Ancestrais]]",
@@ -105,6 +75,81 @@
 			"color":"2"
 		},
 		{
+			"id":"ea0d835d529b53a5",
+			"type":"text",
+			"text":"# [[Primeiras Grandes Caçadas]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":680,
+			"y":700,
+			"width":300,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"c7c24db147fddc24",
+			"type":"text",
+			"text":"# [[Crescimento do Reino de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":3960,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"7a29c476c4005963",
+			"type":"text",
+			"text":"# Ascensão de Drummond",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4340,
+			"y":80,
+			"width":300,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"598f60e1198ccf4b",
+			"type":"text",
+			"text":"# [[Estudo de Energias Proibidas]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":800,
+			"y":320,
+			"width":300,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"84b4e7e8a2348006",
+			"type":"text",
+			"text":"# [[Ascensão do Caçador Renegado]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1240,
+			"y":320,
+			"width":300,
+			"height":160,
+			"color":"3"
+		},
+		{
 			"id":"bc9fabae9f848d73",
 			"type":"text",
 			"text":"# [[Formação dos Pecados Capitais]]",
@@ -150,21 +195,6 @@
 			"color":"3"
 		},
 		{
-			"id":"ea0d835d529b53a5",
-			"type":"text",
-			"text":"# [[Primeiras Grandes Caçadas]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":680,
-			"y":700,
-			"width":300,
-			"height":100,
-			"color":"4"
-		},
-		{
 			"id":"edcccf1ef86f2f61",
 			"type":"text",
 			"text":"# [[Diamante se Torna uma Potência]]",
@@ -178,21 +208,6 @@
 			"width":310,
 			"height":120,
 			"color":"1"
-		},
-		{
-			"id":"c7c24db147fddc24",
-			"type":"text",
-			"text":"# [[Crescimento do Reino de Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":3960,
-			"y":300,
-			"width":300,
-			"height":120,
-			"color":"3"
 		},
 		{
 			"id":"40d54f5bdb04f25a",
@@ -210,18 +225,48 @@
 			"color":"3"
 		},
 		{
-			"id":"46c4d5fb0493cf06",
+			"id":"248bd5f2e0c0827e",
 			"type":"text",
-			"text":"# [[Queda de Malaquita]]",
+			"text":"# [[Surgimento dos Vermes da Insanidade]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":6780,
-			"y":305,
+			"x":5700,
+			"y":900,
+			"width":350,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"276937efdceea108",
+			"type":"text",
+			"text":"# [[Descoberta do Rei dos Vermes]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":900,
 			"width":340,
 			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"a4037a6938667215",
+			"type":"text",
+			"text":"# [[Perda do Conhecimento Original]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":2560,
+			"y":320,
+			"width":320,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -250,51 +295,6 @@
 			},
 			"x":7580,
 			"y":345,
-			"width":340,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"f1dcdaa82223f56b",
-			"type":"text",
-			"text":"# [[Declaração de Guerra Contra Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":5190,
-			"y":250,
-			"width":350,
-			"height":230,
-			"color":"3"
-		},
-		{
-			"id":"91b6d7b4c80a8c51",
-			"type":"text",
-			"text":"# [[Colapso Interno de Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":720,
-			"width":340,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"df96d1325fa6cd80",
-			"type":"text",
-			"text":"# [[Batalha de Néxora]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6280,
-			"y":305,
 			"width":340,
 			"height":120,
 			"color":"3"
@@ -375,34 +375,49 @@
 			"color":"3"
 		},
 		{
-			"id":"a4037a6938667215",
+			"id":"91b6d7b4c80a8c51",
 			"type":"text",
-			"text":"# [[Perda do Conhecimento Original]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2560,
-			"y":320,
-			"width":320,
-			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"248bd5f2e0c0827e",
-			"type":"text",
-			"text":"# [[Surgimento dos Vermes da Insanidade]]",
+			"text":"# [[Colapso Interno de Malaquita]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
 			"x":6280,
-			"y":900,
+			"y":720,
 			"width":340,
 			"height":120,
 			"color":"1"
+		},
+		{
+			"id":"df96d1325fa6cd80",
+			"type":"text",
+			"text":"# [[Batalha de Néxora]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6280,
+			"y":305,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"f1dcdaa82223f56b",
+			"type":"text",
+			"text":"# [[Declaração de Guerra Contra Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":5190,
+			"y":250,
+			"width":350,
+			"height":230,
+			"color":"3"
 		},
 		{
 			"id":"6c2028bd80b44581",
@@ -450,19 +465,34 @@
 			"color":"1"
 		},
 		{
-			"id":"7a29c476c4005963",
+			"id":"3605fb9b023bc54d",
 			"type":"text",
-			"text":"# Ascensão de Drummond",
+			"text":"# [[O Rei dos Vermes é Derrotado]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":4340,
-			"y":80,
-			"width":300,
+			"x":6760,
+			"y":900,
+			"width":340,
 			"height":120,
 			"color":"1"
+		},
+		{
+			"id":"46c4d5fb0493cf06",
+			"type":"text",
+			"text":"# [[Queda de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6760,
+			"y":305,
+			"width":340,
+			"height":120,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -825,6 +855,28 @@
 			"toNode":"cee15d3bf89fe875",
 			"toSide":"top",
 			"color":"2"
+		},
+		{
+			"id":"2f37ae54d91d9a3c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"248bd5f2e0c0827e",
+			"fromSide":"right",
+			"toNode":"276937efdceea108",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"acd7e5093b80ee7e",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"248bd5f2e0c0827e",
+			"fromSide":"right",
+			"toNode":"91b6d7b4c80a8c51",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{

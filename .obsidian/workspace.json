@@ -11,24 +11,17 @@
             "id": "917f4644aeaefb17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Rei dos Vermes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "09 - Cronologia e História/Linha do Tempo.canvas",
+                "viewState": {
+                  "x": 6771.101769854758,
+                  "y": 979.7716522591413,
+                  "zoom": 0.09525285483182067
                 }
               },
-              "icon": "lucide-file",
-              "title": "Rei dos Vermes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Linha do Tempo"
             }
           }
         ]
@@ -337,22 +330,24 @@
   },
   "active": "917f4644aeaefb17",
   "lastOpenFiles": [
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Surgimento dos Vermes da Insanidade.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Rei dos Vermes.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/O Rei dos Vermes é Derrotado.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Descoberta do Rei dos Vermes.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/3 - Era do Vazio.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Surgimento dos Vermes da Insanidade.md",
+    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Queda de Malaquita.md",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Retorno do Rei dos Vermes.md",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Morte de Drummond.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Diamante se Torna uma Potência.md",
     "98 - Dev/Homepage.canvas",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/1 - Início/Sobreviventes de Malaquita.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Economia da Sobrevivência.md",
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Morte de Drummond.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Normalização do Horror.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/2 - Era da Ruptura.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Início da Era da Coroa Quebrada.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Retorno do Rei dos Vermes.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Fundação da Guilda dos Caçadores.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Reconstrução dos Reinos.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Queda de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Colapso Interno de Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha de Néxora.md",
@@ -362,9 +357,6 @@
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Início dos Experimentos Humanos.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/1 - Início/Crescimento do Reino de Malaquita.md",
     "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Guerra dos Caçadores Ancestrais.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Ascensão do Caçador Renegado.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/3 - Fim/Formação dos Pecados Capitais.md",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Eventos Principais/2 - Meio/Estudo de Energias Proibidas.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/06 - Bismuto",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/99 - Penumbra Direita",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/F",
