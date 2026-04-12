@@ -36,7 +36,7 @@ O reino é marcado por:
 
 ## **Origens**
 
-Ágata foi fundada por povos fugidos da Queda de Malaquita, que descobriram que sua pele absorvia pequena quantidade de maldição, o suficiente para sobreviver às margens do Vale Sombrio.
+Ágata foi fundada por povos fugitivos do Vale Central após a Queda de Malaquita. Por conta da exposição ao [[Queda de Malaquita|evento]] de forma afastada, a pele deles passou a absorver uma pequena quantidade de maldição, o suficiente para sobreviver às margens do Vale Sombrio.
 
 Com o tempo, essa característica se tornou cultural e espiritual, criando uma identidade única.
 
