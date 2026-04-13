@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff9c6647d53deb4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "917f4644aeaefb17",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "09 - Cronologia e História/Linha do Tempo.canvas",
+                "file": "98 - Dev/Homepage.canvas",
                 "viewState": {
-                  "x": 8503.409381274003,
-                  "y": 221.47337854915952,
-                  "zoom": -1.4498518319539322
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -0.9924820307159838
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Linha do Tempo"
+              "title": "Homepage"
             }
           }
         ]
@@ -328,10 +328,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "917f4644aeaefb17",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
+    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Criaturas de Malaquita Entram no Ecossistema.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/1 - Início/Sobreviventes de Malaquita.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
@@ -357,7 +357,6 @@
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha de Néxora.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Declaração de Guerra Contra Malaquita.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Criação de Criaturas Artificiais.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/2 - Meio/Abertura da Fenda Onírica.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/06 - Bismuto",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/99 - Penumbra Direita",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/F",
