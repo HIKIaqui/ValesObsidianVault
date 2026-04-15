@@ -36,7 +36,7 @@ Nesse formato, cada campo carrega informações específicas sobre a origem e a 
 >>> 07 -> Bismuto
 >>> 08 -> Ágata
 >>> 09 -> Opala
->>> 10 -> Penumbra
+>>> 10 -> Jade
 >>> 99 -> Indefinido / Sigiloso
 
 #### “Z-“ Autorização Necessária

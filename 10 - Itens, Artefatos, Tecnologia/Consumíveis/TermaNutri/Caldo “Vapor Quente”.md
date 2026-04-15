@@ -18,4 +18,4 @@ Proteínas, carboidratos sintéticos com base lipídica saborizada.
 Alta em Nicotina, Cafeína e com doses de “Composto Estimulante Patenteado TermaNutri Série 3-K” (Substância altamente complexa derivada de cocaína e opioides para “Melhoria das capacidades energéticas”. E secretamente para causar dependência.).
 Altíssima em conservantes químicos para “melhor rendimento e economia”.
 
-Quando aberta, a tampa, responsável por selar uma reação química exotérmica selada, aquecendo imediatamente o conteúdo selado e soltando um vapor aromático característico.
+Quando aberta, a tampa, responsável por selar uma reação química exotérmica, aquece imediatamente o conteúdo armazenado e solta um vapor aromático característico.

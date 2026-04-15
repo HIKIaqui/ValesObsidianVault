@@ -15,9 +15,9 @@
               "state": {
                 "file": "98 - Dev/Homepage.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -0.9924820307159838
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -324,11 +324,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "98 - Dev/Homepage.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
