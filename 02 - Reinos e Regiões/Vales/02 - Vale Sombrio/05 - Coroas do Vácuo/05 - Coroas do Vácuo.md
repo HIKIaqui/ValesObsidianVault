@@ -1,4 +1,4 @@
-As **Coroas do Vácuo** são uma floresta do [[Vale]] conhecida por seu silêncio quase absoluto. À primeira vista, parece apenas uma mata densa e antiga, com árvores altas demais, copas fechadas demais e sombra demais. Porém, ao entrar, a primeira coisa percebida não é o que existe ali, mas o que falta.
+As **Coroas do Vácuo** são uma floresta do Vale Sombrio conhecida por seu silêncio quase absoluto. À primeira vista, parece apenas uma mata densa e antiga, com árvores altas demais, copas fechadas demais e sombra demais. Porém, ao entrar, a primeira coisa percebida não é o que existe ali, mas o que falta.
 
 Não há canto de pássaros.  
 Não há insetos zumbindo.  
@@ -77,7 +77,7 @@ Um segundo se passa.
 
 Então uma árvore cai dos céus.
 
-Esses faróis são uma das poucas formas de antecipar um disparo. Não garantem segurança, mas dão ao alvo uma chance mínima de reagir. Uma chance pequena, cruel e quase insuficiente — como quase tudo no Vale Sombrio.
+Esses faróis são uma das poucas formas de antecipar um disparo. Não garantem segurança, mas dão ao alvo uma chance mínima de reagir. Uma chance pequena, cruel e quase insuficiente, como quase tudo no Vale Sombrio.
 
 ---
 
