@@ -1,6 +1,4 @@
-# Coroas do Vácuo
-
-As **Coroas do Vácuo** são uma floresta do Vale Sombrio conhecida por seu silêncio quase absoluto. À primeira vista, parece apenas uma mata densa e antiga, com árvores altas demais, copas fechadas demais e sombra demais. Porém, ao entrar, a primeira coisa percebida não é o que existe ali, mas o que falta.
+As **Coroas do Vácuo** são uma floresta do [[Vale]] conhecida por seu silêncio quase absoluto. À primeira vista, parece apenas uma mata densa e antiga, com árvores altas demais, copas fechadas demais e sombra demais. Porém, ao entrar, a primeira coisa percebida não é o que existe ali, mas o que falta.
 
 Não há canto de pássaros.  
 Não há insetos zumbindo.  
