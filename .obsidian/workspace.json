@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -0.9924820307159838
                 }
               },
-              "icon": "lucide-file",
-              "title": "05 - Coroas do Vácuo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -337,12 +330,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado",
+    "10 - Itens, Artefatos, Tecnologia/Trajes",
+    "10 - Itens, Artefatos, Tecnologia/Armas",
+    "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
+    "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
+    "04 - Criaturas e Bestiário/Monstro/Monstro.md",
+    "04 - Criaturas e Bestiário/Monstro/Semi-Humano",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide",
+    "04 - Criaturas e Bestiário/Monstro/Constructo",
+    "04 - Criaturas e Bestiário/Monstro/Aberração",
+    "04 - Criaturas e Bestiário/Monstro/Dragão",
+    "04 - Criaturas e Bestiário/Monstro",
+    "04 - Criaturas e Bestiário/Humano",
+    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
-    "98 - Dev/Homepage.canvas",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/Sem título",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
@@ -362,19 +367,6 @@
     "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
     "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/2 - Meio/Normalização do Horror.md",
     "09 - Cronologia e História/Geral/2 - Era da Ruptura/2 - Era da Ruptura.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/3 - Fim/Início da Era da Coroa Quebrada.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Fundação da Guilda dos Caçadores.md",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/Reconstrução dos Reinos.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Criação do Projeto ONI.md",
-    "09 - Cronologia e História/Geral/2 - Era da Ruptura/Eventos Principais/3 - Fim/Colapso Interno de Malaquita.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/06 - Bismuto",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/99 - Penumbra Direita",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Principais/1 - Início/F",
-    "09 - Cronologia e História/Geral/1 - Era dos Sonhos/Personagens Históricos/Sem título",
-    "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/1 - Início",
-    "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/3 - Fim",
-    "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Principais/2 - Meio",
-    "09 - Cronologia e História/Geral/4 - Era da Coroa Quebrada/Eventos Secundários/1 - Início",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
