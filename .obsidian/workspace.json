@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "710c2de64348c5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2d059b1e891dbbbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -335,16 +335,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d059b1e891dbbbc",
   "lastOpenFiles": [
-    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
     "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
+    "98 - Dev/Homepage.canvas",
+    "01 - Lore Geral/Forças Fundamentais/Elemental.md",
+    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
+    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
     "01 - Lore Geral/Termos/Âncora Onírica.md",
     "01 - Lore Geral/Termos/Contrato Aberto.md",
     "01 - Lore Geral/Termos/Fenda Abortada.md",
     "Index.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
-    "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Orbe de Mana.md",
@@ -371,9 +373,6 @@
     "06 - Personagens/Por Local/Safira/QG da Força Tarefa",
     "06 - Personagens/Por Local/Safira",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Conclusões/Cruzamento Caderno x Desaparecidos.md",
-    "06 - Personagens/Entidades Oníricas/Apego.md",
-    "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
-    "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
