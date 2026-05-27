@@ -1,5 +1,9 @@
+---
+aliases:
+  - Reino de Ametista
+---
 #Reino 
-# 🟫 **SEÇÃO 1 — Resumo**
+# **Resumo**
 
 ## **Visão Geral**
 
@@ -11,7 +15,7 @@
 
 ---
 
-# 🟧 **SEÇÃO 2 — História**
+# **História**
 
 ## **Origens**
 
@@ -19,13 +23,10 @@
 
 ## **Eventos Importantes**
 
-## **Relação com o ONI e Malaquita**
-
-(Como o reino foi afetado ou reagiu aos eventos do ONI.)
 
 ---
 
-# 🟦 **SEÇÃO 3 — Política**
+# **Política**
 
 ## **Forma de Governo**
 
@@ -53,7 +54,7 @@
 
 ---
 
-# 🟩 **SEÇÃO 4 — Geografia e Ambiente**
+# **Geografia e Ambiente**
 
 ## **Clima**
 
@@ -81,7 +82,7 @@
 
 ---
 
-# 🟫 **SEÇÃO 5 — Cultura**
+# Cultura
 
 ## **Costumes e Tradições**
 
