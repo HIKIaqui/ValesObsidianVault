@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Caçadores"
             }
           }
         ]
@@ -337,8 +337,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
+    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
+    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "01 - Lore Geral/Termos/Âncora Onírica.md",
+    "01 - Lore Geral/Termos/Contrato Aberto.md",
+    "01 - Lore Geral/Termos/Fenda Abortada.md",
     "Index.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
@@ -369,11 +374,6 @@
     "06 - Personagens/Entidades Oníricas/Apego.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
-    "04 - Criaturas e Bestiário/Monstro/Monstro.md",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
