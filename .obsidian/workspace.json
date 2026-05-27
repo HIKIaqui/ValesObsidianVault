@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -290,
-                  "zoom": -2.0135148064744817
+                "file": "Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -330,6 +337,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
+    "Index.md",
+    "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Orbe de Mana.md",
@@ -357,17 +367,14 @@
     "06 - Personagens/Por Local/Safira",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Conclusões/Cruzamento Caderno x Desaparecidos.md",
     "06 - Personagens/Entidades Oníricas/Apego.md",
-    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Monstro.md",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
-    "09 - Cronologia e História/Geral/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
