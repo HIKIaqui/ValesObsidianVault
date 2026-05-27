@@ -59,7 +59,7 @@ O Bar do Destinlado é um **ponto de escoamento de contratos indesejados** — a
 ## Contratos Associados
 
 ### Contrato Aberto – Porta Antiga
-
+Nota: [[Porta dos Carnicidas]]
 - **Tipo:** Aberto (qualquer um pode aceitar)
     
 - **Ameaça conhecida:** Carnicidas

@@ -97,14 +97,19 @@ Nascem de emoções negativas comuns a muitas pessoas.
 
 ### **3. Maior**
 
-Criadas por tragédias coletivas, guerras, pragas, abusos massivos.
+Criadas por tragédias coletivas e abusos massivos.
 
 - Afetam o mundo físico
 - Distorção severa da realidade
 - Quase impossíveis de conter  
     Ex.: entidades derivadas de genocídios, grandes massacres.
 
+
 ### **4. Existencial**
+
+Criadas por tragédias coletivas massivas, como guerras e perseguições sistêmicas.
+
+### **5. Existencial**
 
 Encarnam sofrimentos universais da humanidade.
 
@@ -112,6 +117,7 @@ Encarnam sofrimentos universais da humanidade.
 - Sua presença altera leis naturais
 - Representam aspectos emocionais fundamentais  
     Ex.: **Rei dos Vermes (depressão)**.
+
 
 ---
 

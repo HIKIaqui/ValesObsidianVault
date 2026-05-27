@@ -76,6 +76,39 @@
 			"width":170,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"7ab5dfa4b375fe39",
+			"type":"text",
+			"text":"# [[Lista de Desaparecidos]]",
+			"styleAttributes":{},
+			"x":1000,
+			"y":-920,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"8b461391c33f1d1d",
+			"type":"text",
+			"text":"# [[Reformas Recentes e Orçamento|Caderno do Marceneiro]]",
+			"styleAttributes":{},
+			"x":1360,
+			"y":-920,
+			"width":240,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"70fbb9c516f6598f",
+			"type":"text",
+			"text":"# [[Cruzamento Caderno x Desaparecidos]]",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-1160,
+			"width":240,
+			"height":140,
+			"color":"4"
 		}
 	],
 	"edges":[

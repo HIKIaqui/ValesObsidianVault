@@ -48,7 +48,7 @@ O caso foi encaminhado à guilda após o número de desaparecidos chegar a 15, c
 ---
 ## Ameaças Envolvidas
 
-- [[Criatura 1]]
+- [[Apego]]
 
 - [[Criatura 2]]
 
