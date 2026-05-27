@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caçadores"
+              "title": "Index"
             }
           }
         ]
@@ -337,11 +337,15 @@
   },
   "active": "2d059b1e891dbbbc",
   "lastOpenFiles": [
+    "Infecção dos Substituidores.md",
+    "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/Eventos Principais/1 - Início/Crescimento do Reino de Malaquita.md",
+    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
+    "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
+    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
     "04 - Criaturas e Bestiário/Monstro/Monstro.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Reino de Safira/Reino de Safira.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Floresta de Turmalina/Floresta de Turmalina.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/Reino de Turmalina/Reino de Turmalina.md",
-    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "12 - Biologia/Turmalina/Plantas e Fungos/Fungo Brilho da Lua (Luminomyces turmalis).md",
@@ -352,7 +356,6 @@
     "07 - Contratos/07 - Contratos.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Guilda de Caçadores.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Força Tarefa 0.md",
-    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Posto de Caçadores Safira.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
@@ -360,9 +363,6 @@
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/03 - Turmalina.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Bar do Destinlado.md",
-    "02 - Reinos e Regiões/Template de Reino.md",
-    "01 - Lore Geral/Termos/Fenda Vazada.md",
     "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Sem título",
