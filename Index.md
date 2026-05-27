@@ -1,10 +1,6 @@
-
-
-  
+# Wiki dos Vales
 
 Bem-vindo à documentação dos Vales.
-
-  
 
 - [[Criaturas]]
 
@@ -12,4 +8,4 @@ Bem-vindo à documentação dos Vales.
 
 - [[Magia]]
 
-- [[Contratos]]
+- [[07 - Contratos|Contratos]]

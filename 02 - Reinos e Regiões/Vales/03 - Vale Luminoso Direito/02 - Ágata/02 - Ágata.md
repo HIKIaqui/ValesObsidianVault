@@ -1,5 +1,10 @@
+---
+aliases:
+  - Ágata
+  - 02 - Ágata
+---
 #Região 
-# 🟫 **SEÇÃO 1 — Resumo**
+# **Resumo**
 
 ## **Visão Geral**
 
@@ -32,7 +37,7 @@ O reino é marcado por:
 
 ---
 
-# 🟧 **SEÇÃO 2 — História**
+# **História**
 
 ## **Origens**
 
@@ -55,7 +60,7 @@ Sempre buscou conviver.
 
 ---
 
-# 🟦 **SEÇÃO 3 — Política**
+# **Política**
 
 ## **Forma de Governo**
 
@@ -85,7 +90,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟩 **SEÇÃO 4 — Geografia e Ambiente**
+# **Geografia e Ambiente**
 
 ## **Clima**
 
@@ -113,7 +118,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟫 **SEÇÃO 5 — Cultura**
+# **Cultura**
 
 ## **Costumes e Tradições**
 
@@ -133,11 +138,11 @@ O povo segue porque confia.
 
 ---
 
-# 🟥 **SEÇÃO 6 — Estrutura Social**
+# **Estrutura Social**
 
 ## **Povos e Etnia**
 
-(Ex.: Pele ágata, ligação com maldição.)
+(Ex.: [[Pele ágata]], ligação com maldição.)
 
 ## **Classes Sociais**
 
@@ -149,7 +154,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟪 **SEÇÃO 7 — Economia**
+# **Economia**
 
 ## **Principais Produtos**
 
@@ -165,7 +170,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟫 **SEÇÃO 8 — Forças Militares e Defesa**
+# **Forças Militares e Defesa**
 
 ## **Guarda do Reino**
 
@@ -181,7 +186,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟦 **SEÇÃO 9 — Magia do Reino**
+# **Magia do Reino**
 
 ## **Magias Comuns**
 
@@ -197,7 +202,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟫 **SEÇÃO 10 — Fendas e Pactos**
+# **Fendas e Pactos**
 
 ## **Perigos Comuns**
 
@@ -213,7 +218,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟥 **SEÇÃO 11 — Relações Internacionais**
+# **Relações Internacionais**
 
 ## **Como o Reino é Visto**
 
@@ -231,7 +236,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟧 **SEÇÃO 12 — Locais Importantes no Reino**
+# **Locais Importantes no Reino**
 
 (Links para outras notas, se quiser.)
 
@@ -250,7 +255,7 @@ O povo segue porque confia.
 
 ---
 
-# 🟩 **SEÇÃO 13 — NPCs Relevantes**
+# **NPCs Relevantes**
 
 Lista com links para páginas:
 
@@ -269,7 +274,7 @@ Lista com links para páginas:
 
 ---
 
-# 🟪 **SEÇÃO 14 — Criaturas do Reino**
+# **Criaturas do Reino**
 
 ## **Monstros Nativos**
 
@@ -285,7 +290,7 @@ Lista com links para páginas:
 
 ---
 
-# 🟦 **SEÇÃO 15 — Contratos Típicos do Reino**
+# **Contratos Típicos do Reino**
 
 - Fechar fendas abortadas
 - Escoltar caravanas
@@ -296,7 +301,7 @@ Lista com links para páginas:
 
 ---
 
-# 🟫 **SEÇÃO 16 — Curiosidades e Detalhes**
+# **Curiosidades e Detalhes**
 
 - Crianças são ensinadas a lidar com pesadelos como quem lida com febre.
 - A maioria tem parentes que desapareceram no Vale Sombrio.
