@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
+                "file": "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caçadores"
+              "title": "Elemental"
             }
           }
         ]
@@ -335,13 +335,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2d059b1e891dbbbc",
+  "active": "e134a5810a9df787",
   "lastOpenFiles": [
+    "01 - Lore Geral/Forças Fundamentais/Elemental/Sem título.md",
     "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
+    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Forças Fundamentais/Elemental.md",
-    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores.md",
     "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
     "01 - Lore Geral/Termos/Âncora Onírica.md",
     "01 - Lore Geral/Termos/Contrato Aberto.md",
@@ -372,7 +374,6 @@
     "06 - Personagens/Por Local/Safira/Posto Avançado Safira",
     "06 - Personagens/Por Local/Safira/QG da Força Tarefa",
     "06 - Personagens/Por Local/Safira",
-    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Pistas/Conclusões/Cruzamento Caderno x Desaparecidos.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
