@@ -1,1 +1,6 @@
+---
+aliases:
+  - 4 - Era da Coroa Quebrada
+  - Era da Coroa Quebrada
+---
 “Só que então ela veio. Uma garota que talvez tivesse a capacidade de fazer tudo mudar. Não capacidade para transformar o mundo, mas o suficiente para fazer a diferença.”

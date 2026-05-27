@@ -4,6 +4,7 @@ aliases:
 ---
 #Reino 
 # **Resumo**
+# **Resumo**
 
 ## **Visão Geral**
 
@@ -22,7 +23,6 @@ aliases:
 (Como o reino surgiu, eventos que moldaram o povo.)
 
 ## **Eventos Importantes**
-
 
 ---
 
@@ -82,7 +82,7 @@ aliases:
 
 ---
 
-# Cultura
+# **Cultura**
 
 ## **Costumes e Tradições**
 
@@ -102,7 +102,7 @@ aliases:
 
 ---
 
-# 🟥 **SEÇÃO 6 — Estrutura Social**
+# **Estrutura Social**
 
 ## **Povos e Etnia**
 
@@ -118,7 +118,7 @@ aliases:
 
 ---
 
-# 🟪 **SEÇÃO 7 — Economia**
+# **Economia**
 
 ## **Principais Produtos**
 
@@ -134,7 +134,7 @@ aliases:
 
 ---
 
-# 🟫 **SEÇÃO 8 — Forças Militares e Defesa**
+# **Forças Militares e Defesa**
 
 ## **Guarda do Reino**
 
@@ -150,7 +150,7 @@ aliases:
 
 ---
 
-# 🟦 **SEÇÃO 9 — Magia do Reino**
+# **Magia do Reino**
 
 ## **Magias Comuns**
 
@@ -166,7 +166,7 @@ aliases:
 
 ---
 
-# 🟫 **SEÇÃO 10 — Fendas e Pactos**
+# **Fendas e Pactos**
 
 ## **Perigos Comuns**
 
@@ -182,7 +182,7 @@ aliases:
 
 ---
 
-# 🟥 **SEÇÃO 11 — Relações Internacionais**
+# **Relações Internacionais**
 
 ## **Como o Reino é Visto**
 
@@ -198,7 +198,7 @@ aliases:
 
 ---
 
-# 🟧 **SEÇÃO 12 — Locais Importantes no Reino**
+# **Locais Importantes no Reino**
 
 (Links para outras notas, se quiser.)
 
@@ -217,7 +217,7 @@ aliases:
 
 ---
 
-# 🟩 **SEÇÃO 13 — NPCs Relevantes**
+# **NPCs Relevantes**
 
 Lista com links para páginas:
 
@@ -236,7 +236,7 @@ Lista com links para páginas:
 
 ---
 
-# 🟪 **SEÇÃO 14 — Criaturas do Reino**
+# **Criaturas do Reino**
 
 ## **Monstros Nativos**
 
@@ -252,7 +252,7 @@ Lista com links para páginas:
 
 ---
 
-# 🟦 **SEÇÃO 15 — Contratos Típicos do Reino**
+# **Contratos Típicos do Reino**
 
 - Fechar fendas abortadas
     
@@ -269,6 +269,6 @@ Lista com links para páginas:
 
 ---
 
-# 🟫 **SEÇÃO 16 — Curiosidades e Detalhes**
+# **Curiosidades e Detalhes**
 
 Coisas extras que enriquecem o reino.
