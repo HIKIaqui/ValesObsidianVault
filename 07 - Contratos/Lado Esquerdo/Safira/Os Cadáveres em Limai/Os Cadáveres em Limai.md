@@ -1,3 +1,7 @@
+---
+aliases:
+  - Os Cadáveres em Limai
+---
 ## Local
 
 - **Região:** Safira

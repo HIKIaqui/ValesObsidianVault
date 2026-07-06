@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "710c2de64348c5cd",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d059b1e891dbbbc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -40,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Forças Fundamentais"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -331,15 +324,21 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "2d059b1e891dbbbc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 - Lore Geral/Termos/Outro Lado do Véu.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
-    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
     "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
+    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
+    "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/2 - Era da Ruptura.md",
+    "07 - Contratos/07 - Contratos.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
+    "07 - Contratos/Lado Esquerdo/Ametista/Porta dos Carnicidas/Porta dos Carnicidas.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Termanutri S.A/Termanutri S.A.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
@@ -356,13 +355,6 @@
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/03 - Turmalina/03 - Turmalina.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
-    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
-    "09 - Cronologia e História/Cronologia dos Vales/3 - Era do Vazio/3 - Era do Vazio.md",
-    "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/2 - Era da Ruptura.md",
-    "09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/1 - Era dos Sonhos.md",
-    "12 - Biologia/Turmalina/Plantas e Fungos/Pulmões de Turmalina (Turmyces vascularis).md",
     "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Sem título",

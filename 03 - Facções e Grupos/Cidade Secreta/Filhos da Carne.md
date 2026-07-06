@@ -11,7 +11,7 @@ Eles vendem:
 >[!quote] Pra eles, pessoas não são indivíduos. São matéria-prima.
 
 ---
-## 🧠 Filosofia Interna
+## Filosofia Interna
 
 Os Filhos da Carne seguem uma ideologia simples, brutal e irrecuperável:
 
@@ -38,7 +38,7 @@ Eles não se veem como monstros.
 Se veem como honestos.
 
 ---
-## 👔 Estética
+## Estética
 
 - Pouca roupa
 - Couro
@@ -55,7 +55,7 @@ Só carne.
 
 ---
 
-## 🧾 Operação
+## Operação
 
 Os Filhos da Carne:
 • Administram prostíbulos ilegais e clandestinos
@@ -74,7 +74,7 @@ Diferente de outras facções:
 Eles sabem que são tolerados porque concentram o pior tipo de gente em um lugar só.
 
 ---
-## 🐗 O Líder – O Porco
+## O Líder – O Porco
 
 O líder dos Filhos da Carne é conhecido apenas como O Porco.
 
@@ -105,7 +105,7 @@ O porco não resolve nada sozinho. Quando alguém faz algo que ameaça os Filhos
 
 ---
 
-## ⚖️ Relação com as Outras Facções
+## Relação com as Outras Facções
 
 ### Com os [[Sem Rosto]]
 - Relação de desprezo mútuo

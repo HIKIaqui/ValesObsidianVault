@@ -1,3 +1,7 @@
+---
+aliases:
+  - O Predador de Oleon
+---
 
 #Contrato #Safira
 

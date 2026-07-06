@@ -13,7 +13,7 @@ E, se o cliente quiser,
 vendem **o silêncio eterno junto**.
 
 ---
-## 🧠 Filosofia Interna
+## Filosofia Interna
 
 Diferente das outras facções, os Sem Rosto **não têm ideologia coletiva forte**.
 
@@ -37,7 +37,7 @@ Por isso ninguém quer ser alvo deles:
 
 ---
 
-## 👔 Estética
+## Estética
 
 - Máscaras de teatro **sempre**
 - Ternos como padrão
@@ -55,7 +55,7 @@ E isso deixa tudo **mais perturbador**.
 
 ---
 
-## 🧾 Operação
+## Operação
 
 Os Sem Rosto:
 
@@ -69,14 +69,14 @@ Os Sem Rosto:
     
 
 Mas o diferencial é:  
-👉 **eles sempre podem oferecer a opção final**
+**eles sempre podem oferecer a opção final**
 
 “Você quer só saber…  
 ou quer que isso pare de existir?”
 
 ---
 
-## 🧑‍💼 O Líder
+## O Líder – O Maestro
 
 O líder dos Sem Rosto não usa máscara. Ele é:
 
@@ -98,7 +98,7 @@ ou de acordo com o recado que quer mandar.
 
 ---
 
-## ⚖️ Relação com as Outras Facções
+## Relação com as Outras Facções
 
 ### Com os Filhos da Carne
 

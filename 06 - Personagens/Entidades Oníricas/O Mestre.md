@@ -123,6 +123,18 @@ Ele pode apenas **encerrar o jogo** ou **se retirar**.
 - Os Jogos
 
 ---
+## A Plateia Onírica
+
+Sempre que O Mestre organiza um jogo, ele o faz diante de uma plateia formada por entidades do Onírico. Essas entidades não assistem como humanos assistiriam. Elas não sentem empatia, tensão ou catarse da mesma forma, mas observam os participantes como manifestações vivas de desejo, medo, culpa e contradição.
+
+Para os humanos, a plateia parece composta por manequins, bonecos, fantoches, máscaras ou silhuetas imóveis. Isso ocorre porque suas formas reais não podem existir plenamente no Véu sem distorcer a realidade ao redor. Durante os jogos, elas aplaudem, riem ou silenciam em momentos emocionalmente inadequados, reagindo não à dor humana, mas à elegância estrutural das escolhas feitas.
+
+As falas d’O Mestre frequentemente parecem quebrar a quarta parede, como se ele estivesse narrando os acontecimentos para alguém fora da realidade. Na verdade, ele está se dirigindo à plateia onírica. Os participantes são peças, mas também são elenco. Cada decisão, hesitação, traição ou sacrifício se torna parte do espetáculo.
+
+O Mestre não joga apenas para vencer.  
+Ele joga para que a vitória, a derrota e a eliminação sejam vistas.
+
+---
 
 ## Notas Importantes
 - O Mestre é a única entidade que busca ORDEM ao invés de caos.
@@ -132,3 +144,196 @@ Ele pode apenas **encerrar o jogo** ou **se retirar**.
 - Sua “justiça” é perfeita, mas completamente desumana.
 - A existência dele é a prova de que até necessidades abstratas podem gerar entidades no Onírico.
 - Ele não força ninguém a jogar, **mas se você começar, não pode parar**.
+
+---
+# Os Jogos
+
+## 5 Rodadas 
+
+1 - Cada jogador compra uma carta por turno.
+
+2 - Deve seguir o que está escrito na carta enquanto a possuir.
+
+3 - Não é permitido largar cartas.
+
+4 - Uma vez por turno, após comprar sua carta, o jogador pode fazer uma dessas ações:
+
+- Entregar uma carta para outro jogador, que não pode negar a carta.
+- Roubar uma carta aleatória de outro jogador.
+- Passar seu turno.
+
+6 - Após cinco rodadas, vence quem tiver o maior número de cartas.
+
+7 - Quebrar qualquer regra implica eliminação imediata.
+
+
+Cartas:
+
+Físicas
+
+1. Você não pode mais falar até o final do jogo. Cartas que exigem que você fale são anuladas por essa.
+2. Diga “próximo” sempre que encerrar o seu turno.
+3. Toda vez que alguém falar seu nome, você deve bater palmas.
+4. Fale mais alto que o jogador do turno anterior.
+5. Você não pode mais repetir nenhuma palavra que disser até o final do jogo.
+6. Soque seu rosto antes de realizar sua ação.
+7. Bata a cabeça na mesa antes de realizar sua ação.
+
+  
+
+Psicológicas:
+
+  
+
+1. Você deve responder “sim” a qualquer perguntar.
+2. Você deve rir sempre que um jogador for eliminado.
+3. Você deve sempre falar em tom de pergunta.
+4. Você deve escolher um jogador e copiar todas as jogadas dele a partir de agora. Essa carta é descartada caso ele seja eliminado.
+5. Você precisa insultar o jogador à sua esquerda no início de cada turno.
+6. Você deve elogiar o jogador à sua direita no início de cada turno.
+7. Você não pode contar o conteúdo dessa carta para outros jogadores.
+8. Você deve instigar a agir logo qualquer jogador que demorar a agir.
+9. No início de cada turno, você deve insistir que o jogo está quase acabando, mesmo que não esteja.
+10. Em voz alta para todos os jogadores, prometa que não vai roubar ou entregar cartas nessa partida.
+11. Diga que está com medo antes de realizar uma ação.
+
+  
+
+Interativas:
+
+1. Uma vez por turno, caso um jogador fale diretamente com você, ele compra uma carta extra.
+2. A última palavra que você disse antes de tirar essa carta não pode mais ser dita durante o jogo por nenhum dos jogadores.
+
+  
+
+  
+
+  
+
+  
+
+## Peso do Destino
+
+  
+
+Uma balança gigante, com um poço enorme embaixo, cheio de espinhos ou algo similar que mate quem cair.
+
+  
+
+1 - A balança suporta até exatos 500 quilos. Se o limite for ultrapassado, ela quebra, causando eliminação imediata a todos.
+
+  
+
+2 - Todos os jogadores vivos devem ficar de pé na balança para vencer.
+
+  
+
+3 - Todo jogador recebe uma carta com o próprio peso. Somente ele consegue ver o que está escrito na carta. (Se outro tentar ler, a carta parece estar em branco.)
+
+(O peso de todos sempre soma exatamente 500 quilos.)
+
+  
+
+4 - O peso de itens carregados não é considerado pela balança. Apenas é considerado o peso de cada um dos jogadores.
+
+  
+
+5 - Jogar fora um companheiro é permitido.
+
+  
+
+6 - Se a condição de vitória não for cumprida em 5 minutos, todos morrem.
+
+  
+
+  
+
+  
+
+## Corrida Contra o Tempo
+
+Se passa em um longo corredor com uma porta no final. 
+
+55 Passos são necessários para chegar ao final.
+
+Os jogadores podem saber disso por marcas de passos no chão, exatamente 55, indo de onde estão, até o final.
+
+1 - Um relógio gigante no teto. (Começa às 6 horas.) (O relógio é preciso o suficiente pra contar segundos e minutos sem problema.)
+
+2 - O relógio avança somente quando os jogadores se movem. Cada passo de cada um acrescenta um valor de tempo fixo ao relógio. (Um valor específico dependente de quem se moveu, mas eles não sabem os valores no início, entretanto podem tentar descobrir ao olhar o relógio.)
+
+3 - Se o ponteiro ultrapassar 12, todos morrem.
+
+4 - O objetivo é fazer o relógio parar exatamente às 12. (360 minutos ou 21.600 segundos após o início.)
+
+5 - Passar pela porta significa vitória individual imediata para o jogador que passar. O jogo continua normalmente sem ele se ainda restar tempo.
+
+6 - Passos propositalmente longos demais contam como 2.
+
+(Valores para cada passo de jogador são sempre múltiplos de 6.)
+
+(Valores base pra usar pra cada jogador, com cada letra representando o passo de um dos jogadores:
+
+A = 1:10m | 70s ( A pegada é que pra se tornar múltiplo de 6, precisa andar 3 vezes, senão o relógio desequilibra. )
+
+B = 3:24 |204s
+
+C = 4:18m | 258s
+
+D = 5:36m | 336s
+
+E = 6:06 | 366s
+
+F = 7:02m | 422s ( O ajuste fino, mas com poucas chances de ajustar. )
+
+  
+
+)
+
+  
+
+  
+
+  
+
+Xadrez Humano
+
+  
+
+  
+
+1 - Um jogo de xadrez, mas as peças brancas são os jogadores, com exceção do rei.
+
+  
+
+2 - As peças pretas são jogadas pelo mestre, que joga propositalmente mal porque sabe que os humanos não vão cooperar. (Ele evita capturar peças que se arriscam propositalmente a serem capturadas, respeitando a coragem do jogador, que é importante para seu espetáculo. Ele quer criar um jogo interessante e )
+
+  
+
+3 - Peças capturadas são mortas pelas peças que capturam.
+
+  
+
+4 - O time inteiro é eliminado se o rei for morto.
+
+  
+
+5 - As regras são iguais para ambos os times.
+
+  
+
+6 - Cada time tem 1 minuto para se mover. Caso nenhuma peça do time se mova durante esse tempo, o turno é passado para o time oposto.
+
+  
+
+7 - Peças que saiam de suas casas fora de seus turnos ou que se movam de forma errada são eliminadas imediatamente após período de 5 segundos para corrigir sua posição.
+
+  
+
+Dica para mestrar:
+
+• Ele joga mal de propósito, porque a tragédia nasce do contraste entre vantagem e fracasso. Se ele jogasse bem, seria previsível. Jogando mal, ele dá esperança, e é a esperança que cria o drama.
+
+• Ele respeita a coragem e poupa quem se arrisca, porque o espetáculo precisa de protagonistas. O público (se existir algum além dele) precisa ver que a beleza não está em vencer, mas em morrer jogando direito.
+
+• Ele não pune o erro honesto, mas extermina a hesitação. O ritmo do espetáculo exige movimento. Parar é quebrar a cena, e ele não tolera isso.

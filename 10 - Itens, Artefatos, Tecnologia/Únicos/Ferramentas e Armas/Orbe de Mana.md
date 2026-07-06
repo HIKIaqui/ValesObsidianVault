@@ -1,10 +1,9 @@
 Tipo: Consumível / Condutor Mágico  
-Peso: 0 ou 0,5  
+Peso: 0 ou 1
 Raridade: Incomum a Raro  
 Uso: Armazenar e liberar conjurações mágicas  
 Ativação: Quebrar o orbe  
-Capacidade padrão: 2 conjurações  
-Capacidade avançada: 3 conjurações  
+Capacidade: Depende da Raridade, como definido abaixo.  
 Preço sugerido (Por nível): 200E$ | 350E$ | 500E$
 
 ---
@@ -62,6 +61,6 @@ Quanto maior a qualidade, mais conjurações um orbe pode armazenar com seguran�
 --- 
 ## Fiscalização
 
-Orbes de Mana são sujeitos a inspeção em cidades, postos militares, castelos, sedes da Guilda e fronteiras. Guardas treinados podem usar uma [[Lente de Assinatura]] para detectar concentração e tipo de energia armazenada. Caso a leitura indique alta concentração de mana, instabilidade ou energia destrutiva, um [[Perito Rúnico]] pode ser chamado para identificar a conjuração gravada.
+Orbes de Mana são sujeitos a inspeção em cidades, postos militares, castelos, sedes da Guilda e fronteiras. Guardas treinados podem usar um [[Arcanoscópio]] para detectar concentração e tipo de energia armazenada. Caso a leitura indique alta concentração de mana ou instabilidade, um [[Perito Rúnico]] pode ser chamado para identificar a conjuração gravada e a qualidade do orbe.
 
 Orbes utilitários normalmente são permitidos mediante declaração. Orbes ofensivos podem exigir licença. Orbes destrutivos, instáveis ou ocultados podem ser confiscados imediatamente, e seu portador pode ser tratado como ameaça armada.
