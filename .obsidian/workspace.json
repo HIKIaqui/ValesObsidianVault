@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Cronologia e História/Cronologia dos Vales/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
+                "file": "06 - Personagens/Lendários/Caçador Renegado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exposição da Verdade da Guilda por Elgor"
+              "title": "Caçador Renegado"
             }
           }
         ]
@@ -337,7 +337,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - Personagens/Vagantes",
+    "06 - Personagens/Lendários/Elgor de Rubi.md",
+    "06 - Personagens/Lendários/Caçador Renegado.md",
+    "06 - Personagens/Lendários/Drummond de Diamante.md",
+    "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md",
+    "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md",
+    "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
+    "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
+    "06 - Personagens/Entidades Oníricas/Inevitáveis",
+    "06 - Personagens/Entidades Oníricas/Predatórias",
+    "06 - Personagens/Entidades Oníricas/Observadoras",
+    "09 - Cronologia e História/Cronologia dos Vales/3 - Era do Vazio/Eventos Secundários/3 - Fim/Exposição da Verdade da Guilda por Elgor.md",
+    "06 - Personagens/Entidades Oníricas/Negociadoras",
+    "06 - Personagens/Andarilhos",
     "06 - Personagens/Recorrentes",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "08 - Campanhas/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
@@ -359,22 +371,10 @@
     "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
     "07 - Contratos/07 - Contratos.md",
-    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
-    "07 - Contratos/Lado Esquerdo/Ametista/Porta dos Carnicidas/Porta dos Carnicidas.md",
-    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/01 - Rubi/Reino de Rubi/Empresas/Termanutri S.A/Termanutri S.A.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Sem título",
     "06 - Personagens/Lendários",
     "06 - Personagens/Por Local/Ametista/Reino de Ametista/Bar do Destinlado",
-    "06 - Personagens/Por Local/Ametista/Academia de Caçadores Ametista",
-    "06 - Personagens/Por Local/Ametista/Reino de Ametista",
-    "06 - Personagens/Por Local/Ametista",
-    "06 - Personagens/Por Local/Safira/Posto Avançado Safira",
-    "06 - Personagens/Por Local/Safira/QG da Força Tarefa",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",

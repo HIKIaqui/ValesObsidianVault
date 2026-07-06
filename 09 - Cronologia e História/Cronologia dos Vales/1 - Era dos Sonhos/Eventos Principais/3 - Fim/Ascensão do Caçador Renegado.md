@@ -7,7 +7,7 @@ O caçador que explorava energias proibidas rompe completamente com o grupo, aba
   
 ## Consequências  
 - Fragmentação dos [[Caçadores Ancestrais]]  
-- Surgimento de seguidores leais ao [[Caçador Renegado|Renegado]]  
+- Surgimento de seguidores leais ao [[09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/Personagens Históricos/Caçador Renegado|Renegado]]  
 - Formação inicial dos futuros Pecados Capitais
   
 ## Conexões  

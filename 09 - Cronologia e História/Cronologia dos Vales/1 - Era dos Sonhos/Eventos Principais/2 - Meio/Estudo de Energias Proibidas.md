@@ -11,7 +11,7 @@ Um dos [[Caçadores Ancestrais]] começa a explorar formas de energia além da [
 - Início da corrupção conceitual do papel do [[Caçadores|caçador]]
   
 ## Conexões  
-- [[Caçador Renegado]]  
+- [[09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/Personagens Históricos/Caçador Renegado]]  
 - [[Queda dos Caçadores Ancestrais]]
   
 ## Notas

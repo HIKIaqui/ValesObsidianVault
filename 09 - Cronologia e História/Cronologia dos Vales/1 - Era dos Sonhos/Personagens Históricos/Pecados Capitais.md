@@ -1,1 +1,1 @@
-Os grandes erros. Seguidores leais do [[Caçador Renegado]].
+Os grandes erros. Seguidores leais do [[09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/Personagens Históricos/Caçador Renegado]].
