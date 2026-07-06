@@ -30,7 +30,7 @@ Elemental (Passiva): Pode usar técnicas elementais. Um tipo de elemental apenas
 
 Caçador (Passiva): +1 Dado para toda ação relacionada a monstros.
 
-Corte de Prata: Técnica | Precisão 0 | Dano 2d6 | Crítico 20 | +1d4 de Dano contra monstros.De 
+Corte de Prata: Técnica | Precisão 0 | Dano 2d6 | Crítico 20 | +1d6 de Dano contra monstros.De 
 
 # Descrição
 
