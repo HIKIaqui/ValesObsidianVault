@@ -120,7 +120,7 @@
 
 ---
 
-## Inventário do NPC (se for relevante)
+## Inventário do NPC (se for relevante.)
 -  
 -  
 -  
