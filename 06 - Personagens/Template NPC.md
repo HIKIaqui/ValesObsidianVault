@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Personalidade
+## Personalidade
 **Descrição Geral:**  
 (Como o NPC pensa, age, vê o mundo, tom de voz, humor, traumas, peculiaridades sociais.)
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎭 Maneirismos
+## Maneirismos
 (Ações repetidas, trejeitos, postura, cacoetes, forma de falar, frases típicas.)
 
 -  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🧷 História e Contexto
+## História e Contexto
 (Resumo do passado, eventos traumáticos, conexões com reinos, mudança de vida, razão de ser quem é.)
 
 -  
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧩 Relações Importantes
+## Relações Importantes
 **Aliados / Amigos:**  
 -  
 
@@ -65,8 +65,8 @@
 
 ---
 
-## 💼 Ocupação / Utilidade Mecânica
-(O que o NPC oferece aos jogadores em termos de sistema.)
+## Ocupação / Utilidade Mecânica
+(O que o NPC oferece aos jogadores em termos de sistema, se oferecer algo.)
 
 - Serviços:  
 - Preços:  
@@ -76,8 +76,8 @@
 
 ---
 
-## ⚔️ Combate (Opcional)
-(NPC normalmente não combate, mas aqui fica ficha básica caso precise.)
+## Combate (Opcional)
+(NPC normalmente não luta, mas aqui tem espaço pra ficha básica caso precise.)
 
 - **Grau de Perigo:**  
 - **PV:**  
@@ -92,7 +92,7 @@
 
 ---
 
-## 🧪 Segredos
+## Segredos
 (Nível 1: o que qualquer um descobre; nível 2: o que só aliados percebem; nível 3: o que ninguém sabe.)
 
 - **Segredo 1:**  
@@ -101,7 +101,7 @@
 
 ---
 
-## 🗣️ Ganchos Narrativos
+## Ganchos Narrativos
 (Como esse NPC pode puxar missões, dilemas, conflitos ou comédia.)
 
 -  
@@ -110,7 +110,7 @@
 
 ---
 
-## 🎨 Aparência
+## Aparência
 - Descrição física detalhada  
 - Roupas  
 - Postura  
@@ -120,14 +120,14 @@
 
 ---
 
-## 🧰 Inventário do NPC (se for relevante)
+## Inventário do NPC (se for relevante)
 -  
 -  
 -  
 
 ---
 
-## 📌 Notas do Mestre
+## Notas do Mestre
 (Uso livre: ajustes futuros, eventos que mudou, como reagiu aos jogadores, pequenas correções.)
 
 -  
