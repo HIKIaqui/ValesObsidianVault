@@ -104,10 +104,6 @@ Durante os anos seguintes, diversos casos de desaparecimentos de crianças acont
 
 - Bicho-Papão
 
-- [[Criatura 2]]
-
-- Fatores ambientais
-
 ---
 ## NPCs Envolvidos
 
@@ -124,7 +120,7 @@ Durante os anos seguintes, diversos casos de desaparecimentos de crianças acont
 - Demonstra medo intenso de escuro, frestas e lugares apertados.
 - Isolado das outras crianças por “exagerar no medo”.
 
-### 📚 [[Illya]] (Posto de Safira)
+### [[Illya]] (Posto de Safira)
 - Bibliotecária da Guilda.
 - Observou padrões em contratos retirados ao longo dos anos.
 - Entrega documentos antigos **antes da partida**, dizendo apenas:
