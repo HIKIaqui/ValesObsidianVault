@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -207.2267284518179,
-                  "y": -495.92307692307696,
-                  "zoom": -1.0252719658336533
+                "file": "06 - Personagens/Lendários/Caçador Renegado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Caçador Renegado"
             }
           }
         ]
@@ -330,9 +337,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - Personagens/Lendários/Caçador Renegado.md",
     "06 - Personagens/Lendários/Elgor de Rubi.md",
+    "06 - Personagens/Lendários/Caçador Renegado.md",
     "06 - Personagens/Lendários/Drummond de Diamante.md",
+    "98 - Dev/Homepage.canvas",
     "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md",
     "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md",
     "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
@@ -358,12 +366,10 @@
     "04 - Criaturas e Bestiário/Animador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Monstro.md",
-    "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Termos/Outro Lado do Véu.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
-    "07 - Contratos/07 - Contratos.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Sem título",
     "06 - Personagens/Lendários",
