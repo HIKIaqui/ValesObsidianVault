@@ -648,7 +648,7 @@ Violet não existiria.
 
 _A ficha representa Drummond durante a campanha contra o Rei dos Vermes._
 
-- **Grau de Perigo:** Grau 4 como combatente; equivalente a Grau 5 quando comanda tropas preparadas
+- **Grau de Perigo:** Grau 3 como combatente; equivalente a Grau 4 quando comanda tropas preparadas
     
 - **PV:** 55
     

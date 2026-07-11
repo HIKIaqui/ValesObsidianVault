@@ -806,7 +806,7 @@ Também é possível que já tivesse acabado.
 
 _A ficha representa uma manifestação material capaz de agir no mundo. Não existe garantia de que destruir essa manifestação significaria matar o verdadeiro Renegado._
 
-- **Grau de Perigo:** Grau 5
+- **Grau de Perigo:** Grau 4
     
 - **PV:** 80
     
