@@ -872,7 +872,7 @@ _Estes valores existem para organizar cenas, perseguições e consequências. El
     
 - **Esquiva:** 12
     
-- **Deslocamento:** 2 Níveis de Distância no solo / 6 Níveis durante voo
+- **Deslocamento:** 3 Níveis de Distância no solo / 6 Níveis durante voo
     
 
 **Atributos relevantes:**
@@ -911,16 +911,16 @@ _Estes valores existem para organizar cenas, perseguições e consequências. El
 
 **Ataques:**
 
-- **Mordida Kolsin:** Porrada | Precisão -1 | Dano 6d12 Perfurante | Crítico 19+ | O alvo atingido fica Agarrado. Caso já esteja Agarrado, Elfialt pode arremessá-lo ou engoli-lo.
+- **Mordida Kolsin:** Porrada | Precisão -4 | Dano 6d12 Perfurante | Crítico 19+ | O alvo atingido fica Agarrado. Caso já esteja Agarrado, Elfialt pode arremessá-lo ou engoli-lo.
     
-- **Garras de Cerco:** Porrada | Precisão 0 | Dano 4d12 Cortante | Crítico 19+ | Causa Sangramento 5. Resistência Dif. 25. Pode atingir estruturas e múltiplos alvos próximos.
+- **Garras de Cerco:** Porrada | Precisão 0 | Dano 5d12 Cortante | Crítico 19+ | Causa Sangramento 6. Resistência Dif. 25. Pode atingir estruturas e múltiplos alvos próximos.
     
-- **Sopro da Ruína:** Porrada | Precisão +1 | Dano 8d10 de Calor | Crítico 20 | Área em cone. Ignora 5 pontos de Armadura. Resistência Dif. 25 reduz o dano pela metade. Aplica Queimadura 5 e incendeia o ambiente.
+- **Sopro da Ruína:** Porrada | Precisão -4 | Dano 8d10 de Calor | Crítico 20 | Área em cone. Ignora 5 pontos de Armadura. Resistência Dif. 25 reduz o dano pela metade. Aplica Queimadura e incendeia o ambiente.
     
 
 ## **Técnicas e Poderes:**
 
-### **Batida de Asas — 3 PE**
+### **Batida de Asas - 3 PE**
 
 Elfialt bate as asas com força suficiente para criar uma onda de choque.
 
@@ -935,7 +935,7 @@ Todos em uma grande área diante dele sofrem:
 
 Fumaça, gases, projéteis e estruturas frágeis também são afastados.
 
-### **Abrigo de Asas — 2 PE**
+### **Abrigo de Asas - 2 PE**
 
 Elfialt utiliza o próprio corpo e as asas para proteger criaturas menores.
 
@@ -954,7 +954,7 @@ Todos sob suas asas recebem cobertura total contra:
 
 O dano é recebido por Elfialt.
 
-### **Caçada Celeste — 4 PE**
+### **Caçada Celeste - 4 PE**
 
 Elfialt sobe rapidamente e mergulha sobre um alvo ou região.
 
@@ -969,7 +969,7 @@ Move-se em até 6 Níveis de Distância e causa:
 - Formação de terreno difícil.
     
 
-### **Incendiar o Horizonte — 8 PE**
+### **Incendiar o Horizonte - 8 PE**
 
 Elfialt libera fogo continuamente enquanto sobrevoa uma região.
 
@@ -979,7 +979,7 @@ Todos na região sofrem 6d10 de Calor no início de cada turno enquanto permanec
 
 O incêndio continua depois do término da técnica e pode espalhar-se conforme o ambiente.
 
-### **Tempestade de Cinzas — 6 PE**
+### **Tempestade de Cinzas - 6 PE**
 
 Elfialt utiliza as asas para erguer uma nuvem massiva de cinzas.
 
@@ -998,7 +998,7 @@ Durante a tempestade:
 
 A tempestade pode se deslocar pelo mapa conforme o vento.
 
-### **Rugido do Devorador — 5 PE**
+### **Rugido do Devorador - 5 PE**
 
 Todos capazes de ouvir testam Vontade Dif. 30.
 
@@ -1387,7 +1387,7 @@ Seu corpo é alongado e pesado, construído para voo prolongado e força bruta. 
 
 Suas escamas possuem tonalidade escura, variando entre carvão, cinza e vermelho queimado. Em regiões próximas às articulações e ao peito, pequenas linhas de calor brilham por baixo das escamas quando respira profundamente.
 
-Os olhos são brilhantes e facilmente visíveis mesmo através de tempestades. Sua expressão costuma paqer fria, mas emoções tornam-se perceptíveis pelo estreitamento das pupilas e pela intensidade do brilho.
+Os olhos são brilhantes e facilmente visíveis mesmo através de tempestades. Sua expressão costuma parecer fria, mas emoções tornam-se perceptíveis pelo estreitamento das pupilas e pela intensidade do brilho.
 
 As asas são enormes e marcadas por cicatrizes. Algumas membranas apresentam rasgos antigos que cicatrizaram de forma irregular.
 
@@ -1432,7 +1432,7 @@ Não parece vir apenas de sua garganta. O som vibra no chão, no peito e nos oss
 
 Elfialt não precisa gritar para intimidar.
 
-Quando realmente ruge, estruturas frágeis tremem e animais fogem antes mesmo de compreender a direção do som.
+Quando realmente ruge, estruturas tremem e animais fogem antes mesmo de compreender a direção do som.
 
 ## **Cheiro:**
 
@@ -1482,15 +1482,13 @@ Ele provavelmente odiaria todas essas imagens por motivos diferentes.
 
 ## Inventário e Relíquias
 
-Elfialt não possui inventário convencional e não acumula ouro.
+Elfialt não possui inventário convencional.
 
 Objetos associados a ele incluem:
 
 - **Fragmentos das Correntes de Rubi:** partes dos mecanismos utilizados em sua captura.
     
 - **Escamas de Elfialt:** escamas perdidas naturalmente ou falsificações vendidas por preços absurdos.
-    
-- **Dente Quebrado:** supostamente perdido durante a Batalha das Cinzas. Sua localização é desconhecida.
     
 - **Chifre Partido:** nunca recuperado e possivelmente guardado por Rubi.
     
@@ -1582,7 +1580,7 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
 
 - O local de nascimento de Elfialt
     
-- Como Rubi conseguiu capturá-lo
+- Como [[01 - Rubi|Rubi]] conseguiu capturá-lo
     
 - Quantas cidades foram destruídas
     
@@ -1592,7 +1590,7 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Quanto tempo durou a devastação
     
-- Por que permaneceu no deserto
+- Por que permaneceu no [[01 - Deserto das Cinzas|Deserto das Cinzas]]
     
 - Se possui familiares vivos
     
@@ -1602,7 +1600,7 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Se poupou cidades ou pessoas deliberadamente
     
-- Se ainda pretende vingar-se de Rubi
+- Se ainda pretende vingar-se de [[01 - Rubi|Rubi]]
     
 
 ## **Testemunhas ainda vivas:**
@@ -1638,13 +1636,9 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Não transformar sua história numa absolvição completa.
     
-- Ele foi vítima de Rubi e responsável pelo massacre de inocentes.
+- Ele foi vítima de [[01 - Rubi|Rubi]] e responsável pelo massacre de inocentes. As duas afirmações precisam permanecer verdadeiras simultaneamente.
     
-- As duas afirmações precisam permanecer verdadeiras simultaneamente.
-    
-- Elfialt não pede perdão.
-    
-- Também não exige que compreendam suas ações.
+- Elfialt não pede perdão. Também não exige que compreendam suas ações.
     
 - Ele sabe que é cruel.
     
@@ -1654,25 +1648,13 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Ele não odeia todos os indivíduos humanos igualmente; odeia a possibilidade de confiar neles.
     
-- Semi-humanos e monstros conscientes não recebem amizade automática, apenas deixam de ser condenados imediatamente pelo cheiro.
+- Semi-humanos e monstros conscientes não recebem amizade automática, apenas deixam de ser condenados imediatamente pelo cheiro (Kabuki confrontá-lo e Elfialt concordar é uma boa referência para seu comportamento: ele aceita acusações honestas quando são verdadeiras.).
     
-- Kabuki confrontá-lo e Elfialt concordar é uma boa referência para seu comportamento: ele aceita acusações honestas quando são verdadeiras.
-    
-- A ajuda oferecida a Violet não transforma Elfialt em aliado permanente.
-    
-- Ele pode ajudá-la em uma situação e ameaçar destruir soldados de Diamante em outra.
+- A ajuda oferecida a Violet não transforma Elfialt em aliado permanente. Ele pode ajudá-la em uma situação e ameaçar destruir soldados de Diamante em outra.
     
 - Não utilizar Elfialt como transporte recorrente. A primeira viagem funciona justamente por ser absurda, rara e politicamente impactante.
     
-- Qualquer aparição dele deve alterar a cena mesmo sem combate.
-    
-- Animais fogem.
-    
-- Soldados se organizam sabendo que não podem vencer.
-    
-- Conversas param.
-    
-- O céu escurece.
+- Qualquer aparição dele deve alterar a cena mesmo sem combate: Animais fogem, Soldados se organizam sabendo que não podem vencer, Conversas param, O céu escurece.
     
 - Personagens não devem perguntar “conseguimos matar?” antes de perguntarem “por que ele veio?”.
     
@@ -1682,9 +1664,7 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Quanto mais ameaçado, menos distingue o presente do momento de sua captura.
     
-- A melhor cena possível com Elfialt não é derrotá-lo.
-    
-- É fazê-lo tomar uma decisão que prove que seu ódio ainda não escolhe tudo por ele.
+- A melhor cena possível com Elfialt não é derrotá-lo. É fazê-lo tomar uma decisão que prove que seu ódio ainda não escolhe tudo por ele.
     
 - Seu segredo como guardião das ruínas não o torna secretamente heroico. Ele protege o mundo, pune a si mesmo e mantém humanos longe simultaneamente.
     
