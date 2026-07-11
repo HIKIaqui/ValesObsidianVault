@@ -911,9 +911,9 @@ _Estes valores existem para organizar cenas, perseguições e consequências. El
 
 **Ataques:**
 
-- **Mordida Kolsin:** Porrada | Precisão -4 | Dano 6d12 Perfurante | Crítico 19+ | O alvo atingido fica Agarrado. Caso já esteja Agarrado, Elfialt pode arremessá-lo ou engoli-lo.
+- **Mordida Kolsin:** Porrada | Precisão -9 | Dano 6d12 Perfurante | Crítico 19+ | O alvo atingido fica Agarrado. Caso já esteja Agarrado, Elfialt pode arremessá-lo ou engoli-lo. Engolir mata o alvo instantaneamente.
     
-- **Garras de Cerco:** Porrada | Precisão 0 | Dano 5d12 Cortante | Crítico 19+ | Causa Sangramento 6. Resistência Dif. 25. Pode atingir estruturas e múltiplos alvos próximos.
+- **Garras de Cerco:** Porrada | Precisão -1 | Dano 5d12 Cortante | Crítico 19+ | Causa Sangramento 6. Resistência Dif. 25. Pode atingir estruturas e múltiplos alvos próximos.
     
 - **Sopro da Ruína:** Porrada | Precisão -4 | Dano 8d10 de Calor | Crítico 20 | Área em cone. Ignora 5 pontos de Armadura. Resistência Dif. 25 reduz o dano pela metade. Aplica Queimadura e incendeia o ambiente.
     
@@ -993,14 +993,14 @@ Durante a tempestade:
     
 - O terreno torna-se difícil;
     
-- Elfialt continua localizando criaturas pelo cheiro e vibração.
+- Elfialt continua localizando criaturas pelo cheiro e vibração e é imune aos efeitos da tempestade.
     
 
 A tempestade pode se deslocar pelo mapa conforme o vento.
 
 ### **Rugido do Devorador - 5 PE**
 
-Todos capazes de ouvir testam Vontade Dif. 30.
+Todos capazes de ouvir testam Vontade Dif. 30. Criaturas que já conhecem sua história recebem -1 dado no teste.
 
 Em caso de falha:
 
@@ -1011,7 +1011,7 @@ Em caso de falha:
 - Não podem voluntariamente aproximar-se de Elfialt por 1 turno.
     
 
-Criaturas que já conhecem sua história recebem -1 dado no teste.
+
 
 ## **Características Únicas:**
 
@@ -1067,7 +1067,7 @@ Disfarces visuais não alteram essa percepção.
 
 ### **Voo Colossal**
 
-Enquanto estiver voando, Elfialt não pode ser alcançado por ataques corpo a corpo comuns.
+Enquanto estiver voando, Elfialt recebe +1 nível de distância de diferença contra acertos direcionados a ele. Isso torna ataques corpo a corpo impossíveis se não tiverem pelo menos alcance +1.
 
 Pode transportar dezenas de pessoas ou grandes quantidades de carga sem perder deslocamento relevante.
 
@@ -1089,7 +1089,7 @@ Essas criaturas não são automaticamente tratadas como inimigas e recebem +1 da
 
 Quando Elfialt perde mais da metade dos PV:
 
-- Todas as técnicas passam a custar -1 PE;
+- Todas as suas técnicas passam a custar -1 PE;
     
 - Seus ataques causam +1 Dado de Dano;
     
@@ -1166,13 +1166,13 @@ Matar Elfialt exigiria:
     
 - Armas ou relíquias de Grau 5;
     
-- Preparação específica contra Kolsin;
+- Preparação específica contra ele;
     
 - A destruição ou imobilização das asas;
     
 - Perdas humanas enormes;
     
-- E a devastação permanente da região onde o combate acontecesse.
+- E a provável devastação permanente da região onde o combate acontecesse.
     
 
 Mesmo uma vitória provavelmente criaria uma catástrofe comparável à própria Batalha das Cinzas.
