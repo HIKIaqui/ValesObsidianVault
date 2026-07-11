@@ -65,7 +65,7 @@ Sua compaixão aparece de maneira rara, brusca e grandiosa. Ele não oferece pal
 
 ## **Traços Centrais:**
 
-- Ódio profundo e condicionado contra humanos
+- Ódio profundo e condicionado contra humanos, e apenas humanos (Semi-Humanos e similares não inclusos.).
     
 - Inteligência e autoconsciência muito acima daquilo que relatos populares admitem
     
@@ -500,7 +500,7 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Sua invulnerabilidade absoluta
     
-- O tamanho de seu corpo em pinturas e lendas (Um)
+- O tamanho de seu corpo em pinturas e lendas (Um pouco. Ele ainda assim é gigantesco.)
     
 - A crença de que controla conscientemente todas as tempestades de cinzas
     
@@ -519,7 +519,7 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Tentativas iniciais de escapar em vez de atacar
     
-- A presença de civis em Malaquita
+- A presença de civis em [[02 - Malaquita|Malaquita]]
     
 - O momento em que compreendeu estar matando pessoas não relacionadas à tortura
     
@@ -530,11 +530,11 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
 
 ## **O que foi completamente inventado:**
 
-- Que Elfialt servia voluntariamente a Rubi
+- Que Elfialt servia voluntariamente a [[01 - Rubi|Rubi]]
     
-- Que Malaquita o criou em laboratório
+- Que [[02 - Malaquita|Malaquita]] o criou em laboratório
     
-- Que é uma entidade onírica
+- Que é uma [[Entidades Oníricas|Entidade Onírica]]
     
 - Que precisa devorar sonhos para sobreviver
     
@@ -542,18 +542,18 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Que não possui inteligência
     
-- Que a Batalha das Cinzas foi causada por um ataque de Malaquita contra seu ninho
+- Que a [[Batalha das Cinzas]] foi causada por um ataque de [[02 - Malaquita|Malaquita]] contra seu ninho
     
-- Que guarda um tesouro de ouro sob o deserto
+- Que guarda um tesouro de ouro sob o [[01 - Deserto das Cinzas|Deserto das Cinzas]]
     
-- Que pode ser controlado utilizando a Coroa de Rubi
+- Que pode ser controlado utilizando a Coroa de [[01 - Rubi|Rubi]]
     
 - Que obedece a qualquer pessoa que sobreviva ao seu fogo
     
 
 ## **Diferença entre intenção e consequência:**
 
-Rubi pretendia destruir um domínio inimigo.
+[[01 - Rubi|Rubi]] pretendia destruir um domínio inimigo.
 
 Como consequência, criou uma criatura hostil à humanidade inteira e uma região permanentemente inabitável.
 
@@ -561,13 +561,13 @@ Elfialt inicialmente queria escapar e destruir aqueles associados ao próprio so
 
 Como consequência, matou milhares de pessoas sem relação direta com sua captura.
 
-Permaneceu no Deserto para impedir que humanos voltassem a controlá-lo e para vigiar as ruínas.
+Permaneceu no [[01 - Deserto das Cinzas|Deserto das Cinzas]] para impedir que humanos voltassem a controlá-lo e para vigiar as ruínas.
 
 Como consequência, matou viajantes inocentes e impediu sobreviventes de recuperar partes da própria história.
 
-Protegeu Violet e seu grupo por reconhecer neles algo diferente.
+Protegeu [[Violet]] e seu grupo por reconhecer um semi-humano entre o grupo, [[Kabuki]], alguém afetado de forma similar a ele.
 
-Como consequência, ajudou diretamente a colocar uma nova rainha no centro da política de Diamante.
+Como consequência, ajudou diretamente a colocar uma nova rainha no centro da política de [[04 - Diamante|Diamante]].
 
 ---
 
@@ -579,7 +579,7 @@ Elfialt não mantém aliados formais conhecidos.
 
 Sua hostilidade, isolamento e poder tornam relações contínuas extremamente difíceis.
 
-Ainda assim, algumas criaturas do Deserto das Cinzas aprenderam a reconhecer seus movimentos e vivem em regiões nas quais sua presença impede a aproximação humana.
+Ainda assim, algumas criaturas do [[01 - Deserto das Cinzas|Deserto das Cinzas]] aprenderam a reconhecer seus movimentos e vivem em regiões nas quais sua presença impede a aproximação humana.
 
 Essas criaturas não são exatamente companheiras. São parte de um ecossistema organizado ao redor de sua existência.
 
@@ -1697,6 +1697,5 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
 - Elfialt é uma arma abandonada que decidiu nunca mais permitir que alguém segurasse seu cabo.
     
 - Sua pergunta central é:
-    
-
 > Quanto daquilo que nos tornamos ainda pode ser chamado de escolha quando alguém trabalhou tanto para nos destruir?
+- Outros dragões tendem a achar Elfialt violento demais, temperamental demais dado que tem um tempo de vida muito superior ao de humanos, e que já deveria ter superado seus traumas e buscado crescimento pessoal. Por isso esses dragões em sua maioria quase absoluta o desprezam.
