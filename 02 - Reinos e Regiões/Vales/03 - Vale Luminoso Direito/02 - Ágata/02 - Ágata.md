@@ -305,5 +305,5 @@ Lista com links para páginas:
 
 - Crianças são ensinadas a lidar com pesadelos como quem lida com febre.
 - A maioria tem parentes que desapareceram no Vale Sombrio.
-- O povo raramente grita — para não atrair entidades.
+- O povo raramente grita, para não atrair entidades.
 - Rituais de luto envolvem silêncio absoluto.

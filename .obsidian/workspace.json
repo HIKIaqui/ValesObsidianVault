@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "06 - Personagens/Lendários/Caçador Renegado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Caçador Renegado"
             }
           }
         ]
@@ -324,21 +331,28 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
-    "06 - Personagens/Lendários/Template NPC.md",
+    "06 - Personagens/Lendários/Pecados Capitais",
+    "06 - Personagens/Lendários/Drummond de Diamante.md",
+    "09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/Personagens Históricos/Caçadores Ancestrais.md",
     "06 - Personagens/Lendários/Caçador Renegado.md",
+    "06 - Personagens/Lendários/Template NPC.md",
+    "06 - Personagens/Template NPC.md",
+    "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata.md",
+    "02 - Ágata.md",
     "98 - Dev/Homepage.canvas",
+    "06 - Personagens/Lendários/Elgor.md",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean/Ramir de Citrino.md",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Dean de Malaquita.md",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes",
     "06 - Personagens/99 - De Campanhas",
     "06 - Personagens/Lendários/Elgor de Rubi.md",
-    "06 - Personagens/Lendários/Drummond de Diamante.md",
     "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md",
     "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md",
     "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
@@ -360,12 +374,6 @@
     "09 - Cronologia e História/Cronologia dos Vales/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
-    "04 - Criaturas e Bestiário/Constructo Magnético.md",
-    "04 - Criaturas e Bestiário/Animador.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
-    "04 - Criaturas e Bestiário/Monstro/Monstro.md",
-    "01 - Lore Geral/Termos/Outro Lado do Véu.md",
-    "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
