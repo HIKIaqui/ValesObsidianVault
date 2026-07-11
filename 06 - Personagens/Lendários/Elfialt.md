@@ -234,31 +234,22 @@ Ao considerar seu ódio inevitável, transforma repetidamente trauma em destino.
 **Frases típicas:**
 
 - “Vocês cheiram a humanos.”
-    
 - “Não temos culpa de ser o que somos.”
-    
 - “Agarrem esses sonhos com força.”
-    
 - “Eu conheço esse cheiro. Correntes, medo e gente dizendo que é necessário.”
-    
 - “Não confunda arrependimento com perdão.”
-    
 - “Este não é meu lar. É apenas onde parei.”
-    
 - “Eu sei que é cruel.”
-    
 - “Humanos sempre chamam de batalha aquilo que fizeram sem permitir que o outro lado lutasse.”
-    
 - “Não me peça para esquecer. Peça para eu escolher diferente.”
-    
 - “Eu não destruí apenas os culpados. É por isso que continuo aqui.”
-    
+- “Queria apenas que humanos me deixassem só.”
 
 ---
 
 ## História e Contexto
 
-Elfialt nasceu longe dos reinos humanos, em uma região não registrada nos mapas atuais.
+Elfialt nasceu longe dos reinos humanos, em uma região desconhecida.
 
 Como a maioria dos [[Kolsin]] adultos, viveu durante grande parte da vida sem manter contato constante com civilizações humanas. Possuía inteligência, linguagem e relações próprias, embora pesquisadores humanos da época tratassem dragões apenas como feras extremamente perigosas.
 
@@ -288,9 +279,9 @@ Cidades inteiras foram queimadas.
 
 Instalações militares e laboratórios foram destruídos junto de moradias, hospitais, campos e rotas de fuga.
 
-Pessoas culpadas pelas atrocidades de Malaquita morreram ao lado de prisioneiros, trabalhadores, crianças e pessoas que sequer compreendiam por que o céu havia começado a queimar.
+Pessoas culpadas pelas atrocidades de [[02 - Malaquita|Malaquita]] morreram ao lado de prisioneiros, trabalhadores, crianças e pessoas que sequer compreendiam por que o céu havia começado a queimar.
 
-Elfialt não estava sob controle de Rubi.
+Elfialt não estava sob controle de [[01 - Rubi|Rubi]].
 
 Também não estava completamente inconsciente.
 
@@ -304,7 +295,7 @@ Elfialt permaneceu no território.
 
 A região se tornou o [[01 - Deserto das Cinzas|Deserto das Cinzas]], um lugar praticamente incapaz de sustentar vida comum. Tempestades de cinzas percorrem constantemente a superfície, ruínas de Malaquita permanecem enterradas e o próprio dragão impede tentativas organizadas de ocupação.
 
-Durante décadas, Elfialt matou viajantes, exploradores, soldados, saqueadores e caçadores que atravessaram seu território.
+Durante décadas, Elfialt matou viajantes, exploradores, soldados, saqueadores e caçadores que atravessaram seu território. Por medo. Trauma.
 
 Alguns eram invasores.
 
@@ -320,13 +311,13 @@ Em vez de atacá-los imediatamente, reconheceu que Kabuki e Anne não cheiravam 
 
 Protegeu o grupo da tempestade utilizando as próprias asas.
 
-Ao ouvir que viajavam até Diamante seguindo o possível vínculo de Violet com a família real, demonstrou respeito pelo objetivo do grupo e os aconselhou a não abandonar seus sonhos como ele havia abandonado os próprios.
+Ao ouvir que viajavam até [[04 - Diamante|Diamante]] seguindo o possível vínculo de Violet com a família real, demonstrou respeito pelo objetivo do grupo e os aconselhou a não abandonar seus sonhos como ele havia abandonado os próprios.
 
 Depois, transportou todos até [[Lamdelion]].
 
-A chegada de Violet montada no dragão que destruiu parte de Malaquita tornou impossível tratá-la apenas como uma garota desconhecida.
+A chegada de Violet montada no dragão que destruiu parte de [[02 - Malaquita|Malaquita]] tornou impossível tratá-la apenas como uma garota desconhecida.
 
-Elfialt voltou ao Deserto das Cinzas sem pedir pagamento, aliança ou qualquer reconhecimento.
+Elfialt voltou ao [[01 - Deserto das Cinzas|Deserto das Cinzas]] sem pedir pagamento, aliança ou qualquer reconhecimento.
 
 **Eventos relacionados:**
 
@@ -382,19 +373,19 @@ Elfialt é descrito como arma natural encontrada e direcionada contra instalaç�
 
 Relatos oficiais evitam afirmar que o dragão foi controlado diretamente.
 
-A narrativa insiste que a devastação impediu atrocidades ainda maiores de Malaquita.
+A narrativa insiste que a devastação impediu atrocidades ainda maiores de [[02 - Malaquita|Malaquita]].
 
 Monumentos militares raramente representam as cidades civis destruídas.
 
 ## **Versão difundida entre sobreviventes de Malaquita:**
 
-Elfialt é apresentado como fera de Rubi criada exclusivamente para exterminar o povo de Malaquita.
+Elfialt é apresentado como fera de [[01 - Rubi|Rubi]] criada exclusivamente para exterminar o povo de [[02 - Malaquita|Malaquita]].
 
 Alguns relatos afirmam que o dragão obedecia diretamente a comandantes rubros.
 
-Outros acreditam que ainda atua como guardião secreto dos interesses de Rubi.
+Outros acreditam que ainda atua como guardião secreto dos interesses de [[01 - Rubi|Rubi]].
 
-Essas versões reconhecem corretamente a responsabilidade de Rubi, mas frequentemente ignoram a condição de Elfialt como vítima.
+Essas versões reconhecem corretamente a responsabilidade de [[01 - Rubi|Rubi]], mas frequentemente ignoram a condição de Elfialt como vítima.
 
 ## **Títulos recebidos posteriormente:**
 
@@ -402,19 +393,9 @@ Essas versões reconhecem corretamente a responsabilidade de Rubi, mas frequente
     
 - O Dragão das Cinzas
     
-- A Fera de Malaquita
-    
-- A Ruína Alada
-    
-- O Incêndio Eterno
-    
-- O Assassino de Cidades
-    
 - A Última Arma de Rubi
     
 - O Senhor do Deserto Cinzento
-    
-- A Batalha que Ainda Respira
     
 
 ## **Símbolos associados:**
@@ -431,16 +412,14 @@ Essas versões reconhecem corretamente a responsabilidade de Rubi, mas frequente
     
 - Uma asa protegendo pequenas figuras durante uma tempestade
     
-- Um ovo de dragão cercado por armas humanas
-    
 
 ## **Grupos que o veneram:**
 
 Elfialt não possui uma religião organizada relevante, mas é reverenciado por:
 
-- Pequenos cultos que interpretam a destruição de Malaquita como punição
+- Pequenos cultos que interpretam a destruição de [[02 - Malaquita|Malaquita]] como punição
     
-- Comunidades anti-Malaquita
+- Comunidades anti-[[02 - Malaquita|Malaquita]]
     
 - Alguns grupos de monstros conscientes que o enxergam como símbolo de resistência contra humanos
     
@@ -448,26 +427,26 @@ Elfialt não possui uma religião organizada relevante, mas é reverenciado por:
     
 - Sobreviventes transformados por guerras humanas
     
-- Indivíduos que acreditam que o Deserto das Cinzas deve permanecer intocado
+- Indivíduos que acreditam que o [[01 - Deserto das Cinzas|Deserto das Cinzas]] deve permanecer intocado
     
 
 Elfialt não aceita adoração e provavelmente destruiria qualquer templo construído dentro de seu território.
 
 ## **Grupos que o condenam:**
 
-- Descendentes dos mortos na Batalha das Cinzas
+- Descendentes dos mortos na [[Batalha das Cinzas]]
     
-- Sobreviventes de Malaquita
+- Sobreviventes de [[02 - Malaquita|Malaquita]]
     
 - Governos interessados nas ruínas soterradas
     
 - Caçadores enviados para estudar ou conter dragões
     
-- Militares de Rubi interessados em apagar provas da operação
+- Militares de [[01 - Rubi|Rubi]] interessados em apagar provas da operação
     
 - Comerciantes que desejam reabrir rotas pelo deserto
     
-- Pesquisadores de artefatos de Malaquita
+- Pesquisadores de artefatos de [[02 - Malaquita|Malaquita]]
     
 - Colecionadores interessados em partes de dragão
     
@@ -482,9 +461,9 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Não nasceu odiando humanos.
     
-- Foi capturado e torturado por Rubi.
+- Foi capturado e torturado por [[01 - Rubi|Rubi]].
     
-- Era considerado pacífico antes da guerra.
+- Era considerado pacífico antes da [[Grande Guerra dos Vales|guerra]].
     
 - Reconhece que matou inocentes.
     
@@ -498,7 +477,7 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Ainda valoriza sonhos, embora acredite ter perdido os seus.
     
-- Pode deixar o Deserto das Cinzas quando deseja.
+- Pode deixar o [[01 - Deserto das Cinzas|Deserto das Cinzas]] quando deseja.
     
 - Permanece lá por razões mais complexas do que territorialidade.
     
@@ -511,9 +490,9 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Sua incapacidade de falar ou raciocinar
     
-- Sua fidelidade a Rubi
+- Sua fidelidade a [[01 - Rubi|Rubi]]
     
-- Sua presença em todas as destruições atribuídas ao Deserto das Cinzas
+- Sua presença em todas as destruições atribuídas ao [[01 - Deserto das Cinzas|Deserto das Cinzas]]
     
 - Sua capacidade de literalmente consumir sonhos
     
@@ -521,7 +500,7 @@ Elfialt não aceita adoração e provavelmente destruiria qualquer templo constr
     
 - Sua invulnerabilidade absoluta
     
-- O tamanho de seu corpo em pinturas e lendas
+- O tamanho de seu corpo em pinturas e lendas (Um)
     
 - A crença de que controla conscientemente todas as tempestades de cinzas
     
