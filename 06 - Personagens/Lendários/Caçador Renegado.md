@@ -1601,7 +1601,7 @@ Outros foram destruídos pelos sobreviventes, escondidos por reinos ou incorpora
     
 - O relacionamento com Rem deve ter intimidade antiga, mas também um desequilíbrio enorme de poder.
     
-- Rem pode lembrar momentos em que o Renegado foi genuinamente bom para ele.Isso não significa que a relação fosse saudável.
+- Rem pode lembrar momentos em que o Renegado foi genuinamente bom para ele. Isso não significa que a relação fosse saudável.
     
 - Kendra pode ter apagado as memórias de Rem sem compreender completamente que também estava cortando um vínculo externo.
     
