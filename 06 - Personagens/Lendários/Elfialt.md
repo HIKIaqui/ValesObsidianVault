@@ -1,34 +1,27 @@
 ---
-
 aliases:
-
-- O Devorador de Sonhos
-    
-- Devorador de Sonhos
-    
-- O Dragão das Cinzas
-    
-- A Fera de Malaquita
-    
-
+  - O Devorador de Sonhos
+  - Devorador de Sonhos
+  - O Dragão das Cinzas
+  - A Fera de Rubi
 ---
 **Apelidos / Títulos:** O Devorador de Sonhos, O Dragão das Cinzas, A Fera de Malaquita, A Ruína Alada, O Último Incêndio da Guerra  
-**Espécie / Classe:** [[Kolsin]] (Se tornou Necrí por meio de i) / Dragão Adulto, Catástrofe Viva  
+**Espécie / Classe:** [[Necrí]] (Era [[Kolsin]]. Se tornou Necrí por meio de influência de [[Maldição]]) / Dragão Adulto, Catástrofe Viva  
 **Origem (Reino):** Desconhecida. Elfialt nasceu longe dos reinos humanos e não reconhece qualquer território humano como sua origem  
-**Era de Atuação:** Final da [[Era da Ruptura]], toda a [[Era do Vazio]] e [[Era Atual]]  
+**Era de Atuação:** Final da [[2 - Era da Ruptura|Era da Ruptura]], toda a [[3 - Era do Vazio|Era do Vazio]] e [[4 - Era da Coroa Quebrada|Era Atual]]  
 **Idade durante o Auge:** Desconhecida. Já era um Kolsin adulto durante a [[Batalha das Cinzas]], em 719  
 **Status Atual:** Vivo  
 **Último Local Conhecido:** [[01 - Deserto das Cinzas|Deserto das Cinzas]]. Foi visto deixando temporariamente o território para transportar [[Violet de Diamante]] e seus companheiros até [[Lamdelion]]  
 **Função no Mundo / Papel na História:**  
 Elfialt é uma consequência histórica ainda viva.
 
-Durante a [[Grande Guerra dos Vales]], o reino de [[01 - Rubi|Rubi]] capturou, aprisionou e torturou o dragão para transformar seu medo e sofrimento em ódio contra humanos. Depois, soltou-o sobre um dos maiores domínios de [[02 - Malaquita|Malaquita]].
+Durante a [[Grande Guerra dos Vales]], o reino de [[01 - Rubi|Rubi]] capturou, aprisionou e torturou o [[Dragão]] para transformar seu medo e sofrimento em ódio contra humanos. Depois, soltou-o sobre um dos maiores domínios de [[02 - Malaquita|Malaquita]].
 
 Elfialt queimou cidades, instalações, campos e tudo que encontrou pela frente. A devastação transformou a região no atual [[01 - Deserto das Cinzas|Deserto das Cinzas]] e entrou para a história sob o nome higienizado de [[Batalha das Cinzas]].
 
-Rubi alcançou seu objetivo militar.
+[[01 - Rubi|Rubi]] alcançou seu objetivo militar.
 
-Malaquita perdeu um de seus maiores territórios.
+[[02 - Malaquita|Malaquita]] perdeu um de seus maiores territórios.
 
 Elfialt perdeu praticamente tudo que ainda o conectava à criatura que era antes.
 
@@ -134,8 +127,6 @@ Sua compaixão aparece de maneira rara, brusca e grandiosa. Ele não oferece pal
     
 - Montanhas e locais distantes de civilizações
     
-- Outros Kolsin
-    
 - Escolher para onde ir
     
 - Dormir sem medo de acordar acorrentado
@@ -170,7 +161,7 @@ Sua compaixão aparece de maneira rara, brusca e grandiosa. Ele não oferece pal
     
 - Jaulas
     
-- Armaduras e brasões de Rubi
+- Armaduras e brasões de [[01 - Rubi|Rubi]]
     
 - Instrumentos de contenção
     
@@ -180,13 +171,13 @@ Sua compaixão aparece de maneira rara, brusca e grandiosa. Ele não oferece pal
     
 - Humanos se aproximando sem permissão
     
-- Pessoas tentando justificar a Batalha das Cinzas como necessidade estratégica
+- Pessoas tentando justificar a [[Batalha das Cinzas]] como necessidade estratégica
     
 - Ser chamado de arma
     
-- Caçadores que procuram suas escamas, dentes ou sangue
+- [[Caçadores]] que procuram suas escamas, dentes ou sangue
     
-- A ideia de que Malaquita mereceu tudo que aconteceu
+- A ideia de que [[02 - Malaquita|Malaquita]] mereceu tudo que aconteceu
     
 - A ideia de que seu sofrimento o inocenta por tudo que fez depois
     
@@ -227,13 +218,13 @@ Ao considerar seu ódio inevitável, transforma repetidamente trauma em destino.
     
 - Quando recorda a guerra, suas garras pressionam o solo com força suficiente para quebrá-lo.
     
-- Interrompe imediatamente qualquer pessoa que peça desculpas por ser monstro, semi-humano ou diferente.
+- Interrompe imediatamente qualquer pessoa que peça desculpas por ser monstro, semi-humano ou diferente de outra forma.
     
 - Observa o horizonte depois de falar sobre sonhos.
     
-- Evita pronunciar o nome de Rubi sempre que possível.
+- Evita pronunciar o nome de [[01 - Rubi|Rubi]] sempre que possível.
     
-- Não utiliza a palavra “lar” para falar do Deserto das Cinzas.
+- Não utiliza a palavra “lar” para falar do [[01 - Deserto das Cinzas|Deserto das Cinzas]].
     
 - Fica imóvel por longos períodos, confundindo observadores com uma formação rochosa coberta de cinzas.
     
@@ -269,11 +260,11 @@ Ao considerar seu ódio inevitável, transforma repetidamente trauma em destino.
 
 Elfialt nasceu longe dos reinos humanos, em uma região não registrada nos mapas atuais.
 
-Como a maioria dos Kolsin adultos, viveu durante grande parte da vida sem manter contato constante com civilizações humanas. Possuía inteligência, linguagem e relações próprias, embora pesquisadores humanos da época tratassem dragões apenas como feras extremamente perigosas.
+Como a maioria dos [[Kolsin]] adultos, viveu durante grande parte da vida sem manter contato constante com civilizações humanas. Possuía inteligência, linguagem e relações próprias, embora pesquisadores humanos da época tratassem dragões apenas como feras extremamente perigosas.
 
-Antes da guerra, Elfialt era considerado relativamente pacífico para os padrões de um dragão de seu tamanho. Evitava assentamentos, não caçava humanos por preferência e respondia com violência principalmente quando ameaçado ou quando seu território era invadido.
+Antes da [[Grande Guerra dos Vales|guerra]], Elfialt era considerado relativamente pacífico para os padrões de um dragão de seu tamanho. Evitava assentamentos, não caçava humanos por preferência e respondia com violência principalmente quando ameaçado ou quando seu território era invadido.
 
-Durante a [[Grande Guerra dos Vales]], forças de [[01 - Rubi|Rubi]] encontraram e capturaram Elfialt.
+Durante a [[Grande Guerra dos Vales]], forças de [[01 - Rubi|Rubi]] encontraram e capturaram Elfialt, abusando dessa falta de agressividade para esse fim.
 
 Não se sabe exatamente como conseguiram contê-lo. Registros militares foram destruídos, censurados ou deliberadamente falsificados depois da guerra.
 
