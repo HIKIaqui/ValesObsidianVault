@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "06 - Personagens/Lendários/Caçador Renegado.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Caçador Renegado"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -331,14 +324,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - Personagens/Lendários/Elgor de Rubi.md",
     "06 - Personagens/Lendários/Caçador Renegado.md",
+    "06 - Personagens/Lendários/Elgor de Rubi.md",
     "06 - Personagens/Lendários/Drummond de Diamante.md",
     "98 - Dev/Homepage.canvas",
     "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md",
