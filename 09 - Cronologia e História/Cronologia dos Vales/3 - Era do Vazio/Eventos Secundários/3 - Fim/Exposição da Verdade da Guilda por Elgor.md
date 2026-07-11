@@ -1,9 +1,9 @@
-Também conhecida como "**A Última Caçada de [[Elgor]]**"
+Também conhecida como "**A Última Caçada de [[Elgor de Rubi]]**"
 ## Período  
 Fim da Era do Vazio
 
 ## Descrição  
-Após anos reunindo informações e confrontando inconsistências, [[Elgor]] expõe publicamente a verdadeira origem da [[Guilda de Caçadores]].  
+Após anos reunindo informações e confrontando inconsistências, [[Elgor de Rubi]] expõe publicamente a verdadeira origem da [[Guilda de Caçadores]].  
 
 Ele revela que a instituição foi construída sobre mitos distorcidos dos [[Caçadores Ancestrais]], sustentando uma imagem heroica que não corresponde necessariamente à realidade.  
   
@@ -22,7 +22,7 @@ A revelação se espalha principalmente entre [[caçadores]] veteranos, que reco
 - [[A Aposentadoria de Elgor]]
   
 ## Notas
-[[Elgor]] não continua a divulgação da verdade.  
+[[Elgor de Rubi]] não continua a divulgação da verdade.  
 
 Ele não justifica isso como cansaço.  
   
