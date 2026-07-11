@@ -1183,13 +1183,13 @@ A melhor condição de vitória contra Elfialt é fazer com que ele decida que n
 
 ## Poderes e Conhecimentos
 
-## **Elemental:**
+## **[[Elemental]]:**
 
 Elfialt não possui um despertar Elemental humano.
 
 Os Kolsin produzem e controlam fogo por mecanismos naturais e energéticos próprios da espécie.
 
-Suas chamas podem atingir intensidade semelhante ou superior a poderes Elementais avançados, mas não dependem de técnicas humanas ou treinamento de caçador.
+Suas chamas podem atingir intensidade superior a poderes Elementais avançados, mas não dependem de técnicas humanas ou treinamento de caçador.
 
 O fogo de Elfialt responde fortemente ao seu estado emocional.
 
@@ -1203,7 +1203,7 @@ Não demonstra conhecimento formal de feitiços, métodos ou runas.
 
 ## **Maldições:**
 
-Não possui maldição confirmada.
+Não possui maldição confirmada, porém seu corpo sofreu mutações decorrentes do contato constante com o sofrimento causado na região em que permaneceu, gerando sua "espécie", Necrí.
 
 O título Devorador de Sonhos não indica necessariamente uma capacidade onírica.
 
@@ -1262,32 +1262,30 @@ Alguns cultos atribuem sua sobrevivência a uma divindade dos dragões, mas Elfi
     
 - Décadas de isolamento reduziram sua compreensão de comportamentos humanos comuns.
     
-- Não acredita que possa viver fora do Deserto das Cinzas por muito tempo.
-    
 
 ---
 
 ## Segredos
 
-## **Segredo 1 — Conhecimento público distorcido:**
+## **Segredo 1 - Conhecimento público distorcido:**
 
-Elfialt não foi atraído casualmente até Malaquita.
+Elfialt não foi atraído casualmente até [[02 - Malaquita|Malaquita]].
 
-Foi capturado, torturado e transportado deliberadamente por Rubi.
+Foi capturado, torturado e transportado deliberadamente por [[01 - Rubi|Rubi]].
 
-A Batalha das Cinzas foi uma operação militar planejada.
+A [[Batalha das Cinzas]] foi uma operação militar planejada.
 
 O descontrole posterior não torna o ataque acidental.
 
-## **Segredo 2 — Conhecido apenas por estudiosos ou antigos sobreviventes:**
+## **Segredo 2 - Conhecido apenas por estudiosos ou antigos sobreviventes:**
 
-Elfialt era capaz de falar antes da Batalha das Cinzas.
+Elfialt era capaz de falar desde antes da [[Batalha das Cinzas]].
 
 Os responsáveis por sua captura sabiam que estavam torturando uma criatura inteligente.
 
-A versão de que Rubi desconhecia sua consciência foi construída posteriormente para reduzir a gravidade do ocorrido.
+A versão de que [[01 - Rubi|Rubi]] desconhecia sua consciência foi construída posteriormente para reduzir a gravidade do ocorrido.
 
-## **Segredo 3 — Verdade apagada da história:**
+## **Segredo 3 - Verdade apagada da história:**
 
 Elfialt recuperou consciência suficiente para distinguir culpados e inocentes antes de terminar a devastação.
 
@@ -1299,7 +1297,7 @@ Continuou queimando porque, naquele momento, não se importava mais com a difere
 
 Essa é a principal razão pela qual não aceita ser tratado apenas como vítima.
 
-## **Segredo 4 — Informação exclusiva do Mestre:**
+## **Segredo 4 - Informação exclusiva do Mestre:**
 
 Elfialt não permanece no Deserto das Cinzas porque seja incapaz de deixá-lo.
 
@@ -1313,7 +1311,7 @@ Ele não faz isso apenas para proteger os reinos.
 
 Também acredita que aquilo que existe sob o deserto é sua responsabilidade, assim como os mortos que deixou acima dele.
 
-Elfialt não governa o Deserto das Cinzas.
+Elfialt não governa o [[01 - Deserto das Cinzas|Deserto das Cinzas]].
 
 Ele cumpre uma sentença que ninguém lhe impôs.
 
@@ -1331,9 +1329,9 @@ Elfialt pode influenciar campanhas sem aparecer diretamente por meio de:
     
 - Ruínas derretidas
     
-- Sobreviventes da Batalha das Cinzas
+- Sobreviventes da [[Batalha das Cinzas]]
     
-- Documentos militares de Rubi
+- Documentos militares de [[01 - Rubi|Rubi]]
     
 - Expedições desaparecidas
     
@@ -1351,8 +1349,6 @@ Elfialt pode influenciar campanhas sem aparecer diretamente por meio de:
     
 - Ruínas que ele impede especificamente que sejam acessadas
     
-- Sonhos recorrentes de fogo entre descendentes de sobreviventes
-    
 - A chegada de Violet a Lamdelion
     
 
@@ -1360,7 +1356,7 @@ Elfialt pode influenciar campanhas sem aparecer diretamente por meio de:
 
 - **As Correntes de Rubi:** documentos revelam o local onde os instrumentos usados para capturar Elfialt foram produzidos. Alguém começou a reconstruí-los.
     
-- **O Ovo nas Cinzas:** uma expedição afirma ter encontrado um ovo Kolsin no deserto. Elfialt inicia uma perseguição implacável para recuperá-lo.
+- **O Ovo nas Cinzas:** uma expedição afirma ter encontrado um ovo [[Kolsin]] no deserto. Elfialt inicia uma perseguição implacável para recuperá-lo.
     
 - **A Cidade que Não Queimou:** mapas antigos mostram uma cidade dentro da área devastada que foi inexplicavelmente poupada. Elfialt se recusa a explicar o motivo.
     
@@ -1374,9 +1370,9 @@ Elfialt pode influenciar campanhas sem aparecer diretamente por meio de:
     
 - **O Novo Exército de Rubi:** uma facção militar tenta provar que dragões ainda podem ser domesticados e controlados.
     
-- **O Julgamento das Cinzas:** descendentes de Malaquita exigem que Violet puna Elfialt, enquanto Rubi nega qualquer responsabilidade histórica.
+- **O Julgamento das Cinzas:** descendentes de [[02 - Malaquita|Malaquita]] exigem que Violet puna Elfialt, enquanto [[01 - Rubi|Rubi]] nega qualquer responsabilidade histórica.
     
-- **Uma Escolha Diferente:** Elfialt encontra uma nova cidade associada aos responsáveis por sua captura e precisa decidir se repetirá a Batalha das Cinzas.
+- **Uma Escolha Diferente:** Elfialt encontra uma nova cidade associada aos responsáveis por sua captura e precisa decidir se repetirá a [[Batalha das Cinzas]].
     
 
 ---
@@ -1391,7 +1387,7 @@ Seu corpo é alongado e pesado, construído para voo prolongado e força bruta. 
 
 Suas escamas possuem tonalidade escura, variando entre carvão, cinza e vermelho queimado. Em regiões próximas às articulações e ao peito, pequenas linhas de calor brilham por baixo das escamas quando respira profundamente.
 
-Os olhos são brilhantes e facilmente visíveis mesmo através de tempestades. Sua expressão costuma ser fria, mas emoções tornam-se perceptíveis pelo estreitamento das pupilas e pela intensidade do brilho.
+Os olhos são brilhantes e facilmente visíveis mesmo através de tempestades. Sua expressão costuma paqer fria, mas emoções tornam-se perceptíveis pelo estreitamento das pupilas e pela intensidade do brilho.
 
 As asas são enormes e marcadas por cicatrizes. Algumas membranas apresentam rasgos antigos que cicatrizaram de forma irregular.
 
@@ -1513,11 +1509,11 @@ Elfialt continua vivo.
 
 Caso morra, seu corpo imediatamente se tornará objeto de disputa entre:
 
-- Rubi
+- [[01 - Rubi|Rubi]]
     
-- Descendentes de Malaquita
+- Descendentes de [[02 - Malaquita|Malaquita]]
     
-- Caçadores
+- [[Caçadores]]
     
 - Pesquisadores
     
@@ -1527,10 +1523,8 @@ Caso morra, seu corpo imediatamente se tornará objeto de disputa entre:
     
 - Cultos
     
-- Outros dragões
-    
 
-A decomposição ou remoção de um corpo Kolsin desse tamanho também poderia alterar drasticamente o ecossistema do Deserto das Cinzas.
+A decomposição ou remoção de um corpo Kolsin desse tamanho também poderia alterar drasticamente o ecossistema do [[01 - Deserto das Cinzas|Deserto das Cinzas]].
 
 Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterrado ou deixado onde nenhum humano pudesse utilizá-lo como arma novamente.
 
@@ -1550,7 +1544,7 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - [[Kabuki]]
     
-- Sobreviventes diretos da Batalha das Cinzas
+- Sobreviventes diretos da [[Batalha das Cinzas]]
     
 - Ordens militares originais de Rubi
     
@@ -1579,7 +1573,7 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Sermões religiosos
     
-- Canções militares sobre a Batalha das Cinzas
+- Canções militares sobre a [[Batalha das Cinzas]]
     
 - Relatos de exploradores que nunca entraram realmente no deserto
     
@@ -1623,13 +1617,13 @@ Elfialt provavelmente tentaria garantir que seu cadáver fosse queimado, enterra
     
 - Kabuki
     
-- Sobreviventes muito idosos da Batalha das Cinzas
+- Sobreviventes muito idosos da [[Batalha das Cinzas]]
     
-- Militares de Rubi envolvidos quando jovens
+- Militares de [[01 - Rubi|Rubi]] envolvidos quando jovens
     
 - Criaturas longevas que habitavam a região
     
-- Experimentos de Malaquita que sobreviveram sob as ruínas
+- Experimentos de [[02 - Malaquita|Malaquita]] que sobreviveram sob as ruínas
     
 
 ---
