@@ -528,7 +528,7 @@ Essa rachadura leva aos [[Túneis Sob Oleon]].
 
 - [[A Ameaça Vem de Baixo]]
     
-- [[O Bicho-Papão Usa os Túneis]]
+- [[O Bicho-Papão Usa Túneis]]
     
 
 ---
@@ -568,7 +568,7 @@ Mas não os criou.
 
 **Conclusões possíveis:**
 
-- [[O Bicho-Papão Usa os Túneis]]
+- [[O Bicho-Papão Usa Túneis]]
     
 - [[Os Túneis Não São da Criatura]]
     

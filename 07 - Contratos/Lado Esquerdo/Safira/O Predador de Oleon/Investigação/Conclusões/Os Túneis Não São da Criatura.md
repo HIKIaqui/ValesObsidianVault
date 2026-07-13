@@ -5,7 +5,6 @@
 > **Pistas ligadas:** [[Túneis Sob Oleon]], [[Covil do Bicho-Papão]], [[Porta Selada de Malaquita]], [[Fragmento MALAQ-O13]]
 
 ---
-
 ## Pergunta
 
 > O Bicho-Papão criou os túneis sob Oleon?

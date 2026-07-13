@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md",
+                "file": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Os Túneis Não São da Criatura"
+              "title": "A Garota Mais Vulnerável"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 254.5
   },
   "right": {
     "id": "f88408fec492f0d5",
@@ -337,9 +337,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Contratos Retirados de Oleon.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Bicho-Papão Usa Túneis.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Desaparecimentos São Antigos.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Ovo Mantém o Ciclo.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Contratos Retirados de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Personagens",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões",
@@ -363,11 +368,6 @@
     "06 - Personagens/Lendários/Drummond de Diamante.md",
     "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha das Cinzas.md",
     "06 - Personagens/Lendários/Sem título",
-    "06 - Personagens/Lendários/Elgor.md",
-    "06 - Personagens/Lendários/Caçador Renegado.md",
-    "06 - Personagens/Lendários/Template NPC.md",
-    "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/Eventos Principais/2 - Meio/Abertura da Fenda Onírica.md",
-    "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/Eventos Principais/2 - Meio/Criação de Criaturas Artificiais.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "06 - Personagens/Lendários/Pecados Capitais",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean",
