@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.0252719658336533
+                "file": "08 - Campanhas/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Parte 1 - A Masmorra dos Carnicidas"
             }
           }
         ]
@@ -330,6 +337,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "08 - Campanhas/Seções/Capítulo 1/Parte 0 - Taverna.md",
+    "08 - Campanhas/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
+    "08 - Campanhas/Seções/Capítulo 1/Parte 2 - O Contrato.md",
+    "98 - Dev/Homepage.canvas",
     "06 - Personagens/Lendários/Elfialt.md",
     "06 - Personagens/Lendários/Elgor de Rubi.md",
     "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
@@ -354,15 +365,11 @@
     "06 - Personagens/Template NPC.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata.md",
     "02 - Ágata.md",
-    "98 - Dev/Homepage.canvas",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean/Ramir de Citrino.md",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Dean de Malaquita.md",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes",
     "06 - Personagens/99 - De Campanhas",
-    "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md",
-    "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md",
-    "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
     "06 - Personagens/Entidades Oníricas/Inevitáveis",
     "06 - Personagens/Entidades Oníricas/Predatórias",
     "06 - Personagens/Entidades Oníricas/Observadoras",
