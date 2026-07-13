@@ -12,7 +12,7 @@ aliases:
 ---
 
 **Apelidos / Títulos:** O Velho Caçador, Mestre Elgor, O Homem que Sempre Voltava, antigo Caçador Real  
-**Espécie / Classe:** Humano / [[Caçadores|Caçador de Monstros]] — Mestre Caçador  
+**Espécie / Classe:** Humano / [[Caçadores|Caçador de Monstros]] – Mestre Caçador  
 **Origem (Reino):** [[01 - Rubi|Rubi]]  
 **Era de Atuação:** [[3 - Era do Vazio|Era do Vazio]]; auge durante o meio da era, aposentadoria próxima ao seu fim  
 **Idade durante o Auge:** Aproximadamente 45 anos  
@@ -32,7 +32,7 @@ Elgor também foi o responsável por revelar que a [[Guilda de Caçadores]] não
 **Descrição Geral:**  
 Elgor é sarcástico, direto, pragmático e profundamente cansado. Costuma falar como se nada ainda fosse capaz de surpreendê-lo, mas isso não vem de indiferença verdadeira. É uma defesa construída após décadas assistindo pessoas morrerem por decisões evitáveis, informações incompletas e heroísmo mal direcionado.
 
-Ele pensa sempre em termos de sobrevivência, risco e consequência. Diante de uma ameaça, sua primeira pergunta não é “como matamos isso?”, mas “o que acontece se não lutarmos?”. Para Elgor, combate é apenas uma das possíveis soluções — e geralmente a mais cara.
+Ele pensa sempre em termos de sobrevivência, risco e consequência. Diante de uma ameaça, sua primeira pergunta não é “como matamos isso?”, mas “o que acontece se não lutarmos?”. Para Elgor, combate é apenas uma das possíveis soluções, e geralmente a mais cara.
 
 Não acredita em lutas justas. Uma luta justa significa que o monstro ainda teve a oportunidade de usar tudo que possui contra você. Elgor prefere veneno, armadilhas, terreno favorável, emboscadas, isolamento, fogo, recuo e qualquer método que reduza a capacidade do inimigo de reagir. Para ele, honra é um luxo inventado por gente que nunca precisou escolher qual companheiro carregar durante uma fuga.
 
@@ -180,7 +180,7 @@ Depois de perder seu grupo, passou a acreditar que assumir responsabilidade por 
 
 ## História e Contexto
 
-Elgor nasceu em [[Rubi]], em uma região dominada por fumaça industrial, trabalho exaustivo e pela ideia de que qualquer pessoa poderia ser substituída assim que deixasse de ser útil. Cresceu aprendendo a reparar ferramentas, reconhecer o som de mecanismos prestes a falhar e não esperar que autoridades impedissem acidentes anunciados.
+Elgor nasceu em [[01 - Rubi|Rubi]], em uma região dominada por fumaça industrial, trabalho exaustivo e pela ideia de que qualquer pessoa poderia ser substituída assim que deixasse de ser útil. Cresceu aprendendo a reparar ferramentas, reconhecer o som de mecanismos prestes a falhar e não esperar que autoridades impedissem acidentes anunciados.
 
 Ainda jovem, deixou Rubi e ingressou entre os [[Caçadores]]. Não foi considerado particularmente talentoso durante o início do treinamento. Não era o mais forte, o mais corajoso nem o mais impressionante no uso elemental. Seu diferencial era continuar observando quando todos os demais já haviam decidido o que estava acontecendo.
 
@@ -199,7 +199,7 @@ Durante décadas, ele reuniu informações sobre criaturas, reinos, culturas, ru
 - **Contos dos Vales:** coleção de relatos históricos, culturais e geográficos encontrados durante suas viagens.
     
 
-No fim da [[Era do Vazio]], Elgor realizou sua última missão oficial. A ameaça foi contida, mas todos os outros integrantes de seu grupo morreram. Elgor retornou sozinho e foi celebrado pela Guilda como responsável por mais uma vitória.
+No fim da [[3 - Era do Vazio|Era do Vazio]], Elgor realizou sua última missão oficial. A ameaça foi contida, mas todos os outros integrantes de seu grupo morreram. Elgor retornou sozinho e foi celebrado pela Guilda como responsável por mais uma vitória.
 
 Pouco depois, aposentou-se e escreveu a versão final de _Sobrevivendo aos Vales_. O livro consolidou sua filosofia de que um caçador não deveria procurar glória, mas reduzir o número de coisas capazes de matá-lo.
 
@@ -1011,11 +1011,11 @@ Algumas estátuas mostram Elgor sozinho em caçadas realizadas por grupos inteir
     
 - **Cadernos do Grupo:** escritos por diferentes mãos, com discussões, piadas e correções.
     
-- **Sobrevivendo aos Vales — Manuscrito Original:** contém passagens removidas das edições oficiais.
+- **Sobrevivendo aos Vales – Manuscrito Original:** contém passagens removidas das edições oficiais.
     
-- **Guia do Caçador — Edição Anotada:** bestiário com correções posteriores feitas pelo próprio Elgor.
+- **Guia do Caçador – Edição Anotada:** bestiário com correções posteriores feitas pelo próprio Elgor.
     
-- **Contos dos Vales — Rascunhos:** incluem relatos que nunca chegaram às edições públicas.
+- **Contos dos Vales – Rascunhos:** incluem relatos que nunca chegaram às edições públicas.
     
 - **Frasco de Metal:** objeto banal que se tornou parte de sua imagem posterior.
     
@@ -1139,3 +1139,5 @@ Elgor deixou instruções contraditórias sobre seus pertences. Em uma carta, pe
 - A melhor forma de introduzi-lo é permitir que os personagens conversem com toda a mesa antes de perceberem que Elgor está sozinho.
     
 - Sua tragédia não é ter perdido todos os companheiros. É ter tomado uma decisão racional, salvado centenas de pessoas e ainda assim nunca conseguir acreditar que fez a escolha certa.
+
+- Para aqueles que conhecem apenas suas obras, Elgor é um velho sábio, sarcástico e heroico. Para aqueles que tentaram conhecê-lo pessoalmente, é lembrado como um homem cruel, instável e impossível de amar. Essa reputação não surgiu por acidente: sempre que percebe um vínculo se formando, Elgor transforma deliberadamente afeto em ressentimento, garantindo que a outra pessoa vá embora antes que possa ocupar espaço demais em sua vida.

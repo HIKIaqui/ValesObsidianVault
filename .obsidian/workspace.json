@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "06 - Personagens/Lendários/Elfialt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Elfialt"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -337,9 +330,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - Personagens/Lendários/Elfialt.md",
     "06 - Personagens/Lendários/Elgor de Rubi.md",
     "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
-    "06 - Personagens/Lendários/Elfialt.md",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
     "06 - Personagens/Lendários/Drummond de Diamante.md",
     "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha das Cinzas.md",
