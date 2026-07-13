@@ -4,9 +4,6 @@ aliases:
 ---
 
 #Contrato #Safira
-
-  
-
 ## Local
 
 - **Região:** [[04 - Safira|Safira]]
