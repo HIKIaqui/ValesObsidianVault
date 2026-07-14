@@ -1,6 +1,6 @@
 Estrela é o nome da moeda dos Vales. São redondas e de tamanhos e materiais variáveis. 
 
-Seu símbolo em escrita é **E$**
+Seu símbolo em escrita é **€$**
 Os tipos de estrelas e seus respectivos valores são:
 
 ### Estrela de Platina

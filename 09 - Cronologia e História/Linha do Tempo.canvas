@@ -51,43 +51,13 @@
 		{
 			"id":"7b9cd1acf31fffa5",
 			"type":"text",
-			"text":"# Fundação do Reino de Rubi e criação do calendário de Rubi\n# **Ano 0**",
+			"text":"# Fundação do Reino de Rubi e criação do [[Calendário|Calendário de Rubi]]\n# **Ano 0**",
 			"styleAttributes":{},
 			"x":-400,
 			"y":280,
 			"width":260,
 			"height":240,
 			"color":"2"
-		},
-		{
-			"id":"ea0d835d529b53a5",
-			"type":"text",
-			"text":"# [[Primeiras Grandes Caçadas]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":680,
-			"y":700,
-			"width":300,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"598f60e1198ccf4b",
-			"type":"text",
-			"text":"# [[Estudo de Energias Proibidas]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":800,
-			"y":320,
-			"width":300,
-			"height":160,
-			"color":"3"
 		},
 		{
 			"id":"84b4e7e8a2348006",
@@ -135,21 +105,6 @@
 			"color":"3"
 		},
 		{
-			"id":"a4037a6938667215",
-			"type":"text",
-			"text":"# [[Perda do Conhecimento Original]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":2560,
-			"y":320,
-			"width":320,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"ea5d1455e0a7ef80",
 			"type":"text",
 			"text":"# [[Guerra dos Caçadores Ancestrais]]",
@@ -180,33 +135,48 @@
 			"color":"3"
 		},
 		{
-			"id":"7aefcfb99b88b1e2",
+			"id":"ea0d835d529b53a5",
 			"type":"text",
-			"text":"# [[Criaturas de Malaquita Entram no Ecossistema]]",
+			"text":"# [[Primeiras Grandes Caçadas]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":8540,
-			"y":100,
-			"width":340,
-			"height":120,
-			"color":"1"
+			"x":680,
+			"y":700,
+			"width":300,
+			"height":100,
+			"color":"4"
 		},
 		{
-			"id":"4170ca83f49997a2",
+			"id":"598f60e1198ccf4b",
 			"type":"text",
-			"text":"# [[Reconstrução dos Reinos]]",
+			"text":"# [[Estudo de Energias Proibidas]]",
 			"styleAttributes":{
 				"textAlign":"center",
 				"shape":"pill",
 				"border":null
 			},
-			"x":8540,
-			"y":345,
-			"width":340,
-			"height":120,
+			"x":800,
+			"y":320,
+			"width":300,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"a4037a6938667215",
+			"type":"text",
+			"text":"# [[Perda do Conhecimento Original]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":2560,
+			"y":320,
+			"width":320,
+			"height":160,
 			"color":"3"
 		},
 		{
@@ -234,6 +204,96 @@
 				"border":null
 			},
 			"x":9000,
+			"y":345,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"7a29c476c4005963",
+			"type":"text",
+			"text":"# Ascensão de Drummond",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4380,
+			"y":80,
+			"width":300,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"edcccf1ef86f2f61",
+			"type":"text",
+			"text":"# [[Diamante se Torna uma Potência]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4800,
+			"y":80,
+			"width":310,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"c7c24db147fddc24",
+			"type":"text",
+			"text":"# [[Crescimento do Reino de Malaquita]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4000,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"40d54f5bdb04f25a",
+			"type":"text",
+			"text":"# [[Início dos Experimentos Humanos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":4380,
+			"y":300,
+			"width":300,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"7aefcfb99b88b1e2",
+			"type":"text",
+			"text":"# [[Criaturas de Malaquita Entram no Ecossistema]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":8540,
+			"y":100,
+			"width":340,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"4170ca83f49997a2",
+			"type":"text",
+			"text":"# [[Reconstrução dos Reinos]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":8540,
 			"y":345,
 			"width":340,
 			"height":120,
@@ -345,36 +405,6 @@
 			"color":"3"
 		},
 		{
-			"id":"7a29c476c4005963",
-			"type":"text",
-			"text":"# Ascensão de Drummond",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4380,
-			"y":80,
-			"width":300,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"edcccf1ef86f2f61",
-			"type":"text",
-			"text":"# [[Diamante se Torna uma Potência]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4800,
-			"y":80,
-			"width":310,
-			"height":120,
-			"color":"1"
-		},
-		{
 			"id":"248bd5f2e0c0827e",
 			"type":"text",
 			"text":"# [[Surgimento dos Vermes da Insanidade]]",
@@ -465,36 +495,6 @@
 			"color":"3"
 		},
 		{
-			"id":"c7c24db147fddc24",
-			"type":"text",
-			"text":"# [[Crescimento do Reino de Malaquita]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4000,
-			"y":300,
-			"width":300,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"40d54f5bdb04f25a",
-			"type":"text",
-			"text":"# [[Início dos Experimentos Humanos]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":4380,
-			"y":300,
-			"width":300,
-			"height":120,
-			"color":"3"
-		},
-		{
 			"id":"df96d1325fa6cd80",
 			"type":"text",
 			"text":"# [[Batalha de Néxora]]",
@@ -520,6 +520,21 @@
 			},
 			"x":7200,
 			"y":305,
+			"width":340,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"2f040980805767d4",
+			"type":"text",
+			"text":"# [[Batalha das Cinzas]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":6140,
+			"y":500,
 			"width":340,
 			"height":120,
 			"color":"3"
@@ -568,21 +583,6 @@
 			"width":340,
 			"height":120,
 			"color":"1"
-		},
-		{
-			"id":"2f040980805767d4",
-			"type":"text",
-			"text":"# [[Batalha das Cinzas]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":6140,
-			"y":500,
-			"width":340,
-			"height":120,
-			"color":"3"
 		}
 	],
 	"edges":[
