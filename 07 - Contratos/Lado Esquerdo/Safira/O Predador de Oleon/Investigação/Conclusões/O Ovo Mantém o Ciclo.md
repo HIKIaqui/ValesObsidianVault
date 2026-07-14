@@ -1,6 +1,6 @@
 > [!question] Conclusão Investigativa  
 > **Contrato:** [[O Predador de Oleon]]  
-> **Tipo:** Conclusão essencial para sucesso completo  
+> **Tipo:** Conclusão essencial para sucesso completo
 > **Importância:** Alta  
 > **Pistas ligadas:** [[Covil do Bicho-Papão]], [[Desenhos de Nino]], [[Bicho-Papão de Oleon]], [[Soluções e Consequências]]
 

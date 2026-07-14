@@ -110,7 +110,7 @@ Com atenção, surgem padrões:
 
 ## O Que Esse Documento Prova
 
-- O caso de Isis não é isolado.
+- O caso de [[Isis]] não é isolado.
 - A vila tem histórico de desaparecimentos.
 - Os moradores interromperam investigações anteriores.
 - A Guilda recebeu sinais, mas nunca conseguiu concluir o padrão em campo.
@@ -130,7 +130,7 @@ Com atenção, surgem padrões:
 
 Oleon tem um padrão antigo de desaparecimentos infantis abafados.
 
-A morte de Isis é a primeira vez em que o padrão deixou evidência física impossível de negar.
+A morte de [[Isis]] é a primeira vez em que o padrão deixou evidência física impossível de negar.
 
 ---
 
