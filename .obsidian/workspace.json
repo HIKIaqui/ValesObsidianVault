@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "A Garota Mais Vulnerável"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -337,8 +330,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Bicho-Papão Usa Túneis.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md",
