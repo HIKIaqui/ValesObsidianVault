@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.0252719658336533
+                "file": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "A Ameaça Vem de Baixo"
             }
           }
         ]
@@ -331,9 +338,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Bicho-Papão Usa Túneis.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
+    "98 - Dev/Homepage.canvas",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Desaparecimentos São Antigos.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Ovo Mantém o Ciclo.md",
@@ -353,13 +361,11 @@
     "08 - Campanhas/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
     "08 - Campanhas/Seções/Capítulo 1/Parte 0 - Taverna.md",
     "08 - Campanhas/Seções/Capítulo 1/Parte 2 - O Contrato.md",
-    "98 - Dev/Homepage.canvas",
     "06 - Personagens/Lendários/Elfialt.md",
     "06 - Personagens/Lendários/Elgor de Rubi.md",
     "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
     "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
     "06 - Personagens/Lendários/Drummond de Diamante.md",
-    "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/Eventos Principais/3 - Fim/Batalha das Cinzas.md",
     "06 - Personagens/Lendários/Sem título",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "06 - Personagens/Lendários/Pecados Capitais",
