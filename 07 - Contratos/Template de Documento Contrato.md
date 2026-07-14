@@ -10,9 +10,6 @@ Data de Emissão: ___ / ___ / ___
 
 Status: 
 
-- [ ]  #task 
-- [ ] 
-
 ---
 #### 1. DO OBJETO DO CONTRATO
 
