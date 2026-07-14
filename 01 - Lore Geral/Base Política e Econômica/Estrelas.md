@@ -4,7 +4,7 @@ Seu símbolo em escrita é **€$**
 Os tipos de estrelas e seus respectivos valores são:
 
 ### Estrela de Platina
-##### 100.000 Estrelas
+##### 1.000.000 Estrelas
 
 > Levemente maior que a de ouro, mas incrivelmente densa. Tem um minúsculo diamante cravado no centro.
 > 
