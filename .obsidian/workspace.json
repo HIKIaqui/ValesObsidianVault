@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Estrelas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -337,6 +330,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
+    "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "01 - Lore Geral/Base Política e Econômica/Calendário.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/2 - Era da Ruptura.md",
@@ -356,7 +351,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Contrato.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Isis.md",
     "98 - Dev/Homepage.canvas",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Personagens",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação",
