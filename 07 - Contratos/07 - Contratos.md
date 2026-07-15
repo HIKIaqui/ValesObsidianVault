@@ -58,11 +58,11 @@ Nesse formato, cada campo carrega informações específicas sobre a origem e a 
 >>Tipos de Contrato e seus dígitos identificadores:
 >>>0 -> Investigação / Observação
 >>>1 -> Resgate / Escolta
->>>2 -> Eliminação
+>>>2 -> Eliminação de Alvo
 >>>3 -> Contenção
 >>>4 -> Confirmação de Ameaça
->>>5 -> Ritual / [[Fenda Abortada]] / Maldição
->>>6 -> Espiritual
+>>>5 -> Recuperação de Dados
+>>>6 -> Limpeza de Área
 >>>7 -> Emergencial
 >>>8 -> Estudo
 >>>9 -> Classificação Especial
