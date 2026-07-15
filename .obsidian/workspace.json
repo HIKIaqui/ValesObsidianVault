@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
+                "file": "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
                 "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.0252719658336533
+                  "x": 495,
+                  "y": 359,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "title": "Sequências"
             }
           }
         ]
@@ -330,7 +330,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 2 - O Contrato.md",
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md",
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
+    "08 - Campanhas/Sem título",
+    "08 - Campanhas/O Chamado dos Vermes",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
+    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
+    "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "01 - Lore Geral/Base Política e Econômica/Calendário.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
@@ -350,29 +358,21 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Contrato.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Isis.md",
-    "98 - Dev/Homepage.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Personagens",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Vila.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Clareira na Mata.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Cabana de Isis na Mata.md",
-    "07 - Contratos/Lado Esquerdo/Ametista/Porta dos Carnicidas/Porta dos Carnicidas.md",
-    "07 - Contratos/Template de Contrato.md",
-    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
-    "08 - Campanhas/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
     "06 - Personagens/Lendários/Sem título",
     "06 - Personagens/Lendários/Pecados Capitais",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean",
     "06 - Personagens/99 - De Campanhas/Chamado dos Vermes",
     "06 - Personagens/99 - De Campanhas",
-    "06 - Personagens/Entidades Oníricas/Inevitáveis",
-    "06 - Personagens/Entidades Oníricas/Predatórias",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
     "Home.canvas",
-    "08 - Campanhas/Seções/Sequências.canvas",
     "Seções/Sequências.canvas"
   ]
 }

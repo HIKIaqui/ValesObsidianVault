@@ -1,4 +1,4 @@
----
+[](Parte%202%20-%20O%20Contrato.md)---
 tags:
   - Seções
   - Capítulo1
