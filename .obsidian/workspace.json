@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
-                "viewState": {
-                  "x": 495,
-                  "y": 359,
-                  "zoom": 0
+                "file": "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/1 - Entrada/O elevador.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sequências"
+              "icon": "lucide-file",
+              "title": "O elevador"
             }
           }
         ]
@@ -330,10 +337,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/1 - Entrada/O elevador.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/2 - Corredor do Elevador",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/Sem título.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/1 - Entrada",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M.md",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita",
+    "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md",
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 2 - O Contrato.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md",
-    "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "08 - Campanhas/Sem título",
     "08 - Campanhas/O Chamado dos Vermes",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
@@ -356,19 +372,10 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Bicho-Papão Usa Túneis.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Desaparecimentos São Antigos.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Contrato.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Isis.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Personagens",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Vila.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Clareira na Mata.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Cabana de Isis na Mata.md",
     "06 - Personagens/Lendários/Sem título",
-    "06 - Personagens/Lendários/Pecados Capitais",
-    "06 - Personagens/99 - De Campanhas/Chamado dos Vermes/Caçadores Contratados por Dean",
-    "06 - Personagens/99 - De Campanhas/Chamado dos Vermes",
-    "06 - Personagens/99 - De Campanhas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
     "Sem título.canvas",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Investigação/Quadro Investigativo.canvas",
