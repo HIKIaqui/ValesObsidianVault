@@ -8,7 +8,7 @@ Contratos são missões gerenciadas pela [[Guilda de Caçadores]], nas quais ca�
 Também existem contratos que recompensam até mesmo não-caçadores por realizar a missão. Esses são os chamados de [[Contrato Aberto|Contratos Abertos]].
 
 ---
-## Códigos de Contrato
+## **Códigos de Contrato**
 
 Cada contrato emitido pela Guilda possui um código de registro único, usado para identificação administrativa, arquivamento e rastreamento interno.
 
@@ -85,7 +85,23 @@ Nesse formato, cada campo carrega informações específicas sobre a origem e a 
 >Esse valor garante a unicidade do código mesmo entre contratos estruturalmente idênticos.
 
 
+---
+## **Postos Emissores**
 
+Cada contrato normalmente menciona um "Posto Emissor". Estes são postos específicos normalmente definidos por códigos do tipo
+
+### **PAC-RRDD**
+
+#### "PAC" Posto Avançado de Caçadores.
+> Código base de identificação do tipo de código.
+> PAC é o único valor aceito aqui.
+
+#### "RR" Reino onde se localiza o Posto.
+> 
+
+#### "DD" Código de identificação único do posto. 
+> Usado para diferenciar um código de posto de outros.
+> Pode conter letras e/ou números.
 
 
 
