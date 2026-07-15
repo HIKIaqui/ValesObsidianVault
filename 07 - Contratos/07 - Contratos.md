@@ -96,8 +96,21 @@ Cada contrato normalmente menciona um "Posto Emissor". Estes são postos especí
 > Código base de identificação do tipo de código.
 > PAC é o único valor aceito aqui.
 
-#### "RR" Reino onde se localiza o Posto.
-> 
+#### "RR" Localização em Reino.
+>Dois dígitos numéricos que representam a região onde o posto se localiza.
+>>**Dígitos identificadores de região:**
+>>> 00 -> Sem território
+>>> 01 -> Citrino (Tem esse valor por ser o Centro administrativo da guilda)
+>>> 02 -> Ametista
+>>> 03 -> Safira
+>>> 04 -> Turmalina
+>>> 05 -> Diamante
+>>> 06 -> Rubi
+>>> 07 -> Bismuto
+>>> 08 -> Ágata
+>>> 09 -> Opala
+>>> 10 -> Jade
+>>> 99 -> Indefinido / Sigiloso
 
 #### "DD" Código de identificação único do posto. 
 > Usado para diferenciar um código de posto de outros.
