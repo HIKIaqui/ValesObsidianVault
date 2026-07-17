@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "07 - Contratos/07 - Contratos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "07 - Contratos"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -331,14 +324,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "07 - Contratos/07 - Contratos.md",
+    "01 - Lore Geral/Base Política e Econômica/Estrelas.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/1 - Entrada/O elevador.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/04 - Safira.md",
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/04 - Safira/Instalações de Malaquita/A1 2M/2 - Corredor do Elevador",
