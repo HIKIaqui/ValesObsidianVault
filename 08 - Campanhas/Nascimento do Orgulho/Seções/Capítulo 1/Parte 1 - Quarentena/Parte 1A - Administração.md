@@ -284,23 +284,23 @@ A pergunta natural é:
 
 > **O que matou essas criaturas?**
 
----
-#### Primeiros Sinais do Guarda
 
-O constructo não aparece imediatamente.
-
-A equipe começa a perceber sua movimentação por meio de:
-
-- passos pesados;
-- portas sendo abertas;
-- metal arrastando pelo chão;
-- impactos distantes;
-- móveis sendo deslocados;
-- ruídos vindos de setores próximos.
-
-Ele está procurando ativamente pelos invasores, mas não sabe exatamente onde estão.
-
-A partir daqui, a exploração dos Escritórios acontece sob perseguição.
+> Primeiros Sinais do Guarda
+>
+>O constructo não aparece imediatamente.
+>
+>A equipe começa a perceber sua movimentação por meio de:
+>
+>- passos pesados;
+>- portas sendo abertas;
+>- metal arrastando pelo chão;
+>- impactos distantes;
+>- móveis sendo deslocados;
+>- ruídos vindos de setores próximos.
+>
+>Ele está procurando ativamente pelos invasores, mas não sabe exatamente onde estão.
+>
+>A partir daqui, a exploração dos Escritórios acontece sob perseguição.
 
 ---
 #### Porta Obstruída
