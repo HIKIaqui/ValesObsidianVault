@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.0252719658336533
+                "file": "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 0 - Entrada.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Parte 0 - Entrada"
             }
           }
         ]
@@ -330,6 +337,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md",
+    "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 0 - Entrada.md",
+    "98 - Dev/Homepage.canvas",
     "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1",
     "08 - Campanhas/Nascimento do Orgulho/Seções/Sem título",
     "08 - Campanhas/Nascimento do Orgulho/Seções",
@@ -349,12 +359,9 @@
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 2 - O Contrato.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 1 - A Masmorra dos Carnicidas.md",
-    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md",
     "08 - Campanhas/Sem título",
-    "08 - Campanhas/O Chamado dos Vermes",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
-    "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Base Política e Econômica/Calendário.md",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "09 - Cronologia e História/Cronologia dos Vales/2 - Era da Ruptura/2 - Era da Ruptura.md",
