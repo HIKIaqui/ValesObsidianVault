@@ -1,9 +1,9 @@
 
 ---
-## A1 - Ativação do Painel
+## A1 - Sala de Controle e Escritórios
 
 ### Ponto de Troca
-A Administração identifica o primeiro funcionário e envia sua localização.
+A Administração encontra a porta para a o Gerenciamento de Energia, requerendo acesso nível 2 para prosseguir.
 
 
 
