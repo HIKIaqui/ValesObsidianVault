@@ -2,35 +2,70 @@
 ---
 # A1 - Sala de Controle e Escritórios
 
-## Objetivo da Parte
+## Visão Geral
 
-A equipe da Administração precisa compreender como encerrar a quarentena e encontrar uma forma de energizar o Painel de Informações.
+**Objetivo:** Entender como encerrar a quarentena e encontrar uma forma de energizar o Painel de Informações.
 
-Para isso, deve explorar a Sala de Controle e os Escritórios até alcançar uma das áreas internas da Administração:
+**Início:** A equipe da Administração entra na Sala de Controle após ser separada da equipe da Contenção.
+
+**Encerramento:** A equipe encontra uma das portas internas dos Escritórios e descobre que precisa de acesso de Nível 2 para prosseguir.
+
+**Áreas acessíveis:**
+
+- Sala de Controle;
+- Escritórios.
+
+**Áreas bloqueadas:**
 
 - Gerenciamento de Energia;
 - Sala de Segurança.
 
-Ambas exigem uma credencial ou código de identificação de Nível 2.
+**Ameaça da Parte:** O Guarda Administrativo é acionado após o primeiro uso irregular de uma credencial.
 
 ---
 
-## Sala de Controle
+# Locais
+
+## Sala 0 - Sala de Controle
+
+### Descrição Geral
 
 A sala inicial da Administração.
 
-É relativamente preservada, contendo mesas de trabalho, cadeiras, armários e equipamentos antigos de Malaquita.
+É relativamente ampla e preservada, contendo mesas de trabalho, cadeiras, armários e equipamentos antigos de Malaquita.
 
 A maior parte dos aparelhos está desligada.
 
-Na sala existem dois painéis principais:
+Os principais elementos da sala são:
 
 - Painel de Controle da Quarentena;
-- Painel de Informações Administrativas.
-
-Também existe uma porta levando aos Escritórios, bloqueada por um leitor de credenciais.
+- Painel de Informações Administrativas;
+- controles do elevador e da comporta;
+- terminais administrativos menores;
+- restos de um funcionário;
+- porta para os Escritórios.
 
 ---
+
+### Saídas
+
+#### Porta para os Escritórios
+
+A única saída acessível da sala.
+
+Possui um leitor de credenciais de Nível 1.
+
+Sem uma credencial válida:
+
+> **ACESSO RESTRITO**
+>
+> **Nível mínimo de autorização: 1**
+>
+> **Aproxime uma credencial ou insira o código de identificação.**
+
+---
+
+### Pontos de Interesse
 
 #### Painel de Controle da Quarentena
 
@@ -40,15 +75,17 @@ Na tela aparece, em letras grandes:
 
 > **QUARENTENA EM VIGOR**
 
-Abaixo do aviso existe um botão vermelho:
+Abaixo existe um botão vermelho:
 
 > **ENCERRAR QUARENTENA**
 
 A maioria das pessoas dos Vales não está acostumada com interfaces desse tipo.
 
-Não é necessário um teste para pressionar o botão, mas os personagens podem demorar alguns instantes para compreender que a superfície da tela responde ao toque.
+Não é necessário um teste para entender sua função, mas os personagens podem demorar alguns instantes para perceber que a superfície responde ao toque.
 
-Ao pressionarem **Encerrar Quarentena**, os alto-falantes anunciam:
+##### Ao pressionar “Encerrar Quarentena”
+
+Os alto-falantes anunciam:
 
 > **“Solicitação de encerramento recebida.”**
 >
@@ -82,50 +119,60 @@ Uma pequena placa identifica o equipamento:
 
 > **PAINEL DE INFORMAÇÕES ADMINISTRATIVAS**
 
-Ao lado existe um indicador simples:
+Ao lado existe um indicador:
 
 > **Estado: Inativo**
 >
 > **Rede administrativa sem alimentação.**
 
-Quando energizado, o painel permite acessar:
+##### Informações disponíveis quando energizado
 
 - mapa da instalação;
 - registros de funcionários;
 - cargos;
 - níveis de acesso;
-- última autenticação de cada credencial;
+- última autenticação das credenciais;
 - situação das portas;
 - divisão dos setores;
-- informações necessárias para orientar a equipe da Contenção.
+- informações necessárias para orientar a Contenção.
+
+Sua alimentação é controlada pelo Gerenciamento de Energia.
 
 No momento, nenhuma dessas funções está disponível.
 
-A alimentação do painel é controlada pelo Gerenciamento de Energia.
-
 ---
 
-#### Controle do Elevador e da Comporta
+#### Controle da Comporta
 
-Ao lado da comporta que separou as equipes existe um botão de abertura manual.
+Um botão de abertura manual fica próximo da comporta que separou as equipes.
 
-Caso seja pressionado:
+Ao ser pressionado:
 
 > **“Autorização negada. Quarentena em vigor.”**
 
-O botão do elevador apresenta a mesma resposta.
-
-A comporta e o elevador somente voltarão a funcionar quando a quarentena for encerrada.
+A comporta somente poderá ser aberta quando a quarentena for encerrada.
 
 ---
 
-#### Registros Simples
+#### Controle do Elevador
 
-Alguns terminais menores da sala ainda funcionam.
+O botão do elevador ainda está energizado, mas não responde ao chamado.
 
-Eles possuem apenas informações administrativas locais e registros de turno.
+Ao ser pressionado:
 
-Diversos funcionários aparecem da mesma forma:
+> **“Autorização negada. Quarentena em vigor.”**
+
+O elevador somente voltará a funcionar quando a quarentena for encerrada.
+
+---
+
+#### Terminais Administrativos
+
+Alguns terminais menores ainda funcionam.
+
+Possuem apenas informações administrativas locais e registros de turno.
+
+As consultas apresentam informações como:
 
 > **Estado do Funcionário: EM TURNO**
 >
@@ -135,15 +182,15 @@ O sistema não sabe que os funcionários morreram.
 
 Eles iniciaram seus turnos, nunca registraram a saída e continuam oficialmente trabalhando.
 
+Esses terminais não possuem o mapa completo ou os registros gerais da instalação.
+
 ---
 
-#### Primeiro Acesso
+#### Corpo do Auxiliar Administrativo
 
-A porta da Sala de Controle leva aos Escritórios.
+Os restos de um funcionário estão próximos de uma das mesas.
 
-O leitor ao lado dela exige uma credencial administrativa de Nível 1.
-
-Na Sala de Controle existe um crachá de Nível 1, encontrado junto aos restos de um funcionário ou entre seus objetos pessoais.
+Entre seus objetos existe uma credencial:
 
 > **Nome:** [Nome do Funcionário]
 >
@@ -151,39 +198,21 @@ Na Sala de Controle existe um crachá de Nível 1, encontrado junto aos restos d
 >
 > **Nível de Acesso:** 1
 
-Ao aproximar o crachá do leitor:
+A credencial permite abrir a porta dos Escritórios.
 
-> **“Credencial aceita.”**
-
-A porta destrava.
-
-Pouco depois, o leitor registra uma irregularidade:
-
-> **INCONSISTÊNCIA DE IDENTIDADE DETECTADA**
->
-> **Portador da credencial não reconhecido.**
-
-Os alto-falantes anunciam:
-
-> **“Uso irregular de identificação registrado.”**
->
-> **“Unidade de segurança administrativa acionada.”**
-
-A porta permanece aberta.
-
-O sistema não tenta impedir a entrada.
-
-Ele apenas envia o guarda.
+{ Teste de Percepção dif. 10: Encontra a credencial entre os restos ou objetos do funcionário. }
 
 ---
 
-## Escritórios
+## Sala 1 - Escritórios
+
+### Descrição Geral
 
 Uma grande sala administrativa aberta.
 
-Diversas mesas estão espalhadas pelo ambiente, algumas ainda organizadas em fileiras e outras deslocadas ou tombadas.
+Diversas mesas estão espalhadas pelo ambiente. Algumas permanecem organizadas, enquanto outras foram deslocadas, tombadas ou parcialmente destruídas.
 
-Cadeiras foram empurradas, viradas ou arremessadas para longe de suas mesas.
+Cadeiras foram empurradas, viradas ou arremessadas para longe.
 
 O local possui:
 
@@ -196,31 +225,24 @@ O local possui:
 - cadáveres de monstros;
 - quatro portas.
 
-As quatro portas levam para:
-
-- Sala de Controle;
-- Gerenciamento de Energia;
-- Sala de Segurança;
-- [^1]um corredor completamente obstruído.
-
-Os Escritórios estão mais danificados que a Sala de Controle, mas os equipamentos parecem ter sobrevivido melhor do que os seres que estavam no local.
+Os Escritórios estão mais danificados que a Sala de Controle, mas os equipamentos sobreviveram melhor do que os seres que estavam no local.
 
 ---
 
-#### Organização do Espaço
+### Organização do Espaço
 
 As mesas e cadeiras interrompem parcialmente a visão de um lado ao outro da sala.
 
 É possível enxergar movimento entre os móveis, mas nem sempre identificar imediatamente o que está se aproximando.
 
-Durante a perseguição, os Escritórios permitem:
+Durante uma perseguição, os Escritórios permitem:
 
 - observar o guarda entre as mesas;
 - escutar cadeiras sendo empurradas;
 - perder momentaneamente a criatura de vista;
 - atravessar por diferentes rotas;
 - usar os móveis para atrasá-la;
-- alcançar diferentes portas sem seguir sempre pelo mesmo caminho.
+- alcançar diferentes portas.
 
 Os móveis não impedem o guarda.
 
@@ -228,103 +250,82 @@ No máximo, atrasam seu avanço.
 
 ---
 
-#### O Que Pode Ser Encontrado
+### Saídas
 
-##### Documentos Administrativos
+#### Porta para a Sala de Controle
 
-Registros cotidianos da instalação:
+A passagem pela qual a equipe entrou.
 
-- escalas de turno;
-- pedidos de manutenção;
-- reclamações de funcionários;
-- relatórios de falha energética;
-- transferências de pesquisadores;
-- autorizações internas;
-- solicitações de equipamentos;
-- avisos sobre setores restritos.
-
-Os documentos ajudam a estabelecer como a instalação funcionava, mas não apresentam imediatamente a solução da quarentena.
+Permanece destrancada depois que a credencial de Nível 1 é utilizada.
 
 ---
-##### Terminais de Funcionários
 
-Os terminais dos Escritórios permitem consultar informações locais, como:
+#### Porta do Gerenciamento de Energia
 
-- funcionários designados à Administração;
-- responsáveis pelos setores;
-- níveis de acesso;
-- últimas autenticações das credenciais;
-- estado atual dos turnos.
+Uma placa identifica o setor:
 
-Os registros continuam apresentando:
+> **GERENCIAMENTO DE ENERGIA**
 
-> **Estado do Funcionário: EM TURNO**
+Ao se aproximarem, o leitor acende:
 
-Mesmo quando os restos do funcionário estão próximos do próprio terminal.
+> **SETOR DE ACESSO RESTRITO**
+>
+> **Nível mínimo de autorização: 2**
+>
+> **Aproxime uma credencial ou insira o código de identificação.**
 
-Os terminais não possuem o mapa completo da instalação, mas permitem identificar funcionários com acesso de Nível 2.
+Caso utilizem a credencial de Nível 1:
+
+> **“Autorização insuficiente.”**
+
+Atrás dessa porta está o sistema responsável por distribuir energia entre os setores da instalação, incluindo o Painel de Informações.
 
 ---
-##### Cadáveres de Monstros
 
-Existem cadáveres de criaturas espalhados pelos Escritórios.
+#### Porta da Sala de Segurança
 
-Alguns estão:
+Uma placa identifica o setor:
 
-- com crânios esmagados;
-- com membros arrancados;
-- partidos por força bruta;
-- jogados contra paredes;
-- parcialmente arrastados pelo chão;
-- reduzidos a restos de carne e sangue.
+> **SEGURANÇA E MONITORAMENTO**
 
-Não existem sinais de que tenham sido mortos por funcionários comuns.
+O leitor apresenta:
 
-A pergunta natural é:
-
-> **O que matou essas criaturas?**
-
-
-> Primeiros Sinais do Guarda
+> **SETOR DE ACESSO RESTRITO**
 >
->O constructo não aparece imediatamente.
+> **Nível mínimo de autorização: 2**
 >
->A equipe começa a perceber sua movimentação por meio de:
->
->- passos pesados;
->- portas sendo abertas;
->- metal arrastando pelo chão;
->- impactos distantes;
->- móveis sendo deslocados;
->- ruídos vindos de setores próximos.
->
->Ele está procurando ativamente pelos invasores, mas não sabe exatamente onde estão.
->
->A partir daqui, a exploração dos Escritórios acontece sob perseguição.
+> **Aproxime uma credencial ou insira o código de identificação.**
+
+Caso utilizem a credencial de Nível 1:
+
+> **“Autorização insuficiente.”**
+
+A identificação indica que a sala possui algum tipo de controle sobre os sistemas de vigilância e segurança da instalação.
 
 ---
+
 #### Porta Obstruída
 
-Na parede direita dos Escritórios existe uma quarta porta.
+Uma quarta porta existe na parede direita dos Escritórios.
 
-Ela aparenta ser uma passagem normal para outro corredor da instalação, mas não abre completamente.
+Ela aparenta levar para outro corredor da instalação, mas não abre completamente.
 
-Ao tentar utilizá-la, a porta se move apenas alguns centímetros antes de pressionar algo do outro lado.
+Ao tentar utilizá-la, move-se apenas alguns centímetros antes de pressionar algo do outro lado.
 
 Não é uma trava.
 
 Existe uma obstrução física ocupando todo o corredor.
 
-Pela pequena abertura é possível enxergar uma massa compacta e úmida formada por:
+Pela abertura é possível enxergar uma massa compacta e úmida formada por:
 
 - cadáveres de criaturas;
 - carne escurecida;
 - ossos quebrados;
 - membros comprimidos;
 - tecidos apodrecidos;
-- uma substância viscosa acumulada entre os corpos.
+- substância viscosa acumulada entre os corpos.
 
-Parte da matéria morta cede quando pressionada pela porta, produzindo um ruído molhado, mas a massa não se move o suficiente para permitir a abertura.
+Parte da matéria cede quando pressionada pela porta, produzindo um ruído molhado, mas a massa não se move o suficiente.
 
 O sistema informa:
 
@@ -340,57 +341,53 @@ A porta não é uma rota de fuga.
 
 ---
 
-#### Gerenciamento de Energia
+### Pontos de Interesse
 
-Uma das portas internas possui uma placa identificando o setor:
-
-> **GERENCIAMENTO DE ENERGIA**
-
-Ao se aproximarem, o leitor acende:
-
-> **SETOR DE ACESSO RESTRITO**
->
-> **Nível mínimo de autorização: 2**
->
-> **Aproxime uma credencial ou insira o código de identificação.**
-
-A credencial de Nível 1 não funciona.
-
-Caso seja utilizada:
-
-> **“Autorização insuficiente.”**
-
-Atrás dessa porta está o sistema responsável por distribuir energia entre os diferentes setores da instalação, incluindo o Painel de Informações da Sala de Controle.
+Nesta seção, cada mesa ou conjunto de objetos deve receber um número correspondente ao mapa.
 
 ---
 
-#### Sala de Segurança
+#### Mesa 1 - [Função da Mesa]
 
-Outra porta interna possui uma placa identificando o setor:
+**O que está visível:**
 
-> **SEGURANÇA E MONITORAMENTO**
+- [Objeto];
+- [Documento];
+- [Estado da mesa].
 
-Ao se aproximarem, o leitor apresenta a mesma exigência:
+**Ao investigar:**
 
-> **SETOR DE ACESSO RESTRITO**
->
-> **Nível mínimo de autorização: 2**
->
-> **Aproxime uma credencial ou insira o código de identificação.**
-
-A credencial de Nível 1 também não funciona.
-
-Caso seja utilizada:
-
-> **“Autorização insuficiente.”**
-
-A equipe ainda não sabe exatamente o que existe dentro da sala, mas sua identificação indica acesso aos sistemas de vigilância e segurança da instalação.
+- [Informação encontrada];
+- [Item encontrado];
+- [Teste possível].
 
 ---
 
-#### Funcionário de Nível 2
+#### Mesa 2 - [Função da Mesa]
 
-Nos terminais dos Escritórios, a equipe consegue identificar um funcionário com autorização suficiente para acessar tanto o Gerenciamento de Energia quanto a Sala de Segurança.
+**O que está visível:**
+
+- 
+
+**Ao investigar:**
+
+- 
+
+---
+
+#### Mesa 3 - Terminal de Funcionários
+
+Um terminal administrativo permanece funcional.
+
+Permite consultar:
+
+- funcionários designados à Administração;
+- responsáveis pelos setores;
+- níveis de acesso;
+- últimas autenticações;
+- estado atual dos turnos.
+
+Ao pesquisar funcionários com acesso de Nível 2, o sistema apresenta:
 
 > **Nome:** [Nome do Funcionário]
 >
@@ -404,34 +401,139 @@ Nos terminais dos Escritórios, a equipe consegue identificar um funcionário co
 >
 > **Tempo desde a última autenticação:** 12.846 dias
 
-A última autenticação indica apenas onde a credencial foi utilizada pela última vez.
+A última autenticação indica apenas onde a credencial foi usada pela última vez.
 
 Não existe garantia de que o corpo ainda esteja exatamente naquele local.
 
-O funcionário e sua credencial estão em algum ponto da Ala de Contenção.
+---
+
+#### Arquivos Administrativos
+
+Documentos cotidianos da instalação:
+
+- escalas de turno;
+- pedidos de manutenção;
+- reclamações de funcionários;
+- relatórios de falha energética;
+- transferências de pesquisadores;
+- autorizações internas;
+- solicitações de equipamentos;
+- avisos sobre setores restritos.
+
+Esses documentos estabelecem como a instalação funcionava, mas não apresentam imediatamente a solução da quarentena.
+
+Posteriormente, os documentos podem ser distribuídos entre mesas e armários específicos.
 
 ---
 
-#### Encerramento da Parte
+#### Cadáveres de Monstros
 
-A equipe pode encontrar primeiro:
+Existem cadáveres de criaturas espalhados pelos Escritórios.
 
-- a porta do Gerenciamento de Energia;
-- ou a porta da Sala de Segurança.
+Alguns estão:
 
-O resultado é o mesmo.
+- com crânios esmagados;
+- com membros arrancados;
+- partidos por força bruta;
+- jogados contra paredes;
+- parcialmente arrastados pelo chão;
+- reduzidos a restos de carne e sangue.
 
-Ambas exigem acesso de Nível 2, impedindo que a Administração continue avançando sozinha.
+Não existem sinais de que tenham sido mortos por funcionários comuns.
 
-Caso explorem o restante dos Escritórios antes de entrar em contato com a outra equipe, podem encontrar as duas portas e confirmar que utilizam o mesmo nível de autorização.
+{ Teste de Investigação ou Medicina dif. 15: Os monstros foram mortos em momentos diferentes, mas quase todos apresentam ferimentos causados pelo mesmo tipo de força brutal. }
+
+A pergunta natural é:
+
+> **O que matou essas criaturas?**
 
 ---
 
-### Ponto de Troca
+# Eventos da Parte
+
+## Evento 1 - Entendendo a Quarentena
+
+A equipe examina o [[#Painel de Controle da Quarentena]].
+
+Ao tentar encerrar o protocolo, descobre que precisa de uma credencial ou código de Nível 3.
+
+O [[#Painel de Informações Administrativas]], que poderia identificar funcionários com esse acesso, está sem energia.
+
+---
+
+## Evento 2 - Primeiro Acesso
+
+A equipe encontra o [[#Corpo do Auxiliar Administrativo]] e recupera sua credencial de Nível 1.
+
+Ao utilizar o cartão na [[#Porta para os Escritórios]], a porta destrava.
+
+> **“Credencial aceita.”**
+
+Pouco depois, o leitor registra:
+
+> **INCONSISTÊNCIA DE IDENTIDADE DETECTADA**
+>
+> **Portador da credencial não reconhecido.**
+
+Os alto-falantes anunciam:
+
+> **“Uso irregular de identificação registrado.”**
+>
+> **“Unidade de segurança administrativa acionada.”**
+
+A porta permanece aberta.
+
+O sistema não impede o acesso.
+
+Ele apenas envia o guarda.
+
+---
+
+## Evento 3 - Primeiros Sinais do Guarda
+
+O constructo não aparece imediatamente.
+
+Durante a exploração dos Escritórios, a equipe percebe sua movimentação por meio de:
+
+- passos pesados;
+- portas sendo abertas;
+- metal arrastando pelo chão;
+- impactos distantes;
+- móveis sendo deslocados;
+- ruídos vindos de setores próximos.
+
+Ele está procurando ativamente pelos invasores, mas não sabe exatamente onde estão.
+
+A partir daqui, a exploração acontece sob perseguição.
+
+---
+
+## Evento 4 - Bloqueio de Nível 2
+
+A equipe encontra primeiro uma destas portas:
+
+- [[#Porta do Gerenciamento de Energia]];
+- [[#Porta da Sala de Segurança]].
+
+As duas exigem acesso de Nível 2.
+
+A equipe pode continuar explorando e encontrar a segunda porta, mas o resultado permanece o mesmo: não consegue prosseguir com a credencial atual.
+
+---
+
+## Evento 5 - Localizando a Credencial
+
+Ao utilizar o [[#Mesa 3 - Terminal de Funcionários]], a equipe identifica um funcionário de Nível 2 cuja última autenticação ocorreu na Ala de Contenção.
+
+A Administração agora depende da outra equipe para recuperar fisicamente a credencial.
+
+---
+
+## Ponto de Troca
 
 A Administração encontra uma das portas internas dos Escritórios, requerendo acesso de Nível 2 para prosseguir.
 
-Após consultar os terminais, a equipe transmite pelo comunicador:
+Após consultar os registros, transmite pelo comunicador:
 
 > - Encontramos os acessos para energia e segurança.
 >
