@@ -10,7 +10,7 @@ Para isso, deve explorar a Sala de Controle e os Escritórios até alcançar a p
 
 ---
 
-# Sala de Controle
+### Sala de Controle
 
 A sala inicial da Administração.
 
@@ -26,7 +26,7 @@ Na sala existem dois painéis principais:
 Também existem portas levando para os outros setores da Administração, todas bloqueadas por leitores de credenciais.
 
 ---
-## Painel de Controle da Quarentena
+#### Painel de Controle da Quarentena
 
 O único painel principal ainda energizado.
 
@@ -63,7 +63,7 @@ Um espaço para inserção do código aparece abaixo.
 O painel não informa quem possui autorização de Nível 3.
 
 ---
-## Painel de Informações Administrativas
+#### Painel de Informações Administrativas
 
 Um grande painel ocupa boa parte da parede oposta.
 
@@ -95,7 +95,7 @@ Quando energizado, o painel permite acessar:
 No momento, nenhuma dessas funções está disponível.
 
 ---
-## Controle do Elevador e da Comporta
+#### Controle do Elevador e da Comporta
 
 Ao lado da comporta que separou as equipes existe um botão de abertura manual.
 
@@ -108,7 +108,7 @@ O botão do elevador apresenta a mesma resposta.
 A comporta e o elevador somente voltarão a funcionar quando a quarentena for encerrada.
 
 ---
-## Registros Simples
+#### Registros Simples
 
 Alguns terminais menores da sala ainda funcionam.
 
@@ -125,7 +125,7 @@ O sistema não sabe que os funcionários morreram.
 Eles iniciaram seus turnos, nunca registraram a saída e continuam oficialmente trabalhando.
 
 ---
-## Primeiro Acesso
+#### Primeiro Acesso
 
 Uma das portas da Sala de Controle leva aos Escritórios.
 
@@ -146,7 +146,7 @@ Ao aproximar o crachá do leitor:
 A porta destrava.
 
 ---
-# Escritórios
+### Escritórios
 
 Um grande conjunto de ambientes administrativos separados por divisórias, móveis e pequenas salas.
 
@@ -165,9 +165,9 @@ O lugar possui:
 Os escritórios parecem mais danificados que a Sala de Controle, mas ainda estão relativamente preservados.
 
 ---
-## O Que Pode Ser Encontrado
+#### O Que Pode Ser Encontrado
 
-### Documentos Administrativos
+##### Documentos Administrativos
 
 Registros cotidianos da instalação:
 
@@ -184,7 +184,7 @@ Os documentos ajudam a estabelecer como a instalação funcionava, mas não apre
 
 ---
 
-### Terminais de Funcionários
+##### Terminais de Funcionários
 
 Os terminais dos escritórios permitem consultar informações locais, como:
 
@@ -202,7 +202,7 @@ Mesmo quando o corpo do funcionário está próximo do próprio terminal.
 
 ---
 
-### Cadáveres de Monstros
+##### Cadáveres de Monstros
 
 Existem cadáveres de criaturas espalhados pelos escritórios.
 
@@ -222,7 +222,7 @@ A pergunta natural é:
 
 ---
 
-## Ativação do Guarda
+#### Ativação do Guarda
 
 A primeira utilização da credencial administrativa registra uma inconsistência.
 
@@ -246,7 +246,7 @@ Ele apenas envia o guarda.
 
 ---
 
-## Primeiros Sinais do Guarda
+#### Primeiros Sinais do Guarda
 
 O constructo não aparece imediatamente.
 
@@ -265,7 +265,7 @@ A partir daqui, a exploração dos Escritórios acontece sob perseguição.
 
 ---
 
-## Caminho até o Gerenciamento de Energia
+#### Caminho até o Gerenciamento de Energia
 
 Os Escritórios conectam a Sala de Controle à entrada do Gerenciamento de Energia.
 
@@ -307,7 +307,7 @@ O funcionário e sua credencial estão na Ala de Contenção.
 
 ---
 
-### Ponto de Troca
+#### Ponto de Troca
 
 A Administração encontra a porta para o Gerenciamento de Energia, requerendo acesso de Nível 2 para prosseguir.
 
