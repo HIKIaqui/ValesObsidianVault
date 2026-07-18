@@ -142,27 +142,7 @@ No momento, nenhuma dessas funções está disponível.
 
 ---
 
-#### Controle da Comporta
 
-Um botão de abertura manual fica próximo da comporta que separou as equipes.
-
-Ao ser pressionado:
-
-> **“Autorização negada. Quarentena em vigor.”**
-
-A comporta somente poderá ser aberta quando a quarentena for encerrada.
-
----
-
-#### Controle do Elevador
-
-O botão do elevador ainda está energizado, mas não responde ao chamado.
-
-Ao ser pressionado:
-
-> **“Autorização negada. Quarentena em vigor.”**
-
-O elevador somente voltará a funcionar quando a quarentena for encerrada.
 
 ---
 
@@ -250,7 +230,8 @@ No máximo, atrasam seu avanço.
 
 ---
 
-### Saídas
+### Saídas:
+---
 
 #### Porta para a Sala de Controle
 
@@ -375,17 +356,17 @@ Nesta seção, cada mesa ou conjunto de objetos deve receber um número correspo
 
 ---
 
-#### Mesa 3 - Terminal de Funcionários
+#### Terminal de Funcionários
 
-Um terminal administrativo permanece funcional.
+Nos cantos da sala, terminais administrativos azuis permanecem funcionais.
 
-Permite consultar:
+Permitem consultar:
 
-- funcionários designados à Administração;
-- responsáveis pelos setores;
-- níveis de acesso;
-- últimas autenticações;
-- estado atual dos turnos.
+- funcionários designados à Administração; (Uma lista enorme de nomes. Nenhum reconhecível sem informação.)
+- responsáveis pelos setores; (Nomes bonitos, mas não reconhecíveis.)
+- buscar funcionários por níveis de acesso; (0 a 3)
+- últimas autenticações; (A mais recente faz 12.846 dias)
+- estado atual dos turnos de funcionários. 
 
 Ao pesquisar funcionários com acesso de Nível 2, o sistema apresenta:
 

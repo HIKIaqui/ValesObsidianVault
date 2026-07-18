@@ -128,26 +128,27 @@ Em seguida, enormes mecanismos começam a se mover por toda a instalação.
 
 ---
 
-## Tentativa de Abrir a Comporta
+#### Controle da Comporta
 
-Ao lado da comporta que separou os grupos existe um painel com um grande botão de abertura manual.
+Um botão de abertura manual fica próximo da comporta que separou as equipes.
 
-O botão ainda recebe energia.
+Ao ser pressionado:
 
-Caso seja pressionado, uma luz vermelha acende e uma voz automática responde:
+> **“Autorização negada. Protocolo de quarentena em vigor.”**
 
-> **“Autorização negada.”**  
-> **“Protocolo de quarentena em vigor.”**  
-> **“Abertura de setores indisponível até encerramento do protocolo.”**
+A comporta somente poderá ser aberta quando a quarentena for encerrada.
 
-A comporta não pode ser forçada facilmente. Sua estrutura foi projetada para resistir a criaturas de grande porte e impedir a propagação de contaminações entre setores.
+---
 
-O mesmo acontece caso tentem chamar o elevador:
+#### Controle do Elevador
 
-> **“Autorização negada.”**  
-> **“Protocolo de quarentena em vigor.”**
+O botão do elevador ainda está energizado, mas não responde ao chamado.
 
-A quarentena precisa ser encerrada antes que o elevador ou a comporta principal possam ser utilizados novamente.
+Ao ser pressionado:
+
+> **“Autorização negada. Protocolo de quarentena em vigor.”**
+
+O elevador somente voltará a funcionar quando a quarentena for encerrada.
 
 ---
 
