@@ -7,7 +7,6 @@
 **PV:** 70
 **Armadura:** 2
 **Esquiva:** 10
-**PE:** 8
 
 # Atributos
 
@@ -26,12 +25,12 @@
 
 # Habilidades
 
-Elemental (Passiva): Pode usar técnicas elementais. Um tipo de elemental apenas.
+Umbrarregeneração (Passiva): Cura 10 PV no início do turno se estiver em escuridão. Caso contrário, cura 5 PV. Isso reverte morte.
 
-Caçador (Passiva): +1 Dado para toda ação relacionada a monstros.
+Sem Vontade (Passiva): Não é afetado por medo, emoções, intimidação, persuasão ou manipulação mental comum. Não recua enquanto ainda puder cumprir sua ordem.
 
-Soco Esmagador: Porrada | Precisão -1| Dano 2d6 | Crítico 19+ | 3 Sangramento (Dif. 18)
+Soco Esmagador: Porrada | Precisão 0| Dano 2d8 | Crítico 20
 
 # Descrição
 
-O guarda 
+Seu corpo é formado por carne exposta, ossos e estruturas artificiais. Não possui pele. Ferimentos antigos se fecham lentamente enquanto atravessa as áreas mais escuras. A criatura não corre.
