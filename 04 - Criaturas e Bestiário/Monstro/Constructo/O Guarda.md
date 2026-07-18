@@ -29,7 +29,7 @@ Umbrarregeneração (Passiva): Cura 10 PV no início do turno se estiver em escu
 
 Sem Vontade (Passiva): Não é afetado por medo, emoções, intimidação, persuasão ou manipulação mental comum. Não recua enquanto ainda puder cumprir sua ordem.
 
-Soco Esmagador: Porrada | Precisão 0| Dano 2d8 | Crítico 20
+Soco Esmagador: Porrada | Precisão 0| Dano 2d10 | Crítico 20
 
 # Descrição
 
