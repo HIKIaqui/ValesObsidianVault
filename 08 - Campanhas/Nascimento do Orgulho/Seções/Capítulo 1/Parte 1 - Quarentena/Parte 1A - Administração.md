@@ -320,25 +320,27 @@ O corredor inteiro do outro lado está preenchido por matéria morta.
 
 A porta não é uma rota de fuga.
 
+{ Todos presentes testam Vontade Dif. 15 ou recebem +1 Estresse. }
+
 ---
 
 ### Pontos de Interesse
 
 #### Resumo das Mesas
 
-| Mesa | Função | Informação principal |
-|---|---|---|
-| 1 | Recepção administrativa | Mapa parcial da Administração |
-| 2 | Escalas e turnos | Funcionários ativos no último turno |
-| 3 | Autorizações internas | Explica os níveis de acesso |
-| 4 | Comunicação | Comunicadores e mensagens internas |
-| 5 | Manutenção | Painel de Informações sem energia |
-| 6 | Recursos Humanos | Dados pessoais e busca de funcionários |
-| 7 | Controle operacional | Identifica funcionários de Nível 2 |
-| 8 | Incidentes de segurança | Primeiras informações sobre o guarda |
-| 9 | Suprimentos | Recursos úteis |
-| 10 | Transferências | Relação entre Administração e Contenção |
-| 11 | Corredor Leste | Explica parcialmente a porta obstruída |
+| Mesa | Função                  | Informação principal                    |
+| ---- | ----------------------- | --------------------------------------- |
+| 1    | Recepção administrativa | Mapa parcial da Administração           |
+| 2    | Escalas e turnos        | Funcionários ativos no último turno     |
+| 3    | Autorizações internas   | Explica os níveis de acesso             |
+| 4    | Comunicação             | Comunicadores e mensagens internas      |
+| 5    | Manutenção              | Painel de Informações sem energia       |
+| 6    | Recursos Humanos        | Dados pessoais e busca de funcionários  |
+| 7    | Controle operacional    | Identifica funcionários de Nível 2      |
+| 8    | Incidentes de segurança | Primeiras informações sobre o guarda    |
+| 9    | Suprimentos             | Recursos úteis                          |
+| 10   | Transferências          | Relação entre Administração e Contenção |
+| 11   | Corredor Leste          | Explica parcialmente a porta obstruída  |
 
 ---
 
@@ -401,8 +403,8 @@ Não existe garantia de que o corpo ainda esteja exatamente naquele local.
 
 O mapa mostra apenas a Ala Administrativa:
 
-2 - Gerenciamento de Energia | 1 - Escritórios
-3 - Segurança                           | 0 - Sala de Controle
+2 - Gerenciamento de Energia   | 1 - Escritórios
+3 - Segurança                             | 0 - Sala de Controle
 
 Uma passagem adicional sai dos Escritórios em direção ao corredor leste.
 
@@ -460,13 +462,13 @@ Os nomes podem ser utilizados nos [[#Terminais de Funcionários]] para localizar
 
 O quadro explica:
 
-> **Nível 0 — Visitantes e prestadores temporários**
+> **Nível 0 - Visitantes e prestadores temporários**
 > 
-> **Nível 1 — Funcionários administrativos**
+> **Nível 1 - Funcionários administrativos**
 > 
-> **Nível 2 — Operação, segurança e setores técnicos**
+> **Nível 2 - Operação, segurança e setores técnicos**
 > 
-> **Nível 3 — Supervisão e encerramento de protocolos críticos**
+> **Nível 3 - Supervisão e encerramento de protocolos críticos**
 
 **Ao investigar:**
 
@@ -496,15 +498,15 @@ Os registros finais mostram diversas chamadas entre Administração e Contençã
 
 As últimas foram interrompidas ou nunca atendidas.
 
-> **CHAMADA — CONTENÇÃO CENTRAL**
+> **CHAMADA - CONTENÇÃO CENTRAL**
 > 
 > **SEM RESPOSTA**
 > 
-> **CHAMADA — SEGURANÇA ADMINISTRATIVA**
+> **CHAMADA - SEGURANÇA ADMINISTRATIVA**
 > 
 > **UNIDADE EM OPERAÇÃO**
 > 
-> **CHAMADA — SUPERVISÃO**
+> **CHAMADA - SUPERVISÃO**
 > 
 > **SEM RESPOSTA**
 
