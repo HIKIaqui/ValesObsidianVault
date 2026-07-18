@@ -938,17 +938,587 @@ Após consultar os registros, transmite pelo comunicador:
 
 
 ---
-## A2 - Segundo Nível de Acesso
-### Ponto de Troca
-A Administração encontra o funcionário de Nível 2 e indica a rota.
+# A2 - Gerenciamento de Energia e Sala de Segurança
+
+## Visão Geral
+
+**Objetivo:** Utilizar o código de Nível 2 para acessar os sistemas internos da Administração e auxiliar a equipe da Contenção a atravessar as Câmaras de Contenção Menor.
+
+**Início:** A equipe da Contenção transmite o código da credencial encontrada na Sala de Dissecação.
+
+**Encerramento:** A equipe da Contenção alcança a Segurança Interna.
+
+**Áreas acessíveis:**
+
+- Sala de Controle;
+- Escritórios;
+- Gerenciamento de Energia;
+- Sala de Segurança.
+
+**Ameaça da Parte:** O Guarda Administrativo finalmente alcança os Escritórios e começa a perseguir a equipe diretamente.
 
 ---
-## A3 - Supervisor e Núcleo
+
+# Locais
+
+## Sala 2 - Gerenciamento de Energia
+
+### Descrição Geral
+
+Uma sala técnica ocupada por painéis, cabos, indicadores luminosos e grandes estruturas responsáveis por distribuir energia pela instalação.
+
+Diferente do gerador encontrado pela equipe da Contenção, esta sala não produz energia.
+
+Ela determina para onde a energia produzida pelo núcleo da instalação será enviada.
+
+A sala possui:
+
+- painel central de distribuição;
+- mapa energético da instalação;
+- controles de iluminação;
+- controles de alimentação dos sistemas;
+- registros de consumo;
+- alertas de sobrecarga;
+- uma porta para os Escritórios;
+- uma conexão interna com a Sala de Segurança.
+
+---
+
+### Saídas
+
+#### Porta para os Escritórios
+
+A entrada principal da sala.
+
+O código de Nível 2 permite destrancá-la.
+
+> **“Código de identificação aceito.”**
+>
+> **“Acesso autorizado.”**
+
+A porta permanece registrada como aberta enquanto a equipe estiver dentro do setor.
+
+---
+
+#### Porta para a Sala de Segurança
+
+Uma passagem interna conecta o Gerenciamento de Energia à Sala de Segurança.
+
+Também exige autorização de Nível 2.
+
+Essa conexão permite circular entre as duas salas sem retornar obrigatoriamente aos Escritórios.
+
+---
+
+### Pontos de Interesse
+
+#### Painel Central de Distribuição
+
+O principal sistema da sala.
+
+Apresenta um mapa simplificado da instalação, com os setores divididos por linhas energéticas.
+
+Os principais circuitos visíveis são:
+
+- Administração;
+- Painel de Informações Administrativas;
+- Segurança e Monitoramento;
+- Triagem;
+- Sala de Dissecação;
+- Câmaras de Contenção Menor;
+- Segurança Interna;
+- Contenção Extrema.
+
+O sistema permite alimentar ou desligar setores individualmente.
+
+---
+
+#### Capacidade Limitada
+
+A instalação não possui energia suficiente para manter todos os sistemas funcionando ao mesmo tempo.
+
+O painel apresenta:
+
+> **CAPACIDADE ENERGÉTICA REDUZIDA**
+>
+> **DISTRIBUIÇÃO PRIORITÁRIA NECESSÁRIA**
+
+A equipe precisa escolher quais sistemas receberão energia.
+
+Entre as opções mais importantes estão:
+
+- iluminação da Administração;
+- Painel de Informações Administrativas;
+- sistemas da Sala de Segurança;
+- iluminação das Câmaras de Contenção Menor;
+- câmeras da Contenção;
+- portas internas da Contenção;
+- sistemas da Segurança Interna.
+
+Não é possível manter todas essas funções ativas simultaneamente.
+
+---
+
+#### Iluminação da Administração
+
+Mantém acesas as luzes da Sala de Controle, Escritórios, Gerenciamento de Energia e Sala de Segurança.
+
+A iluminação dificulta a regeneração do Guarda Administrativo.
+
+Caso a energia seja retirada desse circuito:
+
+- partes da Administração ficam completamente escuras;
+- as câmeras administrativas perdem qualidade;
+- o guarda consegue regenerar seus ferimentos;
+- torna-se mais difícil acompanhar sua movimentação.
+
+Desligar a iluminação da Administração pode liberar energia suficiente para ajudar a equipe da Contenção.
+
+---
+
+#### Painel de Informações Administrativas
+
+O painel apagado da Sala de Controle pode ser energizado a partir daqui.
+
+Quando ativado, permite consultar:
+
+- mapa completo da instalação;
+- registros gerais de funcionários;
+- níveis de acesso;
+- últimas autenticações;
+- localização provável do supervisor de Nível 3;
+- situação de setores mais profundos.
+
+Ativar esse painel não ajuda imediatamente a equipe da Contenção a sobreviver, mas permite preparar o próximo objetivo.
+
+---
+
+#### Alimentação da Sala de Segurança
+
+Os sistemas de vigilância não funcionam completamente sem energia direcionada.
+
+Ao energizar a Sala de Segurança, tornam-se disponíveis:
+
+- câmeras;
+- sensores;
+- controles de portas;
+- sistema de comunicação;
+- alarmes internos.
+
+Sem essa alimentação, a Sala de Segurança possui apenas registros antigos e um mapa estático.
+
+---
+
+#### Energia das Câmaras de Contenção Menor
+
+A equipe pode alimentar sistemas específicos do setor:
+
+- iluminação;
+- câmeras;
+- portas de contenção;
+- alto-falantes;
+- sensores de movimento.
+
+A energia precisa ser direcionada antes que esses sistemas possam ser controlados pela Sala de Segurança.
+
+---
+
+#### Registro de Consumo Anormal
+
+Uma das linhas energéticas apresenta consumo constante e elevado.
+
+> **DESTINO: UNIDADE DE SEGURANÇA ADMINISTRATIVA**
+>
+> **ESTADO: ATIVA**
+>
+> **ALIMENTAÇÃO: NÚCLEO CENTRAL**
+
+O Guarda Administrativo não pode ser desligado por esta sala.
+
+A equipe pode apenas controlar condições que dificultem sua regeneração e movimentação.
+
+{ Teste de Tecnologia dif. 15: A unidade não depende do circuito comum da Administração. Mesmo apagando toda a ala, ela continuará ativa. }
+
+---
+
+## Sala 3 - Segurança e Monitoramento
+
+### Descrição Geral
+
+Uma sala cercada por painéis, monitores e controles de emergência.
+
+Grande parte das telas está quebrada ou apresenta apenas interferência.
+
+As que ainda funcionam mostram imagens de diferentes setores da instalação.
+
+A sala possui:
+
+- painel de câmeras;
+- mapa de segurança;
+- controles de portas;
+- sistema de alto-falantes;
+- sensores de movimento;
+- registros de incidentes;
+- uma porta para os Escritórios;
+- uma conexão interna com o Gerenciamento de Energia.
+
+A maior parte dos sistemas depende da energia direcionada pelo Gerenciamento de Energia.
+
+---
+
+### Saídas
+
+#### Porta para os Escritórios
+
+A entrada principal da sala.
+
+O código de Nível 2 permite abri-la.
+
+---
+
+#### Porta para o Gerenciamento de Energia
+
+Uma passagem interna conecta as duas salas.
+
+Ela permite que a equipe alterne rapidamente entre distribuição de energia e controle dos sistemas.
+
+---
+
+### Pontos de Interesse
+
+#### Mapa de Segurança
+
+Um mapa completo das áreas monitoradas pela instalação.
+
+Ele identifica:
+
+- corredores;
+- portas;
+- câmaras;
+- pontos de câmera;
+- divisórias de emergência;
+- rotas de evacuação;
+- setores sem resposta.
+
+O mapa não mostra o túnel cavado na Manutenção.
+
+---
+
+#### Painel de Câmeras
+
+As câmeras funcionais permitem observar partes da Administração e da Contenção.
+
+##### Administração
+
+As câmeras permitem acompanhar parcialmente o Guarda Administrativo.
+
+Existem diversos pontos cegos causados por:
+
+- salas sem câmeras;
+- equipamentos destruídos;
+- interferência;
+- portas fechadas;
+- ausência de energia.
+
+O guarda pode desaparecer de uma câmera e levar algum tempo para surgir em outra.
+
+A equipe nunca possui certeza completa sobre sua localização.
+
+##### Câmaras de Contenção Menor
+
+As câmeras permitem observar:
+
+- Carnicidas espalhados pelo corredor;
+- grupos se alimentando;
+- celas abertas;
+- trechos obstruídos;
+- o Carniceiro;
+- a porta da Segurança Interna;
+- a cela onde termina o túnel.
+
+Nem todas as câmeras funcionam.
+
+A equipe consegue identificar regiões mais ou menos perigosas, mas não observar cada criatura do setor.
+
+---
+
+#### Sensores de Movimento
+
+Os sensores representam movimentos como marcas simples no mapa.
+
+Eles não identificam perfeitamente o que está se movendo.
+
+> **FORMA BIOLÓGICA DETECTADA**
+
+> **MÚLTIPLAS FORMAS BIOLÓGICAS DETECTADAS**
+
+> **FORMA BIOLÓGICA DE GRANDE PORTE DETECTADA**
+
+Isso permite acompanhar deslocamentos mesmo em áreas sem câmeras, mas não distinguir imediatamente caçadores de monstros.
+
+---
+
+#### Controles de Portas
+
+A Sala de Segurança pode abrir ou fechar portas das áreas energizadas.
+
+Nas Câmaras de Contenção Menor, isso permite:
+
+- fechar celas;
+- abrir celas;
+- trancar portas atrás da equipe;
+- separar parte do bando;
+- liberar o caminho até a Segurança Interna;
+- fechar uma divisória entre os Carnicidas e os jogadores.
+
+As portas não são indestrutíveis.
+
+Carnicidas podem forçá-las com tempo suficiente, especialmente quando coordenados pelo Carniceiro.
+
+Cada movimento de uma porta produz bastante ruído.
+
+---
+
+#### Divisórias de Emergência
+
+Alguns trechos das Câmaras Menores possuem divisórias metálicas capazes de cortar o corredor em seções.
+
+Elas podem ser usadas para:
+
+- impedir que todo o bando avance junto;
+- isolar temporariamente o Carniceiro;
+- proteger a retaguarda da equipe;
+- criar alguns turnos de vantagem.
+
+As divisórias precisam receber energia para funcionar.
+
+Uma vez fechadas, não podem ser abertas novamente sem acesso à Sala de Segurança ou uso da credencial local.
+
+---
+
+#### Sistema de Alto-Falantes
+
+A equipe pode emitir sons em setores específicos.
+
+Possíveis usos:
+
+- chamar a atenção dos Carnicidas para uma cela;
+- afastá-los da rota escolhida;
+- atrair o Carniceiro para outro trecho;
+- transmitir instruções ao grupo B;
+- criar uma distração.
+
+Os Carnicidas não compreendem mensagens, mas reagem ao som.
+
+O Carniceiro pode perceber que o ruído é artificial depois de algum tempo.
+
+---
+
+#### Comunicação Interna
+
+Os alto-falantes permitem falar diretamente com a equipe da Contenção.
+
+A transmissão é mais clara que os comunicadores portáteis, mas também pode ser ouvida pelas criaturas próximas.
+
+Usar o sistema para orientar o grupo pode revelar sua posição.
+
+---
+
+#### Controle da Iluminação
+
+A Sala de Segurança pode ligar ou desligar as luzes de setores energizados.
+
+Isso permite:
+
+- iluminar a rota da equipe;
+- revelar criaturas escondidas;
+- apagar um trecho para reduzir estímulos;
+- acender luzes em outro ponto para chamar atenção;
+- sinalizar qual caminho deve ser seguido.
+
+Os Carnicidas não dependem da visão para caçar.
+
+A iluminação ajuda os jogadores muito mais do que afeta as criaturas.
+
+---
+
+#### Registros do Guarda Administrativo
+
+Os registros identificam a criatura como:
+
+> **UNIDADE DE SEGURANÇA ADMINISTRATIVA**
+>
+> **Estado: Ativa**
+>
+> **Prioridade atual: Eliminação de invasores**
+>
+> **Última localização confirmada: Escritórios**
+
+Os sistemas não oferecem uma forma de cancelar sua ordem.
+
+---
+
+# Eventos da Parte
+
+## Evento 1 - Recebimento do Código
+
+A equipe da Contenção transmite o código da credencial de Nível 2.
+
+> — Encontramos o cartão.
+>
+> — O código é [Código].
+
+A Administração insere o código nas portas do Gerenciamento de Energia e da Sala de Segurança.
+
+As duas são destrancadas.
+
+---
+
+## Evento 2 - Aparição do Guarda
+
+Quando a primeira porta de Nível 2 é aberta, passos pesados ecoam pelos Escritórios.
+
+Dessa vez, o som não vem de uma sala distante.
+
+Ao olhar através das divisórias e mesas, a equipe finalmente vê a Unidade de Segurança Administrativa.
+
+Ela entra lentamente nos Escritórios.
+
+Seu corpo é formado por carne exposta, ossos e estruturas artificiais. Não possui pele.
+
+Ferimentos antigos se fecham lentamente enquanto atravessa as áreas mais escuras.
+
+A criatura não corre.
+
+Ela apenas começa a seguir a equipe.
+
+A partir deste momento, permanecer muito tempo em qualquer painel é perigoso.
+
+---
+
+## Evento 3 - Escolha do Primeiro Setor
+
+A equipe pode acessar primeiro:
+
+- [[#Sala 2 - Gerenciamento de Energia]];
+- [[#Sala 3 - Segurança e Monitoramento]].
+
+### Gerenciamento primeiro
+
+A equipe consegue alimentar os sistemas necessários, mas ainda não consegue utilizá-los sem alcançar a Sala de Segurança.
+
+### Segurança primeiro
+
+A equipe encontra os controles e mapas, mas grande parte deles permanece desligada até que a energia seja redirecionada.
+
+As duas salas são necessárias para utilizar completamente os sistemas.
+
+---
+
+## Evento 4 - Central de Operações
+
+Depois de acessar as duas salas, a Administração consegue:
+
+- observar partes do caminho do grupo B;
+- identificar concentrações de Carnicidas;
+- localizar o Carniceiro;
+- ligar setores;
+- desligar setores;
+- abrir e fechar portas;
+- controlar divisórias;
+- produzir distrações;
+- orientar a equipe da Contenção.
+
+A Administração precisa decidir quais sistemas manter energizados.
+
+---
+
+## Evento 5 - Pressão do Guarda
+
+Cada intervenção exige tempo diante dos painéis.
+
+Enquanto a equipe opera os sistemas, o guarda continua avançando.
+
+Sinais de sua aproximação:
+
+- passos no corredor;
+- porta dos Escritórios abrindo;
+- câmera administrativa deixando de mostrar uma sala vazia;
+- ruído de móveis sendo empurrados;
+- sombra atravessando a entrada;
+- carne raspando contra metal.
+
+O grupo pode precisar abandonar uma sala antes de concluir tudo que pretendia fazer.
+
+---
+
+## Evento 6 - Auxílio à Contenção
+
+A equipe da Contenção decide atravessar as Câmaras Menores pelo corredor principal ou pelo túnel.
+
+### Caso utilizem o corredor principal
+
+A Administração pode:
+
+- indicar onde estão as maiores concentrações;
+- fechar divisórias atrás do grupo;
+- separar Carnicidas;
+- distrair o bando com alto-falantes;
+- manter a rota iluminada;
+- acompanhar o Carniceiro;
+- abrir antecipadamente a Segurança Interna.
+
+### Caso utilizem o túnel
+
+A Administração pode:
+
+- observar a cela onde o túnel termina;
+- confirmar se existem criaturas próximas da saída;
+- iluminar o trecho final;
+- fechar uma divisória entre a cela e o restante do bando;
+- abrir antecipadamente a Segurança Interna.
+
+A rota pelo túnel continua sendo mais segura, mas ainda depende de coordenação para atravessar o trecho final.
+
+---
+
+## Evento 7 - Avanço para a Segurança Interna
+
+Quando a equipe da Contenção alcança o final do setor, a Administração pode destrancar ou manter aberta a porta da Segurança Interna.
+
+> **“Acesso autorizado.”**
+
+A porta começa a abrir.
+
+O grupo B atravessa enquanto os Carnicidas se aproximam.
+
+---
+
+## Ponto de Troca
+
+A equipe da Contenção alcança a Segurança Interna graças às informações e intervenções realizadas pela Administração.
+
+O grupo B informa pelo comunicador:
+
+> — Entramos.
+>
+> — Fechem a porta.
+>
+> — Agora precisamos descobrir onde isso vai dar.
+
+A Administração fecha a porta atrás deles.
+
+O Guarda Administrativo continua se aproximando das salas de controle.
+
+==**Cortar para Parte 2B - Segurança Interna.**==
+
+---
+# A3 - Supervisor e Núcleo
 ### Ponto de Troca
 A Administração informa a localização do supervisor e a importância dos explosivos.
 
 ---
-## A4 - Encerramento da Quarentena
+# A4 - Encerramento da Quarentena
 ### Final da Parte
 O código é inserido e a comporta é aberta.
 
