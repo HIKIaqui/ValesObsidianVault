@@ -188,7 +188,6 @@ Uma placa avisa:
 Não há energia suficiente para ativá-la neste momento.
 
 ---
-
 #### Registros de Entrada
 
 Os registros mostram que dezenas de funcionários entraram na Ala de Contenção durante o último turno.
