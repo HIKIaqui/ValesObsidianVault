@@ -794,11 +794,11 @@ A Administração entra em contato pelo comunicador.
 
 Informa que um funcionário com credencial de Nível 2 realizou sua última autenticação na Sala de Dissecação.
 
-> — O funcionário que precisamos entrou na Sala de Dissecação.
+> - O funcionário que precisamos entrou na Sala de Dissecação.
 >
-> — O sistema ainda marca ele como em turno.
+> - O sistema ainda marca ele como em turno.
 >
-> — Precisamos do cartão ou do código de identificação.
+> - Precisamos do cartão ou do código de identificação.
 
 A Sala de Dissecação passa a ser o objetivo principal da equipe.
 
@@ -865,13 +865,13 @@ O código também pode ser transmitido para a Administração.
 
 A equipe transmite pelo comunicador:
 
-> — Encontramos o funcionário.
+> - Encontramos o funcionário.
 >
-> — O cartão ainda está inteiro.
+> - O cartão ainda está inteiro.
 >
-> — É uma credencial de Nível 2.
+> - É uma credencial de Nível 2.
 >
-> — O código é [Código].
+> - O código é [Código].
 
 A Administração agora pode acessar:
 
