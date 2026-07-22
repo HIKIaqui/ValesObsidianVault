@@ -32,7 +32,7 @@ Caçador (Passiva): +1 Dado para toda ação relacionada a monstros.
 
 Facada: Técnica | Precisão 0 | Dano 2d4 | Crítico 18+
 
-Disparo de Prata: Mira | Precisão 0 | Alcance 1-3 | Dano 2d6 | Crítico 20 | +1d6 de Dano contra monstros.
+Disparar Flecha de Prata: Mira | Alcance 1-3 | Precisão 0 | Dano 2d6 | Crítico 20 | +1d6 de Dano contra monstros.
 
 # Descrição
 
