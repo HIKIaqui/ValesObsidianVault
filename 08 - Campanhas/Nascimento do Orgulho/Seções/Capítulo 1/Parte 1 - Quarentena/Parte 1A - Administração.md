@@ -642,23 +642,25 @@ Ele é identificado apenas como:
 
 **Ao investigar:**
 
-Os relatórios indicam que a unidade:
+Os registros indicam que a unidade:
 
-- responde a uso irregular de credenciais;
-- percorre os setores administrativos;
+- responde ao uso irregular de credenciais;
+- não aceita justificativas verbais;
+- percorre todos os setores administrativos;
 - possui autorização para entrar em qualquer sala;
-- utiliza força letal contra invasores;
-- permanece ativa enquanto recebe energia da instalação.
+- utiliza força letal;
+- regenera danos quando permanece em áreas escuras;
+- tem sua regeneração reduzida por iluminação contínua;
+- continua ativa enquanto recebe energia da rede central.
+O principal documento encontrado é:
 
-Um dos relatórios termina abruptamente:
+[[Relatório de Incidente Administrativo 17-B]]
 
-> “A unidade continua operando mesmo após sofrer danos incompatíveis com—”
+{ Teste de Investigação dif. 15: Os danos descritos no relatório correspondem ao mesmo padrão de destruição encontrado nos cadáveres de monstros espalhados pelos Escritórios. }
 
-O restante da folha está coberto de sangue.
+{ Teste de Tecnologia dif. 20: A unidade não depende do circuito comum da Administração. Desligar esta ala não interrompe seu funcionamento. A alimentação vem da rede central da instalação. }
 
-{ Teste de Investigação dif. 15: Os relatórios de dano descrevem o mesmo padrão de destruição encontrado nos cadáveres de monstros. }
-
-{ Teste de Tecnologia dif. 20: A unidade não recebe energia diretamente da Administração. Sua alimentação vem da rede central da instalação. }
+{ Teste de Empatia ou Investigação dif. 15: A anotação manuscrita foi feita por alguém que conhecia pessoalmente as vítimas e já havia tentado denunciar o perigo da unidade. }
 
 ---
 
@@ -838,7 +840,7 @@ A última autenticação indica apenas onde a credencial foi usada pela última 
 Não existe garantia de que o corpo ainda esteja exatamente naquele local.
 
 ---
-
+z
 # Eventos da Parte
 
 ## Evento 1 - Entendendo a Quarentena
@@ -1521,6 +1523,8 @@ A Administração informa a localização do supervisor e a importância dos exp
 # A4 - Encerramento da Quarentena
 ### Final da Parte
 O código é inserido e a comporta é aberta.
+Esquecidos começam a sair de tubulações e frestas por todo lado.
+
 
 ---
 

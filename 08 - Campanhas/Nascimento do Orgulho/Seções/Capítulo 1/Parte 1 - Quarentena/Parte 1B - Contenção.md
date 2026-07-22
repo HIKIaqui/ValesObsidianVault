@@ -1362,3 +1362,5 @@ A porta destrava enquanto os sons das criaturas continuam se aproximando.
 # B3 - Contenção Profunda
 ### Ponto de Troca
 A equipe recupera o cartão do supervisor e transmite o código.
+
+Tem uma amálgama nesse lugar, cheio de restos humanos contaminados por maldiçãos
