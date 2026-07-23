@@ -44,13 +44,12 @@ Ao ser atacado por um grupo de Carnicidas, sempre foque em eliminar o Carniceiro
 
 **Ecolocalização (Passiva):** Em local fechado, tem +1 Dado em testes de Percepção.
 
-Coordenar a Carne (Passiva): Todos os carnicidas em combate recebem +1 Dado de Dano e, podem agir no mesmo turno que o carniceiro ao invés de nos seus próprios.
+**Coordenar a Carne (Passiva):** Todos os [[Carnicida|Carnicidas]] em combate recebem +1 Dado de Dano e, podem agir no mesmo turno que o Carniceiro ao invés de nos seus próprios.
+Se houver outro Carniceiro em cena, ambos entram em conflito e são incapazes de coordenar os [[Carnicida|Carnicidas]], anulando este efeito enquanto ambos estiverem vivos.
 
-Se houver outro Carniceiro em cena, ambos entram em conflito e são incapazes de coordenar os carnicidas, anulando este efeito enquanto ambos estiverem vivos.
+**Rasgar:** Porrada | Precisão 0 | Dano 2d6 | Crítico 20 | Sangramento 2 (Res. 15) | +1 Precisão contra alvos Sangrando.
 
-**Rasgar:** Porrada | Precisão 0 | Dano 2d6 | Crítico 20 | Sangramento 2 (Res. 15)
-
-**Absorção:** Absorve carne de cadáveres e criaturas vivas. Se absorver um carnicida vivo, esse morre em seguida. Ao absorver, recebe +10 de PV máximos e recupera 10 PV. Seus ataques também recebem permanentemente +1d4 de dano.
+**Absorção:** Absorve carne de cadáveres e criaturas vivas. Se absorver um [[Carnicida|Carnicidas]] vivo, esse morre em seguida. Ao absorver, recebe +10 de PV máximos e recupera 10 PV. Seus ataques também recebem permanentemente +1d4 de dano.
 
 # Fraqueza
 
