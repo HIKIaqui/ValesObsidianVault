@@ -19,8 +19,8 @@
 
 ### PERÍCIAS
 
-- Acrobacia +10
 - Percepção +10
+- Acrobacia +7
 - Porrada +5
 - Técnica +5
 - Reflexos +5
