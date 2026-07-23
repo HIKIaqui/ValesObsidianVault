@@ -23,6 +23,7 @@
 - Força +5
 - Percepção +5
 
+---
 # Habilidades
 
 Umbrarregeneração (Passiva): Cura 10 PV no início do turno se estiver em escuridão. Caso contrário, cura 5 PV. Isso reverte morte.

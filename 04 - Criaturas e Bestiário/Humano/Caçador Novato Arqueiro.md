@@ -33,6 +33,7 @@ Usa um arco com flechas de ponta de prata, além de uma faca de aço.
 - Técnica +5
 - Reflexos +5
 
+---
 # Habilidades
 
 Elemental (Passiva): Pode usar técnicas elementais. Um tipo de elemental apenas.

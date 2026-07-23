@@ -32,6 +32,7 @@ Usa uma espada de prata.
 - Técnica +5
 - Reflexos +5
 
+---
 # Habilidades
 
 Elemental (Passiva): Pode usar técnicas elementais. Um tipo de elemental apenas.

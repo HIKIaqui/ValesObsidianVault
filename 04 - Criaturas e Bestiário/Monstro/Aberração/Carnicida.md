@@ -30,8 +30,10 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 - Percepção +10
 - Intimidação +5
+- Porrada +3
 - Reflexos +2
 
+---
 # Habilidades
 
 **Cego (Passiva):** Não recebe penalidade ou bônus por qualquer efeito relacionado a visão.
@@ -44,13 +46,11 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 # Fraqueza
 
-
-
 [^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância testam Vontade (Dif. 15) ou recebem +1 Estresse.
 
-**Ecolocalização:** Sensíveis a sons muito altos. Ações que emitam sons altos causam Atordoado 1 (Res. 15) no Carnicida.
+**Audição Sensível:** Sensíveis a sons muito altos. Ações que emitam sons altos causam [[Atordoado]] 1 (Res. 15) no Carnicida.
 
-**Maternidade:** São mais sensíveis a figuras femininas. -5 em testes de Social contra mulheres.
+**Maternidade:** São mais sensíveis a figuras femininas. Desvantagem de -1 Dado em Social contra mulheres.
 
 [^1]: Dependem de oferta constante de biomassa para que o corpo se mantenha estável. Senão despenca.
 	Capacidade limitada de armazenar biomassa. Acúmulo excessivo leva à instabilidade e possível ruptura do corpo, matando-o no processo.
