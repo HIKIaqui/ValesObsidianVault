@@ -34,9 +34,9 @@ Cada onçaclope pode manter apenas uma criatura [[Sob Foco]] por vez. Escolher o
 
 **Olhar Absoluto (Passiva):** A onçaclope recebe **+1 Dado de Precisão** e não sofre **Ataques de Oportunidade** contra a criatura que ela própria mantém [[Sob Foco]].
 
-**Garras Arbóreas (Passiva):** Pode escalar troncos e se mover por galhos sem penalidade ou gasto adicional de movimento. Saltos entre apoios alcançáveis só exigem testes quando alguma condição externa os torna perigosos. Enquanto nesse tipo de terreno, não provoca ataques de oportunidade.
+**Garras Arbóreas (Passiva):** Pode escalar troncos e se mover por galhos sem penalidade ou gasto adicional de movimento. Saltos entre apoios alcançáveis só exigem testes quando alguma condição externa os torna perigosos. Enquanto nesse tipo de terreno, não provoca ataques de oportunidade e tem **+5 Esquiva**.
 
-**Rasgar:** Técnica | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 15)
+**Rasgar:** Técnica | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 17)
 
 **Bote Calculado:** 1 PE | Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | Corre, escala ou salta até o alvo e o ataca sem precisar usar sua ação de movimento. Depois do ataque, termina na mesma casa que o alvo.
 
