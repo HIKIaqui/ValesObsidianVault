@@ -13,7 +13,9 @@ Receberam esse nome por normalmente serem encontrados devorando restos mortais, 
 
 Normalmente caçam em grupos, com um Carniceiro liderando-os.
 
+>[!tip] Dica do Elgor  
 Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas não sabem se coordenar sozinhos.
+
 
 ---
 # Status

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicida.md",
+                "file": "04 - Criaturas e Bestiário/Feras/Onçaclope.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Carnicida"
+              "title": "Onçaclope"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Aberração",
+                "query": "tag:Grau1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -339,28 +339,28 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
-    "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Carniceiro.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicida.md",
+    "04 - Criaturas e Bestiário/Feras/Macaco Artilheiro.md",
+    "04 - Criaturas e Bestiário/Feras/Bico de Vidro.md",
+    "04 - Criaturas e Bestiário/Constructo Magnético.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/O Guarda.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicida.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Carniceiro.md",
+    "04 - Criaturas e Bestiário/Monstro/Monstro.md",
+    "04 - Criaturas e Bestiário/Feras/Onçaclope.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Pseudo-Unicórnio.md",
     "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md",
+    "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sangramento.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Atordoado.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/O Guarda.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Sob Foco.md",
-    "04 - Criaturas e Bestiário/Besta/Onçaclope.md",
-    "04 - Criaturas e Bestiário/Besta/Macaco Artilheiro.md",
-    "04 - Criaturas e Bestiário/Besta/Bico de Vidro.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Pseudo-Unicórnio.md",
     "12 - Biologia/Turmalina/Pântano de Turmalina",
     "12 - Biologia/Bismuto/Floresta de Bismuto",
     "12 - Biologia/Bismuto",
-    "04 - Criaturas e Bestiário/Constructo Magnético.md",
-    "04 - Criaturas e Bestiário/Animador.md",
-    "04 - Criaturas e Bestiário/Monstro/Monstro.md",
     "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Perícias/Sem título.md",
     "13 - SISTEMA DE RPG/Perícias",

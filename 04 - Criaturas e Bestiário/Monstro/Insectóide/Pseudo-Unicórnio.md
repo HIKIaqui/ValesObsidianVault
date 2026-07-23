@@ -1,3 +1,8 @@
+---
+tags:
+  - Insectóide
+  - Grau2
+---
 **Tipo:** Insectóide
 **Habitat:** [[Floresta de Bismuto]]
 

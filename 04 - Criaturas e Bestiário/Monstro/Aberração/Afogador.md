@@ -1,4 +1,10 @@
-**Tipo:** Aberração  
+---
+tags:
+  - Aberração
+  - Grau1
+---
+**Tipo:** Aberração
+**Grau de Perigo:** 1
 **Habitat:** Rios, lagos, canais, pântanos e regiões alagadas
 
 # Descrição

@@ -1,4 +1,10 @@
-**Tipo:** Fera  
+---
+tags:
+  - Feras
+  - Grau0
+---
+**Tipo:** Fera
+**Grau de Perigo:** 0
 **Habitat:** [[Floresta de Bismuto]]
 
 # Descrição

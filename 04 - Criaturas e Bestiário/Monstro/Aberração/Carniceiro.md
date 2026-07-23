@@ -17,6 +17,7 @@ Podem absorver matéria orgânica, tornando-os maiores, mais perigosos, e curand
 
 Normalmente não se dão bem com outros Carniceiros.
 
+>[!tip] Dica do Elgor  
 Ao ser atacado por um grupo de Carnicidas, sempre foque em eliminar o Carniceiro antes dos outros, ou a situação pode escalar absurdamente.
 
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - Constructo
+  - Grau3
+---
 **Tipo:** Constructo
 **Grau de Perigo:** 3
 **Afiliação:** [[02 - Malaquita|Malaquita]]
