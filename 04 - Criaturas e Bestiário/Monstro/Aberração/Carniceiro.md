@@ -1,3 +1,8 @@
+---
+tags:
+  - Aberração
+  - Grau2
+---
 **Tipo:** Aberração
 **Grau de Perigo:** 2
 # Descrição
