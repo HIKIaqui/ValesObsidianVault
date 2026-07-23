@@ -51,6 +51,7 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 **Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 12)
 
+---
 # Fraqueza
 
 [^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância testam Vontade (Dif. 15) ou recebem +1 Estresse.

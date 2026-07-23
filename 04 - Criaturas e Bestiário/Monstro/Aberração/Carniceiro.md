@@ -7,11 +7,11 @@ tags:
 **Grau de Perigo:** 2
 # Descrição
 
-Maior e mais inteligente que Carnicidas comuns, o Carniceiro é um Carnicida Alfa, capaz de emitir sons para liderar grupos desses monstros, coordenando ataques, o que aumenta muito sua letalidade.
+Maior e mais inteligente que [[Carnicida|Carnicidas]] comuns, o Carniceiro é um [[Carnicida]] Alfa, capaz de emitir sons para liderar grupos desses monstros, coordenando ataques, o que aumenta muito sua letalidade.
 
-Tendem a permanecer na retaguarda ao lutar, enquanto os Carnicidas fazem todo o trabalho sujo.
+Tendem a permanecer na retaguarda ao lutar, enquanto os [[Carnicida|Carnicidas]] fazem todo o trabalho sujo.
 
-Diferente de Carnicidas, Carniceiros não tem nenhum resquício de pele, e muitos normalmente andam sob duas pernas.
+Diferente de [[Carnicida|Carnicidas]], Carniceiros não tem nenhum resquício de pele, e muitos normalmente andam sob duas pernas.
 
 Podem absorver matéria orgânica, tornando-os maiores, mais perigosos, e curando-os de feridas.
 
@@ -57,6 +57,7 @@ Se houver outro Carniceiro em cena, ambos entram em conflito e são incapazes de
 
 **Absorção:** Absorve carne de cadáveres e criaturas vivas. Se absorver um [[Carnicida|Carnicidas]] vivo, esse morre em seguida. Ao absorver, recebe +10 de PV máximos e recupera 10 PV. Seus ataques também recebem permanentemente +1d4 de dano.
 
+---
 # Fraqueza
 
 [^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância testam Vontade (Dif. 15) ou recebem +1 Estresse.
