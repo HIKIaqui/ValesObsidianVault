@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Besta/Onçaclope.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.4285942147147044
                 }
               },
-              "icon": "lucide-file",
-              "title": "Onçaclope"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -339,9 +332,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Besta/Onçaclope.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
-    "04 - Criaturas e Bestiário/Besta/Onçaclope.md",
     "13 - SISTEMA DE RPG/Perícias/Sem título.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Sob Foco.md",
     "13 - SISTEMA DE RPG/Perícias",
