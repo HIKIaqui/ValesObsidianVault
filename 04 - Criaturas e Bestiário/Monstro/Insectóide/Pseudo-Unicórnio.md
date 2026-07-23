@@ -1,4 +1,4 @@
-**Tipo:** Insectóide  
+**Tipo:** Insectóide
 **Habitat:** [[Floresta de Bismuto]]
 
 # Descrição
