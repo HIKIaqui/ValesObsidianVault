@@ -1,3 +1,9 @@
+---
+aliases:
+  - Caolha
+  - Onçaclopes
+  - Caolhas
+---
 
 --- 
 **Nome popular:** Caolha  
