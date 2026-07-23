@@ -36,14 +36,21 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 **Cego (Passiva):** Não recebe penalidade ou bônus por qualquer efeito relacionado a visão.
 
-**Mordida:** Porrada | Precisão 0 | Dano 2d6 | Crítico 19 | +1 Precisão contra alvos sofrendo sangramento.
+**Ecolocalização (Passiva):** Em local fechado, tem +1 Dado em testes de Percepção.
+
+**Mordida:** Porrada | Precisão 0 | Dano 2d6 | Crítico 19+  | +1 Precisão contra alvos sofrendo sangramento.
 
 **Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 12)
 
 # Fraqueza
 
-**Limitação Natural:** Dependem de oferta constante de biomassa para que o corpo se mantenha estável. Senão despenca.
 
-Capacidade limitada de armazenar biomassa. Acúmulo excessivo leva à instabilidade e possível ruptura do corpo, matando-o no processo.
 
-Efeito: Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância testam Vontade (Dif. 15) ou recebem +1 Estresse.
+[^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância testam Vontade (Dif. 15) ou recebem +1 Estresse.
+
+**Ecolocalização:** Sensíveis a sons muito altos. Ações que emitam sons altos causam Atordoado 1 (Res. 15) no Carnicida.
+
+**Maternidade:** São mais sensíveis a figuras femininas. -5 em testes de Social contra mulheres.
+
+[^1]: Dependem de oferta constante de biomassa para que o corpo se mantenha estável. Senão despenca.
+	Capacidade limitada de armazenar biomassa. Acúmulo excessivo leva à instabilidade e possível ruptura do corpo, matando-o no processo.
