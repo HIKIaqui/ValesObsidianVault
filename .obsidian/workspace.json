@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.0252719658336533
+                "file": "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Entidades Oníricas"
             }
           }
         ]
@@ -332,6 +339,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 - Lore Geral/Termos/Contrato Aberto.md",
+    "01 - Lore Geral/Termos/Fenda Abortada.md",
+    "01 - Lore Geral/Termos/Outro Lado do Véu.md",
+    "01 - Lore Geral/Cosmologia/Onírico.md",
+    "01 - Lore Geral/Cosmologia/Ordem.md",
+    "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
+    "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md",
+    "01 - Lore Geral/Cosmologia/Véu Comum.md",
+    "01 - Lore Geral/Cosmologia/Reflexo.md",
+    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Carniceiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicida.md",
@@ -349,24 +366,14 @@
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sangramento.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Atordoado.md",
     "04 - Criaturas e Bestiário/Humano/Caçador Novato Espadachim.md",
-    "04 - Criaturas e Bestiário/Humano/Caçador Novato Arqueiro.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Sob Foco.md",
     "12 - Biologia/Turmalina/Pântano de Turmalina",
     "12 - Biologia/Bismuto/Floresta de Bismuto",
     "12 - Biologia/Bismuto",
-    "98 - Dev/Homepage.canvas",
-    "13 - SISTEMA DE RPG/Perícias/Sem título.md",
     "13 - SISTEMA DE RPG/Perícias",
-    "07 - Contratos/07 - Contratos.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos",
     "13 - SISTEMA DE RPG",
-    "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 1 - Quarentena/Parte 1A - Administração.md",
-    "02 - Reinos e Regiões/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
-    "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 1 - Quarentena/Parte 1B - Contenção.md",
-    "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 0 - Entrada.md",
     "04 - Criaturas e Bestiário/Constructo",
     "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 1 - Quarentena",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
