@@ -34,7 +34,7 @@ Sua aparência é feia, tanto fisicamente quanto simbolicamente.
 - Responsabilidade é desconfortável
 - Culpa é evitada
 - Humanos não gostam de encarar custos reais
-- A ligação entre ato e retorno destrói narrativas conveniente
+- A ligação entre ato e retorno destrói narrativas convenientes
 Feio aqui não é só aparência, mas significado.
 
 ---
@@ -46,7 +46,7 @@ Feio aqui não é só aparência, mas significado.
 - Chamar consequência de punição divina
 - Tratar azar como injustiça cósmica
 - Acreditar que intenção muda o resultado
-- Separar ação de retorno para aliviar culpa 
+- Separar ação de retorno para aliviar culpa
 Causa e Consequência não acusam.
 Eles lembram.
 
