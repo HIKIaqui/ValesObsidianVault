@@ -1,0 +1,5 @@
+- Porrada: Armas de força bruta (martelos, socos)
+- Força: A força bruta do personagem. Capacidade de levantar, empurrar ou arrombar.
+- Resistência: Quanto é afetado por veneno, dor, doença, exaustão. Além disso, aumenta o HP máximo.
+- Intimidação: Presença ameaçadora. Quanta atenção você chama.
+- Brutalidade: Para cada ponto, +1 de Dano para todos os seus ataques que acertarem.

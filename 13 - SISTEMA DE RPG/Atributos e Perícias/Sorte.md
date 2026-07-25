@@ -1,0 +1,5 @@
+- Improviso: Criatividade em situações absurdas. Usada também para combate com armas improvisadas. O jogador propõe uma solução criativa para um problema, e o resultado é definido pelo mestre de acordo com o teste de improviso.
+- Instinto: Intuição pura. “Sinto que tem algo atrás de nós.”
+- Caralho: Sorte absurda, coincidência improvável e soluções irresponsáveis que não deveriam funcionar. Caralho não pode ser usado sem uma ação descrita. O jogador deve explicar o que está tentando fazer e por que aquilo, mesmo sendo estúpido ou improvável, poderia alcançar o resultado desejado. Caralho exige lógica, não bom senso.
+- Coincidência: Estar no lugar certo na hora certa, dizer a coisa certa pra pessoa certa, encontrar justamente alguém que pode ajudar, etc.
+- Saquear: Encontrar itens valiosos/úteis.

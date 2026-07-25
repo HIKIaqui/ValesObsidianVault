@@ -1,0 +1,5 @@
+- Persuasão: Convencer com argumentos
+- Enganação: Mentir e enganar
+- Manipulação: Influenciar sem parecer óbvio
+- Empatia: Ler emoções e intenções
+- Domesticação: Domesticar e pacificar criaturas não humanas.

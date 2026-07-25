@@ -1,0 +1,9 @@
+- Conhecimento: Saber sobre o mundo.
+- Percepção: Notar detalhes. Não ser surpreendido.
+- Alfabetização Mágica: Entender magia.
+- Ocultismo: Conhecimento de maldições e forças ocultas.
+- Tecnologia: Entender e usar dispositivos.
+- Sabedoria: Fala motivacional, visão geral.
+- Vontade: Usado para testes de Estresse. Também aumenta os PE máximos.
+- Medicina: Afeta a eficiência de tratamentos e a capacidade de usar itens de cura avançados.
+- Sobrevivência: Relacionado a saberes de sobrevivência em ambientes remotos, como saber fazer fogueira.

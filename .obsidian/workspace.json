@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Contratos/07 - Contratos.md",
+                "file": "13 - SISTEMA DE RPG/Atributos e Perícias/Sorte.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07 - Contratos"
+              "title": "Sorte"
             }
           }
         ]
@@ -337,8 +337,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Mente.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Sorte.md",
+    "07 - Contratos/07 - Contratos.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade/05 - Jade.md",
     "02 - Reinos e Regiões/Template de Reino.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/03 - Opala/03 - Opala.md",
@@ -359,17 +365,11 @@
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Causa e Consequência.md",
-    "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md",
-    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
-    "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
-    "09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/1 - Era dos Sonhos.md",
-    "09 - Cronologia e História/Cronologia dos Vales/4 - Era da Coroa Quebrada/4 - Era da Coroa Quebrada.md",
     "98 - Dev/Homepage.canvas",
     "12 - Biologia/Turmalina/Pântano de Turmalina",
     "12 - Biologia/Bismuto/Floresta de Bismuto",
     "12 - Biologia/Bismuto",
-    "13 - SISTEMA DE RPG/Perícias",
+    "13 - SISTEMA DE RPG/Atributos e Perícias",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições",
     "13 - SISTEMA DE RPG/Condições e Efeitos",
