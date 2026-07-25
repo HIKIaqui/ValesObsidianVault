@@ -2,6 +2,7 @@
 aliases:
   - 07 - Contratos
   - Contratos
+  - Contrato
 ---
 Contratos são missões gerenciadas pela [[Guilda de Caçadores]], nas quais caçadores resolvem problemas, normalmente relacionados a monstros ou situações sobrenaturais, em troca de estrelas.
 

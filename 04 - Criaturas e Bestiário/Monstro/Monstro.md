@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monstro
+  - Monstros
 ---
 Seres vivos criados artificialmente por intervenção humana direta ou indireta.
 
