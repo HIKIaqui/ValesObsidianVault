@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Atributos e Perícias/Sorte.md",
+                "file": "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Brutalidade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sorte"
+              "title": "Brutalidade"
             }
           }
         ]
@@ -339,10 +339,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Mente.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Brutalidade.md",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Classe",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Especiais",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Origem",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traumas",
+    "13 - SISTEMA DE RPG/Traços e Traumas",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Mente.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Sorte.md",
     "07 - Contratos/07 - Contratos.md",
     "02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/05 - Jade/05 - Jade.md",
@@ -364,18 +372,10 @@
     "02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md",
-    "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Causa e Consequência.md",
     "98 - Dev/Homepage.canvas",
     "12 - Biologia/Turmalina/Pântano de Turmalina",
     "12 - Biologia/Bismuto/Floresta de Bismuto",
     "12 - Biologia/Bismuto",
-    "13 - SISTEMA DE RPG/Atributos e Perícias",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições",
-    "13 - SISTEMA DE RPG/Condições e Efeitos",
-    "13 - SISTEMA DE RPG",
-    "04 - Criaturas e Bestiário/Constructo",
-    "08 - Campanhas/Nascimento do Orgulho/Seções/Capítulo 1/Parte 1 - Quarentena",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

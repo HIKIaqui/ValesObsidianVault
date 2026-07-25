@@ -1,5 +1,11 @@
-- Persuasão: Convencer com argumentos
-- Enganação: Mentir e enganar
-- Manipulação: Influenciar sem parecer óbvio
-- Empatia: Ler emoções e intenções
-- Domesticação: Domesticar e pacificar criaturas não humanas.
+---
+aliases:
+  - Persuasão
+  - Manipulação
+  - Empatia
+  - Domesticação
+---
+- **Persuasão:** Convencer com argumentos
+- **Manipulação:** Influenciar sem parecer óbvio
+- **Empatia:** Ler emoções, intenções ou se dar bem com pessoas sem usar a razão.
+- **Domesticação:** Domesticar e pacificar criaturas não humanas.

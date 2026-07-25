@@ -1,6 +1,15 @@
-- Acrobacia: Manobras físicas, parkour, movimentos coordenados, equilíbrio. Também diminui o impacto do terreno no deslocamento.
-- Arrancada: Capacidade de se mover mais rápido, liberar muita energia em curto período de tempo, melhorando sua capacidade em corridas curtas. Também aumenta o valor de Deslocamento.
-- Reflexos: Reações rápidas. Também aumenta o valor da Esquiva. (Ver fórmula em Sistema de Combate)
-- Furtividade: Se esconder, agir sem ser notado.
-- Técnica: Combate preciso (facas, agulhas) e manuseamento de ferramentas precisas.
-- Mira: Combate a distância (arcos, bestas).
+---
+aliases:
+  - Acrobacia
+  - Arrancada
+  - Reflexos
+  - Furtividade
+  - Técnica
+  - Mira
+---
+- **Acrobacia:** Manobras físicas, parkour, movimentos coordenados, equilíbrio. Também diminui o impacto do terreno no deslocamento.
+- **Arrancada:** Capacidade de se mover mais rápido, liberar muita energia em curto período de tempo, melhorando sua capacidade em corridas curtas. Também aumenta o valor de Deslocamento.
+- **Reflexos:** Reações rápidas. Também aumenta o valor da Esquiva. (Ver fórmula em Sistema de Combate)
+- **Furtividade:** Se esconder, agir sem ser notado.
+- **Técnica:** Combate preciso (facas, agulhas) e manuseamento de ferramentas precisas.
+- **Mira:** Combate a distância (arcos, bestas).
