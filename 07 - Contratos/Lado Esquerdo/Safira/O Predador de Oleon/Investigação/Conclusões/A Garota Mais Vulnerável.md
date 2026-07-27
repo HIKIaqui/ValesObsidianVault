@@ -43,8 +43,7 @@ Mas não era a presa ideal desse predador.
 ## Como os Jogadores Podem Chegar Nisso
 
 - [[Cabana de Isis na Mata]] mostra que Isis vivia isolada há bastante tempo.
-- [[Contratos Retirados de Oleon]] mostra que casos antigos já aconteciam antes da morte dela.
-- [[Documentos da Illya]] mostra que os casos antigos envolviam crianças da vila.
+- [[Contratos Retirados de Oleon]] mostra que casos antigos já aconteciam antes da morte dela, e que envolviam crianças da vila.
 - [[Clareira na Mata]] mostra que o ataque contra Isis foi apressado e fora do padrão.
 - [[A Ameaça Vem de Baixo]] mostra que o território principal do monstro era a vila, não a floresta.
 

@@ -1,15 +1,19 @@
+---
+aliases:
+  - Documentos da Illya
+---
 > [!info] Documento  
 > **Contrato:** [[O Predador de Oleon]]  
 > **Tipo:** Registro burocrático  
 > **Origem:** Arquivos da Guilda  
 > **Entregue por:** [[Illya]]  
-> **Conecta com:** [[Documentos da Illya]], [[Os Desaparecimentos São Antigos]], [[A Garota Mais Vulnerável]]
+> **Conecta com:** [[Os Desaparecimentos São Antigos]], [[A Garota Mais Vulnerável]]
 
 ---
 
 ## Quando Entregar
 
-Junto dos [[Documentos da Illya]], ou separadamente caso os jogadores peçam mais detalhes à Guilda antes de partir.
+[[Illya]] entrega os documentos antes dos personagens jogáveis partirem.
 
 ---
 

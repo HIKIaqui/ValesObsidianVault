@@ -40,7 +40,6 @@ A vila só se recusou a juntar as peças.
 
 ## Como os Jogadores Podem Chegar Nisso
 
-- [[Documentos da Illya]] apontam contratos antigos.
 - [[Contratos Retirados de Oleon]] mostram repetição.
 - [[Registro do Caso do Poço]] revela o primeiro caso lembrado.
 - [[Dona Mirela]] confirma que “não foi a primeira”.
