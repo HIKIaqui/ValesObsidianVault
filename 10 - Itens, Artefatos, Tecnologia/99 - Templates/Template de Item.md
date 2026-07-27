@@ -2,7 +2,7 @@
 
   
 
-## 🧰 Tipo
+## Tipo
 
 - Consumível / Ferramenta / Reagente / Miscelânea
 
@@ -10,13 +10,13 @@
 
   
 
-## 📦 Descrição
+## Descrição
 
 Aparência, sensação ao tocar, para que serve.
 
   
 
-## 🛠️ Uso
+## Uso
 
 - Como se utiliza?
 
@@ -26,7 +26,7 @@ Aparência, sensação ao tocar, para que serve.
 
   
 
-## 🎲 Regras (Sistema dos Vales)
+## Regras (Sistema dos Vales)
 
 Se aplicável:
 
@@ -38,7 +38,7 @@ Se aplicável:
 
   
 
-## ⚙️ Origem
+## Origem
 
 - Quem fabrica?
 
@@ -48,7 +48,7 @@ Se aplicável:
 
   
 
-## 💵 Valor Estimado
+## Valor Estimado
 
 - Preço normal
 
@@ -56,6 +56,6 @@ Se aplicável:
 
   
 
-## 🔗 Notas e Ligações
+## Notas e Ligações
 
 Links pra quem usa, onde aparece etc.

@@ -8,13 +8,13 @@
 
   
 
-## 🔮 Descrição
+## Descrição
 
 Aparência, textura, peso, sensação sobrenatural.
 
   
 
-## 🧬 Poderes & Propriedades
+## Poderes & Propriedades
 
 - Habilidade 1
 
@@ -24,7 +24,7 @@ Aparência, textura, peso, sensação sobrenatural.
 
   
 
-## 🎲 Regras no Sistema dos Vales
+## Regras no Sistema dos Vales
 
 - Bônus específicos
 
@@ -34,7 +34,7 @@ Aparência, textura, peso, sensação sobrenatural.
 
   
 
-## 📜 História
+## História
 
 - Quem criou?
 
@@ -44,7 +44,7 @@ Aparência, textura, peso, sensação sobrenatural.
 
   
 
-## 👤 Portadores Conhecidos
+## Portadores Conhecidos
 
 - Portador 1
 
@@ -54,7 +54,7 @@ Aparência, textura, peso, sensação sobrenatural.
 
   
 
-## ⚠ Riscos & Consequências
+## Riscos & Consequências
 
 - Maldições
 
@@ -64,12 +64,12 @@ Aparência, textura, peso, sensação sobrenatural.
 
   
 
-## 🌍 Relevância nos Vales
+## Relevância nos Vales
 
 Por que este artefato é importante para o mundo?
 
   
 
-## 🔗 Ligações
+## Ligações
 
 Links com NPCs, facções, regiões.
