@@ -151,7 +151,6 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > **Ouça antes de atravessar. Um único trovão muda tudo.**
 
 ---
-
 #### Portão Oeste
 
 1. **Se estiver no presente:** retrocede normalmente.
@@ -168,12 +167,11 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > **Se parece que o lugar está ficando mais antigo, isso não prova que você usou o Oeste.**
 
 ---
-
 #### Portão Norte
 
 1. **Se estiver no presente:** avança durante o dia e retrocede durante a noite.
-2. **Se o portão usado para entrar na sala não puder mais ser atravessado:** funciona como **Leste**, independentemente do horário.
-3. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Leste**.
+2. **Se o portão usado para entrar na sala não puder mais ser atravessado:** funciona como **Leste** funcionaria caso fosse noite.
+3. **Se a sala estiver desabando durante o dia:** funciona como **Leste**.
 4. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Sul**.
 5. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Leste**.
 6. **Se houver chuva e trovões:** funciona como **Oeste**.
@@ -182,7 +180,7 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 9. **Se houver apenas neblina:** funciona como **Sul**.
 10. **Se nenhuma condição anterior corresponder à sala:** avança durante o dia e retrocede durante a noite.
 
-> [!note] A primeira regra possui duas correções  
+> [!note] A segunda regra possui duas correções  
 > Uma porta fechada não está bloqueada caso ainda possa ser aberta.
 > 
 > Um portão que deixou de existir está bloqueado.
@@ -191,12 +189,11 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > **SE VOCÊ NÃO SABE A HORA, VOCÊ NÃO SABE O NORTE.**
 
 ---
-
 #### Portão Sul
 
-1. **Se estiver no presente:** Funciona como .
+1. **Se estiver no presente e deveria funcionar como Sul ou Levar ao Presente:** Funciona como **Leste** durante o dia, e como **Oeste** durante a noite. Caso esteja chovendo, funciona como Norte ao invés disso.
 2. **Se Norte estiver funcionando como Leste:** retrocede até a versão histórica mais antiga na qual aquela abertura permanecia aberta.
-3. **Se deveria funcionar como Norte, mas é possível ouvir gritos:** permanece funcionando como **Sul**.
+3. **Se deveria funcionar como Norte, mas é possível ouvir gritos:** permanece funcionando como **Sul**. Leva ao presente.
 4. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Oeste**.
 5. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Norte**.
 6. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Oeste**.
@@ -206,10 +203,12 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 10. **Se houver apenas neblina:** funciona como **Norte**.
 11. **Se nenhuma condição anterior corresponder à sala:** leva ao presente normalmente.
 
-> [!note] Ao lado da primeira regra  
+> [!note] Ao lado da segunda regra  
 > **Encostado não é aberto. Fechado não é aberto. Destrancado não é aberto.**
 > 
 > **Aberto é aberto.**
+
+---
 
 > [!note]  Abaixo da lista existe uma última advertência:
 > **Se uma regra parece quase descrever a sala, ela não descreve a sala.**
