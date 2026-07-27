@@ -6,12 +6,11 @@ Por isso, uma construção destruída ainda pode ser encontrada inteira no Refle
 
 Não existe uma única data para todo o Reflexo. Duas salas vizinhas podem estar separadas por séculos, e atravessar um limite entre elas pode alterar completamente a época, a arquitetura e tudo que ocupa aquele espaço.
 
-
 O Reflexo também não preserva cada instante do passado. Ele é formado por **versões históricas estáveis**: estados que deixaram uma impressão forte ou duradoura o bastante na mana do local. Avançar ou retroceder entre essas versões não corresponde a uma quantidade fixa de tempo. A próxima versão pode estar alguns dias ou centenas de anos distante.
 
 Nada originado no Reflexo é físico da mesma forma que algo do Véu Comum. Tudo que existe ali é formado por mana e não pode simplesmente ser retirado do plano. É possível copiar uma informação encontrada, aprender com uma versão preservada ou usar a forma de um objeto como referência para reconstruí-lo no Véu Comum, mas essa reconstrução exige matéria e componentes capazes de existir fisicamente.
 
-O Reflexo não é consciente e não tenta confundir, caçar ou aprisionar seus visitantes. Ele apenas existe segundo uma relação própria entre espaço, direção e tempo. Isso não o torna seguro.
+> [!hint] O Reflexo não é consciente e não tenta confundir, caçar ou aprisionar seus visitantes. Ele apenas existe segundo uma relação própria entre espaço, direção e tempo. Isso não o torna seguro.
 
 ---
 
@@ -36,6 +35,9 @@ Essas direções não são geográficas. Elas são determinadas individualmente 
 - o portão atrás dele fica ao **Sul**;
 - à sua esquerda fica o **Oeste**;
 - à sua direita fica o **Leste**.
+
+> [!tip] Não entendeu? O norte é a sua frente quando você entrou na sala.
+
 
 Virar o corpo, andar de costas ou mudar para onde está olhando não altera essa orientação. Ela só é recalculada depois que outro portão é atravessado.
 
@@ -81,7 +83,7 @@ As condições conhecidas se dividem principalmente em:
 
 Essas condições não criam necessariamente novas funções. Em vez disso, alteram qual direção avança, retrocede ou conduz ao presente.
 
-Eventos lembrados são mais incomuns e costumam produzir regras próprias do local. Algumas dessas regras foram documentadas depois de sucessivas expedições. Outras continuam desconhecidas, seja porque ninguém identificou todas as condições envolvidas, seja porque ninguém que atravessou o portão incorreto conseguiu retornar para descrevê-las.
+Eventos lembrados são mais incomuns, mas igualmente importantes. Algumas regras continuam desconhecidas, seja porque ninguém identificou todas as condições envolvidas, ou porque ninguém que atravessou o portão incorreto conseguiu retornar para descrevê-las.
 
 A dificuldade de navegar pelo Reflexo não está em decorar dezenas de direções, mas em interpretar com precisão a sala atual. Errar a época, ignorar o clima ou não reconhecer um evento lembrado pode inverter completamente o resultado esperado.
 

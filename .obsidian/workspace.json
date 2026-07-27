@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Lore Geral/Cosmologia/Reflexo.md",
+                "file": "10 - Itens, Artefatos, Tecnologia/Anotações Importantes/Mapa do Reflexo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reflexo"
+              "title": "Mapa do Reflexo"
             }
           }
         ]
@@ -337,10 +337,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "85769e80f22cd6cd",
   "lastOpenFiles": [
-    "01 - Lore Geral/Cosmologia/Ordem.md",
+    "01 - Lore Geral/Cosmologia/Cosmologia.md",
+    "10 - Itens, Artefatos, Tecnologia/Anotações Importantes/Mapa do Reflexo.md",
+    "10 - Itens, Artefatos, Tecnologia/Anotações Importantes",
     "01 - Lore Geral/Cosmologia/Reflexo.md",
+    "01 - Lore Geral/Cosmologia/Ordem.md",
     "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Cosmologia/Véu Comum.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md",
@@ -351,7 +354,6 @@
     "02 - Reinos e Regiões/Onírico",
     "02 - Reinos e Regiões/Reflexo",
     "01 - Lore Geral/Cosmologia/Onírico.md",
-    "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Brutalidade.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Classe",
@@ -360,7 +362,6 @@
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Origem",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traumas",
-    "13 - SISTEMA DE RPG/Traços e Traumas",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Mente.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
