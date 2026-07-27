@@ -134,13 +134,15 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > 
 > **Alguma coisa precisa estar acontecendo.**
 
+> [!note] Depois das 19:00 é noite. Depois das 6:00 é dia. Depois das 13:00 é tarde, mas ainda é dia.
+
 ---
 #### Portão Leste
 
 1. **Se estiver no presente:** avança normalmente.
-2. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Norte**.
-3. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Oeste**.
-4. **Se a sala estiver em chamas e Sul funcionar como Norte** funciona como **Sul**.
+2. **Se a sala estiver desabando durante a noite:** funciona como **Norte**.
+3. **Se a sala estiver inundando e o nível da água não estiver subindo:** funciona como **Oeste** funcionaria caso fosse dia.
+4. **Se a sala estiver em chamas e Sul funcionar como Norte:** funciona como **Sul**.
 5. **Se houver chuva e trovões:** funciona como **Norte**.
 6. **Se houver trovões, mas nenhuma chuva:** funciona como **Sul**.
 7. **Se houver chuva, mas nenhum trovão:** funciona como **Oeste**.
@@ -154,9 +156,9 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 #### Portão Oeste
 
 1. **Se estiver no presente:** retrocede normalmente.
-2. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Sul**.
+2. **Se a sala estiver desabando durante o dia:** funciona como **Sul**.
 3. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Leste**.
-4. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Norte**.
+4. **Se a sala estiver de tarde:** funciona como **Norte**.
 5. **Se houver chuva e trovões:** funciona como **Sul**.
 6. **Se houver trovões, mas nenhuma chuva:** funciona como **Norte**.
 7. **Se houver chuva, mas nenhum trovão:** funciona como **Leste**.
