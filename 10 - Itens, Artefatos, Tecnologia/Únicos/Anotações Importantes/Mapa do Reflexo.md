@@ -118,9 +118,13 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > [!warning] Uma instrução ocupa toda a margem superior  
 > **A ORDEM IMPORTA.**
 > 
-> **Encontre o portão como ele existe para você. Leia sua seção de cima para baixo e use apenas a primeira regra que descreva completamente a sala.**
+> **Encontre o portão como ele existe para você.**
 > 
-> **Nunca combine duas regras.**
+> **Leia sua seção de cima para baixo e use apenas a primeira regra cuja condição seja inteiramente verdadeira para a sala.**
+> 
+**Uma regra não precisa mencionar tudo que está acontecendo. Condições não mencionadas não impedem sua correspondência.**
+> 
+> **Nunca combine duas regras para o mesmo portão.**
 
 > [!note] Outra anotação foi espremida acima das listas  
 > **A condição pertence à sala que está sendo deixada.**
@@ -134,7 +138,7 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > 
 > **Alguma coisa precisa estar acontecendo.**
 
-> [!note] Depois das 19:00 é noite. Depois das 6:00 é dia. Depois das 13:00 é tarde, mas ainda é dia.
+> [!note] Das 06:00 às 12:59 é manhã. Das 13:00 às 18:59 é tarde. Ambos os períodos são dia. Das 19:00 às 05:59 é noite.
 
 ---
 #### Portão Leste
@@ -187,13 +191,13 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > 
 > Um portão que deixou de existir está bloqueado.
 
-> [!warning] Escrito vertical verticalmente na margem  
+> [!warning] Escrito verticalmente na margem  
 > **SE VOCÊ NÃO SABE A HORA, VOCÊ NÃO SABE O NORTE.**
 
 ---
 #### Portão Sul
 
-1. **Se estiver no presente e deveria funcionar como Sul ou Levar ao Presente:** Funciona como **Leste** durante o dia, e como **Oeste** durante a noite. Caso esteja chovendo, funciona como Norte ao invés disso.
+1. **Se estiver no presente e deveria funcionar como Sul ou Levar ao Presente e estiver no Presente:** Funciona como **Leste** durante o dia, e como **Oeste** durante a noite. Caso esteja chovendo, funciona como Norte ao invés disso.
 2. **Se Norte estiver funcionando como Leste:** retrocede até a versão histórica mais antiga na qual aquela abertura permanecia aberta.
 3. **Se deveria funcionar como Norte, mas é possível ouvir gritos:** permanece funcionando como **Sul**. Leva ao presente.
 4. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Oeste**.
