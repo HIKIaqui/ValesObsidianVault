@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Brutalidade.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Brutalidade"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -339,8 +332,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Brutalidade.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Classe",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Especiais",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns",
