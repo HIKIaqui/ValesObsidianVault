@@ -2,7 +2,7 @@ O Reflexo é o plano onde a [[Mana]] se manifesta naturalmente.
 
 Ele ocupa o mesmo espaço que o [[Véu Comum]], mas não preserva apenas a forma presente de cada lugar. A mana deixada por pessoas, objetos e acontecimentos mantém impressões das diferentes formas que aquele espaço já teve.
 
-Por isso, uma construção destruída ainda pode ser encontrada inteira no Reflexo. Livros perdidos podem ser lidos nas versões em que ainda existiam (Se ainda forem lembrados por ao menos uma pessoa.), objetos podem ser estudados antes de terem sido quebrados e versões deixadas por pessoas mortas podem continuar agindo e respondendo de acordo com quem eram naquele período, embora... de forma limitada.
+Por isso, uma construção destruída ainda pode ser encontrada inteira no Reflexo. Livros perdidos podem ser lidos nas versões em que ainda existiam (Se ainda forem lembrados por ao menos uma pessoa.), objetos podem ser estudados antes de terem sido quebrados e versões deixadas por pessoas mortas podem continuar agindo e respondendo de acordo com quem eram naquele período, embora de forma limitada.
 
 Não existe uma única data para todo o Reflexo. Duas salas vizinhas podem estar separadas por séculos, e atravessar um limite entre elas pode alterar completamente a época, a arquitetura e tudo que ocupa aquele espaço.
 
@@ -10,7 +10,10 @@ O Reflexo também não preserva cada instante do passado. Ele é formado por **v
 
 Nada originado no Reflexo é físico da mesma forma que algo do Véu Comum. Tudo que existe ali é formado por mana e não pode simplesmente ser retirado do plano. É possível copiar uma informação encontrada, aprender com uma versão preservada ou usar a forma de um objeto como referência para reconstruí-lo no Véu Comum, mas essa reconstrução exige matéria e componentes capazes de existir fisicamente.
 
-> [!hint] O Reflexo não é consciente e não tenta confundir, caçar ou aprisionar seus visitantes. Ele apenas existe segundo uma relação própria entre espaço, direção e tempo. Isso não o torna seguro.
+> [!hint] Observação
+> O Reflexo não é consciente e não tenta confundir, caçar ou aprisionar seus visitantes. 
+>
+> Ele apenas existe segundo uma relação própria entre espaço, direção e tempo. Isso não o torna seguro.
 
 ---
 
