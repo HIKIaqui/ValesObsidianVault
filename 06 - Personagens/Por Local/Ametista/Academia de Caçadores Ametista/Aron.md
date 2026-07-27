@@ -2,7 +2,7 @@
 **Espécie / Classe:** Humano, Caçador de Monstros Aposentado. 
 **Origem (Reino):** [[01 - Rubi]]
 **Idade:** 56 Anos
-**Local Atual:** [[02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
+**Local Atual:** [[02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
 **Função no Mundo / Papel na História:** Diretor da Academia de Caçadores Ametista. Pai adotivo de Violet.
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 ## 💼 Ocupação / Utilidade Mecânica
-Diretor da [[02 - Reinos e Regiões/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
+Diretor da [[02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Academia de Caçadores Ametista|Academia de Caçadores Ametista]]
 
 - Serviços:  
 - Preços:  

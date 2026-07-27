@@ -1,2 +1,2 @@
 Um termo usado para se referir a pessoas de pele negra, que no universo dos Vales é também mais resistente a energia de maldição.
-Normalmente são nativas de [[02 - Reinos e Regiões/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata|Ágata]].
+Normalmente são nativas de [[02 - Ágata|Ágata]].
