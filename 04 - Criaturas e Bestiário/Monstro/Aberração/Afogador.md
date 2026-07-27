@@ -27,7 +27,7 @@ São criaturas naturais relativamente comuns nos Vales. Muitos de seus ataques a
 # Status
 
 **PV:** 15
-**Armadura:** 2
+**Armadura:** 3
 **Esquiva:** 10
 **PE:** 3
 
@@ -44,6 +44,7 @@ São criaturas naturais relativamente comuns nos Vales. Muitos de seus ataques a
 - Porrada +5
 - Técnica +5
 - Furtividade +5
+- Resistência +2
 
 ---
 # HABILIDADES
@@ -62,4 +63,4 @@ Cada onçaclope pode manter apenas uma criatura [[Sob Foco]] por vez. Escolher o
 ---
 ### FRAQUEZAS
 
-**Ponto Cego (Passiva):** Ataques contra uma onçaclope recebem **+1 Dado de Precisão** caso o atacante não esteja [[Sob Foco]] de nenhuma onçaclope capaz de alertá-la.
+**Ponto Cego (Passiva):** Ataques contra a parte inferior de sua carapaça **Ignoram Armadura**.
