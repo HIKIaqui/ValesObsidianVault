@@ -29,17 +29,14 @@ O mapa ensina que as direções do Reflexo não pertencem ao lugar, mas ao viaja
 ---
 ### Texto:
 
-> [!note] Uma frase foi circulada várias vezes no topo da folha:
+> [!note] Uma frase foi circulada várias vezes no topo da folha
 > **A direção é sua. Nunca presuma que ela também pertence à sala.**
 
 Ao atravessar um portão, a direção para a qual o viajante saiu passa a ser considerada seu **Norte**. A partir dela:
 
 - atrás fica o **Sul**;
-    
 - à esquerda fica o **Oeste**;
-    
 - à direita fica o **Leste**.
-    
 
 Virar o corpo ou mudar a direção para a qual está olhando não altera essa orientação. Ela só é redefinida depois que outro portão é atravessado.
 
@@ -58,31 +55,27 @@ Em condições normais, os portões seguem estas funções:
 | **Norte**       | Avança durante o dia e retrocede durante a noite   |
 | **Sul**         | Leva à versão presente da sala seguinte            |
 
-
 Avançar ou retroceder não corresponde a uma quantidade fixa de tempo. Cada travessia conduz à próxima versão que tenha deixado uma impressão forte o bastante no Reflexo.
 
 Uma diferença de poucos meses pode separar duas versões. Em outros lugares, o próximo estado preservado pode estar séculos distante.
 
-Ao lado da regra do portão Norte existe uma observação sublinhada:
-
+> [!note] Ao lado da regra do portão Norte existe uma observação sublinhada
 > **Escuro não significa noite. Claro não significa dia. Descubra a hora da sala. **
-
-> [!note] Depois das 19:00 é noite. Depois das 6:00 é dia. 13:00 é tarde, mas ainda é dia.
-
+> 
 Relógios, janelas, registros, rotinas preservadas e a posição do sol podem indicar se a versão atual existe durante o dia ou durante a noite.
 
-Abaixo da função do Sul existe uma frase riscada:
+> [!note] Depois das 19:00 é noite. Depois das 6:00 é dia. 13:00 é de tarde, mas ainda é dia.
 
+
+> [!note] Abaixo da função do Sul existe uma frase riscada:
 > ~~SUL É O CAMINHO DE VOLTA.~~
 
-Imediatamente abaixo, em letras maiores:
-
+> [!note] Imediatamente abaixo, em letras maiores:
 > **SUL LEVA AO PRESENTE. O PRESENTE NÃO É A SAÍDA.**
-
+> 
 O portão Sul recupera uma referência temporal, mas não retira ninguém do Reflexo. O viajante ainda precisa alcançar o local onde uma passagem para o [[Véu Comum]] existe.
 
 ---
-
 #### Entrada e Retorno
 
 Todo portal aberto a partir do [[Véu Comum]] chega à versão presente do lugar correspondente.
@@ -99,13 +92,13 @@ Outra anotação aparece próxima à margem:
 > **Não siga alguém através de um portão sem saber por onde essa pessoa entrou na sala. Se o Norte dela não for o seu, o destino também não será.**
 
 ---
-
 #### Condições e Exceções
 
 As funções registradas na tabela só são confiáveis enquanto a sala estiver em condições normais.
 
 Determinadas condições podem redistribuir as funções dos portões:
 
+- horário;
 - chuva;
 - neblina;
 - tempestades;
@@ -117,12 +110,22 @@ Determinadas condições podem redistribuir as funções dos portões:
 
 Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte da versão histórica preservada e pode alterar completamente a forma como seus portões funcionam.
 
-Existem várias correções escritas nas margens do mapa, algumas incompletas e outras associadas a lugares que não foram identificados. O autor aparentemente conhecia algumas dessas alterações, mas não acreditava que fossem iguais em todas as regiões.
-
 > **Se a sala estiver lembrando alguma coisa, não use a rosa antes de descobrir o quê.**
 
 ---
+### Página 2
 
+
+
+
+
+
+
+
+
+
+
+---
 ## Uso
 
 Consultar as regras legíveis do mapa não exige nenhum teste. A dificuldade está em aplicá-las corretamente.

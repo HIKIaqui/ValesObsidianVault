@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
+                "file": "01 - Lore Geral/Cosmologia/Reflexo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mapa do Reflexo"
+              "title": "Reflexo"
             }
           }
         ]
@@ -339,6 +339,9 @@
   },
   "active": "85769e80f22cd6cd",
   "lastOpenFiles": [
+    "01 - Lore Geral/Cosmologia/Cosmologia.md",
+    "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
+    "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
     "10 - Itens, Artefatos, Tecnologia/Consumíveis/TermaNutri/Caldo “Vapor Quente”.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md",
     "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
@@ -352,8 +355,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/07 - Contratos.md",
-    "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
-    "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes",
     "01 - Lore Geral/Cosmologia/Reflexo.md",
     "01 - Lore Geral/Cosmologia/Ordem.md",
@@ -375,7 +376,6 @@
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Origem",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traumas",
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
