@@ -135,17 +135,17 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 > **Alguma coisa precisa estar acontecendo.**
 
 ---
-
 #### Portão Leste
 
-1. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Norte**.
-2. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Oeste**.
-3. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Sul**.
-4. **Se houver chuva e trovões:** funciona como **Norte**.
-5. **Se houver trovões, mas nenhuma chuva:** funciona como **Sul**.
-6. **Se houver chuva, mas nenhum trovão:** funciona como **Oeste**.
-7. **Se houver apenas neblina:** permanece funcionando como **Leste**.
-8. **Se nenhuma condição anterior corresponder à sala:** avança normalmente.
+1. **Se estiver no presente:** avança normalmente.
+2. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Norte**.
+3. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Oeste**.
+4. **Se a sala estiver em chamas e Sul funcionar como Norte** funciona como **Sul**.
+5. **Se houver chuva e trovões:** funciona como **Norte**.
+6. **Se houver trovões, mas nenhuma chuva:** funciona como **Sul**.
+7. **Se houver chuva, mas nenhum trovão:** funciona como **Oeste**.
+8. **Se houver apenas neblina:** permanece funcionando como **Leste**.
+9. **Se nenhuma condição anterior corresponder à sala:** avança normalmente.
 
 > [!note] Ao lado da regra sobre chuva  
 > **Ouça antes de atravessar. Um único trovão muda tudo.**
@@ -154,14 +154,15 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 
 #### Portão Oeste
 
-1. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Sul**.
-2. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Leste**.
-3. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Norte**.
-4. **Se houver chuva e trovões:** funciona como **Sul**.
-5. **Se houver trovões, mas nenhuma chuva:** funciona como **Norte**.
-6. **Se houver chuva, mas nenhum trovão:** funciona como **Leste**.
-7. **Se houver apenas neblina:** permanece funcionando como **Oeste**.
-8. **Se nenhuma condição anterior corresponder à sala:** retrocede normalmente.
+1. **Se estiver no presente:** retrocede normalmente.
+2. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Sul**.
+3. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Leste**.
+4. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Norte**.
+5. **Se houver chuva e trovões:** funciona como **Sul**.
+6. **Se houver trovões, mas nenhuma chuva:** funciona como **Norte**.
+7. **Se houver chuva, mas nenhum trovão:** funciona como **Leste**.
+8. **Se houver apenas neblina:** permanece funcionando como **Oeste**.
+9. **Se nenhuma condição anterior corresponder à sala:** retrocede normalmente.
 
 > [!note] Uma frase foi acrescentada abaixo da última regra  
 > **Se parece que o lugar está ficando mais antigo, isso não prova que você usou o Oeste.**
@@ -170,15 +171,16 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 
 #### Portão Norte
 
-1. **Se o portão usado para entrar na sala não puder mais ser atravessado:** funciona como **Leste**, independentemente do horário.
-2. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Leste**.
-3. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Sul**.
-4. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Leste**.
-5. **Se houver chuva e trovões:** funciona como **Oeste**.
-6. **Se houver trovões, mas nenhuma chuva:** funciona como **Oeste**.
-7. **Se houver chuva, mas nenhum trovão:** permanece funcionando como **Norte**.
-8. **Se houver apenas neblina:** funciona como **Sul**.
-9. **Se nenhuma condição anterior corresponder à sala:** avança durante o dia e retrocede durante a noite.
+1. **Se estiver no presente:** avança durante o dia e retrocede durante a noite.
+2. **Se o portão usado para entrar na sala não puder mais ser atravessado:** funciona como **Leste**, independentemente do horário.
+3. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Leste**.
+4. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Sul**.
+5. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Leste**.
+6. **Se houver chuva e trovões:** funciona como **Oeste**.
+7. **Se houver trovões, mas nenhuma chuva:** funciona como **Oeste**.
+8. **Se houver chuva, mas nenhum trovão:** permanece funcionando como **Norte**.
+9. **Se houver apenas neblina:** funciona como **Sul**.
+10. **Se nenhuma condição anterior corresponder à sala:** avança durante o dia e retrocede durante a noite.
 
 > [!note] A primeira regra possui duas correções  
 > Uma porta fechada não está bloqueada caso ainda possa ser aberta.
@@ -192,16 +194,17 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 
 #### Portão Sul
 
-1. **Se Norte estiver funcionando como Leste:** retrocede até a versão histórica mais antiga na qual aquela abertura permanecia aberta.
-2. **Se deveria funcionar como Norte, mas é possível ouvir gritos:** permanece funcionando como **Sul**.
-3. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Oeste**.
-4. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Norte**.
-5. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Oeste**.
-6. **Se houver chuva e trovões:** funciona como **Leste**.
-7. **Se houver trovões, mas nenhuma chuva:** funciona como **Leste**.
-8. **Se houver chuva, mas nenhum trovão:** permanece funcionando como **Sul**.
-9. **Se houver apenas neblina:** funciona como **Norte**.
-10. **Se nenhuma condição anterior corresponder à sala:** leva ao presente normalmente.
+1. **Se estiver no presente:** Funciona como .
+2. **Se Norte estiver funcionando como Leste:** retrocede até a versão histórica mais antiga na qual aquela abertura permanecia aberta.
+3. **Se deveria funcionar como Norte, mas é possível ouvir gritos:** permanece funcionando como **Sul**.
+4. **Se a sala estiver desabando e ainda houver matéria caindo:** funciona como **Oeste**.
+5. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Norte**.
+6. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Oeste**.
+7. **Se houver chuva e trovões:** funciona como **Leste**.
+8. **Se houver trovões, mas nenhuma chuva:** funciona como **Leste**.
+9. **Se houver chuva, mas nenhum trovão:** permanece funcionando como **Sul**.
+10. **Se houver apenas neblina:** funciona como **Norte**.
+11. **Se nenhuma condição anterior corresponder à sala:** leva ao presente normalmente.
 
 > [!note] Ao lado da primeira regra  
 > **Encostado não é aberto. Fechado não é aberto. Destrancado não é aberto.**
