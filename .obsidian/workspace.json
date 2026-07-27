@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "4e0732544016bfc6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "85769e80f22cd6cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md",
+                "file": "01 - Lore Geral/Cosmologia/Reflexo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Afogador"
+              "title": "Reflexo"
             }
           }
         ]
@@ -337,20 +337,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
-    "04 - Criaturas e Bestiário/Feras/Onçaclope.md",
+    "01 - Lore Geral/Cosmologia/Ordem.md",
+    "01 - Lore Geral/Cosmologia/Reflexo.md",
+    "98 - Dev/Homepage.canvas",
+    "01 - Lore Geral/Cosmologia/Véu Comum.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md",
+    "04 - Criaturas e Bestiário/Feras/Onçaclope.md",
     "04 - Criaturas e Bestiário/Feras/Macaco Artilheiro.md",
     "04 - Criaturas e Bestiário/Feras/Bico de Vidro.md",
-    "01 - Lore Geral/Cosmologia/Reflexo.md",
     "02 - Reinos e Regiões/Véu Comum",
     "02 - Reinos e Regiões/Onírico",
     "02 - Reinos e Regiões/Reflexo",
-    "01 - Lore Geral/Cosmologia/Ordem.md",
     "01 - Lore Geral/Cosmologia/Onírico.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
-    "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Brutalidade.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Classe",
@@ -374,8 +375,6 @@
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/03 - Floresta dos Lamentos/03 - Floresta dos Lamentos.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/05 - Penumbra Esquerda/05 - Penumbra Esquerda.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
