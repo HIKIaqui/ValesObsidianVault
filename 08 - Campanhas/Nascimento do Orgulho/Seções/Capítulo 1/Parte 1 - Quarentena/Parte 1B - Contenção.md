@@ -108,7 +108,6 @@ Alguns armários permanecem abertos. Outros foram amassados de dentro para fora.
 Existem marcas de sangue seco conduzindo para o Corredor Central.
 
 ---
-
 ### Saídas
 
 #### Porta para a Comporta
@@ -118,7 +117,6 @@ A passagem pela qual a equipe entrou.
 Permanece acessível, mas não oferece nenhuma rota além da comporta fechada.
 
 ---
-
 #### Porta para o Corredor Central
 
 Uma porta metálica dupla.
@@ -128,7 +126,6 @@ O painel está danificado, mas a trava falhou durante a reativação do protocol
 A porta pode ser aberta manualmente.
 
 ---
-
 ### Pontos de Interesse
 
 #### Balcão de Registro
@@ -152,7 +149,6 @@ A planta identifica:
 (Ela não mostra o túnel existente na Manutenção.)
 
 ---
-
 #### Armários de Funcionários
 
 Uma fileira de armários metálicos.
@@ -172,7 +168,6 @@ Parte deles está aberta ou destruída.
 { Teste de Saquear dif. 15: Encontra um equipamento útil ainda em condições de uso. }
 
 ---
-
 #### Arco de Descontaminação
 
 Uma estrutura metálica instalada antes da porta do Corredor Central.
