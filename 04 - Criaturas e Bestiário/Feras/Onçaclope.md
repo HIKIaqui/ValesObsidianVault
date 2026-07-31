@@ -30,7 +30,7 @@ A Onçaclope não é um felino perfeito acompanhado por outros iguais. Cada indi
 
 **PV:** 20
 **Armadura:** 0
-**Esquiva:** 20
+**Esquiva:** 18
 **PE:** 3
 
 # Atributos
@@ -43,13 +43,13 @@ A Onçaclope não é um felino perfeito acompanhado por outros iguais. Cada indi
 
 # Perícias
 
-- Percepção +10
-- Acrobacia +7
-- Porrada +5
+- Percepção +7
+- Acrobacia +5
 - Técnica +5
-- Reflexos +5
-- Arrancada +5
-- Furtividade +5
+- Porrada +2
+- Reflexos +3
+- Arrancada +3
+- Furtividade +3
 
 ---
 # HABILIDADES

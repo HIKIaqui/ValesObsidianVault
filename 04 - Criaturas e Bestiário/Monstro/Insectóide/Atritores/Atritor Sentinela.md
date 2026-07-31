@@ -1,13 +1,9 @@
 ---
-aliases:
-  - Estalante
-  - Atritor
 tags:
   - Grau1
   - Insectóide
   - Atritor
 ---
-**Nome popular:** Estalante (Chamado assim em lugares remotos)
 **Tipo:** [[Insectóide]]
 **Habitat:** Cavernas e Ecossistemas Subterrâneos
 **Grau de Perigo:** 1
