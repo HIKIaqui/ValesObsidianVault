@@ -233,17 +233,11 @@ Consultar as regras legíveis do mapa não exige nenhum teste. A dificuldade est
 O mapa não identifica automaticamente:
 
 - qual abertura realmente funciona como portão;
-    
 - em qual versão histórica o viajante está;
-    
 - se a sala existe durante o dia ou durante a noite;
-    
 - quais condições estão alterando os portões;
-    
 - qual sequência leva até um lugar específico;
-    
 - onde existe uma passagem de volta ao Véu Comum.
-    
 
 Ele também não consegue recuperar a orientação de alguém que esqueceu por qual portão entrou.
 
