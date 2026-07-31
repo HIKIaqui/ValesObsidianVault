@@ -1,6 +1,6 @@
 Cumulativo
 
-No seu turno, para cada ação que tiver: perde uma ação e 1 acúmulo dessa condição.
+No seu turno, para cada ação que tiver: perde 1 ação e 1 acúmulo dessa condição.
 
 Sua esquiva é dividida pela metade.
 

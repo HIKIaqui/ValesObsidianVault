@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4e0732544016bfc6",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "85769e80f22cd6cd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Mapa do Reflexo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -333,14 +326,28 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false,
-      "calendarium:Open Calendarium": false
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "85769e80f22cd6cd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Orbe de Mana.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md",
+    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Ruptura Cognitiva.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Sangrento/Sem título.md",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Sangrento/Brutalidade.md",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Sangrento/Sangrento.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/Lixo/Carne Podre.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/Lixo",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/Comuns",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Esperançoso",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Geral",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Instintivo",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Frio",
+    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Sangrento",
+    "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Orbe de Mana.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Vila.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Casa da Dona Mirela e Nino.md",
@@ -358,24 +365,9 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Ovo Mantém o Ciclo.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Bicho-Papão Usa Túneis.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md",
-    "07 - Contratos/07 - Contratos.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes",
-    "01 - Lore Geral/Cosmologia/Ordem.md",
     "98 - Dev/Homepage.canvas",
-    "01 - Lore Geral/Cosmologia/Véu Comum.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md",
-    "04 - Criaturas e Bestiário/Feras/Onçaclope.md",
-    "04 - Criaturas e Bestiário/Feras/Macaco Artilheiro.md",
-    "04 - Criaturas e Bestiário/Feras/Bico de Vidro.md",
     "02 - Reinos e Regiões/Véu Comum",
-    "02 - Reinos e Regiões/Onírico",
-    "02 - Reinos e Regiões/Reflexo",
-    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Classe",
-    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Especiais",
-    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns",
-    "13 - SISTEMA DE RPG/Traços e Traumas/Traços/De Origem",
-    "13 - SISTEMA DE RPG/Traços e Traumas/Traços",
-    "13 - SISTEMA DE RPG/Traços e Traumas/Traumas",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
