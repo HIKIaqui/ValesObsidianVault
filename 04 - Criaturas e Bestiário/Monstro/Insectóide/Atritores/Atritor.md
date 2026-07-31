@@ -20,6 +20,8 @@ Receberam o nome de “Atritor” devido ao movimento que fazem com suas presas,
 
 A carapaça é resistente, mas seu corpo não.
 
+São a forma mais simples da família dos Atritores.
+
 ---
 # Status
 

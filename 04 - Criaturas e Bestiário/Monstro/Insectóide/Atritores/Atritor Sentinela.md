@@ -10,11 +10,9 @@ tags:
 
 # Descrição 
 
-Inseto gigante (0,60m) de carapaça pesada e resistente, normalmente visto em ambiente subterrâneo. Tem corpo parecido com o de um tatu, mas presas e pernas como as de besouros. São lentos, mas compensam isso com sua resistência física e organização.
-
-Receberam o nome de “Atritor” devido ao movimento que fazem com suas presas, batendo-as uma contra a outra para fazer estalos, que servem como forma de comunicação com outros Atritores. Sua comunicação é primitiva, mas nunca deve ser subestimada. Em um instante você pode estar enfrentando um, e no outro, um ninho inteiro.
-
-A carapaça é resistente, mas seu corpo não.
+[[Atritor]] levemente maior (0,80m), porém com carapaça mais frágil, responsável por chamar
+reforços e organizar o grupo taticamente.
+Embora tenha a carapaça mais frágil, suas garras são maiores e mais perigosas.
 
 ---
 # Status
@@ -44,7 +42,7 @@ A carapaça é resistente, mas seu corpo não.
 
 **Formação Defensiva:** Se aproxima de um aliado e, juntos se protegem. Metade do dano direcionado a esse aliado é transferido para si, e ambos recebem +2 de Armadura por 1 turno.
 
-**Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 19 | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
+**Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 19+ | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
 
 ---
 ### FRAQUEZAS
