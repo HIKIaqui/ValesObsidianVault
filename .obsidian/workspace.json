@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
+                "file": "13 - SISTEMA DE RPG/Combate/Ações Comuns/Mirar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maldição"
+              "title": "Mirar"
             }
           }
         ]
@@ -339,6 +339,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Combate/Ações Comuns/Ataque de Oportunidade.md",
+    "13 - SISTEMA DE RPG/Combate/Ações Comuns/Mirar.md",
+    "13 - SISTEMA DE RPG/Combate/Ações Comuns/Preparar.md",
+    "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md",
+    "13 - SISTEMA DE RPG/Combate/Ações Comuns/Correr.md",
     "13 - SISTEMA DE RPG/Combate/Ações Comuns/Empurrão.md",
     "13 - SISTEMA DE RPG/Combate/Ações.md",
     "13 - SISTEMA DE RPG/Combate/Ações Comuns/Desengajar.md",
@@ -371,11 +376,6 @@
     "01 - Lore Geral/Cosmologia/Reflexo.md",
     "01 - Lore Geral/Cosmologia/Cosmologia.md",
     "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md",
-    "10 - Itens, Artefatos, Tecnologia/Consumíveis/TermaNutri/Caldo “Vapor Quente”.md",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md",
-    "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

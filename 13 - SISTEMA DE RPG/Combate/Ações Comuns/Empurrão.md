@@ -1,3 +1,3 @@
-**Custo:** 1 Ação
+**Tipo:** Ação
 
 Empurra o Alvo 1 Casa.

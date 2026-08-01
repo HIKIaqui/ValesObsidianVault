@@ -1,3 +1,3 @@
-**Custo:** 1 Ação
+**Tipo:** Ação
 
-Ao ser utilizada, o personagem não ativa ataques de oportunidade durante o restante do turno.
+Até o fim do turno, seu movimento voluntário não provoca Ataques de Oportunidade.
