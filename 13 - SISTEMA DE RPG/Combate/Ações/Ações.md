@@ -1,3 +1,12 @@
+---
+aliases:
+  - Reação
+  - Ação
+  - Ações
+  - Ação de Movimento
+  - Ação Livre
+---
+
 O que um personagem faz e pode fazer em combate durante o seu turno.
 Existem:
 - **Ação:** Usada para atacar, realizar manobras, usar itens, executar técnicas e outras atividades relevantes;

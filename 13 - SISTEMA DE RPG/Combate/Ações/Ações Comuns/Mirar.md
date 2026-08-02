@@ -1,4 +1,4 @@
-**Tipo:** Ação  
+**Tipo:** [[Ações|Ação]]  
 
 Escolha um alvo visível. Recebe +1 de Precisão no próximo ataque à distância realizado contra ele.
 
