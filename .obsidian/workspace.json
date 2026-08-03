@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.0252719658336533
                 }
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -341,6 +334,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Index.md",
     "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas/Porta da Morte.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas",
