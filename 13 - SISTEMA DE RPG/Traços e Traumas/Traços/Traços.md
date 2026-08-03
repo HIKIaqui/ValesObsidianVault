@@ -18,11 +18,10 @@ O Tipo determina como o Traço funciona e de que maneira ele pode ser adquirido.
 
 ### Tipos de Traço
 
-Existem três tipos de Traço:
+Existem dois tipos de Traço:
 
 - Positivos;
 - De Dois Gumes;
-- Legados.
 
 #### Traços Positivos
 
@@ -50,7 +49,10 @@ O fator negativo pode envolver:
 
 Traços De Dois Gumes não são necessariamente mais fracos que Traços Positivos. Seus benefícios podem ser mais intensos, frequentes ou versáteis, desde que o personagem precise lidar com suas consequências.
 
+---
 #### Traços Legados
+
+Certos traços são considerados como Traços Legados.
 
 Legados são Traços especiais adquiridos durante a história.
 
