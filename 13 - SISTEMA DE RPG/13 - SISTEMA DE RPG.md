@@ -19,7 +19,7 @@ O sistema trata personagens como pessoas humanas, frágeis e limitadas, enfrenta
 - [[Regras Fundamentais]]
 - [[Criação de Personagem]]
 - [[Ficha de Personagem]]
-- [[Rolagens e Testes]]
+- [[Testes e Rolagens]]
 - [[Dificuldades e Resultados]]
 
 ## Personagens

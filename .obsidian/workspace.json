@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.0252719658336533
+                "file": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "13 - SISTEMA DE RPG"
             }
           }
         ]
@@ -332,10 +339,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
-    "Index.md",
+    "13 - SISTEMA DE RPG/Testes e Rolagens.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
     "98 - Dev/Homepage.canvas",
+    "Index.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas/Porta da Morte.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas",
     "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
@@ -361,11 +370,8 @@
     "13 - SISTEMA DE RPG/Combate/Ações/Ações Comuns/Desengajar.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Ações Comuns/Agarrar.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Ações Comuns/Ataque de Oportunidade.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Ações Comuns",
     "13 - SISTEMA DE RPG/Combate/Ações",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Agarrado.md",
-    "13 - SISTEMA DE RPG/Combate/Ações Comuns/Mirar.md",
     "13 - SISTEMA DE RPG/Combate/Ações Comuns",
     "13 - SISTEMA DE RPG/Combate",
     "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores",
