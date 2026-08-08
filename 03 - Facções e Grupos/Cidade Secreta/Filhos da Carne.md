@@ -54,7 +54,6 @@ Nos prostíbulos dos Filhos da Carne:
 Só carne.
 
 ---
-
 ## Operação
 
 Os Filhos da Carne:
@@ -95,6 +94,7 @@ Ele domina porque:
 Ele é o apetite que nunca acaba.
 O desejo que nunca se satisfaz.
 
+---
 ### Resolvendo Conflitos
 
 O porco não resolve nada sozinho. Quando alguém faz algo que ameaça os Filhos da Carne:
@@ -104,7 +104,6 @@ O porco não resolve nada sozinho. Quando alguém faz algo que ameaça os Filhos
 - Em seguida, deixa que os Filhos da Carne decidam coletivamente o destino do acusado.
 
 ---
-
 ## Relação com as Outras Facções
 
 ### Com os [[Sem Rosto]]
@@ -119,7 +118,6 @@ O porco não resolve nada sozinho. Quando alguém faz algo que ameaça os Filhos
 - Nenhuma afinidade ideológica real
 
 ---
-
 ## Limite imposto pela Tika
 
 Tika detesta os Filhos da Carne. Eles sabem disso.

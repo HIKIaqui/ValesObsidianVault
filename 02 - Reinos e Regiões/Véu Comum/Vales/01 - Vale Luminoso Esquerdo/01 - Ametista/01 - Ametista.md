@@ -4,3 +4,5 @@ aliases:
   - Ametista
 ---
 #Região
+
+Região onde fica o [[Reino de Ametista]].

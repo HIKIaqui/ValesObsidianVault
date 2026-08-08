@@ -6,7 +6,7 @@ A sobrevivência se torna mercadoria. Cura, proteção, informação e seguranç
   
 ## Consequências  
 - Aumento da desigualdade entre regiões e classes  
-- [[Caçadores]] se tornam mão de obra descartável  
+- [[Caçadores de Monstros]] se tornam mão de obra descartável  
 - Vida humana passa a ter valor econômico
   
 ## Conexões  

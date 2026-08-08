@@ -7,7 +7,7 @@ A [[Guilda de Caçadores]] é criada com o objetivo de organizar o combate contr
 ## Consequências  
 - Profissionalização da caça a monstros  
 - Criação de [[07 - Contratos|Contratos]] e sistema de recompensas  
-- Consolidação de uma falsa imagem do que é ser um [[Caçadores|caçador]]
+- Consolidação de uma falsa imagem do que é ser um [[Caçadores de Monstros|caçador]]
   
 ## Conexões  
 - [[Formação do Mito dos Caçadores]]  

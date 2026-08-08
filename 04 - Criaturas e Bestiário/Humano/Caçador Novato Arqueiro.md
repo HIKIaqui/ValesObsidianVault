@@ -1,6 +1,6 @@
 **Tipo:** Humano
 **Grau de Perigo:** 1
-**Afiliação:** [[Caçadores]]
+**Afiliação:** [[Caçadores de Monstros]]
 
 # Descrição
 

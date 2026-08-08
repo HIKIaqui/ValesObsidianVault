@@ -4,5 +4,6 @@
   "monospaceFontFamily": "Monocraft Nerd Font",
   "interfaceFontFamily": "",
   "baseFontSize": 16,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": []
 }

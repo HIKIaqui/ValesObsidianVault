@@ -142,7 +142,7 @@ O povo segue porque confia.
 
 ## **Povos e Etnia**
 
-(Ex.: [[Pele ágata]], ligação com maldição.)
+(Ex.: [[Pele Ágata]], ligação com maldição.)
 
 ## **Classes Sociais**
 

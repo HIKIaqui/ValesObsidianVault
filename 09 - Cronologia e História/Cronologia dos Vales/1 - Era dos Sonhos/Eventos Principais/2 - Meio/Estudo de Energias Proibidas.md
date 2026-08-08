@@ -6,9 +6,9 @@ Meio da Era dos Sonhos
 Um dos [[Caçadores Ancestrais]] começa a explorar formas de energia além da [[Elemental]], incluindo [[Maldição]], [[Mana]] de mortos e estruturas mais profundas da realidade.
   
 ## Consequências  
-- Primeira ruptura ideológica entre os [[Caçadores]]
+- Primeira ruptura ideológica entre os [[Caçadores de Monstros]]
 - Descoberta de poderes mais eficientes, porém perigosos  
-- Início da corrupção conceitual do papel do [[Caçadores|caçador]]
+- Início da corrupção conceitual do papel do [[Caçadores de Monstros|caçador]]
   
 ## Conexões  
 - [[09 - Cronologia e História/Cronologia dos Vales/1 - Era dos Sonhos/Personagens Históricos/Caçador Renegado]]  

@@ -2,26 +2,25 @@
   "userAdmonitions": {},
   "syntaxHighlight": false,
   "copyButton": true,
-  "version": "10.3.2",
+  "version": "12.0.5",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
   "dropShadow": true,
   "hideEmpty": false,
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "rpgDownloadedOnce": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.5c7fa3",
   "open": {
     "admonitions": true,
     "icons": true,
     "other": true,
     "advanced": false
   },
-  "icons": [
-    "octicons",
-    "rpg"
-  ],
-  "useFontAwesome": true,
-  "rpgDownloadedOnce": false,
-  "msDocConverted": false,
-  "useSnippet": false,
-  "snippetPath": "custom-admonitions.5c7fa3"
+  "useFontAwesome": false
 }

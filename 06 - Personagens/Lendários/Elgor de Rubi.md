@@ -12,7 +12,7 @@ aliases:
 ---
 
 **Apelidos / Títulos:** O Velho Caçador, Mestre Elgor, O Homem que Sempre Voltava, antigo Caçador Real  
-**Espécie / Classe:** Humano / [[Caçadores|Caçador de Monstros]] – Mestre Caçador  
+**Espécie / Classe:** Humano / [[Caçadores de Monstros|Caçador de Monstros]] – Mestre Caçador  
 **Origem (Reino):** [[01 - Rubi|Rubi]]  
 **Era de Atuação:** [[3 - Era do Vazio|Era do Vazio]]; auge durante o meio da era, aposentadoria próxima ao seu fim  
 **Idade durante o Auge:** Aproximadamente 45 anos  
@@ -182,7 +182,7 @@ Depois de perder seu grupo, passou a acreditar que assumir responsabilidade por 
 
 Elgor nasceu em [[01 - Rubi|Rubi]], em uma região dominada por fumaça industrial, trabalho exaustivo e pela ideia de que qualquer pessoa poderia ser substituída assim que deixasse de ser útil. Cresceu aprendendo a reparar ferramentas, reconhecer o som de mecanismos prestes a falhar e não esperar que autoridades impedissem acidentes anunciados.
 
-Ainda jovem, deixou Rubi e ingressou entre os [[Caçadores]]. Não foi considerado particularmente talentoso durante o início do treinamento. Não era o mais forte, o mais corajoso nem o mais impressionante no uso elemental. Seu diferencial era continuar observando quando todos os demais já haviam decidido o que estava acontecendo.
+Ainda jovem, deixou Rubi e ingressou entre os [[Caçadores de Monstros]]. Não foi considerado particularmente talentoso durante o início do treinamento. Não era o mais forte, o mais corajoso nem o mais impressionante no uso elemental. Seu diferencial era continuar observando quando todos os demais já haviam decidido o que estava acontecendo.
 
 Passou a atuar principalmente em [[Safira]], onde a presença constante de criaturas, a corrupção institucional e a relação hostil entre autoridades locais e caçadores faziam qualquer contrato tornar-se mais complicado do que a descrição oficial sugeria.
 

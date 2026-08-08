@@ -9,7 +9,7 @@ Durante esse evento, [[Elgor de Rubi]] consolida sua visão cínica e brutal sob
 - Aposentadoria de [[Elgor de Rubi]]  
 - Criação do guia "Sobrevivendo aos Vales"  
 - Disseminação de uma visão realista e não romantizada da caça de monstros
-- Influência indireta em novas gerações de [[caçadores]]
+- Influência indireta em novas gerações de [[Caçadores de Monstros]]
   
 ## Conexões  
 - [[Fundação da Guilda dos Caçadores]]  

@@ -7,10 +7,10 @@ Após anos reunindo informações e confrontando inconsistências, [[Elgor de Ru
 
 Ele revela que a instituição foi construída sobre mitos distorcidos dos [[Caçadores Ancestrais]], sustentando uma imagem heroica que não corresponde necessariamente à realidade.  
   
-A revelação se espalha principalmente entre [[caçadores]] veteranos, que reconhecem a verdade com base em suas próprias experiências.
+A revelação se espalha principalmente entre [[Caçadores de Monstros]] veteranos, que reconhecem a verdade com base em suas próprias experiências.
   
 ## Consequências  
-- Quebra do idealismo entre [[caçadores]] experientes  
+- Quebra do idealismo entre [[Caçadores de Monstros]] experientes  
 - Consolidação de uma cultura cínica dentro da guilda  
 - Desinteresse geral da população e novatos  
 - Nenhuma mudança estrutural relevante

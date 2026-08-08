@@ -175,7 +175,7 @@ Sua compaixão aparece de maneira rara, brusca e grandiosa. Ele não oferece pal
     
 - Ser chamado de arma
     
-- [[Caçadores]] que procuram suas escamas, dentes ou sangue
+- [[Caçadores de Monstros]] que procuram suas escamas, dentes ou sangue
     
 - A ideia de que [[02 - Malaquita|Malaquita]] mereceu tudo que aconteceu
     
@@ -1511,7 +1511,7 @@ Caso morra, seu corpo imediatamente se tornará objeto de disputa entre:
     
 - Descendentes de [[02 - Malaquita|Malaquita]]
     
-- [[Caçadores]]
+- [[Caçadores de Monstros]]
     
 - Pesquisadores
     

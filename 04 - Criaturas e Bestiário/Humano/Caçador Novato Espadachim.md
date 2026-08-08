@@ -1,6 +1,6 @@
 **Tipo:** Humano
 **Grau de Perigo:** 1
-**Afiliação:** [[Caçadores]]
+**Afiliação:** [[Caçadores de Monstros]]
 # Descrição
 
 Acabou de se tornar um Caçador de Monstros. Cheio de esperanças, esse aqui está prestes a ser destruído pela realidade.

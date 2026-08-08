@@ -4,7 +4,6 @@ aliases:
 ---
 #Reino 
 # **Resumo**
-# **Resumo**
 
 ## **Visão Geral**
 

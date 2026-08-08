@@ -10,7 +10,7 @@ O problema é que, nos Vales, isso não basta.
 
 Citrino é oficialmente uma monarquia constitucional, mas o rei exerce um papel majoritariamente simbólico e representativo.
 
-O poder real está concentrado no Conselho de Citrino, um órgão formado por diplomatas, mediadores e representantes políticos que governa por meio de reuniões, comissões e votações internas.
+O poder real está concentrado no Conselho de Citrino, um órgão formado por diplomatas, mediadores e representantes políticos que governa por meio de reuniões, comissões e votações internas. Esses são os chamados de “[[Magistrados do Conselho de Citrino|Magistrados]]”, palavra que, associada a eles, é popularmente usado de forma pejorativa nos Vales.
 
 Na prática:
 - O rei discursa, assina documentos e representa o reino.
@@ -28,7 +28,7 @@ Intervenções armadas, rupturas diplomáticas e ações unilaterais são vistas
 
 Isso faz com que Citrino:
 - condene atrocidades em discurso;
-- mantenha relações políticas e comerciais com reinos que pratica atos que seu próprio povo abomina;
+- mantenha relações políticas e comerciais com reinos que praticam atos que seu próprio povo abomina;
 - evite tomar posições firmes para não “quebrar a paz”.
 
 A neutralidade é tratada como virtude absoluta, mesmo quando se transforma em omissão.
