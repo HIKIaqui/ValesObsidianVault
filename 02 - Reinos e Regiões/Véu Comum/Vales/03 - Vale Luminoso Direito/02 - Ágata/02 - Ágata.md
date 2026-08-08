@@ -93,19 +93,14 @@ O povo segue porque confia.
 ## **Regiões Internas**
 
 - Região 1:
-    
 - Região 2:
-    
 - Região 3:
 
 ## **Recursos Naturais**
 
 - minerais
-    
 - magia
-    
 - fauna
-    
 - risco onírico
 
 ---
