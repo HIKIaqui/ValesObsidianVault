@@ -71,22 +71,16 @@ O povo segue porque confia.
 ## **Estruturas Internas**
 
 - Ministérios
-    
 - Oráculos
-    
 - Guardas locais
-    
 - Clãs, tribos, famílias
-    
 
 ## **Leis Culturais Importantes**
 
 ## **Preconceitos recebidos / Preconceitos exercidos**
 
 - Como o reino é tratado.
-    
 - Como o reino trata outros.
-    
 
 ---
 
@@ -103,7 +97,6 @@ O povo segue porque confia.
 - Região 2:
     
 - Região 3:
-    
 
 ## **Recursos Naturais**
 
@@ -114,7 +107,6 @@ O povo segue porque confia.
 - fauna
     
 - risco onírico
-    
 
 ---
 
