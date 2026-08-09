@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Reinos e Regiões/Véu Comum/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.070978904949415
                 }
               },
-              "icon": "lucide-file",
-              "title": "02 - Ágata"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -270,8 +263,8 @@
             "state": {
               "type": "map-of-content",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
+              "icon": "lucide-ghost",
+              "title": "map-of-content"
             }
           }
         ]
@@ -286,8 +279,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           }
         ]
@@ -302,8 +295,8 @@
             "state": {
               "type": "map-of-content",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
+              "icon": "lucide-ghost",
+              "title": "map-of-content"
             }
           }
         ]
@@ -315,6 +308,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -324,23 +318,15 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "publish:Publicar mudanças": false,
       "bases:Criar nova base": false,
-      "templater-obsidian:Templater": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-kanban:Create new board": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "homepage:Open homepage": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 - Reinos e Regiões/Véu Comum/Vales/03 - Vale Luminoso Direito/02 - Ágata/02 - Ágata.md",
     "06 - Personagens/Entidades Oníricas/A Peste.md",
     "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
     "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
@@ -373,7 +359,6 @@
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Caçadores.md",
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores",
     "01 - Lore Geral/Definições/Matéria Física.md",
-    "01 - Lore Geral/Definições/Alma.md",
     "01 - Lore Geral/Definições",
     "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas",
