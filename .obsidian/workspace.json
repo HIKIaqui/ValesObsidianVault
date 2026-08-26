@@ -331,10 +331,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
-    "01 - Lore Geral/Termos/Medidas/Unidade de Densidade Fundamental.md",
+    "01 - Lore Geral/Termos/Medidas/Unidades",
+    "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Medidas/Medidas.md",
+    "01 - Lore Geral/Termos/Unidades",
     "01 - Lore Geral/Termos/Medidas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
@@ -364,12 +366,10 @@
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/03 - Floresta dos Lamentos/03 - Floresta dos Lamentos.md",
-    "03 - Facções e Grupos/Demônios de Vanadinita Nômades.md",
     "04 - Criaturas e Bestiário/Fera",
     "01 - Lore Geral/Profissões",
     "01 - Lore Geral/Termos/Popular",
     "01 - Lore Geral/Tradições/Gerais",
-    "01 - Lore Geral/Tradições/Caçadores",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
