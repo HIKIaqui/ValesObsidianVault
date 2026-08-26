@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Lore Geral/Termos/Medidas/Unidade de Densidade Fundamental.md",
+                "file": "01 - Lore Geral/Termos/Medidas/Medidas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unidade de Densidade Fundamental"
+              "title": "Medidas"
             }
           }
         ]
@@ -331,14 +331,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 - Lore Geral/Termos/Medidas/Unidade de Densidade Fundamental.md",
+    "01 - Lore Geral/Termos/Medidas/Medidas.md",
     "01 - Lore Geral/Termos/Medidas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora/01 - Ruínas de Néxora.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
-    "01 - Lore Geral/Termos/Medidas/Unidade de Densidade Fundamental.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor Fundamental.md",
     "Sem título.base",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
@@ -369,7 +370,6 @@
     "01 - Lore Geral/Termos/Popular",
     "01 - Lore Geral/Tradições/Gerais",
     "01 - Lore Geral/Tradições/Caçadores",
-    "01 - Lore Geral/Tradições",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

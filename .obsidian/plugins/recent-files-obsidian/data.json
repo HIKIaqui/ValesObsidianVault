@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Medidas",
+      "path": "01 - Lore Geral/Termos/Medidas/Medidas.md"
+    },
+    {
       "basename": "Unidade de Densidade Fundamental",
       "path": "01 - Lore Geral/Termos/Medidas/Unidade de Densidade Fundamental.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Magistrados do Conselho de Citrino",
       "path": "01 - Lore Geral/Termos/Popular/Magistrados do Conselho de Citrino.md"
-    },
-    {
-      "basename": "01 - Vale Luminoso Esquerdo",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md"
     }
   ],
   "omittedPaths": [],
