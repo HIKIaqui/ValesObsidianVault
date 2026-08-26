@@ -2,9 +2,9 @@
 aliases:
   - Medidas
 ---
-Unidades de medida e outras formas de medidas únicas dos Vales:
+Unidades de medida e outras formas de medida únicas dos Vales:
 
 
 
-Unidades:
+### Unidades:
 - [[Unidade de Densidade Fundamental]]
