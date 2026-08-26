@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Lore Geral/Termos/Medidas/Medidas.md",
+                "file": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Medidas"
+              "title": "05 - Coroas do Vácuo"
             }
           }
         ]
@@ -331,11 +331,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Vale Sombrio.md",
+    "01 - Lore Geral/Termos/Medidas/Medidas.md",
     "01 - Lore Geral/Termos/Medidas/Unidades",
     "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
-    "01 - Lore Geral/Termos/Medidas/Medidas.md",
     "01 - Lore Geral/Termos/Unidades",
     "01 - Lore Geral/Termos/Medidas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
@@ -369,7 +370,6 @@
     "04 - Criaturas e Bestiário/Fera",
     "01 - Lore Geral/Profissões",
     "01 - Lore Geral/Termos/Popular",
-    "01 - Lore Geral/Tradições/Gerais",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

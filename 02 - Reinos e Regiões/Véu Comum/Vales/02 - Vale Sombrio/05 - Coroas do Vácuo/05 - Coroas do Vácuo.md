@@ -15,7 +15,6 @@ A floresta não é vazia, mas age como se tudo que vive ali tivesse aprendido a 
 O nome vem justamente dessa sensação: as copas se erguem como coroas negras sobre a cabeça dos viajantes, mas abaixo delas existe um vazio sonoro sufocante, como se o próprio ar tivesse medo de vibrar.
 
 ---
-
 ## Descrição Geral
 
 As Coroas do Vácuo são uma floresta gigantesca, densa e difícil de atravessar. Suas árvores crescem em quantidade absurda, formando corredores naturais, paredes vegetais e zonas onde a visão raramente alcança longe o suficiente para orientar alguém com segurança.
@@ -32,7 +31,6 @@ De tempos em tempos, mesmo sem que os viajantes façam nada, um impacto pode ser
 Então o silêncio retorna.
 
 ---
-
 ## A Artilharia
 
 No centro das Coroas do Vácuo existe uma entidade conhecida como **A Artilharia**.
@@ -49,7 +47,6 @@ A Artilharia não é natural.
 E não deve ser enfrentada.
 
 ---
-
 ## Raízes Sensorias
 
 A Artilharia está conectada a toda a região por uma rede profunda de raízes. Essas raízes atravessam o solo das Coroas do Vácuo como nervos subterrâneos, sentindo vibrações, impactos e deslocamentos.
@@ -69,7 +66,6 @@ Por isso, a regra mais importante do bioma é simples:
 > Fez barulho, virou alvo.
 
 ---
-
 ## Os Faróis de Mana
 
 O corpo da Artilharia possui buracos luminosos que, à distância, parecem olhos brilhantes entre a floresta. Porém, esses pontos não são olhos de verdade. São apenas vazamentos de mana, energia escapando por falhas no corpo do constructo.
@@ -85,7 +81,6 @@ Então uma árvore cai dos céus.
 Esses faróis são uma das poucas formas de antecipar um disparo. Não garantem segurança, mas dão ao alvo uma chance mínima de reagir. Uma chance pequena, cruel e quase insuficiente, como quase tudo no Vale Sombrio.
 
 ---
-
 ## Disparos
 
 A Artilharia ataca arrancando árvores da própria floresta e arremessando-as contra fontes de vibração. Como as árvores das Coroas do Vácuo crescem rápido demais, ela possui munição praticamente infinita.
@@ -113,7 +108,6 @@ A defesa principal não é se esconder.
 A defesa principal é **não estar onde a luz travou**.
 
 ---
-
 ## Rajadas
 
 Além dos disparos comuns, a Artilharia pode realizar rajadas.
@@ -140,7 +134,6 @@ Regra de sobrevivência entre caçadores:
 > Várias luzes: desapareça dali.
 
 ---
-
 ## Interferência
 
 Alguns viajantes tentam criar vibrações falsas para confundir a Artilharia. Isso pode funcionar por um curto período.
@@ -158,7 +151,6 @@ Nas Coroas do Vácuo, interferência não é uma forma de vencer.
 É uma forma de ganhar segundos.
 
 ---
-
 ## Fogo
 
 Atear fogo na floresta parece, à primeira vista, uma solução inteligente. Na prática, é uma forma rápida de chamar atenção.
@@ -176,7 +168,6 @@ O impacto pode esmagar o foco, espalhar terra e detritos, sufocar as chamas e de
 Sutileza nunca foi o forte da Artilharia.
 
 ---
-
 ## Perigo Real
 
 O maior perigo das Coroas do Vácuo não é apenas ser atingido por uma árvore.
@@ -197,7 +188,6 @@ A Artilharia não precisa acertar no primeiro disparo.
 Ela só precisa esperar você cansar de não errar.
 
 ---
-
 ## Filosofia do Bioma
 
 As Coroas do Vácuo representam uma das verdades mais brutais do Vale Sombrio: condições sobre-humanas são exigidas de criaturas humanas.
@@ -217,7 +207,6 @@ O mundo não está tentando ser vencido.
 O mundo simplesmente existe em uma escala onde a vida humana é pequena demais para importar.
 
 ---
-
 ## Sobrevivência
 
 Entrar nas Coroas do Vácuo deve ser considerado uma decisão extrema.
@@ -241,7 +230,6 @@ A vitória nas Coroas do Vácuo não é matar a entidade.
 A vitória é sair vivo.
 
 ---
-
 ## Frases e Registros
 
 > “As árvores vivem. O som não.”
