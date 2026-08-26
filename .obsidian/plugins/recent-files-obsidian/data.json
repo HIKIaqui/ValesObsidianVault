@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "98 - Dev/Homepage.canvas"
-    },
-    {
-      "basename": "Sensibilidade Auditiva",
-      "path": "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas/Sensibilidade Auditiva.md"
+      "basename": "Elemental",
+      "path": "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md"
     },
     {
       "basename": "Medidor Fundamental",
       "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor Fundamental.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "98 - Dev/Homepage.canvas"
+    },
+    {
+      "basename": "Maldição",
+      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md"
+    },
+    {
+      "basename": "06 - Rio Eterno",
+      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/06 - Rio Eterno/06 - Rio Eterno.md"
+    },
+    {
+      "basename": "03 - Floresta dos Lamentos",
+      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/03 - Floresta dos Lamentos/03 - Floresta dos Lamentos.md"
+    },
+    {
+      "basename": "04 - Rio Carmesim",
+      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md"
+    },
+    {
+      "basename": "Amaldiçoado",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
+    },
+    {
+      "basename": "Guias",
+      "path": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Guias.md"
+    },
+    {
+      "basename": "Caçadores",
+      "path": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Caçadores.md"
+    },
+    {
+      "basename": "A Peste",
+      "path": "06 - Personagens/Entidades Oníricas/A Peste.md"
+    },
+    {
+      "basename": "Entidades Oníricas",
+      "path": "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md"
+    },
+    {
+      "basename": "Amnésia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md"
+    },
+    {
+      "basename": "Animador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md"
+    },
+    {
+      "basename": "07 - Contratos",
+      "path": "07 - Contratos/07 - Contratos.md"
+    },
+    {
+      "basename": "13 - SISTEMA DE RPG",
+      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
+    },
+    {
+      "basename": "Pactos",
+      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Pactos.md"
+    },
+    {
+      "basename": "Forças Fundamentais",
+      "path": "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md"
+    },
+    {
+      "basename": "Constructo",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
+    },
+    {
+      "basename": "Constructo Magnético",
+      "path": "04 - Criaturas e Bestiário/Constructo Magnético.md"
+    },
+    {
+      "basename": "O Mestre",
+      "path": "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md"
+    },
+    {
+      "basename": "Escarniçador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md"
+    },
+    {
+      "basename": "Carnicida",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicida.md"
+    },
+    {
+      "basename": "Fera",
+      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
+    },
+    {
+      "basename": "Pseudo-Unicórnio",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Pseudo-Unicórnio.md"
+    },
+    {
+      "basename": "Onçaclope",
+      "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
+    },
+    {
+      "basename": "Aranha Arco-Íris",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md"
+    },
+    {
+      "basename": "Sensibilidade Auditiva",
+      "path": "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas/Sensibilidade Auditiva.md"
     },
     {
       "basename": "Arcanoscópio",
@@ -37,10 +137,6 @@
       "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
     },
     {
-      "basename": "Caçadores",
-      "path": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Caçadores.md"
-    },
-    {
       "basename": "Deuses",
       "path": "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md"
     },
@@ -57,20 +153,8 @@
       "path": "01 - Lore Geral/Termos/Popular/Meu Destino.md"
     },
     {
-      "basename": "Forças Fundamentais",
-      "path": "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md"
-    },
-    {
       "basename": "Mana",
       "path": "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md"
-    },
-    {
-      "basename": "Maldição",
-      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md"
-    },
-    {
-      "basename": "Elemental",
-      "path": "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md"
     },
     {
       "basename": "Sagrado",
@@ -115,54 +199,6 @@
     {
       "basename": "Baixa Névoa",
       "path": "03 - Facções e Grupos/Cidade Secreta/Baixa Névoa.md"
-    },
-    {
-      "basename": "Apostas de Contrato",
-      "path": "01 - Lore Geral/Tradições/Caçadores/Apostas de Contrato.md"
-    },
-    {
-      "basename": "Força Tarefa 0",
-      "path": "03 - Facções e Grupos/Caçadores de Monstros/Força Tarefa 0.md"
-    },
-    {
-      "basename": "Guilda de Caçadores",
-      "path": "03 - Facções e Grupos/Caçadores de Monstros/Guilda de Caçadores.md"
-    },
-    {
-      "basename": "Espírito",
-      "path": "04 - Criaturas e Bestiário/Espírito/Espírito.md"
-    },
-    {
-      "basename": "Constructo",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
-    },
-    {
-      "basename": "Matéria Física",
-      "path": "01 - Lore Geral/Definições/Matéria Física.md"
-    },
-    {
-      "basename": "Alma",
-      "path": "01 - Lore Geral/Definições/Alma.md"
-    },
-    {
-      "basename": "Amaldiçoado",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
-    },
-    {
-      "basename": "O Mestre",
-      "path": "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md"
-    },
-    {
-      "basename": "Caractere Interessante",
-      "path": "Caractere Interessante.md"
-    },
-    {
-      "basename": "13 - SISTEMA DE RPG",
-      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
-    },
-    {
-      "basename": "Ações",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md"
     }
   ],
   "omittedPaths": [],

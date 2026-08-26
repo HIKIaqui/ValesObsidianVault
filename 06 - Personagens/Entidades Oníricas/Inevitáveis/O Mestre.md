@@ -232,15 +232,9 @@ Uma balança gigante, com um poço enorme embaixo, cheio de espinhos ou algo sim
 
 (O peso de todos sempre soma exatamente 500 quilos.)
 
-  
-
 4 - O peso de itens carregados não é considerado pela balança. Apenas é considerado o peso de cada um dos jogadores.
 
-  
-
 5 - Jogar fora um companheiro é permitido.
-
-  
 
 6 - Se a condição de vitória não for cumprida em 5 minutos, todos morrem.
 
@@ -276,7 +270,7 @@ Os jogadores podem saber disso por marcas de passos no chão, exatamente 55, ind
 
 A = 1:10m | 70s ( A pegada é que pra se tornar múltiplo de 6, precisa andar 3 vezes, senão o relógio desequilibra. )
 
-B = 3:24 |204s
+B = 3:24 | 204s
 
 C = 4:18m | 258s
 

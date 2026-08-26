@@ -1,0 +1,1 @@
+Animais no sentido comum da palavra. Seres vivos não humanos biologicamente funcionais e naturais.
