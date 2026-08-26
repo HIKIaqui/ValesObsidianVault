@@ -2,7 +2,23 @@
   "recentFiles": [
     {
       "basename": "Unidade de Densidade Fundamental",
-      "path": "01 - Lore Geral/Termos/Unidade de Densidade Fundamental.md"
+      "path": "01 - Lore Geral/Termos/Medidas/Unidade de Densidade Fundamental.md"
+    },
+    {
+      "basename": "Medidor de Densidade Fundamental",
+      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md"
+    },
+    {
+      "basename": "Arcanoscópio",
+      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md"
+    },
+    {
+      "basename": "01 - Ruínas de Néxora",
+      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora/01 - Ruínas de Néxora.md"
+    },
+    {
+      "basename": "02 - Malaquita",
+      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md"
     },
     {
       "basename": "O Predador de Oleon",
@@ -15,10 +31,6 @@
     {
       "basename": "Elemental",
       "path": "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md"
-    },
-    {
-      "basename": "Medidor Fundamental",
-      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor Fundamental.md"
     },
     {
       "basename": "Homepage",
@@ -125,10 +137,6 @@
       "path": "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas/Sensibilidade Auditiva.md"
     },
     {
-      "basename": "Arcanoscópio",
-      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md"
-    },
-    {
       "basename": "Template de Item",
       "path": "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "01 - Vale Luminoso Esquerdo",
       "path": "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/01 - Vale Luminoso Esquerdo.md"
-    },
-    {
-      "basename": "02 - Citrino",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/02 - Citrino.md"
-    },
-    {
-      "basename": "Reino de Citrino",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/02 - Citrino/Reino de Citrino/Reino de Citrino.md"
     }
   ],
   "omittedPaths": [],
