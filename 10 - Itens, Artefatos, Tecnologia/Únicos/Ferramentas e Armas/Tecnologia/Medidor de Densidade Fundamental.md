@@ -3,7 +3,6 @@ aliases:
   - Medidor Fundamental
   - Medidor
 ---
-
 - **Nome Técnico:** Medidor de Densidade Fundamental
 - **Nome Comum:** Medidor
 - **Tipo:** Equipamento Técnico / Ferramenta de Monitoramento Energético
