@@ -11,27 +11,33 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.070978904949415
                 }
               },
-              "icon": "lucide-file",
-              "title": "05 - Coroas do Vácuo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "d1e5de22e26b9994",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,8 +337,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d1e5de22e26b9994",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Vale Sombrio.md",
     "01 - Lore Geral/Termos/Medidas/Medidas.md",
     "01 - Lore Geral/Termos/Medidas/Unidades",
@@ -347,7 +355,6 @@
     "Sem título.base",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
-    "98 - Dev/Homepage.canvas",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/06 - Rio Eterno/06 - Rio Eterno.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/06 - Rio Eterno",
     "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Guias.md",
@@ -360,13 +367,11 @@
     "06 - Personagens/Entidades Oníricas/A Peste.md",
     "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md",
     "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
     "04 - Criaturas e Bestiário/Espírito/Espírito.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/03 - Floresta dos Lamentos/03 - Floresta dos Lamentos.md",
     "04 - Criaturas e Bestiário/Fera",
     "01 - Lore Geral/Profissões",
     "01 - Lore Geral/Termos/Popular",
