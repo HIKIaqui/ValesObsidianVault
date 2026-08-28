@@ -23,33 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "d1e5de22e26b9994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Medidor de Densidade Fundamental"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,8 +324,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d1e5de22e26b9994",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
     "98 - Dev/Homepage.canvas",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Vale Sombrio.md",
@@ -359,7 +335,6 @@
     "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Unidades",
     "01 - Lore Geral/Termos/Medidas",
-    "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora/01 - Ruínas de Néxora.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
