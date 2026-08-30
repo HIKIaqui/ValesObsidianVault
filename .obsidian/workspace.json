@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.070978904949415
                 }
               },
-              "icon": "lucide-file",
-              "title": "Unidade de Densidade Fundamental"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -331,15 +324,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Medidas/Medidas.md",
     "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Vale Sombrio.md",
     "01 - Lore Geral/Termos/Medidas/Unidades",
-    "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Unidades",
     "01 - Lore Geral/Termos/Medidas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md",
