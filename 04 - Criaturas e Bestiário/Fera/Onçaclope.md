@@ -13,6 +13,7 @@ tags:
 **Grau de Perigo:** 1
 
 # Descrição 
+
 A Onçaclope, também conhecida como Caolha, é um felino de pelagem azul-escura, menor que uma onça comum e aproximadamente do tamanho de uma hiena. Possui um único olho no centro da face. Sua visão é extremamente precisa e funciona bem tanto durante o dia quanto à noite, mas oferece uma cobertura limitada ao redor do corpo. 
 
 Uma Onçaclope isolada consegue acompanhar perfeitamente aquilo que está observando, mas possui pontos cegos fáceis de explorar. 
