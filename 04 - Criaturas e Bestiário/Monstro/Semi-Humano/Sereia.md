@@ -29,6 +29,7 @@ Sereias são mulheres modificadas biologicamente para serem o mais atraentes pos
 - [[Social|Empatia]] +5
 - [[Sorte|Improviso]] +5
 - [[Constituição|Resistência]] -5
+- [[Constituição|Força]] -5
 
 ---
 # Habilidades
