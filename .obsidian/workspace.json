@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.070978904949415
+                "file": "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Juiz"
             }
           }
         ]
@@ -326,9 +333,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - Personagens/Lendários/Template NPC.md",
+    "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md",
+    "06 - Personagens/Lendários/Mortos",
+    "06 - Personagens/Lendários/Paradeiro Desconhecido",
+    "06 - Personagens/Lendários/Paradeiro Conhecido",
+    "06 - Personagens/Juiz.md",
+    "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Medidas/Medidas.md",
-    "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Vale Sombrio.md",
@@ -356,12 +369,6 @@
     "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
     "04 - Criaturas e Bestiário/Espírito/Espírito.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md",
-    "04 - Criaturas e Bestiário/Fera",
-    "01 - Lore Geral/Profissões",
-    "01 - Lore Geral/Termos/Popular",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

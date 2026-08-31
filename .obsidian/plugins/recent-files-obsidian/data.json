@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Juiz",
+      "path": "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md"
+    },
+    {
+      "basename": "Template NPC",
+      "path": "06 - Personagens/Lendários/Template NPC.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Mana",
       "path": "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md"
-    },
-    {
-      "basename": "Sagrado",
-      "path": "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md"
-    },
-    {
-      "basename": "Destino",
-      "path": "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Destino.md"
     }
   ],
   "omittedPaths": [],
