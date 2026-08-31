@@ -4,30 +4,31 @@
 
 # Descrição
 
-Sereias são mulheres modificadas biologicamente para serem o mais atraentes possível. Tais alterações foram feitas de acordo com os interesses de outros, ignorando até mesmo o funcionamento do corpo naturalmente.
+Sereias são mulheres modificadas biologicamente para serem o mais atraentes possível. Tais alterações foram feitas de acordo com os interesses de outros, ignorando até mesmo como tais mudanças afetariam o funcionamento do corpo.
 
 ---
 # Status
 
-**PV:** 25
-**Armadura:** 1
+**PV:** 10
+**Armadura:** 0
 **Esquiva:** 15
 **PE:** 8
 
 # Atributos
 
-**Constituição:** 1
-**Agilidade:** 1
-**Mente:** 1
-**Social:** 1
-**Sorte:** 1
+**[[Constituição]]:** 0
+**[[Agilidade]]:** 1
+**[[Mente]]:** 1
+**[[Social]]:** 3
+**[[Sorte]]:** 1
 
 # Perícias
 
-- Sobrevivência +5
-- Percepção +5
-- Técnica +5
-- Reflexos +5
+- [[Social|Persuasão]] +5
+- [[Social|Manipulação]] +5
+- [[Social|Empatia]] +5
+- [[Sorte|Improviso]] +5
+- [[Constituição|Resistência]] -5
 
 ---
 # Habilidades

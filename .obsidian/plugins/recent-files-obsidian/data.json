@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Onçaclope",
-      "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
-    },
-    {
       "basename": "Sereia",
       "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
+    },
+    {
+      "basename": "Sorte",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Sorte.md"
+    },
+    {
+      "basename": "Constituição",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md"
+    },
+    {
+      "basename": "Social",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md"
+    },
+    {
+      "basename": "Onçaclope",
+      "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
     },
     {
       "basename": "Medidor de Densidade Fundamental",
@@ -187,18 +199,6 @@
     {
       "basename": "Monstro",
       "path": "04 - Criaturas e Bestiário/Monstro/Monstro.md"
-    },
-    {
-      "basename": "04 - Criaturas e Bestiário",
-      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
-    },
-    {
-      "basename": "Deuses",
-      "path": "01 - Lore Geral/Forças Fundamentais/Sagrado/Deuses/Deuses.md"
-    },
-    {
-      "basename": "Reino de Ametista",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/Reino de Ametista/Reino de Ametista.md"
     }
   ],
   "omittedPaths": [],
