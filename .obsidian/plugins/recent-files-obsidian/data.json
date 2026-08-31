@@ -5,6 +5,10 @@
       "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
     },
     {
+      "basename": "Onçaclope",
+      "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
+    },
+    {
       "basename": "Amaldiçoado",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Social",
       "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md"
-    },
-    {
-      "basename": "Onçaclope",
-      "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
     },
     {
       "basename": "Medidor de Densidade Fundamental",

@@ -33,8 +33,8 @@ Sereias são mulheres modificadas biologicamente para serem o mais atraentes pos
 ---
 # Habilidades
 
-Elemental (Passiva): Pode usar técnicas elementais. Um tipo de elemental apenas.
+Placeholder (Passiva): 
 
-Caçador (Passiva): +1 Dado para toda ação relacionada a monstros.
+Placeholder (Passiva): 
 
-Encantar: Técnica | Precisão 0 | Dano 2d4 | Crítico 18+
+Encantar: Placeholder Técnica | Precisão 0 | Dano 2d4 | Crítico 18+
