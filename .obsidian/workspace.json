@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md",
+                "file": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Juiz"
+              "title": "Medidor de Densidade Fundamental"
             }
           }
         ]
@@ -331,10 +331,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
-    "06 - Personagens/Lendários/Template NPC.md",
     "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md",
+    "06 - Personagens/Lendários/Template NPC.md",
     "06 - Personagens/Lendários/Mortos",
     "06 - Personagens/Lendários/Paradeiro Desconhecido",
     "06 - Personagens/Lendários/Paradeiro Conhecido",
