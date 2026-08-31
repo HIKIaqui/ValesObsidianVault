@@ -1,3 +1,9 @@
+---
+aliases:
+  - Detector de Assinatura Fundamental
+  - Luneta
+---
+
 - **Nome Técnico:** Detector de Assinatura Fundamental
 - **Nome Comum:** Arcanoscópio  
 - **Gíria:** Luneta

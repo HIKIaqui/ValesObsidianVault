@@ -5,6 +5,18 @@
       "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor de Densidade Fundamental.md"
     },
     {
+      "basename": "Arcanoscópio",
+      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md"
+    },
+    {
+      "basename": "Orbe de Mana",
+      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Orbe de Mana.md"
+    },
+    {
+      "basename": "Traje Hidráulico",
+      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Traje Hidráulico.md"
+    },
+    {
       "basename": "Juiz",
       "path": "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "02 - Vale Sombrio",
       "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Vale Sombrio.md"
-    },
-    {
-      "basename": "Arcanoscópio",
-      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Arcanoscópio.md"
     },
     {
       "basename": "01 - Ruínas de Néxora",
@@ -191,14 +199,6 @@
     {
       "basename": "01 - Ametista",
       "path": "02 - Reinos e Regiões/Véu Comum/Vales/01 - Vale Luminoso Esquerdo/01 - Ametista/01 - Ametista.md"
-    },
-    {
-      "basename": "Meu Destino",
-      "path": "01 - Lore Geral/Termos/Popular/Meu Destino.md"
-    },
-    {
-      "basename": "Mana",
-      "path": "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md"
     }
   ],
   "omittedPaths": [],
