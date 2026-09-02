@@ -5,12 +5,20 @@
       "path": "98 - Dev/Homepage.canvas"
     },
     {
-      "basename": "Sereia",
-      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
-    },
-    {
       "basename": "Onçaclope",
       "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
+    },
+    {
+      "basename": "Fera",
+      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
+    },
+    {
+      "basename": "04 - Criaturas e Bestiário",
+      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
+    },
+    {
+      "basename": "Sereia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
     },
     {
       "basename": "Amaldiçoado",
@@ -19,10 +27,6 @@
     {
       "basename": "Constructo",
       "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
-    },
-    {
-      "basename": "04 - Criaturas e Bestiário",
-      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
     },
     {
       "basename": "Sorte",
@@ -171,10 +175,6 @@
     {
       "basename": "Carnicida",
       "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicida.md"
-    },
-    {
-      "basename": "Fera",
-      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
     },
     {
       "basename": "Pseudo-Unicórnio",
