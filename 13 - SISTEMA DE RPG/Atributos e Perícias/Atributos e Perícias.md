@@ -22,15 +22,15 @@ O valor de um Atributo determina os dados usados em seus testes:
 
 ### Os Atributos do sistema são:
 
-● [[Constituição]] – capacidade física, força, resistência e brutalidade.
+● [[Constituição]]: capacidade física, força, resistência e brutalidade.
 
-● [[Agilidade]] – velocidade, coordenação, reflexos e precisão.
+● [[Agilidade]]: velocidade, coordenação, reflexos e precisão.
 
-● [[Mente]] – conhecimento, percepção, resistência psicológica e capacidades técnicas.
+● [[Mente]]: conhecimento, percepção, resistência psicológica e capacidades técnicas.
 
-● [[Social]] – comunicação, influência e compreensão de outras pessoas ou criaturas.
+● [[Social]]: comunicação, influência e compreensão de outras pessoas ou criaturas.
 
-● [[Sorte]] – instinto, improvisação e acontecimentos improváveis.
+● [[Sorte]]: instinto, improvisação e acontecimentos improváveis.
 
 ---
 ## Perícias

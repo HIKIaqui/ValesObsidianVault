@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.070978904949415
+                "file": "04 - Criaturas e Bestiário/Espírito/Fada.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Fada"
             }
           }
         ]
@@ -326,6 +333,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md",
+    "04 - Criaturas e Bestiário/Espírito/Fada.md",
+    "98 - Dev/Homepage.canvas",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Dríade.md",
+    "13 - SISTEMA DE RPG/Combate/Interferências/Interferências.md",
+    "13 - SISTEMA DE RPG/Combate/Interferências/Por Contrato",
+    "13 - SISTEMA DE RPG/Combate/Interferências/Por Região",
+    "13 - SISTEMA DE RPG/Combate/Interferências/Únicas",
+    "13 - SISTEMA DE RPG/Combate/Interferências",
     "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md",
     "04 - Criaturas e Bestiário/Fera/Onçaclope.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
@@ -341,7 +357,6 @@
     "06 - Personagens/Lendários/Paradeiro Desconhecido",
     "06 - Personagens/Lendários/Paradeiro Conhecido",
     "06 - Personagens/Juiz.md",
-    "98 - Dev/Homepage.canvas",
     "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Medidas/Medidas.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/05 - Coroas do Vácuo/05 - Coroas do Vácuo.md",
@@ -352,17 +367,9 @@
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora/01 - Ruínas de Néxora.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor Fundamental.md",
-    "Sem título.base",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/06 - Rio Eterno/06 - Rio Eterno.md",
-    "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/06 - Rio Eterno",
-    "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Guias.md",
-    "01 - Lore Geral/Forças Fundamentais/Maldição/Pactos.md",
-    "04 - Criaturas e Bestiário/Fera/Fera.md",
-    "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas/Sensibilidade Auditiva.md",
-    "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas",
-    "13 - SISTEMA DE RPG/Combate/Fraquezas",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

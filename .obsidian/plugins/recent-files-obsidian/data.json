@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Fada",
+      "path": "04 - Criaturas e Bestiário/Espírito/Fada.md"
+    },
+    {
+      "basename": "Bico de Vidro",
+      "path": "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Template de Item",
       "path": "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md"
-    },
-    {
-      "basename": "Agentes Funerários",
-      "path": "01 - Lore Geral/Profissões/Agentes Funerários.md"
-    },
-    {
-      "basename": "Calendário",
-      "path": "01 - Lore Geral/Base Política e Econômica/Calendário.md"
     }
   ],
   "omittedPaths": [],
