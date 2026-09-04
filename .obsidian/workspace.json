@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.070978904949415
+                "file": "05 - Magia e Sistemas/Magia/Magia Natural/Sem título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ]
@@ -324,8 +331,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "05 - Magia e Sistemas/Magia/Magia Natural/Sem título.md",
     "05 - Magia e Sistemas/Magia/Magia Mortal",
     "05 - Magia e Sistemas/Magia/Magia Vital",
     "05 - Magia e Sistemas/Magia/Magia Física",
@@ -333,7 +342,6 @@
     "05 - Magia e Sistemas/Magia",
     "04 - Criaturas e Bestiário/Espírito/Fada.md",
     "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md",
-    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Dríade.md",
     "13 - SISTEMA DE RPG/Combate/Interferências/Interferências.md",
     "13 - SISTEMA DE RPG/Combate/Interferências/Por Contrato",
@@ -352,7 +360,6 @@
     "06 - Personagens/Lendários/Paradeiro Conhecido/Juiz.md",
     "06 - Personagens/Lendários/Template NPC.md",
     "06 - Personagens/Lendários/Mortos",
-    "06 - Personagens/Lendários/Paradeiro Desconhecido",
     "06 - Personagens/Juiz.md",
     "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md",
     "01 - Lore Geral/Termos/Medidas/Medidas.md",
@@ -362,7 +369,6 @@
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor Fundamental.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
-    "07 - Contratos/Lado Esquerdo/Safira/Os Cadáveres em Limai/Os Cadáveres em Limai.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

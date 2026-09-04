@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sem título",
+      "path": "05 - Magia e Sistemas/Magia/Magia Natural/Sem título.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sensibilidade Auditiva",
       "path": "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas/Sensibilidade Auditiva.md"
-    },
-    {
-      "basename": "Template de Item",
-      "path": "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md"
     }
   ],
   "omittedPaths": [],
