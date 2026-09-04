@@ -5,6 +5,14 @@
       "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
     },
     {
+      "basename": "Sereia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
+    },
+    {
+      "basename": "Troll",
+      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Troll.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "04 - Criaturas e Bestiário",
       "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
-    },
-    {
-      "basename": "Sereia",
-      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
     },
     {
       "basename": "Amaldiçoado",
@@ -195,10 +199,6 @@
     {
       "basename": "Aranha Arco-Íris",
       "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md"
-    },
-    {
-      "basename": "Sensibilidade Auditiva",
-      "path": "13 - SISTEMA DE RPG/Combate/Fraquezas/Genéricas/Sensibilidade Auditiva.md"
     }
   ],
   "omittedPaths": [],

@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Grau1",
+                "query": "tag:magia/natural",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -331,8 +331,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md",
+    "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Troll.md",
     "98 - Dev/Homepage.canvas",
     "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md",
     "05 - Magia e Sistemas/Magia/Magia Mortal",
@@ -348,7 +350,6 @@
     "13 - SISTEMA DE RPG/Combate/Interferências/Por Região",
     "13 - SISTEMA DE RPG/Combate/Interferências/Únicas",
     "13 - SISTEMA DE RPG/Combate/Interferências",
-    "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md",
     "04 - Criaturas e Bestiário/Fera/Onçaclope.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md",
@@ -368,7 +369,6 @@
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/01 - Ruínas de Néxora/01 - Ruínas de Néxora.md",
     "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Tecnologia/Medidor Fundamental.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
