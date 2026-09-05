@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Fera",
+      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
     },
     {
-      "basename": "Acols",
-      "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
+      "basename": "Dríade",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Dríade.md"
+    },
+    {
+      "basename": "Constructo",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
+    },
+    {
+      "basename": "Monstro",
+      "path": "04 - Criaturas e Bestiário/Monstro/Monstro.md"
     },
     {
       "basename": "Ações",
@@ -41,6 +53,10 @@
       "path": "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md"
     },
     {
+      "basename": "Acols",
+      "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
+    },
+    {
       "basename": "Magia Mortal",
       "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
     },
@@ -65,20 +81,12 @@
       "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
     },
     {
-      "basename": "Fera",
-      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
-    },
-    {
       "basename": "04 - Criaturas e Bestiário",
       "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
     },
     {
       "basename": "Amaldiçoado",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
-    },
-    {
-      "basename": "Constructo",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
     },
     {
       "basename": "Sorte",
@@ -191,14 +199,6 @@
     {
       "basename": "Amnésia",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md"
-    },
-    {
-      "basename": "Animador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md"
-    },
-    {
-      "basename": "07 - Contratos",
-      "path": "07 - Contratos/07 - Contratos.md"
     }
   ],
   "omittedPaths": [],
