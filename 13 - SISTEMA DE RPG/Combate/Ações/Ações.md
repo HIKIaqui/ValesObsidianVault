@@ -25,4 +25,4 @@ Inicialmente, cada Personagem tem:
 - 1 Ação 
 - 1 Ação de Movimento
 - 1 Reação
-- Infinitas ações livres.
+- 3 ações livres.

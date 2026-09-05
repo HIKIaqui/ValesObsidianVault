@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Ações",
+      "path": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md"
+    },
+    {
+      "basename": "Template de Artefato",
+      "path": "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Artefato.md"
+    },
+    {
+      "basename": "Template de Item",
+      "path": "10 - Itens, Artefatos, Tecnologia/99 - Templates/Template de Item.md"
+    },
+    {
+      "basename": "Carne Podre",
+      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/Lixo/Carne Podre.md"
+    },
+    {
+      "basename": "Caldo “Vapor Quente”",
+      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/TermaNutri/Caldo “Vapor Quente”.md"
+    },
+    {
       "basename": "Ankórra",
       "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
-    },
-    {
-      "basename": "Magia Vital",
-      "path": "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md"
-    },
-    {
-      "basename": "Magia Mortal",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
     },
     {
       "basename": "Sem título",
       "path": "05 - Magia e Sistemas/Magia/Magia Vital/Sem título.md"
     },
     {
+      "basename": "Magia Vital",
+      "path": "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md"
+    },
+    {
       "basename": "Acols",
       "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
+    },
+    {
+      "basename": "Magia Mortal",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
     },
     {
       "basename": "Sereia",
@@ -179,26 +199,6 @@
     {
       "basename": "07 - Contratos",
       "path": "07 - Contratos/07 - Contratos.md"
-    },
-    {
-      "basename": "13 - SISTEMA DE RPG",
-      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
-    },
-    {
-      "basename": "Pactos",
-      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Pactos.md"
-    },
-    {
-      "basename": "Forças Fundamentais",
-      "path": "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md"
-    },
-    {
-      "basename": "Constructo Magnético",
-      "path": "04 - Criaturas e Bestiário/Constructo Magnético.md"
-    },
-    {
-      "basename": "O Mestre",
-      "path": "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md"
     }
   ],
   "omittedPaths": [],

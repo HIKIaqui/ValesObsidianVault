@@ -6,9 +6,11 @@ tags:
 ---
 
 **Tipo:** [[Magia Natural]]  
-**Custo:** 2 M  
+**Custo:** 2 ~~M~~
 **Duração:** 1 turno  
 **Alvos:** Seres vivos e objetos.
+
+## Descrição 
 
 Acols torna o alvo intangível enquanto seu efeito estiver ativo, permitindo atravessar superfícies físicas como se elas não estivessem ali. Isso inclui paredes e chão.
 
@@ -100,18 +102,3 @@ Existem botas especiais **extremamente raras** que permitem sustentar o usuário
 A sola interage com as partículas de mana da superfície, identificando o contato mesmo enquanto estiver intangível. Ao encontrar apoio, a mana da bota se organiza de forma específica, sustentando o usuário. A pressão contra a superfície mantém essa organização; quando o pé deixa o apoio, ela se desfaz, permitindo que a bota acompanhe a intangibilidade.
 
 Essas botas facilitam o deslocamento, mas não prolongam Acols nem protegem contra o término do efeito enquanto o corpo estiver sobreposto a outra matéria.
-
-%%
-PENDÊNCIA DE REDAÇÃO - EMPATE
-A superfície vence o empate, conforme definido para Acols. A tabela padrão, porém, classifica diferença zero como Sucesso. Ainda falta definir qual consequência aplicar nesse caso. A sugestão de usar Sucesso Parcial não foi confirmada.
-
-REFERÊNCIA DA TABELA PADRÃO
-Sucesso Crítico: diferença ≥ +10 ou 20 natural.
-Sucesso Absoluto: +5 a +9.
-Sucesso: 0 a +4, com empate pendente para Acols.
-Sucesso Parcial: −2 a −1.
-Falha: −7 a −3.
-Falha Grave: −9 a −8 (correção confirmada pelo autor).
-Falha Crítica: diferença ≤ −10 ou 1 natural.
-Os naturais têm prioridade sobre a diferença.
-%%
