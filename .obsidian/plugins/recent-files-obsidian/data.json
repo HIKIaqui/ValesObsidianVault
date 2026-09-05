@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Ankórra",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
+      "basename": "Miksí",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md"
+    },
+    {
+      "basename": "Magia Mortal",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
     },
     {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
+    },
+    {
+      "basename": "Ankórra",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
     },
     {
       "basename": "Fera",
@@ -55,10 +63,6 @@
     {
       "basename": "Acols",
       "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
-    },
-    {
-      "basename": "Magia Mortal",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
     },
     {
       "basename": "Sereia",
@@ -195,10 +199,6 @@
     {
       "basename": "Entidades Oníricas",
       "path": "06 - Personagens/Entidades Oníricas/Entidades Oníricas.md"
-    },
-    {
-      "basename": "Amnésia",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md"
     }
   ],
   "omittedPaths": [],
