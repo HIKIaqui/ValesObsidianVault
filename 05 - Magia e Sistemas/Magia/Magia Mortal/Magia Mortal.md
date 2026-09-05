@@ -1,0 +1,1 @@
+A Magia Mortal se baseia em manipular a energia da alma no mundo, mana, e como ela se comporta.
