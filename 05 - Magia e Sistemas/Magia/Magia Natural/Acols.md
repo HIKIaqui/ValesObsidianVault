@@ -59,13 +59,13 @@ A diferença entre o resultado do alvo e o resultado da matéria determina o gra
 
 ### Referências de dureza
 
-| Nível | Referência | Constituição | Resistência |
-| --- | --- | --- | --- |
-| 1 | Algo frágil, como vidro ou uma camada fina de carne. | 0 | −5 |
-| 2 | Resistência comum; carne humana tem essa resistência em média. | 1 | 0 |
-| 3 | Madeira maciça. | 2 | +5 |
-| 4 | Pedra maciça. | 3 | +10 |
-| 5 | Algo extraordinariamente resistente, como metal maciço. | 3 | +20 |
+| Nível | Referência                                                     | Constituição | Resistência |
+| ----- | -------------------------------------------------------------- | ------------ | ----------- |
+| 1     | Algo frágil, como vidro ou uma camada fina de carne.           | 0            | −5          |
+| 2     | Resistência comum; carne humana tem essa resistência em média. | 1            | 0           |
+| 3     | Madeira maciça.                                                | 2            | +5          |
+| 4     | Pedra maciça.                                                  | 3            | +10         |
+| 5     | Algo extraordinariamente resistente, como metal maciço.        | 3            | +20         |
 
 Esses perfis são referências para o mestre. Seres vivos com atributos definidos utilizam seus próprios valores. Objetos podem utilizar o perfil de dureza correspondente, inclusive quando forem o alvo de Acols.
 
