@@ -8,7 +8,7 @@ Tudo aquilo que é material é formado por Energia Elemental. Pedra, metal, águ
 
 Matéria não é algo separado que armazena Energia Elemental. A própria matéria é Energia Elemental assumindo uma forma física estável.
 
-O [[Véu Comum]] é composto principalmente por essa força e, por isso, constitui o plano físico dos Vales.
+O [[Véu Comum]] é o plano original dessa força, e por ser composto principalmente por ela, constitui o plano físico dos Vales.
 
 A Energia Elemental manifesta-se através dos seguintes elementos:
 

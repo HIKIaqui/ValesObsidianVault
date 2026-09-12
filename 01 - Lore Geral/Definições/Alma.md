@@ -1,0 +1,1 @@
+[[Mana]] compõe cada alma. Toda alma é formada por Mana Organizada que habita um corpo físico, dependente da matéria que é a energia [[Elemental]].

@@ -26,7 +26,7 @@ Nenhum preço permite que uma entidade adquira capacidades que não possui. Uma 
 
 Um pacto geralmente passa pelas seguintes etapas:
 
-1. Contato: um desejo alcança o Onírico ou uma entidade específica é chamada.
+1. Contato: um desejo alcança o [[Onírico]] ou uma entidade específica é chamada.
 2. Resposta: uma entidade interessada estabelece comunicação.
 3. Negociação: as partes apresentam, questionam ou alteram as condições.
 4. Aceitação: ambas concordam com os termos.
@@ -53,7 +53,7 @@ Essa escolha não é feita com base no que seria melhor para o contratante. Uma 
 ● pela maneira como conseguiria produzi-lo;
 ● pelo preço que poderia exigir;
 ● pelo sofrimento que o cumprimento causaria;
-● pela oportunidade de obter acesso ao Véu Comum.
+● pela oportunidade de obter acesso ao [[Véu Comum]].
 
 O pacto aberto ainda permite negociação. Seu maior perigo está em não saber previamente qual entidade responderá, quais são suas capacidades ou o que despertou seu interesse.
 

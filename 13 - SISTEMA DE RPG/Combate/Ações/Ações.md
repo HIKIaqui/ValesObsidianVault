@@ -5,6 +5,9 @@ aliases:
   - Ações
   - Ação de Movimento
   - Ação Livre
+  - Ações de Movimento
+  - Ações Livres
+  - Reações
 ---
 
 O que um personagem faz e pode fazer em combate durante o seu turno.

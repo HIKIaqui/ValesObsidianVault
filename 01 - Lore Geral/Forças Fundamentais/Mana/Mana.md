@@ -9,6 +9,8 @@ Todo ser vivo tem mana, mesmo que condensada ou presente de outra forma incomum 
 
 A mana é para os seres vivos o que alguns chamariam de “Alma”. É na mana de um indivíduo onde existe sua emoção, consciência e memórias, sendo a base fundamental da vida de cada ser vivo.
 
+O plano da existência original dessa [[Forças Fundamentais|força]] é o [[Reflexo]].
+
 ---
 ## Forma Física
 

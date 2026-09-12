@@ -14,7 +14,7 @@ Abreviada como UDF, essa é a medida usada pra definir a concentração de energ
 | Maldição  |     | Média |       |     |      |      |      |
 | Sagrado   |     | Média |       |     |      |      |      |
 
-
+Alguns tipos de energias fundamentais podem causar efeitos específicos caso absorvidas em mínima ou extrema quantidade.
 
 ---
 

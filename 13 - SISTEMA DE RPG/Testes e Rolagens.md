@@ -1,3 +1,18 @@
+---
+aliases:
+  - Testes de Acerto
+  - Teste de Acerto
+  - Testes
+  - Teste
+  - Falha Crítica
+  - Sucesso Crítico
+  - Sucesso
+  - Falha
+  - Sucesso Parcial
+  - Dificuldade de Teste
+  - Dif.
+---
+
 Testes são realizados quando o resultado de uma ação é incerto e suas consequências são relevantes.
 
 Um teste utiliza um dos [[Atributos e Perícias|Atributos]] do personagem e, quando aplicável, uma [[Atributos e Perícias|Perícia]] relacionada à ação realizada.
@@ -49,6 +64,11 @@ Cada Dificuldade possui um Valor Alvo que deve ser alcançado pelo resultado fin
 O Mestre determina a Dificuldade considerando a ação tentada e as circunstâncias em que ela acontece.
 
 Uma ação normalmente simples pode receber uma Dificuldade maior quando realizada sob pressão, sem ferramentas adequadas ou em condições desfavoráveis.
+
+> [!info] **Obs** 
+> Em fichas de equipamento, [[Ações]], [[Condições]] e bestiário, Dificuldade de testes tende a ser resumida por "Dif." seguido do valor da Dificuldade. Ex: Resistência Dif. 15.
+> Especificamente para a aplicação de Condições, quando uma [[Atributos e Perícias|Perícia]] relevante não é mencionada, é presumido que [[Constituição|Resistência]] seja a perícia utilizada.
+
 
 ---
 ## Resultado do Teste
@@ -133,3 +153,8 @@ $$
 $$
 
 A diferença é +5, portanto o teste resulta em um Sucesso Absoluto.
+
+---
+## Teste de Acerto
+
+Ao realizar uma [[Ações|Ação]] de Ataque contra um alvo, o realizador faz um Teste da Perícia de Combate relevante, com o objetivo de superar o valor da [[Esquiva]] do alvo.

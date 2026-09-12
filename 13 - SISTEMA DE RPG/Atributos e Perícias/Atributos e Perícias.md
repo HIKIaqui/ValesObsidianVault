@@ -51,3 +51,8 @@ A Perícia usada em um teste depende principalmente de como o personagem tenta r
 Uma porta pode ser aberta com [[Constituição|Força]], arrombada cuidadosamente com [[Agilidade|Técnica]] ou ter seu mecanismo analisado com [[Mente|Tecnologia]]. O objetivo pode ser o mesmo, mas o método utilizado muda o teste e suas possíveis consequências.
 
 Quando nenhuma Perícia representar adequadamente uma ação, o Mestre pode solicitar um teste direto do Atributo mais apropriado.
+
+---
+# Perícias de Combate
+
+As Perícias de Combate são as Péricias usadas geralmente por armas durante Testes de Acerto

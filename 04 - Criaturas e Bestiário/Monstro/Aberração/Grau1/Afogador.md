@@ -41,26 +41,27 @@ São criaturas naturais relativamente comuns nos Vales. Muitos de seus ataques a
 
 # Perícias
 
-- Porrada +5
-- Técnica +5
-- Furtividade +5
+- Técnica +3
+- Porrada +2
+- Furtividade +2
 - Resistência +2
 
 ---
 # HABILIDADES
 
-**Foco Monocular (Passiva):** No início de seu turno, a onçaclope pode focar em um alvo, aplicando **[[Sob Foco]]** a um alvo que consiga enxergar.
-Cada onçaclope pode manter apenas uma criatura [[Sob Foco]] por vez. Escolher outra remove o efeito anterior aplicado por ela.
+**Garras Fixadoras (Passiva):** Recebe +5 Resistência para resistir a [[Movimento Forçado]].
 
-**Olhar Absoluto (Passiva):** A onçaclope recebe **+1 Dado de Precisão** e não sofre **Ataques de Oportunidade** contra a criatura que ela própria mantém [[Sob Foco]].
+**Camuflagem Natural (Passiva):** Recebe +5 Furtividade enquanto não notado pelo alvo e fora de combate.
 
-**Garras Arbóreas (Passiva):** Pode escalar troncos e se mover por galhos sem penalidade ou gasto adicional de movimento. Saltos entre apoios alcançáveis só exigem testes quando alguma condição externa os torna perigosos. Enquanto nesse tipo de terreno, não provoca ataques de oportunidade e tem **+5 Esquiva**.
+**Arranhar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 20
 
-**Rasgar:** Técnica | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 17)
+**Envolver com Tentáculos:** Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | 
 
-**Bote Calculado:** 1 PE | Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | Corre, escala ou salta até o alvo e o ataca sem precisar usar sua ação de movimento. Depois do ataque, termina na mesma casa que o alvo.
+**Afogar:** Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | 
 
 ---
 ### FRAQUEZAS
 
-**Ponto Cego (Passiva):** Ataques contra a parte inferior de sua carapaça **Ignoram Armadura**.
+**Desnorteado (Passiva):** Ao ser afetado por [[Movimento Forçado]], sofre [[Atordoado]].
+
+**Ventre Protegido (Passiva):** Ataques Baixos contra o Afogador **Ignoram Armadura**, porém sofrem **-1 Precisão**. Caso o Afogador esteja [[Atordoado]], a penalidade de Precisão não se aplica.

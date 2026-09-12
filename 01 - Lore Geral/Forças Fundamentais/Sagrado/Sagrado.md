@@ -3,3 +3,4 @@ aliases:
   - Sagrado
 ---
 A forma de [[Forças Fundamentais|poder fundamental]] exercida pelos deuses é chamada de “Sagrado”, e é a força que rege a ordem de como as outras forças interagem entre si, evitando o caos.
+Seu plano da existência original é [[Ordem]].

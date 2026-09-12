@@ -4,11 +4,11 @@ Dríades são a evolução de uma [[Fada]], que ao reunir suficiente energia [[E
 
 São quase indistinguíveis de humanos, já que seus corpos são constituídos de forma muito similar e por matéria similar devido às memórias absorvidas da [[Mana]] que as formou.
 
-Também são quase indistinguíveis de humanos em sua inteligência. Tem capacidades cognitivas iguais às de humanos e agem como humanos. Elas são pessoas que não foram criadas como pessoas comuns.
+Também são quase indistinguíveis de humanos em sua inteligência. Tem capacidades cognitivas iguais às de humanos. Elas são tecnicamente pessoas que não foram criadas como pessoas comuns.
 
-Por conta das memórias positivas na [[Mana]] serem parte fundamental da sua formação, Dríades tendem a ser otimistas, positivas e/ou bondosas naturalmente, muitas vezes podendo até ser um pouco Ingênuas por isso.
+Por conta das memórias positivas na [[Mana]] serem parte fundamental da sua formação, Dríades tendem a ser otimistas, positivas e/ou bondosas naturalmente, muitas vezes podendo até ser um pouco ingênuas por isso.
 
-Tem uma capacidade extraordinária de interpretar emoções reconhecidas em outras pessoas.
+Tem uma capacidade extraordinária de interpretar emoções reconhecidas em outras pessoas por conta de sua forte empatia.
 
 Dríades não apresentam impulso reprodutivo ou atração sexual natural, embora possam desenvolver vínculos românticos. Seus corpos são capazes de experimentar contato e prazer, permitindo que algumas participem de relações sexuais por intimidade, curiosidade, afeição ou preferência pessoal. Essa prática, entretanto, não constitui uma necessidade biológica da espécie ou tem qualquer capacidade reprodutiva.
 
