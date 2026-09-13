@@ -521,19 +521,19 @@ Evite fazer 17 varreduras corporais, uma busca de inventário recursiva e uma co
 
 Famílias especialmente úteis para traits:
 
-| Família | Ações relevantes |
-|---|---|
-| Comer/beber/remédios | `ISEatFoodAction`, `ISDrinkFluidAction`, `ISDrinkFromBottle`, `ISTakeWaterAction`, `ISTakePillAction` |
-| Medicina | `ISApplyBandage`, `ISDisinfect`, `ISStitch`, `ISRemoveBullet`, `ISRemoveGlass`, `ISCleanBurn`, `ISSplint`, cataplasmas |
-| Exercício/repouso | `ISFitnessAction`, `ISRestAction`, `ISSitOnGround`, cama/sono |
-| Leitura/pesquisa/escrita | `ISReadABook`, `ISResearchRecipe`, `ISWriteSomething` |
-| Inventário/equipamento | `ISTransferAction`, `ISEquipWeaponAction`, `ISUnequipAction`, `ISWearClothing`, hotbar |
-| Armas | recarga, inserir/ejetar carregador, rack, carregar/descarregar munição, upgrade |
-| Construção/destruição | barricada, desbarricada, craft, desmontar, reparar, cortar árvore, destruir objetos |
-| Fogo/energia | gerador, churrasqueira, fogão, combustível, bateria, apagar fogo |
-| Limpeza e higiene | lavar personagem/roupa, secar, torcer, limpar sangue, curativo e grafite |
-| Veículos | entrar/sair, mecânica, combustível e peças |
-| Animais | alimentar, dar água, acariciar, ordenhar, tosquiar, abater, carnear, coletar ovos |
+| Família                  | Ações relevantes                                                                                                       |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Comer/beber/remédios     | `ISEatFoodAction`, `ISDrinkFluidAction`, `ISDrinkFromBottle`, `ISTakeWaterAction`, `ISTakePillAction`                  |
+| Medicina                 | `ISApplyBandage`, `ISDisinfect`, `ISStitch`, `ISRemoveBullet`, `ISRemoveGlass`, `ISCleanBurn`, `ISSplint`, cataplasmas |
+| Exercício/repouso        | `ISFitnessAction`, `ISRestAction`, `ISSitOnGround`, cama/sono                                                          |
+| Leitura/pesquisa/escrita | `ISReadABook`, `ISResearchRecipe`, `ISWriteSomething`                                                                  |
+| Inventário/equipamento   | `ISTransferAction`, `ISEquipWeaponAction`, `ISUnequipAction`, `ISWearClothing`, hotbar                                 |
+| Armas                    | recarga, inserir/ejetar carregador, rack, carregar/descarregar munição, upgrade                                        |
+| Construção/destruição    | barricada, desbarricada, craft, desmontar, reparar, cortar árvore, destruir objetos                                    |
+| Fogo/energia             | gerador, churrasqueira, fogão, combustível, bateria, apagar fogo                                                       |
+| Limpeza e higiene        | lavar personagem/roupa, secar, torcer, limpar sangue, curativo e grafite                                               |
+| Veículos                 | entrar/sair, mecânica, combustível e peças                                                                             |
+| Animais                  | alimentar, dar água, acariciar, ordenhar, tosquiar, abater, carnear, coletar ovos                                      |
 
 ### Wrapper compatível
 
