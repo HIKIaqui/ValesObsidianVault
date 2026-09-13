@@ -921,20 +921,20 @@ A B42 usa registries e `ResourceLocation` com mais intensidade. Traits, moodles,
 
 Esta tabela é um mapa de entrada, não uma promessa de assinatura universal. Eventos do motor nem sempre documentam parâmetros na Javadoc; confira uma chamada vanilla da mesma build ou registre argumentos em debug.
 
-| Grupo | Eventos |
-|---|---|
-| Ciclo de vida | `OnGameBoot`, `OnGameStart`, `OnNewGame`, `OnCreatePlayer`, `OnPlayerDeath`, `OnResetLua` |
-| Tempo | `OnTick`, `EveryOneMinute`, `EveryTenMinutes`, `EveryHours`, `EveryDays`, `OnGameTimeLoaded` |
-| Jogador | `OnPlayerUpdate`, `OnPlayerMove`, `OnPlayerGetDamage`, `OnPlayerAttackFinished` |
-| Combate | `OnWeaponSwingHitPoint`, `OnWeaponHitXp`, `OnWeaponHitTree`, `OnHitZombie`, `OnZombieDead` |
-| Itens | `OnEquipPrimary`, `OnEquipSecondary`, `OnClothingUpdated`, `OnContainerUpdate`, `OnMakeItem`; comida exige `ISEatFoodAction` |
-| Mundo | `LoadGridsquare`, `OnObjectAdded`, `OnObjectAboutToBeRemoved`, `OnDestroyIsoThumpable`, `OnWaterAmountChange` |
-| Veículos | `OnEnterVehicle`, `OnExitVehicle`, `OnSwitchVehicleSeat`, `OnVehicleHorn`, `OnMechanicActionDone` |
-| Clima | `OnClimateManagerInit`, `OnThunderEvent`, `OnWeatherPeriodStart/Stage/Complete` |
-| XP | `AddXP`, `LevelPerk` |
-| UI/input | `OnKeyPressed`, `OnKeyStartPressed`, `OnKeyKeepPressed`, context menus e mouse |
-| Rede | `OnClientCommand`, `OnServerCommand`, `OnConnected`, `OnDisconnect` |
-| Persistência | `OnInitGlobalModData`, `OnLoad`, `OnPostSave`, `OnServerStartSaving`, `OnServerFinishSaving` |
+| Grupo         | Eventos                                                                                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Ciclo de vida | `OnGameBoot`, `OnGameStart`, `OnNewGame`, `OnCreatePlayer`, `OnPlayerDeath`, `OnResetLua`                                    |
+| Tempo         | `OnTick`, `EveryOneMinute`, `EveryTenMinutes`, `EveryHours`, `EveryDays`, `OnGameTimeLoaded`                                 |
+| Jogador       | `OnPlayerUpdate`, `OnPlayerMove`, `OnPlayerGetDamage`, `OnPlayerAttackFinished`                                              |
+| Combate       | `OnWeaponSwingHitPoint`, `OnWeaponHitXp`, `OnWeaponHitTree`, `OnHitZombie`, `OnZombieDead`                                   |
+| Itens         | `OnEquipPrimary`, `OnEquipSecondary`, `OnClothingUpdated`, `OnContainerUpdate`, `OnMakeItem`; comida exige `ISEatFoodAction` |
+| Mundo         | `LoadGridsquare`, `OnObjectAdded`, `OnObjectAboutToBeRemoved`, `OnDestroyIsoThumpable`, `OnWaterAmountChange`                |
+| Veículos      | `OnEnterVehicle`, `OnExitVehicle`, `OnSwitchVehicleSeat`, `OnVehicleHorn`, `OnMechanicActionDone`                            |
+| Clima         | `OnClimateManagerInit`, `OnThunderEvent`, `OnWeatherPeriodStart/Stage/Complete`                                              |
+| XP            | `AddXP`, `LevelPerk`                                                                                                         |
+| UI/input      | `OnKeyPressed`, `OnKeyStartPressed`, `OnKeyKeepPressed`, context menus e mouse                                               |
+| Rede          | `OnClientCommand`, `OnServerCommand`, `OnConnected`, `OnDisconnect`                                                          |
+| Persistência  | `OnInitGlobalModData`, `OnLoad`, `OnPostSave`, `OnServerStartSaving`, `OnServerFinishSaving`                                 |
 
 ### Escolha de frequência
 
