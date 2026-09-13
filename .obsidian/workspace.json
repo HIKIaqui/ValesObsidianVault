@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -270,
-                  "zoom": -1.070978904949415
+                "file": "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "ProjectZomboid_B42_Trait_API_Guide"
             }
           }
         ]
@@ -324,8 +331,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md",
     "07 - Contratos/07 - Contratos.md",
     "04 - Criaturas e Bestiário/Espírito/Fada.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Propriedades de Ações.md",
@@ -335,7 +344,6 @@
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Derrubar.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Agarrar.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Preparar.md",
-    "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Tratamento/Tratamento Prolongado.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Empurrão.md",
@@ -355,8 +363,6 @@
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Avistador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amálgama.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Esquecido.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Torturado.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau5",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau4",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau3",
