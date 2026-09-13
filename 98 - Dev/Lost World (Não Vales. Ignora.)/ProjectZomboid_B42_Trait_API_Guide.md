@@ -981,28 +981,28 @@ Esta tabela é um mapa de entrada, não uma promessa de assinatura universal. Ev
 
 ## 27. Ideias de traits sugeridas diretamente pela API
 
-| Sistema | Ideia | Implementação provável |
-|---|---|---|
-| Zumbis visíveis | **Crowd Control**: recupera pânico quando nenhum zumbi o persegue | `Stats:getNumChasingZombies()` por minuto |
-| Temperatura | **Cold Focus**: frio moderado reduz tédio, frio severo aumenta estresse | Moodle + `CharacterStat.TEMPERATURE` |
-| Chuva | **Pluviophile**: chuva externa reduz tristeza | ClimateManager + `isOutside()` |
-| Noite | **Night Person**: bônus de Endurance à noite, penalidade de manhã | GameTime + luz noturna |
-| Equipamento | **Barefoot Habit**: calma descalço, desconforto com sapatos | WornItems/BodyLocation |
-| Inventário | **Prepared**: estresse cai se carregar água, comida e arma | container + tags/fluidos |
-| Armas | **Recoil Junkie**: tiro reduz tristeza, mas aumenta pânico | `OnWeaponSwingHitPoint` |
-| Combate | **Clean Kill**: recompensa por matar com uma categoria de arma | `OnZombieDead` + last hit |
-| Medicina | **Self-Sufficient**: tratar a própria ferida reduz estresse | medical Timed Actions |
-| Leitura | **Bookworm**: concluir livro reduz tristeza; interromper aumenta tédio | `ISReadABook` |
-| Craft | **Maker's High**: completar receita difícil reduz estresse | craft action / `OnMakeItem` |
-| Veículo | **Engine Whisperer**: calma ao dirigir motor em boa condição | vehicle condition + speed |
-| Lugar | **Homebody**: recupera stats dentro da construção marcada | square/building + ModData |
-| Corpos | **Mortician**: menos doença/estresse perto de corpos | square/corpse scan limitado |
-| Animais | **Shepherd**: humor melhora ao cuidar de animais estressados | animal Timed Actions |
-| Nutrição | **Protein Driven**: benefício com proteína alta | Nutrition + world hours |
-| Fluidos | **Tea Ritual**: bebida pura específica alivia pânico | FluidType/ratio + drink hooks |
-| Sono | **Power Napper**: primeira soneca curta do dia recupera Endurance | sono + world age + ModData |
-| Ferimentos | **Battle Scarred**: cada parte já curada concede tolerância temporária | snapshot de timers + ModData |
-| Som | **Startle Response**: buzina/trovão causa pânico local | vehicle/weather events |
+| Sistema         | Ideia                                                                   | Implementação provável                    |
+| --------------- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| Zumbis visíveis | **Crowd Control**: recupera pânico quando nenhum zumbi o persegue       | `Stats:getNumChasingZombies()` por minuto |
+| Temperatura     | **Cold Focus**: frio moderado reduz tédio, frio severo aumenta estresse | Moodle + `CharacterStat.TEMPERATURE`      |
+| Chuva           | **Pluviophile**: chuva externa reduz tristeza                           | ClimateManager + `isOutside()`            |
+| Noite           | **Night Person**: bônus de Endurance à noite, penalidade de manhã       | GameTime + luz noturna                    |
+| Equipamento     | **Barefoot Habit**: calma descalço, desconforto com sapatos             | WornItems/BodyLocation                    |
+| Inventário      | **Prepared**: estresse cai se carregar água, comida e arma              | container + tags/fluidos                  |
+| Armas           | **Recoil Junkie**: tiro reduz tristeza, mas aumenta pânico              | `OnWeaponSwingHitPoint`                   |
+| Combate         | **Clean Kill**: recompensa por matar com uma categoria de arma          | `OnZombieDead` + last hit                 |
+| Medicina        | **Self-Sufficient**: tratar a própria ferida reduz estresse             | medical Timed Actions                     |
+| Leitura         | **Bookworm**: concluir livro reduz tristeza; interromper aumenta tédio  | `ISReadABook`                             |
+| Craft           | **Maker's High**: completar receita difícil reduz estresse              | craft action / `OnMakeItem`               |
+| Veículo         | **Engine Whisperer**: calma ao dirigir motor em boa condição            | vehicle condition + speed                 |
+| Lugar           | **Homebody**: recupera stats dentro da construção marcada               | square/building + ModData                 |
+| Corpos          | **Mortician**: menos doença/estresse perto de corpos                    | square/corpse scan limitado               |
+| Animais         | **Shepherd**: humor melhora ao cuidar de animais estressados            | animal Timed Actions                      |
+| Nutrição        | **Protein Driven**: benefício com proteína alta                         | Nutrition + world hours                   |
+| Fluidos         | **Tea Ritual**: bebida pura específica alivia pânico                    | FluidType/ratio + drink hooks             |
+| Sono            | **Power Napper**: primeira soneca curta do dia recupera Endurance       | sono + world age + ModData                |
+| Ferimentos      | **Battle Scarred**: cada parte já curada concede tolerância temporária  | snapshot de timers + ModData              |
+| Som             | **Startle Response**: buzina/trovão causa pânico local                  | vehicle/weather events                    |
 
 ## 28. Checklist para implementar cada trait
 
