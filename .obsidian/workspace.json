@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -270,
+                  "zoom": -1.070978904949415
                 }
               },
-              "icon": "lucide-file",
-              "title": "ProjectZomboid_B42_Trait_API_Guide"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -331,10 +324,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebd891c6986a5655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "98 - Dev/Homepage.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md",
+    "98 - Dev/Homepage.canvas",
     "07 - Contratos/07 - Contratos.md",
     "04 - Criaturas e Bestiário/Espírito/Fada.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Propriedades de Ações.md",
