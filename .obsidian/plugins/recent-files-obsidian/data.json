@@ -5,6 +5,34 @@
       "path": "98 - Dev/Homepage.canvas"
     },
     {
+      "basename": "Soqueiras de Aço",
+      "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Soqueiras de Aço.md"
+    },
+    {
+      "basename": "Faca Simples",
+      "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Faca Simples.md"
+    },
+    {
+      "basename": "Machado Simples",
+      "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Machado Simples.md"
+    },
+    {
+      "basename": "Espada Curta",
+      "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Espada Curta.md"
+    },
+    {
+      "basename": "Sacar Arma",
+      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Sacar l Guardar/Sacar Arma.md"
+    },
+    {
+      "basename": "Melee",
+      "path": "98 - Dev/Lost World (Não Vales. Ignora.)/Classes/Melee.md"
+    },
+    {
+      "basename": "13 - SISTEMA DE RPG",
+      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
+    },
+    {
       "basename": "ProjectZomboid_B42_Trait_API_Guide",
       "path": "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Calendário",
       "path": "01 - Lore Geral/Base Política e Econômica/Calendário.md"
-    },
-    {
-      "basename": "Matéria Física",
-      "path": "01 - Lore Geral/Definições/Matéria Física.md"
-    },
-    {
-      "basename": "Alma",
-      "path": "01 - Lore Geral/Definições/Alma.md"
-    },
-    {
-      "basename": "Pactos",
-      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Pactos.md"
-    },
-    {
-      "basename": "Despertar Elemental",
-      "path": "01 - Lore Geral/Forças Fundamentais/Elemental/Despertar Elemental.md"
-    },
-    {
-      "basename": "Miksí",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md"
-    },
-    {
-      "basename": "Magia Mortal",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
-    },
-    {
-      "basename": "Ankórra",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
     }
   ],
   "omittedPaths": [],
