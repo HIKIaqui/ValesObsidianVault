@@ -1,12 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "Filhos da Carne",
+      "path": "03 - Facções e Grupos/Cidade Secreta/Filhos da Carne.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
     },
     {
-      "basename": "Soqueiras de Aço",
-      "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Soqueiras de Aço.md"
+      "basename": "Contrato Aberto",
+      "path": "01 - Lore Geral/Termos/Contrato Aberto.md"
+    },
+    {
+      "basename": "Âncora Onírica",
+      "path": "01 - Lore Geral/Termos/Âncora Onírica.md"
+    },
+    {
+      "basename": "Pele Ágata",
+      "path": "01 - Lore Geral/Termos/Popular/Pele Ágata.md"
+    },
+    {
+      "basename": "Meu Destino",
+      "path": "01 - Lore Geral/Termos/Popular/Meu Destino.md"
+    },
+    {
+      "basename": "Medidas",
+      "path": "01 - Lore Geral/Termos/Medidas/Medidas.md"
+    },
+    {
+      "basename": "Vermes da Insanidade e Alvos",
+      "path": "01 - Lore Geral/Vermes da Insanidade e Alvos.md"
+    },
+    {
+      "basename": "Cosmologia",
+      "path": "01 - Lore Geral/Cosmologia/Cosmologia.md"
+    },
+    {
+      "basename": "Maldição",
+      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md"
+    },
+    {
+      "basename": "04 - Criaturas e Bestiário",
+      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
+    },
+    {
+      "basename": "Fera",
+      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
+    },
+    {
+      "basename": "A Peste",
+      "path": "06 - Personagens/Entidades Oníricas/A Peste.md"
+    },
+    {
+      "basename": "O Curioso",
+      "path": "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md"
+    },
+    {
+      "basename": "Template de Documento Contrato",
+      "path": "07 - Contratos/Template de Documento Contrato.md"
+    },
+    {
+      "basename": "07 - Contratos",
+      "path": "07 - Contratos/07 - Contratos.md"
+    },
+    {
+      "basename": "Template de Contrato",
+      "path": "07 - Contratos/Template de Contrato.md"
+    },
+    {
+      "basename": "Caçadores",
+      "path": "03 - Facções e Grupos/Caçadores de Monstros/Caçadores/Caçadores.md"
+    },
+    {
+      "basename": "Guilda de Caçadores",
+      "path": "03 - Facções e Grupos/Caçadores de Monstros/Guilda de Caçadores.md"
+    },
+    {
+      "basename": "Linha do Tempo",
+      "path": "09 - Cronologia e História/Linha do Tempo.canvas"
+    },
+    {
+      "basename": "Apego",
+      "path": "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md"
+    },
+    {
+      "basename": "Amálgama",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amálgama.md"
+    },
+    {
+      "basename": "Escarniçador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md"
+    },
+    {
+      "basename": "Constructo",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
+    },
+    {
+      "basename": "Amaldiçoado",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
+    },
+    {
+      "basename": "Espírito",
+      "path": "04 - Criaturas e Bestiário/Espírito/Espírito.md"
+    },
+    {
+      "basename": "Acols",
+      "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
+    },
+    {
+      "basename": "Miksí",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md"
+    },
+    {
+      "basename": "Ankórra",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
+    },
+    {
+      "basename": "Constructo Magnético",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo Magnético.md"
+    },
+    {
+      "basename": "Sereia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
+    },
+    {
+      "basename": "Troll",
+      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Troll.md"
+    },
+    {
+      "basename": "Pseudo-Unicórnio",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Pseudo-Unicórnio.md"
+    },
+    {
+      "basename": "Aranha Arco-Íris",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md"
+    },
+    {
+      "basename": "Atritor Sentinela",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Sentinela.md"
+    },
+    {
+      "basename": "Atritor",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md"
+    },
+    {
+      "basename": "Afogador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md"
+    },
+    {
+      "basename": "Avistador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Avistador.md"
+    },
+    {
+      "basename": "Amnésia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md"
+    },
+    {
+      "basename": "Carnicida",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md"
+    },
+    {
+      "basename": "Bandagem",
+      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Bandagem.md"
     },
     {
       "basename": "Faca Simples",
@@ -19,6 +175,10 @@
     {
       "basename": "Espada Curta",
       "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Espada Curta.md"
+    },
+    {
+      "basename": "Soqueiras de Aço",
+      "path": "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Soqueiras de Aço.md"
     },
     {
       "basename": "Sacar Arma",
@@ -37,168 +197,8 @@
       "path": "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md"
     },
     {
-      "basename": "07 - Contratos",
-      "path": "07 - Contratos/07 - Contratos.md"
-    },
-    {
       "basename": "Propriedades de Ações",
       "path": "13 - SISTEMA DE RPG/Combate/Ações/Propriedades de Ações.md"
-    },
-    {
-      "basename": "Início do Combate",
-      "path": "13 - SISTEMA DE RPG/Combate/Início do Combate.md"
-    },
-    {
-      "basename": "Ações",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md"
-    },
-    {
-      "basename": "Ataque Corpo a Corpo Básico",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque Corpo a Corpo Básico.md"
-    },
-    {
-      "basename": "Ruptura Cognitiva",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Ruptura Cognitiva.md"
-    },
-    {
-      "basename": "Caído",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Caído.md"
-    },
-    {
-      "basename": "Testes e Rolagens",
-      "path": "13 - SISTEMA DE RPG/Testes e Rolagens.md"
-    },
-    {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
-    },
-    {
-      "basename": "Ajudar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ajudar.md"
-    },
-    {
-      "basename": "Derrubar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Derrubar.md"
-    },
-    {
-      "basename": "Afogador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md"
-    },
-    {
-      "basename": "Torturado",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Torturado.md"
-    },
-    {
-      "basename": "Esquecido",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Esquecido.md"
-    },
-    {
-      "basename": "Escarniçador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md"
-    },
-    {
-      "basename": "Carnicida",
-      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md"
-    },
-    {
-      "basename": "Amálgama",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amálgama.md"
-    },
-    {
-      "basename": "04 - Criaturas e Bestiário",
-      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
-    },
-    {
-      "basename": "Agarrar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Agarrar.md"
-    },
-    {
-      "basename": "Preparar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Preparar.md"
-    },
-    {
-      "basename": "Ataque de Oportunidade",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md"
-    },
-    {
-      "basename": "Desengajar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Desengajar.md"
-    },
-    {
-      "basename": "Empurrão",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Empurrão.md"
-    },
-    {
-      "basename": "Escapar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Escapar.md"
-    },
-    {
-      "basename": "Mirar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md"
-    },
-    {
-      "basename": "Unidade de Densidade Fundamental",
-      "path": "01 - Lore Geral/Termos/Medidas/Unidades/Unidade de Densidade Fundamental.md"
-    },
-    {
-      "basename": "Elemental",
-      "path": "01 - Lore Geral/Forças Fundamentais/Elemental/Elemental.md"
-    },
-    {
-      "basename": "Maldição",
-      "path": "01 - Lore Geral/Forças Fundamentais/Maldição/Maldição.md"
-    },
-    {
-      "basename": "Mana",
-      "path": "01 - Lore Geral/Forças Fundamentais/Mana/Mana.md"
-    },
-    {
-      "basename": "Sagrado",
-      "path": "01 - Lore Geral/Forças Fundamentais/Sagrado/Sagrado.md"
-    },
-    {
-      "basename": "Cosmologia",
-      "path": "01 - Lore Geral/Cosmologia/Cosmologia.md"
-    },
-    {
-      "basename": "Brutalidade",
-      "path": "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Sangrento/Brutalidade.md"
-    },
-    {
-      "basename": "Sangrento",
-      "path": "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Comuns/Sangrento/Sangrento.md"
-    },
-    {
-      "basename": "Traços",
-      "path": "13 - SISTEMA DE RPG/Traços e Traumas/Traços/Traços.md"
-    },
-    {
-      "basename": "Traje Hidráulico",
-      "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Ferramentas e Armas/Traje Hidráulico.md"
-    },
-    {
-      "basename": "Dríade",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Dríade.md"
-    },
-    {
-      "basename": "Constructo",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
-    },
-    {
-      "basename": "Forças Fundamentais",
-      "path": "01 - Lore Geral/Forças Fundamentais/Forças Fundamentais.md"
-    },
-    {
-      "basename": "Fada",
-      "path": "04 - Criaturas e Bestiário/Espírito/Fada.md"
-    },
-    {
-      "basename": "Bençãos",
-      "path": "01 - Lore Geral/Forças Fundamentais/Sagrado/Bençãos/Bençãos.md"
-    },
-    {
-      "basename": "Calendário",
-      "path": "01 - Lore Geral/Base Política e Econômica/Calendário.md"
     }
   ],
   "omittedPaths": [],

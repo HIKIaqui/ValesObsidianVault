@@ -49,7 +49,7 @@ O que se sabe é apenas que, até hoje, todos os “unicórnios” examinados de
 
 # Atributos
 
-**Constituição:** 1  
+**Constituição:** 2
 **Agilidade:** 2  
 **Mente:** 1  
 **Social:** 1  

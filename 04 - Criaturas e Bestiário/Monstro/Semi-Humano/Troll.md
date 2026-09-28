@@ -1,7 +1,7 @@
 **Nome popular:** Troll  
 **Tipo:** Semi-Humano  
 **Habitat:** Regiões isoladas, ruínas, cavernas, florestas densas e territórios com grande disponibilidade de alimento  
-**Grau de Perigo:** Variável — geralmente de 2 a 5, conforme idade e Maldições acumuladas
+**Grau de Perigo:** Variável - geralmente de 2 a 5, conforme idade e Maldições acumuladas
 
 # Descrição
 
@@ -59,13 +59,13 @@ Por isso, Trolls antigos são conhecidos individualmente. Nessa idade, dizer ape
 
 ### Escala aproximada de perigo
 
-| Estágio | Características gerais | Grau comum |
-|---|---|---:|
-| **Recém-nascido** | Pequeno, vulnerável e ainda incapaz de sustentar grandes regenerações | Não aplicável |
-| **Jovem** | Força elevada, crescimento acelerado e regeneração ainda limitada pelas próprias reservas | 2 |
-| **Adulto** | Corpo enorme, regeneração confiável, experiência de caça e possíveis poderes de Maldição | 3 |
-| **Veterano** | Diversos sacrifícios acumulados, anatomia alterada e capacidades difíceis de prever | 4 |
-| **Antigo** | Corpo profundamente reescrito, grande quantidade de poderes e poucas formas convencionais de contenção | 5 |
+| Estágio           | Características gerais                                                                                 |    Grau comum |
+| ----------------- | ------------------------------------------------------------------------------------------------------ | ------------: |
+| **Recém-nascido** | Pequeno, vulnerável e ainda incapaz de sustentar grandes regenerações                                  | Não aplicável |
+| **Jovem**         | Força elevada, crescimento acelerado e regeneração ainda limitada pelas próprias reservas              |             2 |
+| **Adulto**        | Corpo enorme, regeneração confiável, experiência de caça e possíveis poderes de Maldição               |             3 |
+| **Veterano**      | Diversos sacrifícios acumulados, anatomia alterada e capacidades difíceis de prever                    |             4 |
+| **Antigo**        | Corpo profundamente reescrito, grande quantidade de poderes e poucas formas convencionais de contenção |             5 |
 
 Essa escala representa apenas uma tendência. Um Troll jovem exposto precocemente a Maldições pode superar indivíduos mais velhos, enquanto um Troll que rejeita pactos pode permanecer abaixo do perigo esperado para sua idade.
 
@@ -171,16 +171,16 @@ Fome extrema reduz cautela e torna até indivíduos normalmente pacíficos muito
 > [!note] Ficha variável
 > Trolls não possuem um bloco de Status único. PV, Armadura, Esquiva e PE devem ser definidos conforme idade, tamanho, alimentação, regenerações e Maldições acumuladas pelo indivíduo.
 
-**PV:** A definir conforme idade  
-**Armadura:** A definir conforme alterações corporais  
-**Esquiva:** A definir conforme tamanho e poderes  
+**PV:** A definir conforme idade
+**Armadura:** A definir conforme alterações corporais
+**Esquiva:** A definir conforme tamanho e poderes
 **PE:** A definir conforme idade e Maldições
 
 # Atributos
 
 **Constituição:** A definir — sempre elevada para sua categoria  
-**Agilidade:** A definir  
-**Mente:** A definir individualmente  
+**Agilidade:** A definir
+**Mente:** A definir individualmente
 **Social:** A definir individualmente  
 **Sorte:** A definir individualmente
 

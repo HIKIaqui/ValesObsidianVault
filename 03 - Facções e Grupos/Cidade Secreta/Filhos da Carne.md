@@ -94,6 +94,9 @@ Ele domina porque:
 Ele é o apetite que nunca acaba.
 O desejo que nunca se satisfaz.
 
+O atual Porco é o filho do líder original, o antigo Porco.
+Seu pai perdeu o controle sobre a imagem pública do grupo. Por isso, tomou seu cargo e o matou.
+
 ---
 ### Resolvendo Conflitos
 
