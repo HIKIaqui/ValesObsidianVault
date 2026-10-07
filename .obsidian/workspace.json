@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -290,
-                  "zoom": -1.0381889698317455
+                "file": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Troll.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Troll"
             }
           }
         ]
@@ -326,8 +333,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md",
+    "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amálgama.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Torturado.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Esquecido.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Testemunha da Culpa.md",
     "98 - Dev/Homepage.canvas",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Torniquete.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Analgésicos.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Bandagem.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Trapo.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Pão Duro.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Filete de Carne Seca.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Aguardente.md",
+    "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Pão Mofado.md",
+    "98 - Dev/Lost World (Não Vales. Ignora.)/ProjectZomboid_B42_Trait_API_Guide.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo Magnético.md",
     "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Soqueiras de Aço.md",
     "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum/Espada Curta.md",
@@ -343,20 +365,6 @@
     "04 - Criaturas e Bestiário/Espírito/Fada.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Propriedades de Ações.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque Corpo a Corpo Básico.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Tratamento/Primeiros Socorros.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Tratamento/Realizar Tratamento.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Derrubar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Agarrar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Preparar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Tratamento/Tratamento Prolongado.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Empurrão.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Escapar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ajudar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Desengajar.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Correr.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Sacar l Guardar/Sacar Arma.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Sacar l Guardar",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Tratamento",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns",
