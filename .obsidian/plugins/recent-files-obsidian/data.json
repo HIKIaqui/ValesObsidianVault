@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Atritor",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md"
+    },
+    {
+      "basename": "Atritor Sentinela",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Sentinela.md"
+    },
+    {
       "basename": "Amnésia",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amnésia.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Monstro",
       "path": "04 - Criaturas e Bestiário/Monstro/Monstro.md"
-    },
-    {
-      "basename": "Atritor",
-      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md"
     },
     {
       "basename": "Esquecido",
@@ -195,10 +199,6 @@
     {
       "basename": "Linha do Tempo",
       "path": "09 - Cronologia e História/Linha do Tempo.canvas"
-    },
-    {
-      "basename": "Apego",
-      "path": "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md"
     }
   ],
   "omittedPaths": [],

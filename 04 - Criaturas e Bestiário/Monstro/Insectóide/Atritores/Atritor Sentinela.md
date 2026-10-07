@@ -18,7 +18,7 @@ Embora tenha a carapaça mais frágil, suas garras são maiores e mais perigosas
 # Status
 
 **PV:** 25
-**Armadura:** 3
+**Armadura:** 1
 **Esquiva:** 9
 **PE:** 2
 
@@ -32,7 +32,7 @@ Embora tenha a carapaça mais frágil, suas garras são maiores e mais perigosas
 
 # Perícias
 
-- Percepção +5
+- Percepção +7
 - Reflexos +2
 
 ---
@@ -46,7 +46,7 @@ testes de Furtividade.
 **Cliques de Alerta:** Bate as presas sem parar, avisando Atritores próximos do
 perigo. Rola 1d2. Se resultado for 2, 1 Atritor se junta à luta no final do turno.
 
-**Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 19+ | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
+**Rasgar:** Porrada | Precisão 0 | Dano 2d6 | Crítico 19+ | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
 
 ---
 ### FRAQUEZAS

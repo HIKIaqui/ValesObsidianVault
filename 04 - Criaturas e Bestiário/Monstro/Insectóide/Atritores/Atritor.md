@@ -48,9 +48,11 @@ São a forma mais simples da família dos Atritores.
 
 **Rede de Cliques (Passiva):** Para cada outro Atritor no campo de batalha, recebe +1 Porrada.
 
-**Formação Defensiva:** Se aproxima de um aliado e, juntos se protegem. Metade do dano direcionado a esse aliado é transferido para si, e ambos recebem +2 de Armadura por 1 turno.
+**Formação Defensiva (Passiva):** Quando em combate e na mesma Casa que um aliado, ambos se protegem. O dano recebido por um é v
 
-**Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 19 | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
+**Rasgar:** Porrada | Precisão 0 | Dano 2d4 Cortante | Crítico 19+ | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
+
+**Mordida de Pressão:** 2 PE | Porrada | Precisão 0 | Dano 2d4 Perfurante | Crítico 20 | Recebe +1 Precisão e +1d2 Dano para cada Atritor que atacou o alvo nesse turno.
 
 ---
 ### FRAQUEZAS
