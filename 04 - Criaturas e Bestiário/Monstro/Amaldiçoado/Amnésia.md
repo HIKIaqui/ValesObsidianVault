@@ -1,3 +1,11 @@
+---
+tags:
+  - Amaldiçoado
+  - Grau2
+---
+
+**Tipo:** Amaldiçoado
+**Nível de Perigo:** 2
 
 À primeira vista, uma Amnésia parece apenas um Esquecido magro, sem as garras normalmente encontradas nessas criaturas. Em seu lugar, possui dedos finos e anormalmente longos, alguns alcançando abaixo dos joelhos quando os braços estão abaixados.
 
