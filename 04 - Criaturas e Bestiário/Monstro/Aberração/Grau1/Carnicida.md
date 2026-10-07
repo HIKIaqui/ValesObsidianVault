@@ -22,7 +22,7 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 **PV:** 25
 **Armadura:** 0
-**Esquiva:** 17
+**Esquiva:** 15
 **PE:** 4
 
 # Atributos
@@ -37,6 +37,7 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 - Percepção +10
 - Intimidação +5
+- Arrancada +5
 - Porrada +3
 - Reflexos +2
 
@@ -54,7 +55,7 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 ---
 # Fraqueza
 
-[^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância testam Vontade (Dif. 15) ou recebem +1 Estresse.
+[^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância recebem [[Cheiro Forte]] e testam Vontade (Dif. 15) ou recebem +1 Estresse e 1d4 de Dano Perfurante dos fragmentos de ossos arremessados.
 
 **Audição Sensível:** Sensíveis a sons muito altos. Ações que emitam sons altos causam [[Atordoado]] 1 (Res. 15) no Carnicida.
 

@@ -25,7 +25,7 @@ Ao ser atacado por um grupo de Carnicidas, sempre foque em eliminar o Carniceiro
 
 **PV:** 35
 **Armadura:** 0
-**Esquiva:** 20
+**Esquiva:** 15
 **PE:** 4
 
 # Atributos
@@ -42,6 +42,7 @@ Ao ser atacado por um grupo de Carnicidas, sempre foque em eliminar o Carniceiro
 - Porrada +7
 - Intimidação +5
 - Reflexos +5
+- Arrancada +2
 
 ---
 # Habilidades
@@ -55,7 +56,7 @@ Se houver outro Carniceiro em cena, ambos entram em conflito e são incapazes de
 
 **Rasgar:** Porrada | Precisão 0 | Dano 2d6 | Crítico 20 | Sangramento 2 (Res. 15) | +1 Precisão contra alvos Sangrando.
 
-**Absorção:** Absorve carne de cadáveres e criaturas vivas. Se absorver um [[Carnicida|Carnicidas]] vivo, esse morre em seguida. Ao absorver, recebe +10 de PV máximos e recupera 10 PV. Seus ataques também recebem permanentemente +1d4 de dano.
+**Absorção:** 1 PE Absorve carne de cadáveres e criaturas vivas. Se absorver um [[Carnicida|Carnicidas]] vivo, esse morre em seguida. Ao absorver, recebe +10 de PV máximos e recupera 10 PV. Seus ataques também recebem permanentemente +1d4 de dano.
 
 ---
 # Fraqueza

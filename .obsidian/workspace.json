@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
+                "file": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Esquecido"
+              "title": "Carniceiro"
             }
           }
         ]
@@ -333,8 +333,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Ent.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/O Guarda.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo Magnético.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Broto.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Barreira de Cobre - M2.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Torturado.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Amnésia.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Ressonante.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Espreitador.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Animador.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Amálgama.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Espreitador.md",
@@ -344,23 +356,11 @@
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4/Carrasco.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md",
     "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau5/Warg Superior (Caso K - Katerine).md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau4/Príncipe Faminto.md",
     "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Demônio de Vanadinita Nômade.md",
     "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Bruxa da Penumbra.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Mãe Digestora.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Mãe Digestora (Estágio Final).md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Lacerador.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Devorador.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Vagalume Bexiga.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Cintilante Jovem.md",
-    "04 - Criaturas e Bestiário/Monstro/Dragão/Kolsin Adulto.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Soldado de Cobre - M1.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Senhor da Floresta.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Remendado.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Ent.md",
     "Sem título 1.base",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2",

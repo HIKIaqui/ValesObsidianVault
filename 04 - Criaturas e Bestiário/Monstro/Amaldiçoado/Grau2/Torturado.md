@@ -45,7 +45,7 @@ Tudo que um Torturado devora é convertido em ácido dentro de seu organismo. A 
 
 **Mente Colmeia (Passiva):** Amaldiçoados próximos, presentes na mesma cena ou área, compartilham seus sentidos. Se um deles enxergar um inimigo, todos sabem sua localização.
 
-**Existência Odiosa (Passiva):** Ao ser reduzido a 0 PV, role 1d10. Se o resultado for maior que o dano total que o reduziu a 0 PV, o Torturado se levanta no próximo turno com 10 PV. Enquanto estiver caído, pode ser finalizado com uma ação, impedindo que se levante. ^6a71fa
+**Existência Odiosa (Passiva):** Ao ser reduzido a 0 PV, role 1d10. Se o resultado for maior que o dano total que o reduziu a 0 PV, o Torturado se levanta no próximo turno com 10 PV. Enquanto estiver caído, pode ser finalizado com uma ação, impedindo que se levante. ^ExistenciaOdiosa
 
 **Espinhos Corporais (Passiva):** Ataques desarmados, contra-ataques ou agarrões contra o Torturado causam 1d6 de Dano em quem desferiu o golpe.
 
@@ -60,4 +60,4 @@ Tudo que um Torturado devora é convertido em ácido dentro de seu organismo. A 
 ---
 # Fraquezas
 
-**Queima com Fogo:** Sofre +1 Dado de Dano de Calor. Torturados reduzidos a 0 PV por Dano de Calor não ativam **[[#^6a71fa|Existência Odiosa]]**.
+**Queima com Fogo:** Sofre +1 Dado de Dano de Calor. Torturados reduzidos a 0 PV por Dano de Calor não ativam **[[#^ExistenciaOdiosa|Existência Odiosa]]**.
