@@ -46,16 +46,16 @@ Sem um Carniceiro, o grupo perde maior parte da letalidade, porque Carnicidas n�
 
 **Cego (Passiva):** Não recebe penalidade ou bônus por qualquer efeito relacionado a visão.
 
-**Ecolocalização (Passiva):** Em local fechado, tem +1 Dado em testes de Percepção.
+**Ecolocalização (Passiva):** Em local fechado, tem +1 Dado em testes de [[Mente|Percepção]].
 
-**Mordida:** Porrada | Precisão 0 | Dano 2d6 | Crítico 19+  | +1 Precisão contra alvos sofrendo sangramento.
+**Mordida:** Porrada | Precisão 0 | Dano 2d6 | Crítico 19+  | +1 Precisão contra alvos sofrendo [[Sangramento]].
 
-**Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 12)
+**Rasgar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 20 | [[Sangramento]] 2 (Res. 12)
 
 ---
 # Fraqueza
 
-[^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de Resistência (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância recebem [[Cheiro Forte]] e testam Vontade (Dif. 15) ou recebem +1 Estresse e 1d4 de Dano Perfurante dos fragmentos de ossos arremessados.
+[^1]**Limitação Natural:** Ao consumir biomassa pela segunda vez e vezes seguintes por cena, faz teste de [[Constituição|Resistência]] (Dif. 15) ou explode, espalhando suas entranhas no ambiente. Personagens no mesmo nível de distância recebem [[Cheiro Forte]] e testam [[Mente|Vontade]] (Dif. 15) ou recebem +1 Estresse e 1d4 de Dano Perfurante dos fragmentos de ossos arremessados.
 
 **Audição Sensível:** Sensíveis a sons muito altos. Ações que emitam sons altos causam [[Atordoado]] 1 (Res. 15) no Carnicida.
 
