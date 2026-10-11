@@ -5,6 +5,18 @@
       "path": "98 - Dev/Homepage.canvas"
     },
     {
+      "basename": "Herói",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md"
+    },
+    {
+      "basename": "Cobertura",
+      "path": "13 - SISTEMA DE RPG/Combate/Cobertura.md"
+    },
+    {
+      "basename": "13 - SISTEMA DE RPG",
+      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
+    },
+    {
       "basename": "Escarniçador",
       "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pele Ágata",
       "path": "01 - Lore Geral/Termos/Popular/Pele Ágata.md"
-    },
-    {
-      "basename": "Meu Destino",
-      "path": "01 - Lore Geral/Termos/Popular/Meu Destino.md"
-    },
-    {
-      "basename": "Medidas",
-      "path": "01 - Lore Geral/Termos/Medidas/Medidas.md"
-    },
-    {
-      "basename": "Vermes da Insanidade e Alvos",
-      "path": "01 - Lore Geral/Vermes da Insanidade e Alvos.md"
     }
   ],
   "omittedPaths": [],
