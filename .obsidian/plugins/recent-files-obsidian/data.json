@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "98 - Dev/Homepage.canvas"
+      "basename": "Caçador de Monstros",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md"
+    },
+    {
+      "basename": "Marcado",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Marcado.md"
+    },
+    {
+      "basename": "Praticante",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Praticante.md"
+    },
+    {
+      "basename": "Médico de Campo",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Médico de Campo.md"
+    },
+    {
+      "basename": "Gatilheiro",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Gatilheiro.md"
+    },
+    {
+      "basename": "Rato da Cidade Secreta",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Rato da Cidade Secreta.md"
+    },
+    {
+      "basename": "Errante Selvagem",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Errante Selvagem.md"
+    },
+    {
+      "basename": "Mercenário",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Mercenário.md"
+    },
+    {
+      "basename": "Social",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md"
+    },
+    {
+      "basename": "Atributos e Perícias",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
     },
     {
       "basename": "Herói",
       "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md"
+    },
+    {
+      "basename": "07 - Contratos",
+      "path": "07 - Contratos/07 - Contratos.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "98 - Dev/Homepage.canvas"
     },
     {
       "basename": "Cobertura",
@@ -155,50 +199,6 @@
     {
       "basename": "Carne Podre",
       "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Carne Podre.md"
-    },
-    {
-      "basename": "Pão Mofado",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Pão Mofado.md"
-    },
-    {
-      "basename": "Sorte",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Sorte.md"
-    },
-    {
-      "basename": "Social",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md"
-    },
-    {
-      "basename": "Constituição",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md"
-    },
-    {
-      "basename": "Mente",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Mente.md"
-    },
-    {
-      "basename": "Agilidade",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md"
-    },
-    {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
-    },
-    {
-      "basename": "Filhos da Carne",
-      "path": "03 - Facções e Grupos/Cidade Secreta/Filhos da Carne.md"
-    },
-    {
-      "basename": "Contrato Aberto",
-      "path": "01 - Lore Geral/Termos/Contrato Aberto.md"
-    },
-    {
-      "basename": "Âncora Onírica",
-      "path": "01 - Lore Geral/Termos/Âncora Onírica.md"
-    },
-    {
-      "basename": "Pele Ágata",
-      "path": "01 - Lore Geral/Termos/Popular/Pele Ágata.md"
     }
   ],
   "omittedPaths": [],

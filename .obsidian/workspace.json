@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -290,
-                  "zoom": -1.0381889698317455
+                "file": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Caçador de Monstros"
             }
           }
         ]
@@ -326,11 +333,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Marcado.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Praticante.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Médico de Campo.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Gatilheiro.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Rato da Cidade Secreta.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Errante Selvagem.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Mercenário.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md",
+    "07 - Contratos/07 - Contratos.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Sem título",
+    "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes",
     "13 - SISTEMA DE RPG/Personagem Jogável",
     "13 - SISTEMA DE RPG/Combate/Cobertura.md",
-    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
@@ -344,25 +363,13 @@
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Amnésia.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Ressonante.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Espreitador.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Animador.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Amálgama.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Espreitador.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Ressonante.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Testemunha da Culpa.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0/Avistador.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4/Carrasco.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau5/Warg Superior (Caso K - Katerine).md",
     "Sem título 1.base",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1",
     "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/0 - Lixo",
-    "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",
