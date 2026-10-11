@@ -72,4 +72,4 @@ Você é uma lenda. Você faz parte das histórias que crianças contam, e dos p
 
 **Presença Reconfortante:** Seus aliados próximos recebem +5 Vontade.
 
-**Tudo ou Nada:** 2 Estresse | Pode se arriscar de forma descuidada. Recebe uma [[Ações|Ação]] Extra. Após usar essa [[Ações|Ação]] Extra, repete Tudo ou Nada como [[Ações|Ação Livre]] automaticamente caso o personagem não tenha entrado em colapso ou a batalha tenha acabado. Ataques contra o personagem nessa batalha durante ou após o uso dessa habilidade são sempre críticos.
+**Tudo ou Nada:** 2 Estresse | Tem prioridade em relação a Colapso. Pode se arriscar de forma descuidada. Recebe uma [[Ações|Ação]] Extra. Após usar essa [[Ações|Ação]] Extra, repete Tudo ou Nada como [[Ações|Ação Livre]] automaticamente caso o personagem não tenha entrado em colapso ou a batalha tenha acabado. Ataques contra o personagem nessa batalha durante ou após o uso dessa habilidade são sempre críticos. 
