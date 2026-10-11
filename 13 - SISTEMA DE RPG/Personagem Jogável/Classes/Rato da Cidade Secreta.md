@@ -1,4 +1,4 @@
-Você aprendeu cedo que o mundo não é justo, então parou de jogar limpo. Não é o mais forte, nem o mais resistente, mas sabe reconhecer o momento certo de agir e, principalmente, quando sair. Você não cria oportunidades. Você se aproveita delas antes que desapareçam.
+Você aprendeu cedo que o mundo não é justo, então parou de jogar limpo. Não é o mais forte, nem o mais resistente, mas sabe reconhecer o momento certo de agir e, principalmente, quando sair. Você está sempre atento a oportunidades, e se aproveita delas antes que desapareçam.
 
 **Foco da Classe:** Oportunismo, controle de situação e finalização precisa, aproveitando brechas criadas durante o combate.
 
@@ -32,13 +32,13 @@ Para cada característica escolhida, escolha também **1 Trauma**.
 
 **Frasco de Láudano:** Cargas 2 | Peso 1 | Recebe -1 Estresse e 1d4 de Dano Vital ao consumir.
 
-## Nível 1 — Oportunista
+## Nível 1 – Oportunista
 
 Você se aproveita do ambiente e dos outros, jogando sujo pra sair vitorioso.
 
-**Ignorado:** +1 Dado de Dano e +1 Precisão contra alvos que não te atacaram ou tentaram te atacar desde o último turno.
+**Sai da Frente!:** Suas [[Ações|Ações de Movimento]] não provocam ataques de oportunidade.
 
-## Nível 2 — Trapaceiro Profissional
+## Nível 2 – Trapaceiro Profissional
 
 Você sempre sabe como virar o jogo ao seu favor quando é necessário.
 
@@ -48,19 +48,19 @@ Você sempre sabe como virar o jogo ao seu favor quando é necessário.
 
 **Bate e Volta:** Após acertar um inimigo, pode fazer uma ação de movimento extra imediatamente.
 
-## Nível 3 — Coringa
+## Nível 3 – Coringa
 
 Se o mundo não joga justo, por que você jogaria?
 
 **Escolha 2 Características.**
 
-**Não Fui Eu:** Uma vez por cena, quando uma ação sua falhar ou gerar consequência, pode envolver outra pessoa ou elemento principal da cena na situação (Sem teste extra). O Mestre define como esse elemento passa a fazer parte do problema.
+**Ignorado:** +1 Dado de Dano e +1 Precisão contra alvos que não te atacaram ou tentaram te atacar desde o último turno.
 
 **Na Ferida:** Para cada condição negativa diferente afetando o alvo, +1 Dano de Dano contra ele.
 
 **Na Hora Certa:** Se um aliado causou dano a um inimigo nesse turno, +1 Dado de Dano ao atacar esse mesmo inimigo até o fim do turno.
 
-## Nível 4 — O Truque Final
+## Nível 4 – O Truque Final
 
 Daria um ótimo político.
 

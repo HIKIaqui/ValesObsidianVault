@@ -6,7 +6,7 @@ Você sobreviveu ao inferno do treinamento para se tornar uma arma viva. Aprende
 
 Começa com as duas. Escolha também **2 Traumas**.
 
-**Predador de Predadores:** Você recebe +1 dado em qualquer rolagem relacionada a monstros, como rastreamento, combate, investigação, sobrevivência e até interação social com criaturas sencientes.
+**Predador de Predadores:** Você recebe +1 dado em qualquer teste relacionado a monstros, como rastreamento, investigação, sobrevivência e até interação social com criaturas senciente. Contra monstros, também recebe +1 Precisão durante o combate.
 
 **Treinamento Brutal:** Seu passado te quebrou e te refez. Você começa com uma Capacidade Elemental desbloqueada e 2 Técnicas Elementais para ela.
 
@@ -32,35 +32,35 @@ Começa com as duas. Escolha também **2 Traumas**.
 
 **Guia do Caçador por Elgor:** Peso 0 | Livro escrito pelo lendário caçador Elgor. Recebe +5 em testes de Conhecimento para identificar criaturas que estão catalogadas.
 
-## Nível 1 — Caçador Iniciado
+## Nível 1 – Caçador Iniciado
 
 Você é um dos poucos que sobreviveu ao treinamento. Já enfrentou horrores que fariam um soldado chorar.
 
 **Dessensibilizado:** Não sofre Estresse ao ver um monstro pela primeira vez.
 
-## Nível 2 — Caçador Experiente
+## Nível 2 – Caçador Experiente
 
 Agora você é respeitado entre os seus. Já perdeu mais colegas do que tem de dedos na mão.
 
 **Escolha 1 Característica.**
 
-**Equilíbrio:** Seu golpe com arma de prata recebe +1 Precisão se sua última ação foi uma Técnica Elemental, e Técnicas Elementais recebem bônus de +5 Vontade se sua última ação foi um golpe com arma de prata.
+**Equilíbrio:** Seu golpe com arma de prata recebe +1 Precisão se sua última ação foi uma Técnica Elemental, e Técnicas Elementais recebem bônus de +5 [[Mente|Vontade]] se sua última ação foi um golpe com arma de prata.
 
 **Emboscada:** Se o alvo ainda não fez sua primeira ação em combate, recebe +2 Dados de Dano contra ele.
 
-## Nível 3 — Caçador Veterano
+## Nível 3 – Caçador Veterano
 
 Reconhecido por uma autoridade superior como uma arma viva contra o caos.
 
 **Escolha 2 Características.**
 
-**Peso da Sobrevivência:** Quando sua Carga Atual é menor ou igual a metade da Carga Máxima, +1 Agilidade.
+**Peso da Sobrevivência:** Quando sua Carga Atual é menor ou igual a metade da Carga Máxima, +1 [[Agilidade]].
 
 **Outro Dia:** +5 em todo teste envolvendo evitar, fugir ou ajudar aliados a evitar ou fugir de batalhas. Fujam para lutar outro dia.
 
 **Medo como Arma:** Para cada ponto de Estresse, bônus de +1 Dano para ataques.
 
-## Nível 4 — Mestre Caçador
+## Nível 4 – Mestre Caçador
 
 Você é uma lenda. Você faz parte das histórias que crianças contam, e dos pesadelos de monstros.
 
@@ -70,6 +70,6 @@ Você é uma lenda. Você faz parte das histórias que crianças contam, e dos p
 
 **Não Acaba Aqui:** Uma vez por combate, ao entrar em [[Porta da Morte]], permanece consciente e fica invulnerável por 1 turno. Se o combate terminar até o fim desse turno, recupera 1 PV. Caso contrário, entra em [[Porta da Morte]] e faz o teste de [[Porta da Morte]] imediatamente, antes de qualquer outra ação.
 
-**Presença Reconfortante:** Seus aliados próximos recebem +5 Vontade.
+**Otimização Elemental:** Técnicas Elementais custam apenas metade dos PE, arredondando casas decimais sempre para cima.
 
-**Tudo ou Nada:** 2 Estresse | Tem prioridade em relação a Colapso. Pode se arriscar de forma descuidada. Recebe uma [[Ações|Ação]] Extra. Após usar essa [[Ações|Ação]] Extra, repete Tudo ou Nada como [[Ações|Ação Livre]] automaticamente caso o personagem não tenha entrado em colapso ou a batalha tenha acabado. Ataques contra o personagem nessa batalha durante ou após o uso dessa habilidade são sempre críticos. 
+**Tudo ou Nada:** 2 Estresse | Tem prioridade em relação a colapso. Pode se arriscar de forma descuidada. Recebe uma [[Ações|Ação]] Extra. Após usar essa [[Ações|Ação]] Extra, repete Tudo ou Nada como [[Ações|Ação Livre]] automaticamente caso o personagem não tenha entrado em colapso ou a batalha tenha acabado. Ataques contra o personagem nessa batalha durante ou após o uso dessa habilidade são sempre críticos. 
