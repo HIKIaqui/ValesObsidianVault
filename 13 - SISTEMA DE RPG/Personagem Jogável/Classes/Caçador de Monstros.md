@@ -14,8 +14,8 @@ Começa com as duas. Escolha também **2 Traumas**.
 
 - [[Mente|Percepção]]
 - [[Agilidade|Reflexos]]
-- Sobrevivência
-- Mira ou Técnica
+- [[Mente|Sobrevivência]]
+- [[Agilidade|Mira]] ou [[Agilidade|Técnica]]
 - [[Mente|Conhecimento]]
 
 ## Equipamento Inicial
@@ -60,7 +60,7 @@ Reconhecido por uma autoridade superior como uma arma viva contra o caos.
 
 **Dessensibilizado:** Não sofre Estresse ao ver um monstro pela primeira vez.
 
-**Medo como Arma:** Para cada ponto de Estresse, bônus de +1 Brutalidade (O que acrescenta +1 de Dano aos ataques.)
+**Medo como Arma:** Para cada ponto de Estresse, bônus de +1 Dano para ataques.
 
 ## Nível 4 — Mestre Caçador
 

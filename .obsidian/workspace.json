@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md",
+                "file": "13 - SISTEMA DE RPG/Combate/Cobertura.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caçador de Monstros"
+              "title": "Cobertura"
             }
           }
         ]
@@ -333,6 +333,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Combate/Início do Combate.md",
+    "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
+    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Marcado.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Praticante.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Médico de Campo.md",
@@ -341,8 +346,6 @@
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Errante Selvagem.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Mercenário.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md",
     "07 - Contratos/07 - Contratos.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Sem título",
@@ -360,9 +363,6 @@
     "04 - Criaturas e Bestiário/Monstro/Constructo/Broto.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Barreira de Cobre - M2.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Torturado.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Amnésia.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Ressonante.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0",
     "Sem título 1.base",

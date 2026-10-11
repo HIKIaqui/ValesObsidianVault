@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Cobertura",
+      "path": "13 - SISTEMA DE RPG/Combate/Cobertura.md"
+    },
+    {
+      "basename": "Início do Combate",
+      "path": "13 - SISTEMA DE RPG/Combate/Início do Combate.md"
+    },
+    {
+      "basename": "Ações",
+      "path": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md"
+    },
+    {
+      "basename": "Mirar",
+      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md"
+    },
+    {
+      "basename": "Atributos e Perícias",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
+    },
+    {
       "basename": "Caçador de Monstros",
       "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md"
     },
@@ -37,10 +57,6 @@
       "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md"
     },
     {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
-    },
-    {
       "basename": "Herói",
       "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
-    },
-    {
-      "basename": "Cobertura",
-      "path": "13 - SISTEMA DE RPG/Combate/Cobertura.md"
     },
     {
       "basename": "13 - SISTEMA DE RPG",
@@ -187,18 +199,6 @@
     {
       "basename": "Analgésicos",
       "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Analgésicos.md"
-    },
-    {
-      "basename": "Trapo",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Trapo.md"
-    },
-    {
-      "basename": "Aguardente",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Aguardente.md"
-    },
-    {
-      "basename": "Carne Podre",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo/Carne Podre.md"
     }
   ],
   "omittedPaths": [],

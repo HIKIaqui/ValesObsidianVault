@@ -10,7 +10,7 @@ Coberturas são obstáculos que protegem personagens durante o combate. Um níve
 
 Ao usar uma cobertura, o personagem escolhe se fica à direita ou à esquerda dela. Essa posição determina de quais ataques estará protegido.
 
-Enquanto a cobertura estiver entre o personagem e o atacante, recebe +10 Esquiva contra ataques à distância.
+Enquanto a cobertura estiver entre o personagem e o atacante, recebe +10 Esquiva contra ataques à distância e +5 Furtividade caso não esteja em combate.
 
 Ataques vindos do lado desprotegido e ataques corpo a corpo não sofrem esse modificador.
 
