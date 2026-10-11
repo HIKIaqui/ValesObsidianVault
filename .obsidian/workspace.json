@@ -11,27 +11,33 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -1.0381889698317455
                 }
               },
-              "icon": "lucide-file",
-              "title": "Escarniçador"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "6c981ac7447f747a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,8 +337,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c981ac7447f747a",
   "lastOpenFiles": [
+    "98 - Dev/Homepage.canvas",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md",
@@ -359,13 +367,10 @@
     "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau5/Warg Superior (Caso K - Katerine).md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau4/Príncipe Faminto.md",
-    "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Demônio de Vanadinita Nômade.md",
-    "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Bruxa da Penumbra.md",
     "Sem título 1.base",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1",
-    "98 - Dev/Homepage.canvas",
     "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/0 - Lixo",
     "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/1 - Comum",
     "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/0 - Lixo",
