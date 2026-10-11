@@ -44,7 +44,7 @@ Agora você é respeitado entre os seus. Já perdeu mais colegas do que tem de d
 
 **Escolha 1 Característica.**
 
-**Equilíbrio:** Seu golpe com arma de prata recebe +1 Precisão se sua última ação foi uma Técnica Elemental, e vice versa.
+**Equilíbrio:** Seu golpe com arma de prata recebe +1 Precisão se sua última ação foi uma Técnica Elemental, que .
 
 **Finalização Rápida:** Recebe +2 Dados de Dano no primeiro turno do combate.
 
