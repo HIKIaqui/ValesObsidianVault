@@ -36,7 +36,7 @@ Começa com as duas. Escolha também **2 Traumas**.
 
 Você é um dos poucos que sobreviveu ao treinamento. Já enfrentou horrores que fariam um soldado chorar.
 
-**Emboscada:** Se o alvo ainda não fez sua primeira ação em combate, recebe +1 Dado de Dano contra ele.
+**Dessensibilizado:** Não sofre Estresse ao ver um monstro pela primeira vez.
 
 ## Nível 2 — Caçador Experiente
 
@@ -44,9 +44,9 @@ Agora você é respeitado entre os seus. Já perdeu mais colegas do que tem de d
 
 **Escolha 1 Característica.**
 
-**Equilíbrio:** Seu golpe com arma de prata recebe +1 Precisão se sua última ação foi uma Técnica Elemental, que .
+**Equilíbrio:** Seu golpe com arma de prata recebe +1 Precisão se sua última ação foi uma Técnica Elemental, e Técnicas Elementais recebem bônus de +5 Vontade se sua última ação foi um golpe com arma de prata.
 
-**Finalização Rápida:** Recebe +2 Dados de Dano no primeiro turno do combate.
+**Emboscada:** Se o alvo ainda não fez sua primeira ação em combate, recebe +2 Dados de Dano contra ele.
 
 ## Nível 3 — Caçador Veterano
 
@@ -57,8 +57,6 @@ Reconhecido por uma autoridade superior como uma arma viva contra o caos.
 **Peso da Sobrevivência:** Quando sua Carga Atual é menor ou igual a metade da Carga Máxima, +1 Agilidade.
 
 **Outro Dia:** +5 em todo teste envolvendo evitar, fugir ou ajudar aliados a evitar ou fugir de batalhas. Fujam para lutar outro dia.
-
-**Dessensibilizado:** Não sofre Estresse ao ver um monstro pela primeira vez.
 
 **Medo como Arma:** Para cada ponto de Estresse, bônus de +1 Dano para ataques.
 
