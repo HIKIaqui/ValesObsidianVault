@@ -71,3 +71,5 @@ Você é uma lenda. Você faz parte das histórias que crianças contam, e dos p
 **Não Acaba Aqui:** Uma vez por combate, ao entrar em [[Porta da Morte]], permanece consciente e fica invulnerável por 1 turno. Se o combate terminar até o fim desse turno, recupera 1 PV. Caso contrário, entra em [[Porta da Morte]] e faz o teste de [[Porta da Morte]] imediatamente, antes de qualquer outra ação.
 
 **Presença Reconfortante:** Seus aliados próximos recebem +5 Vontade.
+
+**Tudo ou Nada:** 2 Estresse | Pode se arriscar de forma descuidada. Recebe uma [[Ações|Ação]] Extra. Após usar essa [[Ações|Ação]] Extra, repete Tudo ou Nada como [[Ações|Ação Livre]] automaticamente caso o personagem não tenha entrado em colapso ou a batalha tenha acabado. Ataques contra o personagem nessa batalha durante ou após o uso dessa habilidade são sempre críticos.
