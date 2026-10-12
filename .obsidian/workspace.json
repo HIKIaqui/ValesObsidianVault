@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Combate/Cobertura.md",
+                "file": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cobertura"
+              "title": "Ações"
             }
           }
         ]
@@ -333,6 +333,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Combate/Cobertura.md",
     "13 - SISTEMA DE RPG/Combate/Início do Combate.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md",
@@ -352,7 +353,6 @@
     "98 - Dev/Homepage.canvas",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes",
     "13 - SISTEMA DE RPG/Personagem Jogável",
-    "13 - SISTEMA DE RPG/Combate/Cobertura.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
