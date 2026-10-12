@@ -1,12 +1,111 @@
 {
   "monsters": [],
   "defaultLayouts": {},
-  "layouts": [],
+  "layouts": [
+    {
+      "name": "Vales",
+      "blocks": [
+        {
+          "type": "heading",
+          "id": "abfa09fb3a2b",
+          "properties": [
+            "nome"
+          ],
+          "size": 1,
+          "fallback": "-",
+          "conditioned": false,
+          "hasRule": false
+        },
+        {
+          "type": "property",
+          "id": "a8284aeba9d9",
+          "properties": [
+            "tipo"
+          ],
+          "fallback": "-",
+          "display": "Tipo de Criatura"
+        },
+        {
+          "type": "property",
+          "id": "faba29799a69",
+          "properties": [
+            "grau"
+          ],
+          "fallback": "-",
+          "display": "Grau de Perigo"
+        },
+        {
+          "type": "property",
+          "id": "987bc9785938",
+          "properties": [
+            "hp"
+          ],
+          "fallback": "-",
+          "display": "PV"
+        },
+        {
+          "type": "property",
+          "id": "2b59b9c81868",
+          "properties": [
+            "pe"
+          ],
+          "fallback": "-",
+          "display": "PE"
+        },
+        {
+          "type": "property",
+          "id": "4bc8089a195b",
+          "properties": [
+            "armadura"
+          ],
+          "fallback": "-",
+          "display": "Armadura"
+        },
+        {
+          "type": "property",
+          "id": "685af94a29ea",
+          "properties": [
+            "esquiva"
+          ],
+          "fallback": "-",
+          "display": "Esquiva"
+        },
+        {
+          "type": "property",
+          "id": "e9382b2929ea",
+          "properties": [
+            "atributos"
+          ],
+          "fallback": "-",
+          "display": "Atributos"
+        },
+        {
+          "type": "property",
+          "id": "580bea4b38d9",
+          "properties": [
+            "traits"
+          ],
+          "fallback": "-",
+          "display": "Características Únicas"
+        },
+        {
+          "type": "property",
+          "id": "181b69fae8eb",
+          "properties": [
+            "actions"
+          ],
+          "fallback": "-",
+          "display": "Ações e Ataques"
+        }
+      ],
+      "id": "9a3b98aae9e8"
+    }
+  ],
   "default": "basic-5e-layout",
   "useDice": true,
   "renderDice": false,
   "export": true,
-  "showAdvanced": true,
+  "showAdvanced": false,
   "version": {
     "major": 4,
     "minor": 10,
