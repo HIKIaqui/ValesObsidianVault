@@ -1,7 +1,8 @@
 ---
 tags:
-  - Constructo
-  - Grau0
+- Constructo
+- Grau0
+statblock: inline
 ---
 **Tipo:** Constructo
 **Grau de Perigo:** 0
@@ -11,45 +12,40 @@ tags:
 Constructos de 0,35m nascidos de energia elemental da natureza em contato com mana. Se alimentam da mana de plantas do ambiente em que vivem. Muitas vezes plantam pequenos jardins nas florestas, como forma de agradecer à natureza e tornar aquele local mais confortável ainda para si. Tem a aparência de um pequeno toco de árvore, com folhas pelo corpo, e galhos como braços. Ao morrer, se tornam Germinantes. Sua capacidade cognitiva é similar à de uma criança humana. Quando atacados tem a tendência a fugir ou esconder em meio a floresta.
 
 ---
-# Status
+# Ficha
 
-**PV:** 15
-**Armadura:** 2
-**Esquiva:** 10
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** 0
-**Agilidade:** 1
-**Mente:** 0
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Resistência +5
-
----
-# Habilidades
-
-## Passivas
-
-**Pacífico (Passiva):** O broto nunca inicia combates ou luta. Apenas foge e tenta se esconder ou ajudar criaturas feridas.
-
-**Instinto Infantil (Passiva):** Brotos têm capacidade cognitiva semelhante à de uma criança humana. Podem ser acalmados com gestos gentis, proteção, música calma ou cuidado com a floresta ao redor
-
-## Ativas
-
-**Purificação:** Alcance corpo a corpo | Cura 1d4 de PV de um ser vivo de carne e osso tocado.
-
-**Grito da Natureza:** Chama a atenção do Senhor da Floresta.
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, p. 166.
+```statblock
+layout: Vales Bestiário
+name: Broto
+tipo: Constructo
+grau: 0
+hp: 15
+pe: Não informado no livro.
+armadura: 2
+esquiva: 10
+atributos:
+- 0
+- 1
+- 0
+- 0
+- 0
+pericias:
+- name: Perícias
+  desc: '- Resistência +5'
+traits:
+- name: Pacífico (Passiva)
+  desc: O broto nunca inicia combates ou luta. Apenas foge e tenta se esconder ou ajudar criaturas feridas.
+- name: Instinto Infantil (Passiva)
+  desc: Brotos têm capacidade cognitiva semelhante à de uma criança humana. Podem ser acalmados com gestos gentis,
+    proteção, música calma ou cuidado com a floresta ao redor
+actions:
+- name: Purificação
+  desc: Alcance corpo a corpo | Cura 1d4 de PV de um ser vivo de carne e osso tocado.
+- name: Grito da Natureza
+  desc: Chama a atenção do Senhor da Floresta.
+fraquezas:
+- name: Fonte
+  desc: Livro de Regras dos Vales, p. 166.
+- name: Observações
+  desc: Não informadas no livro.
+```

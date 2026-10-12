@@ -1,7 +1,8 @@
 ---
 tags:
-  - Aberração
-  - Grau2
+- Aberração
+- Grau2
+statblock: inline
 ---
 **Tipo:** Aberração
 **Grau de Perigo:** 2
@@ -11,47 +12,43 @@ tags:
 2,5m. Lobos gigantes que já nascem fortes o bastante pra caçar gente como se fossem coelhos. Até os mais novos tem ótimo raciocínio, emboscando viajantes com inteligência assustadora. Sob luz do sol, a carne deles se fecha em segundos. Porém, de noite ou no escuro, sangram como qualquer bicho.
 
 ---
-# Status
+# Ficha
 
-**PV:** 45
-**Armadura:** 1
-**Esquiva:** 19
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** 3
-**Agilidade:** 2
-**Mente:** 1
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Percepção +5
-- Porrada +5
-- Reflexos +5
-
----
-# Habilidades
-
-## Passivas
-
-**Fotorregeneração (Passiva):** Cura 10 PV no início do turno se exposto a luz solar.
-
-**Sede de Sangue (Passiva):** +1 de Precisão contra alvos Sangrando.
-
-## Ativas
-
-**Mordida Brutal:** Porrada | Precisão -1 | Dano 2d10 | Crítico 20 | Ataques tem +1 de Precisão contra o Warg até seu próximo turno.
-
-**Garras Enormes:** Porrada | Precisão 0 | Dano 2d6 | Crítico 19+ | 3 Sangramento (Dif. 15)
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 201–202.
+```statblock
+layout: Vales Bestiário
+name: Warg Inferior
+tipo: Aberração
+grau: 2
+hp: 45
+pe: Não informado no livro.
+armadura: 1
+esquiva: 19
+atributos:
+- 3
+- 2
+- 1
+- 0
+- 0
+pericias:
+- name: Perícias
+  desc: |-
+    - Percepção +5
+    - Porrada +5
+    - Reflexos +5
+traits:
+- name: Fotorregeneração (Passiva)
+  desc: Cura 10 PV no início do turno se exposto a luz solar.
+- name: Sede de Sangue (Passiva)
+  desc: +1 de Precisão contra alvos Sangrando.
+actions:
+- name: Mordida Brutal
+  desc: Porrada | Precisão -1 | Dano 2d10 | Crítico 20 | Ataques tem +1 de Precisão contra o Warg até seu próximo
+    turno.
+- name: Garras Enormes
+  desc: Porrada | Precisão 0 | Dano 2d6 | Crítico 19+ | 3 Sangramento (Dif. 15)
+fraquezas:
+- name: Fonte
+  desc: Livro de Regras dos Vales, pp. 201–202.
+- name: Observações
+  desc: Não informadas no livro.
+```

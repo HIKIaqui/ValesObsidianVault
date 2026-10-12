@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Lobo Selvagem",
+      "path": "04 - Criaturas e Bestiário/Fera/Lobo Selvagem.md"
+    },
+    {
+      "basename": "Cintilante Jovem",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Cintilante Jovem.md"
+    },
+    {
+      "basename": "Tatu de Canhão",
+      "path": "04 - Criaturas e Bestiário/Fera/Tatu de Canhão.md"
+    },
+    {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
+    },
+    {
+      "basename": "Afogador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md"
+    },
+    {
+      "basename": "Monstro",
+      "path": "04 - Criaturas e Bestiário/Monstro/Monstro.md"
+    },
+    {
+      "basename": "Fera",
+      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
+    },
+    {
+      "basename": "04 - Criaturas e Bestiário",
+      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
+    },
+    {
+      "basename": "Espírito",
+      "path": "04 - Criaturas e Bestiário/Espírito/Espírito.md"
     },
     {
       "basename": "Corrompido",
@@ -101,10 +133,6 @@
       "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md"
     },
     {
-      "basename": "Afogador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md"
-    },
-    {
       "basename": "Ent",
       "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Ent.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Atritor Sentinela",
       "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Sentinela.md"
-    },
-    {
-      "basename": "04 - Criaturas e Bestiário",
-      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
-    },
-    {
-      "basename": "Monstro",
-      "path": "04 - Criaturas e Bestiário/Monstro/Monstro.md"
-    },
-    {
-      "basename": "Aranha Arco-Íris",
-      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md"
-    },
-    {
-      "basename": "Pseudo-Unicórnio",
-      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Pseudo-Unicórnio.md"
-    },
-    {
-      "basename": "Sereia",
-      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Sereia.md"
-    },
-    {
-      "basename": "Troll",
-      "path": "04 - Criaturas e Bestiário/Monstro/Semi-Humano/Troll.md"
-    },
-    {
-      "basename": "Torniquete",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Torniquete.md"
     }
   ],
   "omittedPaths": [],

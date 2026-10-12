@@ -1,9 +1,9 @@
 ---
 tags:
-  - Amaldiçoado
-  - Grau2
+- Amaldiçoado
+- Grau2
+statblock: inline
 ---
-
 **Tipo:** Amaldiçoado
 **Nível de Perigo:** 2
 
@@ -18,40 +18,46 @@ Para atacar, a criatura apenas ergue um de seus dedos e aponta para o alvo. Ener
 Tentar acompanhar uma Amnésia provoca confusão crescente. Quanto mais alguém força a mente a manter aquela criatura como alvo, mais informações parecem desaparecer.
 
 ---
-# Status
+# Ficha
 
-**PV:** 25
-**Armadura:** 0
-**Esquiva:** 10
-**PE:** 3
-
-# Atributos
-
-**Constituição:** 1  
-**Agilidade:** 2  
-**Mente:** 1  
-**Social:** 1  
-**Sorte:** 0
-
-# Perícias
-
-- Resistência +10
-- Mira +5
-
----
-### HABILIDADES
-
-**Cérebro Morto (Passiva):** Não é afetado por testes sociais ou de Intimidação.
-
-**Mente Colmeia (Passiva):** Amaldiçoados próximos, presentes na mesma cena ou área, compartilham seus sentidos. Se um deles enxergar um inimigo, todos sabem sua localização.
-
-**Existência Odiosa (Passiva):** Ao ser reduzido a 0 PV, role 1d10. Se o resultado for maior que o dano que o reduziu a 0 PV, o Esquecido se levanta no próximo turno com 10 PV. Enquanto estiver caído, pode ser finalizado com uma ação, impedindo que se levante. ^ExistenciaOdiosa
-
-**Ódio Contagioso (Passiva):** Uma criatura morta por um Amaldiçoado se levanta no fim da cena como um Amaldiçoado. Humanos se transformam em Esquecidos.
-
-**Feixe de Descontinuidade:** Mira | Alcance 3 | 2d4 Maldição | Ao acertar, o alvo testa Vontade (Dif. 15). Se falhar, recebe [[Ruptura Cognitiva]].
-
----
-### FRAQUEZAS
-
-**Queima com Fogo:** Sofre +1 Dado de Dano de Calor. Amnésias reduzidas a 0 PV por Dano de Calor não ativam **[[#^ExistenciaOdiosa|Existência Odiosa]]**.
+```statblock
+layout: Vales Bestiário
+name: Amnésia
+tipo: Amaldiçoado
+hp: 25
+pe: 3
+armadura: 0
+esquiva: 10
+atributos:
+- 1
+- 2
+- 1
+- 1
+- 0
+pericias:
+- name: Perícias
+  desc: |-
+    - Resistência +10
+    - Mira +5
+traits:
+- name: Cérebro Morto (Passiva)
+  desc: Não é afetado por testes sociais ou de Intimidação.
+- name: Mente Colmeia (Passiva)
+  desc: Amaldiçoados próximos, presentes na mesma cena ou área, compartilham seus sentidos. Se um deles enxergar
+    um inimigo, todos sabem sua localização.
+- name: Existência Odiosa (Passiva)
+  desc: Ao ser reduzido a 0 PV, role 1d10. Se o resultado for maior que o dano que o reduziu a 0 PV, o Esquecido
+    se levanta no próximo turno com 10 PV. Enquanto estiver caído, pode ser finalizado com uma ação, impedindo que
+    se levante. ^ExistenciaOdiosa
+- name: Ódio Contagioso (Passiva)
+  desc: Uma criatura morta por um Amaldiçoado se levanta no fim da cena como um Amaldiçoado. Humanos se transformam
+    em Esquecidos.
+actions:
+- name: Feixe de Descontinuidade
+  desc: Mira | Alcance 3 | 2d4 Maldição | Ao acertar, o alvo testa Vontade (Dif. 15). Se falhar, recebe [[Ruptura
+    Cognitiva]].
+fraquezas:
+- name: Queima com Fogo
+  desc: Sofre +1 Dado de Dano de Calor. Amnésias reduzidas a 0 PV por Dano de Calor não ativam **[[#^ExistenciaOdiosa|Existência
+    Odiosa]]**.
+```

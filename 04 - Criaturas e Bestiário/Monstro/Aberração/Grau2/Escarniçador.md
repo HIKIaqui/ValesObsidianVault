@@ -1,7 +1,8 @@
 ---
 tags:
-  - Aberração
-  - Grau2
+- Aberração
+- Grau2
+statblock: inline
 ---
 **Tipo:** Aberração
 **Grau de Perigo:** 2
@@ -25,57 +26,57 @@ Predam qualquer criatura viva, e caso essa consiga fugir, é capaz de que os fun
 > Não tente correr. Eles são rápidos demais. Lute com fogo.
 
 ---
-# Status
+# Ficha
 
-**PV:** 35
-**Armadura:** 5
-**Esquiva:** 20
+```statblock
+layout: Vales Bestiário
+name: Escarniçador
+tipo: Aberração
+grau: 2
+hp: 35
+pe: Não informado no livro.
+armadura: 5
+esquiva: 20
+atributos:
+- 2
+- 2
+- 1
+- 0
+- 0
+pericias:
+- name: Perícias
+  desc: |-
+    - Percepção +7
+    - Intimidação +7
+    - Reflexos +7
+    - Acrobacia +10
+    - Porrada +7
+    - Resistência +5
+    - Arrancada +5
+traits:
+- name: Cego (Passiva)
+  desc: Não recebe penalidade ou bônus por qualquer efeito relacionado a visão.
+- name: Audição Aguçada (Passiva)
+  desc: +1 Mente para testes envolvendo Percepção.
+- name: Escalada Antinatural (Passiva)
+  desc: Consegue usar as garras para se movimentar pelo teto e escalar superfícies perfeitamente verticais. Não
+    recebe penalidade por isso e não provoca ataques de oportunidade ao se mover dessa forma.
+actions:
+- name: Esfolar com Garras
+  desc: Porrada | Precisão 0 | Dano 2d6 | Crítico 18+ | Sangramento 2 (Res. 15) | Se o alvo estiver Sangrando, crítico
+    aplica Infecção Fúngica (Sempre que o infectado receber Estresse, a infecção reage. Ele imediatamente ataca
+    ou avança contra o ser vivo mais próximo uma vez. Não pode ser tratada normalmente. Para remover a condição,
+    é necessário um soro antifúngico específico.).
+fraquezas:
+- name: Observações
+  desc: |-
+    Fogo e Gelo enfraquecem sua carapaça fúngica. -4 Armadura permanente ao ser atacado por esses elementos.
 
-**PE:** Não informado no livro.
+    Quando sofrendo do efeito “Molhado”, sofre -1 Agilidade e -1 Mente. Água afeta seus receptores, danificando os sentidos.
 
-# Atributos
+    Ambientes abertos sem muitas superfícies para o som ecoar (como muitas árvores em florestas, paredes, etc) o deixam confuso: -5 em todas as perícias de agilidade quando confuso (Obs: Isso inclui reflexos, diminuindo a esquiva em -5).
+```
 
-**Constituição:** 2
-**Agilidade:** 2
-**Mente:** 1
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Percepção +7
-- Intimidação +7
-- Reflexos +7
-- Acrobacia +10
-- Porrada +7
-- Resistência +5
-- Arrancada +5
-
----
-# Habilidades
-
-## Passivas
-
-**Cego (Passiva):** Não recebe penalidade ou bônus por qualquer efeito relacionado a visão.
-
-**Audição Aguçada (Passiva):** +1 Mente para testes envolvendo Percepção.
-
-**Escalada Antinatural (Passiva):** Consegue usar as garras para se movimentar pelo teto e escalar superfícies perfeitamente verticais. Não recebe penalidade por isso e não provoca ataques de oportunidade ao se mover dessa forma.
-
-## Ativas
-
-**Esfolar com Garras:** Porrada | Precisão 0 | Dano 2d6 | Crítico 18+ | Sangramento 2 (Res. 15) | Se o alvo estiver Sangrando, crítico aplica Infecção Fúngica (Sempre que o infectado receber Estresse, a infecção reage. Ele imediatamente ataca ou avança contra o ser vivo mais próximo uma vez. Não pode ser tratada normalmente. Para remover a condição, é necessário um soro antifúngico específico.).
-
----
-# Fraquezas
-
-Fogo e Gelo enfraquecem sua carapaça fúngica. -4 Armadura permanente ao ser atacado por esses elementos.
-
-Quando sofrendo do efeito “Molhado”, sofre -1 Agilidade e -1 Mente. Água afeta seus receptores, danificando os sentidos.
-
-Ambientes abertos sem muitas superfícies para o som ecoar (como muitas árvores em florestas, paredes, etc) o deixam confuso: -5 em todas as perícias de agilidade quando confuso (Obs: Isso inclui reflexos, diminuindo a esquiva em -5).
-
----
 # Ecologia
 
 **Habitat Natural:** Florestas densas e úmidas, especialmente em regiões isoladas de Turmalina.

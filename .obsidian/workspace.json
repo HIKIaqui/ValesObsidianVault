@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "0630332d024b1d97",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1d0c54f7aca5ceb4",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,14 +17,39 @@
                 "viewState": {
                   "x": -20,
                   "y": -290,
-                  "zoom": -1.0381889698317455
+                  "zoom": -0.9924820307159838
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "9f6b574ba0c1f679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Criaturas e Bestiário/Fera/Lobo Selvagem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lobo Selvagem"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,10 +335,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9f6b574ba0c1f679",
   "lastOpenFiles": [
-    "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Cintilante Jovem.md",
+    "04 - Criaturas e Bestiário/Fera/Tatu de Canhão.md",
     "98 - Dev/Homepage.canvas",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md",
+    "04 - Criaturas e Bestiário/Monstro/Monstro.md",
+    "04 - Criaturas e Bestiário/Fera/Fera.md",
+    "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md",
+    "04 - Criaturas e Bestiário/Espírito/Espírito.md",
+    "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
     "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md",
     "13 - SISTEMA DE RPG/Bestiário do Statblocks/aaaaa.md",
     "13 - SISTEMA DE RPG/Bestiário do Statblocks",
@@ -352,12 +384,6 @@
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Errante Selvagem.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Mercenário.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md",
-    "07 - Contratos/07 - Contratos.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

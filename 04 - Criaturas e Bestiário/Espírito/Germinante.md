@@ -1,7 +1,8 @@
 ---
 tags:
-  - Espírito
-  - Grau0
+- Espírito
+- Grau0
+statblock: inline
 ---
 **Tipo:** Espírito
 **Grau de Perigo:** 0
@@ -13,43 +14,38 @@ Espírito da natureza que tem a forma de um mini arbusto com olhos azul claro br
 “Um caçador experiente aprende a ter medo de pisar em um galho na frente desses porrinhas!” ~ Elgor - Guia do Caçador
 
 ---
-# Status
+# Ficha
 
-**PV:** 10
-**Armadura:** 0
-**Esquiva:** 10
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** 0
-**Agilidade:** 1
-**Mente:** 0
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Resistência +5
-
----
-# Habilidades
-
-## Passivas
-
-**Espírito (Passiva):** Não é afetado por condições e ataques físicos. Não tem um corpo físico. Porém, tipos de dano da categoria “Energético” ou danos causados por prata afetam o Espírito.
-
-## Ativas
-
-**Grito da Natureza:** Chama a atenção do Senhor da Floresta.
-
-**Respeito da Floresta:** -1 de Estresse para o alvo.
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 120–121.
+```statblock
+layout: Vales Bestiário
+name: Germinante
+tipo: Espírito
+grau: 0
+hp: 10
+pe: Não informado no livro.
+armadura: 0
+esquiva: 10
+atributos:
+- 0
+- 1
+- 0
+- 0
+- 0
+pericias:
+- name: Perícias
+  desc: '- Resistência +5'
+traits:
+- name: Espírito (Passiva)
+  desc: Não é afetado por condições e ataques físicos. Não tem um corpo físico. Porém, tipos de dano da categoria
+    “Energético” ou danos causados por prata afetam o Espírito.
+actions:
+- name: Grito da Natureza
+  desc: Chama a atenção do Senhor da Floresta.
+- name: Respeito da Floresta
+  desc: -1 de Estresse para o alvo.
+fraquezas:
+- name: Fonte
+  desc: Livro de Regras dos Vales, pp. 120–121.
+- name: Observações
+  desc: Não informadas no livro.
+```

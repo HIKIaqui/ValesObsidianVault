@@ -110,6 +110,174 @@
         }
       ],
       "id": "9a3b98aae9e8"
+    },
+    {
+      "name": "Vales Bestiário",
+      "blocks": [
+        {
+          "type": "heading",
+          "id": "abfa09fb3a2b",
+          "properties": [
+            "name"
+          ],
+          "size": 1,
+          "fallback": "-",
+          "conditioned": false,
+          "hasRule": false
+        },
+        {
+          "type": "property",
+          "id": "a8284aeba9d9",
+          "properties": [
+            "tipo"
+          ],
+          "fallback": "-",
+          "display": "Tipo de Criatura",
+          "hasRule": false,
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "faba29799a69",
+          "properties": [
+            "grau"
+          ],
+          "fallback": "-",
+          "display": "Grau de Perigo",
+          "hasRule": true,
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "vales-habitat",
+          "properties": [
+            "habitat"
+          ],
+          "display": "Habitat",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "vales-afiliacao",
+          "properties": [
+            "afiliacao"
+          ],
+          "display": "Afiliação",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "987bc9785938",
+          "properties": [
+            "hp"
+          ],
+          "fallback": "-",
+          "display": "PV",
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "2b59b9c81868",
+          "properties": [
+            "pe"
+          ],
+          "fallback": "-",
+          "display": "PE",
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "4bc8089a195b",
+          "properties": [
+            "armadura"
+          ],
+          "fallback": "-",
+          "display": "Armadura",
+          "markdown": true
+        },
+        {
+          "type": "property",
+          "id": "685af94a29ea",
+          "properties": [
+            "esquiva"
+          ],
+          "fallback": "-",
+          "display": "Esquiva",
+          "hasRule": true,
+          "markdown": true
+        },
+        {
+          "type": "table",
+          "id": "aa684bcacb5b",
+          "properties": [
+            "atributos"
+          ],
+          "headers": [
+            "Constituição",
+            "Agilidade",
+            "Mente",
+            "Social",
+            "Sorte"
+          ],
+          "calculate": false,
+          "fallback": "-"
+        },
+        {
+          "type": "traits",
+          "id": "vales-pericias",
+          "properties": [
+            "pericias"
+          ],
+          "heading": "Perícias",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "traits",
+          "id": "29196998f848",
+          "properties": [
+            "traits"
+          ],
+          "heading": "Passivas",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "traits",
+          "id": "09fb49eb89f9",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Ações e Ataques",
+          "markdown": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "vales-fraquezas",
+          "properties": [
+            "fraquezas"
+          ],
+          "heading": "Fraquezas",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "traits",
+          "id": "vales-observacoes",
+          "properties": [
+            "observacoes"
+          ],
+          "heading": "Observações da Ficha",
+          "conditioned": true,
+          "markdown": true
+        }
+      ],
+      "id": "2b9a3b584a78",
+      "columns": 1,
+      "diceParsing": []
     }
   ],
   "default": "basic-5e-layout",
