@@ -342,46 +342,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "89d63afb888a448f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "55d6ba7bb75f2833",
-        "type": "window",
-        "children": [
-          {
-            "id": "aa7655a98e636fea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b49e9a7e6d753a16",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/pt-BR/account/publish",
-                    "title": "Account - Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Account - Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b49e9a7e6d753a16",
+  "active": "90e470e46dd3c250",
   "lastOpenFiles": [
     "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
     "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
