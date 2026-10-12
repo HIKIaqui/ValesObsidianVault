@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
+                "file": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ações"
+              "title": "Atributos e Perícias"
             }
           }
         ]
@@ -331,11 +331,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
+    "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md",
+    "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
     "13 - SISTEMA DE RPG/Combate/Cobertura.md",
     "13 - SISTEMA DE RPG/Combate/Início do Combate.md",
-    "13 - SISTEMA DE RPG/Combate/Ações/Ações.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md",
@@ -361,8 +363,6 @@
     "04 - Criaturas e Bestiário/Monstro/Constructo/O Guarda.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo Magnético.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Broto.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Barreira de Cobre - M2.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Torturado.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0",
     "Sem título 1.base",

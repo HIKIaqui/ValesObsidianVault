@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Atributos e Perícias",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
+    },
+    {
+      "basename": "13 - SISTEMA DE RPG",
+      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
+    },
+    {
+      "basename": "Ataque de Oportunidade",
+      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md"
+    },
+    {
       "basename": "Ações",
       "path": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md"
     },
@@ -33,10 +45,6 @@
       "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md"
     },
     {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
-    },
-    {
       "basename": "Marcado",
       "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Marcado.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Homepage",
       "path": "98 - Dev/Homepage.canvas"
-    },
-    {
-      "basename": "13 - SISTEMA DE RPG",
-      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
     },
     {
       "basename": "Escarniçador",
@@ -195,10 +199,6 @@
     {
       "basename": "Bandagem",
       "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Bandagem.md"
-    },
-    {
-      "basename": "Analgésicos",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Analgésicos.md"
     }
   ],
   "omittedPaths": [],
