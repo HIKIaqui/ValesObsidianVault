@@ -23,7 +23,8 @@
             "tipo"
           ],
           "fallback": "-",
-          "display": "Tipo de Criatura"
+          "display": "Tipo de Criatura",
+          "hasRule": false
         },
         {
           "type": "property",
@@ -32,7 +33,8 @@
             "grau"
           ],
           "fallback": "-",
-          "display": "Grau de Perigo"
+          "display": "Grau de Perigo",
+          "hasRule": true
         },
         {
           "type": "property",
@@ -68,34 +70,43 @@
             "esquiva"
           ],
           "fallback": "-",
-          "display": "Esquiva"
+          "display": "Esquiva",
+          "hasRule": true
         },
         {
-          "type": "property",
-          "id": "e9382b2929ea",
+          "type": "table",
+          "id": "aa684bcacb5b",
           "properties": [
             "atributos"
           ],
-          "fallback": "-",
-          "display": "Atributos"
+          "headers": [
+            "Constituição",
+            "Agilidade",
+            "Mente",
+            "Social",
+            "Sorte"
+          ],
+          "calculate": false,
+          "fallback": "-"
         },
         {
-          "type": "property",
-          "id": "580bea4b38d9",
+          "type": "traits",
+          "id": "29196998f848",
           "properties": [
             "traits"
           ],
           "fallback": "-",
-          "display": "Características Únicas"
+          "heading": "Características Únicas",
+          "conditioned": false
         },
         {
-          "type": "property",
-          "id": "181b69fae8eb",
+          "type": "traits",
+          "id": "09fb49eb89f9",
           "properties": [
             "actions"
           ],
           "fallback": "-",
-          "display": "Ações e Ataques"
+          "heading": "Ações e Ataques"
         }
       ],
       "id": "9a3b98aae9e8"
@@ -105,14 +116,14 @@
   "useDice": true,
   "renderDice": false,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 10,
     "patch": 3
   },
   "paths": [
-    "/"
+    "04 - Criaturas e Bestiário"
   ],
   "autoParse": false,
   "disableSRD": true,
