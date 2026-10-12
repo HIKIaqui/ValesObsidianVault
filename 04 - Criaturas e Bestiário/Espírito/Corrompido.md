@@ -32,7 +32,7 @@ Suas ações são todas puramente por instinto, devido a sua incapacidade de rac
 
 # Perícias
 
-Não informadas no livro.
+Nenhuma
 
 ---
 # Habilidades
