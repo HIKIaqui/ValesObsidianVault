@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
             "id": "66df7d7cda5ef346",
             "type": "leaf",
             "state": {
@@ -32,13 +22,30 @@
             }
           },
           {
-            "id": "90e470e46dd3c250",
+            "id": "b6c537201e2168cc",
             "type": "leaf",
             "state": {
-              "type": "obsidian-leaflet-map-view",
+              "type": "canvas",
+              "state": {
+                "file": "98 - Dev/Homepage.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -290,
+                  "zoom": -0.9924820307159838
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "f43b4bd3cdc8444a",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt-dashboard",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
+              "icon": "home",
+              "title": "Atlas dashboard"
             }
           }
         ],
@@ -76,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:magia/natural",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +226,6 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -339,11 +345,33 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "atlas-vtt:Display image on player view": false
     }
   },
-  "active": "90e470e46dd3c250",
+  "active": "f43b4bd3cdc8444a",
   "lastOpenFiles": [
+    "atlas-vtt/system-presets/Vales.json",
+    "atlas-vtt/system-presets",
+    "atlas-vtt/assets/thumbnails/Occultist_1791776616627_5kxhbm-9c341e03.webp",
+    "atlas-vtt/assets/thumbnails/Assassin_1791776616615_pdvcg5-b998018b.webp",
+    "atlas-vtt/assets/thumbnails/Knight_1791776616604_hwoj2o-928a2821.webp",
+    "atlas-vtt/assets/thumbnails/Wizard_1791776616593_zwmlzh-49cfee6b.webp",
+    "atlas-vtt/assets/thumbnails/Warlock_1791776616580_h2ejj8-991fc970.webp",
+    "atlas-vtt/assets/thumbnails/Rogue_1791776616568_ix366z-07f0cb34.webp",
+    "atlas-vtt/assets/thumbnails/Ranger_1791776616556_hw82lz-0cde2391.webp",
+    "atlas-vtt/assets/thumbnails/Paladin_1791776616543_h73jbt-5cfc6538.webp",
+    "atlas-vtt/assets/thumbnails/Cleric_1791776616519_kzps15-8e1de808.webp",
+    "atlas-vtt/assets/thumbnails/Fighter_1791776616531_t5z8bw-77d8d7fb.webp",
+    "atlas-vtt/assets/thumbnails",
+    "atlas-vtt/collections/Default/tokens/token-starter-occultist.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-assassin.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-knight.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-wizard.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-warlock.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-rogue.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-ranger.json",
+    "atlas-vtt/collections/Default/tokens/token-starter-paladin.json",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
     "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md",
@@ -362,10 +390,7 @@
     "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md",
     "07 - Contratos/07 - Contratos.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Sem título",
     "98 - Dev/Homepage.canvas",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes",
-    "13 - SISTEMA DE RPG/Personagem Jogável",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
@@ -373,14 +398,6 @@
     "04 - Criaturas e Bestiário/Monstro/Constructo/Ent.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/O Guarda.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo Magnético.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Broto.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0",
-    "Sem título 1.base",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1",
-    "10 - Itens, Artefatos, Tecnologia/Armas/Por Raridade/0 - Lixo",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

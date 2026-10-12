@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "id": "50f4c38b-93e5-492e-bb9f-36ac052c5624",
+  "name": "Vales",
+  "builtIn": false,
+  "rules": {
+    "gridDefaults": {
+      "unitType": "feet",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "abstractRangeBands": [],
+      "diagonalRule": "equidistant"
+    },
+    "conditions": [],
+    "defaultWidgets": {},
+    "dice": {
+      "defaultRoll": "1d20",
+      "crit": "natural"
+    },
+    "initiative": {
+      "mode": "turn-order",
+      "roll": "1d20",
+      "firstSide": "players"
+    },
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false
+      }
+    ],
+    "senses": [
+      {
+        "id": "darkvision",
+        "name": "Darkvision",
+        "description": "Sees in the dark within its range, in shades of grey.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "normal",
+          "dark": "as-dim",
+          "magicalDark": "none"
+        },
+        "look": "monochrome",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": false,
+        "worksWhileBlinded": false,
+        "range": "required",
+        "role": "darkvision"
+      },
+      {
+        "id": "low-light-vision",
+        "name": "Low-light vision",
+        "description": "Sees in dim light as well as in bright light.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "none",
+          "magicalDark": "none"
+        },
+        "look": "colour",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": false,
+        "worksWhileBlinded": false,
+        "range": "unlimited"
+      },
+      {
+        "id": "blindsight",
+        "name": "Blindsight",
+        "description": "Perceives everything within its range without light, invisible creatures too. Walls stop it.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": true,
+        "worksWhileBlinded": true,
+        "range": "required"
+      },
+      {
+        "id": "tremorsense",
+        "name": "Tremorsense",
+        "description": "Feels creatures on the ground within its range, through walls. They show as outlines.",
+        "lineOfSight": false,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "creatures",
+        "precise": false,
+        "seesInvisible": true,
+        "worksWhileBlinded": true,
+        "range": "required",
+        "ignores": "airborne",
+        "role": "tremorsense"
+      },
+      {
+        "id": "truesight",
+        "name": "Truesight",
+        "description": "Sees in any darkness within its range, and invisible creatures.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": true,
+        "worksWhileBlinded": false,
+        "range": "required"
+      },
+      {
+        "id": "see-invisible",
+        "name": "See invisible",
+        "description": "Sees invisible creatures wherever its eyes see.",
+        "grants": "see-invisible",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "none",
+          "dim": "none",
+          "dark": "none",
+          "magicalDark": "none"
+        },
+        "look": "colour",
+        "reveals": "creatures",
+        "precise": false,
+        "seesInvisible": false,
+        "worksWhileBlinded": false,
+        "range": "unlimited"
+      }
+    ],
+    "lightPresets": [
+      {
+        "id": "candle",
+        "name": "Candle",
+        "unit": "squares",
+        "bright": 1,
+        "dim": 2,
+        "color": "#ffb347",
+        "animation": "candle",
+        "kind": "candle",
+        "sourceRadius": 1,
+        "intensity": 0.9
+      },
+      {
+        "id": "torch",
+        "name": "Torch",
+        "unit": "squares",
+        "bright": 4,
+        "dim": 8,
+        "color": "#ff9a3c",
+        "animation": "torch",
+        "kind": "torch",
+        "sourceRadius": 2
+      },
+      {
+        "id": "lantern",
+        "name": "Lantern",
+        "unit": "squares",
+        "bright": 6,
+        "dim": 12,
+        "color": "#ffd28a",
+        "animation": "none",
+        "kind": "lantern",
+        "sourceRadius": 1.5
+      },
+      {
+        "id": "magical",
+        "name": "Magical light",
+        "unit": "squares",
+        "bright": 4,
+        "dim": 8,
+        "color": "#8fb8ff",
+        "animation": "magic",
+        "kind": "magical",
+        "sourceRadius": 2.5
+      },
+      {
+        "id": "darkness",
+        "name": "Darkness",
+        "unit": "squares",
+        "bright": 0,
+        "dim": 3,
+        "color": "#8f7cf0",
+        "animation": "none",
+        "darkness": true,
+        "kind": "darkness",
+        "sourceRadius": 1
+      }
+    ]
+  }
+}
