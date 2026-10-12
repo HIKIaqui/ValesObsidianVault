@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Fera/Lobo Selvagem.md",
+                "file": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lobo Selvagem"
+              "title": "Carnicida"
             }
           }
         ],
@@ -337,6 +337,10 @@
   },
   "active": "9f6b574ba0c1f679",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sangramento.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
+    "04 - Criaturas e Bestiário/Fera/Lobo Selvagem Alfa.md",
+    "04 - Criaturas e Bestiário/Fera/Lobo Selvagem.md",
     "04 - Criaturas e Bestiário/Monstro/Insectóide/Cintilante Jovem.md",
     "04 - Criaturas e Bestiário/Fera/Tatu de Canhão.md",
     "98 - Dev/Homepage.canvas",
@@ -380,10 +384,6 @@
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Praticante.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Médico de Campo.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Gatilheiro.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Rato da Cidade Secreta.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Errante Selvagem.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Mercenário.md",
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

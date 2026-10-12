@@ -8,23 +8,6 @@ tags:
 - Atritor
 statblock: inline
 ---
-**Nome popular:** Estalante (Chamado assim em lugares remotos)
-**Tipo:** [[Insectóide]]
-**Habitat:** Cavernas e Ecossistemas Subterrâneos
-**Grau de Perigo:** 1
-
-# Descrição 
-
-Inseto gigante (0,60m) de carapaça pesada e resistente, normalmente visto em ambiente subterrâneo. Tem corpo parecido com o de um tatu, mas presas e pernas como as de besouros. São lentos, mas compensam isso com sua resistência física e organização.
-
-Receberam o nome de “Atritor” devido ao movimento que fazem com suas presas, batendo-as uma contra a outra para fazer estalos, que servem como forma de comunicação com outros Atritores. Sua comunicação é primitiva, mas nunca deve ser subestimada. Em um instante você pode estar enfrentando um, e no outro, um ninho inteiro.
-
-A carapaça é resistente, mas seu corpo não.
-
-São a forma mais simples da família dos Atritores.
-
----
-# Ficha
 
 ```statblock
 layout: Vales Bestiário
@@ -72,3 +55,61 @@ fraquezas:
   desc: Usar fogo, eletricidade, ou apenas atrapalhar sua comunicação são as melhores forma de lidar com Atritores.
     Em locais com muito barulho, eles acabam por ter dificuldade para se comunicar.
 ```
+
+---
+
+**Nome popular:** Estalante (Chamado assim em lugares remotos)
+**Tipo:** [[Insectóide]]
+**Habitat:** Cavernas e Ecossistemas Subterrâneos
+**Grau de Perigo:** 1
+
+# Descrição 
+
+Inseto gigante (0,60m) de carapaça pesada e resistente, normalmente visto em ambiente subterrâneo. Tem corpo parecido com o de um tatu, mas presas e pernas como as de besouros. São lentos, mas compensam isso com sua resistência física e organização.
+
+Receberam o nome de “Atritor” devido ao movimento que fazem com suas presas, batendo-as uma contra a outra para fazer estalos, que servem como forma de comunicação com outros Atritores. Sua comunicação é primitiva, mas nunca deve ser subestimada. Em um instante você pode estar enfrentando um, e no outro, um ninho inteiro.
+
+A carapaça é resistente, mas seu corpo não.
+
+São a forma mais simples da família dos Atritores.
+
+---
+# Status
+
+**PV:** 25
+**Armadura:** 3
+**Esquiva:** 9
+**PE:** 2
+
+# Atributos
+
+**Constituição:** 1  
+**Agilidade:** 1
+**Mente:** 1  
+**Social:** 1  
+**Sorte:** 0
+
+# Perícias
+
+- Percepção +5
+- Reflexos +2
+
+---
+# HABILIDADES
+
+**Rede de Cliques (Passiva):** Para cada outro Atritor no campo de batalha, recebe +1 Porrada.
+
+[^1]**Formação Defensiva (Passiva):** Quando em combate e na mesma Casa que um ou mais aliados também com esta habilidade, estes se protegem. O dano recebido por um é dividido para todos com a habilidade, incluindo o que sofreu o golpe. A redução de armadura é aplicada para cada um dos atritores.
+
+**Rasgar:** Porrada | Precisão 0 | Dano 2d4 Cortante | Crítico 19+ | Recebe +1 Precisão para cada Atritor que atacou o alvo nesse turno.
+
+**Mordida de Pressão:** 2 PE | Porrada | Precisão -1 | Dano 2d4 Perfurante | Crítico 20 | Recebe +1 Precisão e +1d2 Dano para cada Atritor que atacou o alvo nesse turno.
+
+---
+### FRAQUEZAS
+
+Usar fogo, eletricidade, ou apenas atrapalhar sua comunicação são as melhores forma de lidar com Atritores. Em locais com muito barulho, eles acabam por ter dificuldade para se comunicar.
+
+**Sensibilidade a Luz (Passiva):** É altamente sensível a luzes fortes (Recebe -5 para todos os testes quando sob efeito.).
+
+[^1]: Do dano total, caso não possa ser dividido perfeitamente, o valor inteiro que sobrar após divisão é aplicado somente ao alvo original. Valores decimais são descartados
