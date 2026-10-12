@@ -294,22 +294,6 @@
         ]
       },
       {
-        "id": "b3dd7300770bf2c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e134a5810a9df787",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
-            }
-          }
-        ]
-      },
-      {
         "id": "7793f9c695b9defe",
         "type": "tabs",
         "children": [
@@ -346,11 +330,14 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "calendarium:Open Calendarium": false,
-      "atlas-vtt:Display image on player view": false
+      "atlas-vtt:Display image on player view": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "f43b4bd3cdc8444a",
   "lastOpenFiles": [
+    "Sem título 2.base",
+    "98 - Dev/Homepage.canvas",
     "atlas-vtt/system-presets/Vales.json",
     "atlas-vtt/system-presets",
     "atlas-vtt/assets/thumbnails/Occultist_1791776616627_5kxhbm-9c341e03.webp",
@@ -370,8 +357,6 @@
     "atlas-vtt/collections/Default/tokens/token-starter-wizard.json",
     "atlas-vtt/collections/Default/tokens/token-starter-warlock.json",
     "atlas-vtt/collections/Default/tokens/token-starter-rogue.json",
-    "atlas-vtt/collections/Default/tokens/token-starter-ranger.json",
-    "atlas-vtt/collections/Default/tokens/token-starter-paladin.json",
     "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
     "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
     "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md",
@@ -390,7 +375,6 @@
     "13 - SISTEMA DE RPG/Atributos e Perícias/Social.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Herói.md",
     "07 - Contratos/07 - Contratos.md",
-    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Escarniçador.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau2/Carniceiro.md",
     "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",

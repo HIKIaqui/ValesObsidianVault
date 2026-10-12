@@ -11,7 +11,29 @@
     }
   },
   "settings": {
-    "conditions": [],
+    "conditions": [
+      {
+        "id": "9d062522-7b3d-49f2-8579-de09c3487292",
+        "name": "Sangramento",
+        "color": "#fe0606",
+        "icon": "drop",
+        "valued": true
+      },
+      {
+        "id": "4159d336-5491-4263-8a92-781841759606",
+        "name": "Náusea",
+        "color": "#56b418",
+        "icon": "vomiting",
+        "valued": true
+      },
+      {
+        "id": "a8851aff-1b27-420c-9501-21a23ba297ab",
+        "name": "Atordoado",
+        "color": "#f58505",
+        "icon": "star",
+        "valued": true
+      }
+    ],
     "resources": [
       {
         "key": "hp",
@@ -20,10 +42,24 @@
         "direction": "drains",
         "color": "#22c55e",
         "defeatedWhenSpent": true,
-        "visibleToPlayers": false
+        "visibleToPlayers": false,
+        "slot": 0
       }
-    ]
+    ],
+    "gridDefaults": {
+      "unitType": "custom",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "abstractRangeBands": [],
+      "diagonalRule": "equidistant"
+    },
+    "defaultWidgets": {
+      "initiativeTracker": true
+    },
+    "customCreatureFilters": [],
+    "hiddenCreatureFilters": [],
+    "lootBases": []
   },
   "createdAt": 0,
-  "modifiedAt": 1791776616496
+  "modifiedAt": 1791777567913
 }

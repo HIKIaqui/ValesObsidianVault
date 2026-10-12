@@ -5,6 +5,10 @@
       "path": "98 - Dev/Homepage.canvas"
     },
     {
+      "basename": "Sem título 2",
+      "path": "Sem título 2.base"
+    },
+    {
       "basename": "Atributos e Perícias",
       "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Filete de Carne Seca",
       "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Filete de Carne Seca.md"
-    },
-    {
-      "basename": "Bandagem",
-      "path": "10 - Itens, Artefatos, Tecnologia/Consumíveis/Por Raridade/1 - Comum/Bandagem.md"
     }
   ],
   "omittedPaths": [],

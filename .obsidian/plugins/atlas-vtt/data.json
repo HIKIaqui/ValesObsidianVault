@@ -5,7 +5,8 @@
   "onboarding": {
     "enabled": true,
     "completed": {
-      "assets": true
+      "assets": true,
+      "lootSettings": true
     },
     "tokenImported": false
   },
