@@ -9,7 +9,7 @@
           "type": "heading",
           "id": "abfa09fb3a2b",
           "properties": [
-            "nome"
+            "name"
           ],
           "size": 1,
           "fallback": "-",
@@ -125,7 +125,7 @@
   "paths": [
     "04 - Criaturas e Bestiário"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false,

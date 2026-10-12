@@ -2,6 +2,7 @@
 tags:
   - Espírito
   - Grau1
+statblock: inline
 ---
 **Tipo:** Espírito
 **Grau de Perigo:** 1
