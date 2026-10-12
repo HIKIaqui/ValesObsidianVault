@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66df7d7cda5ef346",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://atlas-vtt.dev/docs/start/install",
-                "title": "Install Atlas · Atlas VTT for Obsidian",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Install Atlas · Atlas VTT for Obsidian"
-            }
-          },
-          {
-            "id": "b6c537201e2168cc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -31,49 +17,14 @@
                 "viewState": {
                   "x": -20,
                   "y": -290,
-                  "zoom": -0.9924820307159838
+                  "zoom": -1.0381889698317455
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "f43b4bd3cdc8444a",
-            "type": "leaf",
-            "state": {
-              "type": "atlas-vtt-dashboard",
-              "state": {},
-              "icon": "home",
-              "title": "Atlas dashboard"
-            }
-          },
-          {
-            "id": "929579ec0d87abaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Corrompido"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,6 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -353,15 +305,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
       "atlas-vtt:Display image on player view": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "929579ec0d87abaa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
+    "98 - Dev/Homepage.canvas",
     "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md",
     "13 - SISTEMA DE RPG/Bestiário do Statblocks/aaaaa.md",
     "13 - SISTEMA DE RPG/Bestiário do Statblocks",
