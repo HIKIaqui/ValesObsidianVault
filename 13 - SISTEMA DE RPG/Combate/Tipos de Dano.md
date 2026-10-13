@@ -11,20 +11,20 @@ Tipos de dano determinam interações com resistências, criaturas e equipamento
 
 ## Físico Comum
 
-- **Cortante:** golpes de corte com lâminas; comum em armas de Técnica e algumas de Porrada.
-- **Impacto:** golpes contundentes; comum em Porrada e bastões longos.
-- **Perfurante:** golpes perfurantes; comum em Mira, lanças e outras armas especializadas.
+- **Cortante:** golpes de corte com lâminas; comum em armas de [[Agilidade|Técnica]] e algumas de [[Constituição|Porrada]].
+- **Impacto:** golpes contundentes; comum em [[Constituição|Porrada]] e bastões longos.
+- **Perfurante:** golpes perfurantes; comum em [[Agilidade|Mira]], lanças e outras armas especializadas.
 
 ## Físico Especial
 
 - **Calor:** queimaduras por calor e eletricidade.
 - **Frio:** queimaduras e congelamento por frio.
 - **Químico:** queimaduras por substâncias tóxicas ou ácidas.
-- **Vital:** dano interno causado por magia vital ou problemas internos. Ignora Armadura.
+- **Vital:** dano interno causado por magia vital ou problemas internos. Ignora [[Armaduras|Armadura]].
 
 ## Energéticos
 
-Danos Energéticos ignoram Armadura e não causam [[Ferimentos Permanentes]], observadas as exceções descritas para cada tipo.
+Danos Energéticos ignoram [[Armaduras|Armadura]] e não causam [[Ferimentos Permanentes]], observadas as exceções descritas para cada tipo.
 
 - **Espiritual:** dano à alma, principalmente de espíritos. Pode atingir espíritos. Não ignora Armadura feita de prata.
 - **Sagrado:** dano à alma causado por poderes de deuses. Ignora Armadura.

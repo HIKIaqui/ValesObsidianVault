@@ -24,11 +24,11 @@ Nessa situação:
 
 ## Tipos de Cicatriz
 
-| Tipo | Descrição | Efeito Geral |
-| --- | --- | --- |
-| **Leve** | Ferimentos superficiais ou estéticos. Normalmente 6 ou 5 no dado. | Sem impacto mecânico. Efeito narrativo. |
-| **Média** | Ferimentos graves que afetam funções físicas. Normalmente 4 ou 3 no dado. | Penalidades temporárias até cicatrizar: Resistência (Dif. 15) em descanso prolongado. Depois, talvez deixe um efeito menor permanente. |
-| **Pesada** | Ferimentos irreversíveis. Normalmente 2 ou 1 no dado. | Fortes efeitos permanentes; um Trauma normalmente acompanha. |
+| Tipo       | Descrição                                                                 | Efeito Geral                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Leve**   | Ferimentos superficiais ou estéticos. Normalmente 6 ou 5 no dado.         | Sem impacto mecânico. Efeito narrativo.                                                                                                |
+| **Média**  | Ferimentos graves que afetam funções físicas. Normalmente 4 ou 3 no dado. | Penalidades temporárias até cicatrizar: Resistência (Dif. 15) em descanso prolongado. Depois, talvez deixe um efeito menor permanente. |
+| **Pesada** | Ferimentos irreversíveis. Normalmente 2 ou 1 no dado.                     | Fortes efeitos permanentes; um Trauma normalmente acompanha.                                                                           |
 
 ## Tabelas de Ferimentos
 

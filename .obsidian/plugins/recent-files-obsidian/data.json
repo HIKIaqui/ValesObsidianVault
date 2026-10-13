@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Ferimentos Permanentes",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Ferimentos Permanentes.md"
+    },
+    {
+      "basename": "Tipos de Dano",
+      "path": "13 - SISTEMA DE RPG/Combate/Tipos de Dano.md"
+    },
+    {
+      "basename": "Armaduras",
+      "path": "13 - SISTEMA DE RPG/Equipamento/Armaduras.md"
+    },
+    {
+      "basename": "Dano",
+      "path": "13 - SISTEMA DE RPG/Combate/Dano.md"
+    },
+    {
+      "basename": "Pontos de Vida",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Pontos de Vida.md"
+    },
+    {
+      "basename": "Atributos e Perícias",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
+    },
+    {
+      "basename": "13 - SISTEMA DE RPG",
+      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
+    },
+    {
+      "basename": "Descanso e Recuperação",
+      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Descanso e Recuperação.md"
+    },
+    {
+      "basename": "Combate",
+      "path": "13 - SISTEMA DE RPG/Combate/Combate.md"
+    },
+    {
       "basename": "Molhado",
       "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Molhado.md"
     },
@@ -13,16 +49,8 @@
       "path": "13 - SISTEMA DE RPG/Começando a Jogar/Introdução ao Sistema.md"
     },
     {
-      "basename": "13 - SISTEMA DE RPG",
-      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
-    },
-    {
       "basename": "Porta da Morte",
       "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas/Porta da Morte.md"
-    },
-    {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
     },
     {
       "basename": "Agilidade",
@@ -171,34 +199,6 @@
     {
       "basename": "Cintilante Jovem",
       "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Cintilante Jovem.md"
-    },
-    {
-      "basename": "Tatu de Canhão",
-      "path": "04 - Criaturas e Bestiário/Fera/Tatu de Canhão.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.canvas"
-    },
-    {
-      "basename": "Afogador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Afogador.md"
-    },
-    {
-      "basename": "Monstro",
-      "path": "04 - Criaturas e Bestiário/Monstro/Monstro.md"
-    },
-    {
-      "basename": "Fera",
-      "path": "04 - Criaturas e Bestiário/Fera/Fera.md"
-    },
-    {
-      "basename": "04 - Criaturas e Bestiário",
-      "path": "04 - Criaturas e Bestiário/04 - Criaturas e Bestiário.md"
-    },
-    {
-      "basename": "Espírito",
-      "path": "04 - Criaturas e Bestiário/Espírito/Espírito.md"
     }
   ],
   "omittedPaths": [],
