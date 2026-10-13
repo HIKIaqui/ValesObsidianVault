@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Onçaclope",
+      "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
+    },
+    {
+      "basename": "Lobo Selvagem Alfa",
+      "path": "04 - Criaturas e Bestiário/Fera/Lobo Selvagem Alfa.md"
+    },
+    {
+      "basename": "Macaco Artilheiro",
+      "path": "04 - Criaturas e Bestiário/Fera/Macaco Artilheiro.md"
+    },
+    {
       "basename": "Testemunha da Culpa",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior/Testemunha da Culpa.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Magia no Sistema",
       "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia no Sistema.md"
-    },
-    {
-      "basename": "Elemental no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Elemental no Sistema.md"
-    },
-    {
-      "basename": "Magia Mortal",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
-    },
-    {
-      "basename": "Magia Vital",
-      "path": "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md"
     }
   ],
   "omittedPaths": [],
