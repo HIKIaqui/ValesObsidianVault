@@ -1,3 +1,7 @@
+---
+aliases:
+- Ordem de Turnos
+---
 # Iniciativa
 
 No início do combate, todos fazem um teste de [[Agilidade|Reflexos]].

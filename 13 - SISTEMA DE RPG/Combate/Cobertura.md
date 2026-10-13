@@ -1,3 +1,8 @@
+---
+aliases:
+- Cobertura Leve
+- Cobertura Absoluta
+---
 Coberturas são obstáculos que protegem personagens durante o combate. Um nível de distância pode possuir uma ou mais coberturas.
 
 ## Tipos de Cobertura

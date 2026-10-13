@@ -1,5 +1,7 @@
-# Magia Mortal no Sistema
-
+---
+aliases:
+- Sev
+---
 Magia Mortal manipula Mana e seu comportamento. As conjurações utilizam os métodos e as runas de [[Magia no Sistema]].
 
 ## Feitiços

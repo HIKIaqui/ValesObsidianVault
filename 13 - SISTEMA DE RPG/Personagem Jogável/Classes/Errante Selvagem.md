@@ -1,3 +1,27 @@
+---
+aliases:
+- Um com a Natureza
+- Parceiro Animal
+- Faca Curva de Osso
+- Arco Curto de Caça
+- Capa de Peles e Folhagem
+- Bolsa de Ervas
+- Troféu de Predador
+- Sumir em Vista
+- Predador das Sombras
+- Predador Oportunista
+- Cercar
+- Laço Profundo
+- Olhos do Noturno
+- Caçador de Cabeças
+- Domador Experiente
+- Lar Verde
+- Matilha
+- Reflexos de Presa
+- Somos Um
+- Acônito (Ação Livre)
+- Conhecedor das Linhas
+---
 Viveu afastado da sociedade durante maior parte da vida. A natureza dos Vales pode ser cruel, mas você se adaptou a ela. Se tornou parte dela.
 
 ## Características Únicas a Escolher

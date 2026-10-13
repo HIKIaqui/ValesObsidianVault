@@ -1,3 +1,11 @@
+---
+aliases:
+- Traços Positivos
+- Traços De Dois Gumes
+- Traços Legados
+- Legados
+- Legado
+---
 Traços representam capacidades, comportamentos e características marcantes de um personagem.
 
 Diferente de [[Atributos e Perícias|Atributos e Perícias]], Traços não representam apenas capacidade geral ou treinamento. Cada Traço possui um efeito próprio, capaz de alterar regras, conceder vantagens ou criar novas possibilidades em situações específicas.

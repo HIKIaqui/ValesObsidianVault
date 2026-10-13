@@ -1,5 +1,10 @@
-# Métodos de Conjuração
-
+---
+aliases:
+- Lac
+- Arun
+- Runde
+- Sil
+---
 Métodos definem a forma de liberar o efeito de uma conjuração.
 
 | Método | Custo | Efeito |

@@ -1,5 +1,11 @@
-# Magia Natural no Sistema
-
+---
+aliases:
+- Causalis
+- Zera
+- Retorn
+- Entropo
+- Gravi
+---
 Magia Natural altera regras naturais como gravidade e tempo, permitindo controle do campo de batalha e usos fora de combate.
 
 ## Feitiços

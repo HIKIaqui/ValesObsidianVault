@@ -1,3 +1,22 @@
+---
+aliases:
+- Matador Eficiente
+- Arsenal Vivo
+- Besta Compacta
+- Espada Retrátil
+- Casaco de Couro com Compartimentos
+- Machadinha
+- Kit de Utilidades
+- Ferramenta Fresca
+- Finalizador
+- Nada Pessoal
+- Sem Saída
+- Olho Clínico
+- Dança da Faca
+- Exército de um Homem só
+- Brutalizar
+- Sequência Mortal
+---
 Você é oportunista, e não tem a menor vergonha disso. Aprendeu que vencer não é sobre técnica perfeita, mas sobre fazer o que precisa ser feito antes de morrer. Você não é o herói dessa história, mas quem sobra no final.
 
 **Foco da Classe:** Adaptação, leitura de ameaças e controle de ameaça.

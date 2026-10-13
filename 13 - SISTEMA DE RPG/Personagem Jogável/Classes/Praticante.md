@@ -1,3 +1,20 @@
+---
+aliases:
+- Acostumado a Mana
+- Sobrecarga de Mana
+- Inscrição Bruta
+- Bastão Longo Runado
+- Veste Alquímica
+- Frasco de Cristal
+- Pedra de Mana Pequena
+- Escola de Magia
+- Tatuagem de Runa
+- Escrita Viva
+- Precisão Mágica
+- Absorver Mana
+- Mana Potente
+- Ritual de Encantamento
+---
 Palavras mágicas tem poder, mas também tem um custo ainda maior. Você passou a vida estudando e praticando elas, buscando controle. Será que valeu a pena?
 
 ## Características Únicas a Escolher

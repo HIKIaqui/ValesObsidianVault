@@ -1,3 +1,20 @@
+---
+aliases:
+- Psicologia Prática
+- Bisturi Reforçado
+- Kit de Primeiros Socorros
+- Jaleco Médico
+- Ampola de Láudano
+- Ampola de Anestésico
+- Fabricação de Ampola
+- Abrir Ferida
+- Socorro Imediato
+- Especialista do Corpo Humano
+- Agilidade Clínica
+- Salvar e Reposicionar
+- Segurar Firme
+- Além do Limite
+---
 Você sabe salvar vidas como ninguém. Já encarou a morte no olho diversas vezes e negou sua entrada. Você sabe o que deve fazer, e ninguém vai te impedir.
 
 ## Características Únicas a Escolher

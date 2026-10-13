@@ -1,5 +1,15 @@
-# Magia Física no Sistema
-
+---
+aliases:
+- Pyr
+- Elek
+- Aqua
+- Lux
+- Umbra
+- Glac
+- Kaer
+- Silv
+- Petre
+---
 Magia Física cria e manipula elementos da natureza.
 
 Adicionar a sílaba **in** antes do feitiço permite manipular o elemento existente em vez de criá-lo, reduzindo o custo de Mana pela metade.

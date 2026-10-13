@@ -1,5 +1,10 @@
-# Magia Vital no Sistema
-
+---
+aliases:
+- Pres
+- Nov
+- Kliés
+- Roet
+---
 Magia Vital manipula vida biológica e os elementos que a compõem.
 
 Aceita apenas Mana Vital, produzida a partir de sangue e compostos orgânicos de seres vivos. Usar outros tipos de Mana pode produzir resultados inesperados.

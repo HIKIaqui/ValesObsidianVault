@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Características Únicas
-  - Característica Única
+- Características Únicas
+- Característica Única
+- Características de Classe
 ---
 
 # Características

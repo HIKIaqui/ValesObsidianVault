@@ -1,3 +1,14 @@
+---
+aliases:
+- Material Flexível
+- Estrutura Rígida
+- Reagente Curativo
+- Reagente Tóxico
+- Condutor Mágico
+- Desinfetante
+- Estimulante
+- Catalisador
+---
 # Receitas e Matérias-Primas
 
 Todo material possui um tipo de matéria que determina o que pode ser feito com ele. Receitas pedem matérias, não itens específicos.

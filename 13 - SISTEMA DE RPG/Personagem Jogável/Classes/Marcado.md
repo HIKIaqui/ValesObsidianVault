@@ -1,3 +1,9 @@
+---
+aliases:
+- Golpe Amaldiçoado
+- Aceitar Maldição
+- Mártir
+---
 _[A definir: descrição da classe.]_
 
 ## Características Únicas a Escolher

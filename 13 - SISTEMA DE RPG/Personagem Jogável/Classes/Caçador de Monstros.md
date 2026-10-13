@@ -1,3 +1,22 @@
+---
+aliases:
+- Predador de Predadores
+- Treinamento Brutal
+- Arco Rúnico Leve
+- Espada Curta de Prata
+- Uniforme de Caçador
+- Contos dos Vales por Elgor
+- Guia do Caçador por Elgor
+- Dessensibilizado
+- Equilíbrio
+- Emboscada
+- Peso da Sobrevivência
+- Outro Dia
+- Medo como Arma
+- Sobrevivente
+- Não Acaba Aqui
+- Otimização Elemental
+---
 Você sobreviveu ao inferno do treinamento para se tornar uma arma viva. Aprendeu que força não vence monstros, mas velocidade, precisão e instinto sim. Você não é só um lutador. Você é um predador entre predadores.
 
 **Foco da Classe:** Preparo e rápida finalização do combate enquanto usa armas de prata e técnicas elementais.

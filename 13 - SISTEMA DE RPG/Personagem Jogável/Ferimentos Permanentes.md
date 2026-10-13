@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Ferimento Permanente
-  - Cicatrizes
-  - Cicatriz
+- Ferimento Permanente
+- Cicatrizes
+- Cicatriz
+- Corte superficial
+- Pele Rasgada
+- Tendão Cortado
+- Músculo Rasgado
+- Dedos ou parte de membro cortados
+- Amputação Completa
+- Perfuração rasa
+- Ombro Atravessado
+- Ferimento Interno
+- Perna ou Braço Atravessados
+- Olho Perfurado
+- Órgão Perfurado
+- Hematomas
+- Costela Trincada
+- Maxilar Quebrado
+- Fratura Exposta
+- Membro Esmagado
+- Lesão Espinhal
+- Mancha Química
+- Pele Sensível
+- Membro Corroído
+- Rosto Parcialmente Derretido
+- Queimadura Profunda
+- Fusão de Tecido
+- Queimadura Leve
+- Queimadura no rosto ou mãos
+- Queimadura Média
+- Queimadura Severa
+- Desfiguração Facial
+- Carbonização Parcial
+- Pele ressecada e pálida
+- Dormência leve em dedos
+- Membro Parcialmente Congelado
+- Rigidez Muscular
+- Membro Congelado
+- Necrose Interna
+- Pulmão Machucado
+- Pulmão Danificado
+- Cicatriz Arcana Interna
+- Desalinhamento Nervoso
+- Estômago Comprometido
+- Dor Fantasma
+- Membro Fantasma
+- Pânico de Dor Interna
+- Medo de Imobilidade
+- Vergonha Corporal
+- Descaracterização
+- Insensibilidade a Dor
 ---
 # Ferimentos Permanentes
 

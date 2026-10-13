@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Personagem Jogável/Ferimentos Permanentes.md",
+                "file": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ferimentos Permanentes"
+              "title": "Magia Mortal"
             }
           }
         ],
@@ -335,8 +335,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9f6b574ba0c1f679",
+  "active": "ebd891c6986a5655",
   "lastOpenFiles": [
+    "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md",
+    "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Mortal no Sistema.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Vital no Sistema.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Natural no Sistema.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Física no Sistema.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Runas de Conjuração.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Métodos de Conjuração.md",
+    "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Ar/Chamado do Vendaval.md",
+    "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Obcecado.md",
+    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições e Efeitos.md",
+    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md",
+    "13 - SISTEMA DE RPG/Sobrenatural/Elemental no Sistema.md",
+    "13 - SISTEMA DE RPG/Personagem Jogável/Ferimentos Permanentes.md",
     "13 - SISTEMA DE RPG/Combate/Tipos de Dano.md",
     "13 - SISTEMA DE RPG/Equipamento/Armaduras.md",
     "13 - SISTEMA DE RPG/Combate/Dano.md",
@@ -349,22 +363,8 @@
     "13 - SISTEMA DE RPG/Começando a Jogar/Ficha de Personagem.md",
     "13 - SISTEMA DE RPG/Começando a Jogar/Introdução ao Sistema.md",
     "13 - SISTEMA DE RPG/Traços e Traumas/Traumas.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Runas de Conjuração.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Métodos de Conjuração.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Vital no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Natural no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Mortal no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Física no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Sagrado no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Os Quatro Poderes.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Mana no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Maldição no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia no Sistema.md",
     "13 - SISTEMA DE RPG/Sobrenatural/Magia",
-    "13 - SISTEMA DE RPG/Sobrenatural/Elemental no Sistema.md",
     "13 - SISTEMA DE RPG/Sobrenatural",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Estresse.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Pontos de Energia.md",
     "13 - SISTEMA DE RPG/Personagem Jogável/Recursos",
     "13 - SISTEMA DE RPG/Mestre",
     "13 - SISTEMA DE RPG/Equipamento",

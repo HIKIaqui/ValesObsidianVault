@@ -1,3 +1,23 @@
+---
+aliases:
+- Saque Rápido
+- Foco de Atirador
+- Revólver Caseiro
+- Fuzil de Ferrolho
+- Sobretudo de Couro
+- Luva de Repetição
+- Estojo de Ferramentas de Limpeza
+- Manutenção
+- Tiro Certeiro
+- Gatilho Veloz
+- Pulmão Vazio
+- Cadência Selvagem
+- Supressão
+- Cabeça Fria
+- Última no Pente
+- Correr e Atirar
+- Dedos Ágeis
+---
 Você aprendeu a mirar antes de falar, e nunca desperdiçar munição. Não é só sobre puxar o gatilho. É saber a hora certa, e pra onde apontar a arma.
 
 ## Características Únicas a Escolher

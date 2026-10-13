@@ -1,3 +1,24 @@
+---
+aliases:
+- Escudo Humano
+- Atrás de Mim!
+- Espada Longa Confiada
+- Escudo de Aço Remendado
+- Armadura de Aço Remendada
+- Bracelete com Medalhão Quebrado
+- Seringa de Adrenalina
+- Inspirar
+- Não Acabou
+- Fica de Pé
+- Dor que Inspira
+- Modelo de Resiliência
+- Não Passarás
+- Mesmo Sangrando
+- Coração de Ferro
+- Presença
+- Inabalável
+- Auto-Sacrifício
+---
 Você não é o mais forte, nem o mais rápido. Mas é o único disposto a pagar o preço quando ninguém mais pode. Cada golpe que você recebe, alguém deixou de receber. Cada vez que continua de pé, os outros encontram forças para continuar também. Nesse mundo, onde a maioria aprende a sobreviver por si mesmo, você escolheu carregar mais do que deveria… e talvez, só talvez, isso possa manter alguém vivo por mais um dia.
 
 **Foco da Classe:** Sacrifício, sustentação do grupo e resistência além do limite.

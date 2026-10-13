@@ -1,5 +1,14 @@
-# Runas de Conjuração
-
+---
+aliases:
+- Malen
+- Pefro
+- Dynam
+- Malcor
+- Dosim
+- Solka
+- Kres
+- Fol
+---
 Runas modificam uma conjuração, alterando efeito, potência, custo ou ativação. A quantidade usada aumenta a dificuldade conforme [[Magia no Sistema]].
 
 | Runa | Efeito |

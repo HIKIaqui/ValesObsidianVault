@@ -1,7 +1,12 @@
 ---
 aliases:
-  - Movimento Forçado
-  - Ataque
+- Movimento Forçado
+- Ataque
+- Altura de Ataque
+- Altura Alta
+- Altura Média
+- Altura Baixa
+- Altura Livre
 ---
 Ações podem possuir diferentes propriedades. Essas propriedades descrevem características compartilhadas e permitem que outras regras se refiram a vários tipos de ação de forma abrangente.
 

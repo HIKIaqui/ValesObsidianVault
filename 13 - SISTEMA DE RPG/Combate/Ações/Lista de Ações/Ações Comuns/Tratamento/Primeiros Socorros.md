@@ -1,3 +1,8 @@
+---
+aliases:
+- Conter Sangramento
+- Cuidar de Feridas
+---
 **Tipo:** Ação
 **Alcance:** Corpo a Corpo
 

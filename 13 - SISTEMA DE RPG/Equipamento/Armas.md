@@ -1,8 +1,12 @@
 ---
 aliases:
-  - Empunhadura
-  - Capacidade
-  - Integridade
+- Empunhadura
+- Capacidade
+- Integridade
+- 1M
+- 2M
+- OB2M
+- Armas de Fogo
 ---
 
 # Armas

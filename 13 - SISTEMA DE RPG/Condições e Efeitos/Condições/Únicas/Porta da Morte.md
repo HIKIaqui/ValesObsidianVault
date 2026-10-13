@@ -1,3 +1,9 @@
+---
+aliases:
+- Agarrar-se à Vida
+- Forçar o Corpo
+- Rolagem de Porta da Morte
+---
 Perigo: Mortal
 
 A Porta da Morte representa o estado em que o corpo já não consegue continuar funcionando, mas a morte ainda não é inevitável.

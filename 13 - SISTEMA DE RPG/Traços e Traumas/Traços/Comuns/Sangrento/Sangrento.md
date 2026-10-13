@@ -1,3 +1,7 @@
+---
+aliases:
+- Traços Sangrentos
+---
 Traços sobre uma relação anormal com carne, dor, mutilação e morte.
 
 Não é a categoria genérica de causar dano. Um traço como “+1 Dado de Dano com espadas” não é Sangrento. Para pertencer à categoria, a violência precisa ser parte da identidade ou do preço da habilidade.

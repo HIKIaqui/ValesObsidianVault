@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Recuperação
-  - Descanso
+- Recuperação
+- Descanso
+- Recuperação de PV
+- Recuperação de PE
 ---
 
 # Descanso e Recuperação

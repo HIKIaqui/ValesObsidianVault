@@ -1,3 +1,21 @@
+---
+aliases:
+- Sobrevivente do Submundo
+- Sempre com Plano
+- Canivete de Lâmina Curta
+- Anel de Impacto
+- Capa Esfarrapada com Capuz
+- Pulseira-Espelho
+- Frasco de Láudano
+- Sai da Frente!
+- Te Enganei
+- Bate e Volta
+- Ignorado
+- Na Hora Certa
+- Carta na Manga
+- Punir
+- Passar a Mão
+---
 Você aprendeu cedo que o mundo não é justo, então parou de jogar limpo. Não é o mais forte, nem o mais resistente, mas sabe reconhecer o momento certo de agir e, principalmente, quando sair. Você está sempre atento a oportunidades, e se aproveita delas antes que desapareçam.
 
 **Foco da Classe:** Oportunismo, controle de situação e finalização precisa, aproveitando brechas criadas durante o combate.

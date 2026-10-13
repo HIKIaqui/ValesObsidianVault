@@ -1,3 +1,12 @@
+---
+aliases:
+- Paralisia
+- Surto
+- Fuga
+- Mania
+- Bloqueio Mental
+- Resiliência
+---
 # Colapso
 
 Ao atingir o máximo de [[Estresse]], o personagem entra em Colapso. Esse estado não é ativado enquanto estiver em [[Porta da Morte]].

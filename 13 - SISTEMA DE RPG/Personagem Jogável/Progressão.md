@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Pontos de Progressão
-  - PP
+- Pontos de Progressão
+- PP
+- Progressão de Personagem
 ---
 
 # Progressão
