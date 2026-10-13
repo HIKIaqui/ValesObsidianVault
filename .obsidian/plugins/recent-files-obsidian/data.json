@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Testemunha da Culpa",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior/Testemunha da Culpa.md"
+    },
+    {
+      "basename": "Ressonante",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Médio/Ressonante.md"
+    },
+    {
+      "basename": "Espreitador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Médio/Espreitador.md"
+    },
+    {
+      "basename": "Carrasco",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco.md"
+    },
+    {
+      "basename": "Afogador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md"
+    },
+    {
+      "basename": "Príncipe Faminto",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Príncipe Faminto.md"
+    },
+    {
+      "basename": "Bobo da Floresta",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Bobo da Floresta.md"
+    },
+    {
+      "basename": "Bicho-Papão",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Bicho-Papão.md"
+    },
+    {
+      "basename": "Escarniçador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md"
+    },
+    {
+      "basename": "Carnicida",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicidas/Carnicida.md"
+    },
+    {
+      "basename": "Warg Inferior",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Wargs/Warg Inferior.md"
+    },
+    {
+      "basename": "Warg Superior (Caso K - Katerine)",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Wargs/Warg Superior (Caso K - Katerine).md"
+    },
+    {
+      "basename": "Avistador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Insignificante/Avistador.md"
+    },
+    {
+      "basename": "Animador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md"
+    },
+    {
+      "basename": "Amálgama",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior/Amálgama.md"
+    },
+    {
+      "basename": "Torturado",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor/Torturado.md"
+    },
+    {
+      "basename": "Constructo",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md"
+    },
+    {
+      "basename": "Amnésia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor/Amnésia.md"
+    },
+    {
       "basename": "Esquecido",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md"
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor/Esquecido.md"
     },
     {
       "basename": "Amaldiçoado",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
-    },
-    {
-      "basename": "Avistador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0/Avistador.md"
     },
     {
       "basename": "Soldado de Cobre - M1",
@@ -59,18 +127,6 @@
     {
       "basename": "Tratamentos",
       "path": "13 - SISTEMA DE RPG/Combate/Tratamentos/Tratamentos.md"
-    },
-    {
-      "basename": "Animador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Animador.md"
-    },
-    {
-      "basename": "Amnésia",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Amnésia.md"
-    },
-    {
-      "basename": "Carrasco",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco.md"
     },
     {
       "basename": "Bico de Vidro",
@@ -143,58 +199,6 @@
     {
       "basename": "Magia Vital",
       "path": "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md"
-    },
-    {
-      "basename": "Magia Mortal no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Mortal no Sistema.md"
-    },
-    {
-      "basename": "Magia Vital no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Vital no Sistema.md"
-    },
-    {
-      "basename": "Magia Natural no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Natural no Sistema.md"
-    },
-    {
-      "basename": "Magia Física no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Física no Sistema.md"
-    },
-    {
-      "basename": "Runas de Conjuração",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia/Runas de Conjuração.md"
-    },
-    {
-      "basename": "Métodos de Conjuração",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia/Métodos de Conjuração.md"
-    },
-    {
-      "basename": "Chamado do Vendaval",
-      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Ar/Chamado do Vendaval.md"
-    },
-    {
-      "basename": "Obcecado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Obcecado.md"
-    },
-    {
-      "basename": "Condições e Efeitos",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições e Efeitos.md"
-    },
-    {
-      "basename": "Parte 0 - Taverna",
-      "path": "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md"
-    },
-    {
-      "basename": "Ferimentos Permanentes",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Ferimentos Permanentes.md"
-    },
-    {
-      "basename": "Armaduras",
-      "path": "13 - SISTEMA DE RPG/Equipamento/Armaduras.md"
-    },
-    {
-      "basename": "Dano",
-      "path": "13 - SISTEMA DE RPG/Combate/Dano.md"
     }
   ],
   "omittedPaths": [],

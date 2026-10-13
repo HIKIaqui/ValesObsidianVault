@@ -13,6 +13,7 @@ name: Testemunha da Culpa
 tipo: Amaldiçoado
 grau: 3
 hp: 65
+pe: 8
 armadura: 0
 esquiva: 10
 atributos:
@@ -41,7 +42,7 @@ traits:
 
     - **1 natural:** O personagem é literalmente esmagado pela própria culpa e morre de forma grotesca.
     - **2-7:** O personagem cai inconsciente com uma hemorragia interna causada por compressão psíquica. Sofre 3d6 de Dano que ignora Armadura, mas esse dano não pode reduzir seus PV abaixo de 1.
-    - **8-15:** O personagem fica paralisado por `4 - Mente` turnos. Enquanto a Testemunha estiver viva, realiza um teste de Resistência com dificuldade igual a `5 × quantidade de Traumas` a cada turno. Se falhar, sofre 2d4 de Dano que ignora Armadura.
+    - **8-15:** O personagem fica paralisado por 4 - Mente turnos. Enquanto a Testemunha estiver viva, realiza um teste de Resistência com dificuldade igual a 5 × quantidade de Traumas a cada turno. Se falhar, sofre 2d4 de Dano que ignora Armadura.
     - **16+:** Nada acontece. O personagem realiza seu teste de colapso normalmente.
 actions:
 - name: Imitar Voz

@@ -105,6 +105,3 @@ Cadáver albino e esguio com membros anormalmente longos, asas retorcidas como b
 # Fraquezas
 
 **Vulnerabilidade Elemental:** Sofre +1 Dado de Dano de Calor, Eletricidade e Gelo.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 159–160.

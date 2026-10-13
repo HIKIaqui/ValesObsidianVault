@@ -2,7 +2,7 @@
 tags:
 - Amaldiçoado
 - Grau3
-statblock: inline
+statblock: false
 ---
 
 ```statblock
@@ -45,10 +45,10 @@ actions:
   desc: Porrada | Precisão -2 | Dano 2d6 | Crítico 20 | Repete o ataque mais 2 vezes nesse turno.
 fraquezas:
 - name: Luz forte
-  desc: 'Luzes muito fortes machucam o corpo do Espreitador, que sofre 1d20 de dano por turno quando exposto a por
-    exemplo: sol ou refletores.'
-- name: Vulnerabilidade Elemental
-  desc: Sofre +1 Dado de Dano de Calor, Eletricidade e Gelo.
+  desc: |-
+    Luzes muito fortes machucam o corpo do Espreitador, que sofre 1d20 de dano por turno quando exposto a por exemplo: sol ou refletores.
+
+    Fogo, Gelo e Eletricidade é eficaz contra eles. (Ataques usando desses elementos causam +1 Dado de Dano.)
 - name: Fonte
   desc: Livro de Regras dos Vales, pp. 161–162.
 ```
@@ -112,7 +112,4 @@ Espreitadores raramente enfrentam grupos de frente. Eles observam, escolhem uma 
 
 **Luz forte:** Luzes muito fortes machucam o corpo do Espreitador, que sofre 1d20 de dano por turno quando exposto a por exemplo: sol ou refletores.
 
-**Vulnerabilidade Elemental:** Sofre +1 Dado de Dano de Calor, Eletricidade e Gelo.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 161–162.
+Fogo, Gelo e Eletricidade é eficaz contra eles. (Ataques usando desses elementos causam +1 Dado de Dano.)

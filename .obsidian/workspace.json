@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
+                "file": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior/Testemunha da Culpa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Esquecido"
+              "title": "Testemunha da Culpa"
             }
           }
         ]
@@ -256,46 +256,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "6c08701c717a892a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 8
-      },
-      {
-        "id": "9de22783f7f1ce46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "150056428527a8a5",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "map-of-content"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7793f9c695b9defe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b1c25709d095303",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "map-of-content"
-            }
-          }
-        ]
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,42 +296,41 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior/Testemunha da Culpa.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Médio/Ressonante.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Médio/Espreitador.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Médio",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Afogador.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Príncipe Faminto.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Bobo da Floresta.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Bicho-Papão.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Escarniçador.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicidas/Carnicida.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Wargs/Warg Inferior.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicidas",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Wargs",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Wargs/Warg Superior (Caso K - Katerine).md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Insignificante/Avistador.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Insignificante",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior/Amálgama.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Maior",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor/Torturado.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Constructo.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor/Amnésia.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor/Esquecido.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Ressonante 1.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco 1.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Espreitador 1.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Menor",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Ficha ----.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
     "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
-    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0/Avistador.md",
     "04 - Criaturas e Bestiário/Monstro/Constructo/Soldado de Cobre - M1.md",
-    "04 - Criaturas e Bestiário/Monstro/Constructo/Senhor da Floresta.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Devorador.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Lacerador.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Sentinela.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Mãe Digestora.md",
-    "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md",
-    "13 - SISTEMA DE RPG/Equipamento/Receitas e Matérias-Primas.md",
-    "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md",
-    "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md",
-    "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md",
-    "05 - Magia e Sistemas/Magia/Magia Vital/Sem título.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Mana no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Elemental no Sistema.md",
-    "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md",
-    "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Mortal no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Vital no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Natural no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Física no Sistema.md",
     "13 - SISTEMA DE RPG/Sobrenatural/Magia",
     "13 - SISTEMA DE RPG/Sobrenatural",
     "13 - SISTEMA DE RPG/Personagem Jogável/Recursos",
     "13 - SISTEMA DE RPG/Mestre",
-    "13 - SISTEMA DE RPG/Equipamento",
-    "13 - SISTEMA DE RPG/Começando a Jogar",
-    "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Água",
-    "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Sombra",
-    "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Fogo",
-    "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Eletricidade",
     "Homepage.canvas",
     "atlas-vtt/assets/thumbnails/Occultist_1791776616627_5kxhbm-9c341e03.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1791776616615_pdvcg5-b998018b.webp",
