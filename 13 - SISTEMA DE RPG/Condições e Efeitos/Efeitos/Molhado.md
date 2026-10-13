@@ -4,7 +4,3 @@
 - -5 de Resistência contra Gelo.
 - -2 de Esquiva.
 - +1 de Condição.
-
----
-
-**Fonte:** Livro de Regras dos Vales, p. 51.
