@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Receitas e Matérias-Primas",
+      "path": "13 - SISTEMA DE RPG/Equipamento/Receitas e Matérias-Primas.md"
+    },
+    {
+      "basename": "Ankórra",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
+    },
+    {
+      "basename": "Miksí",
+      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md"
+    },
+    {
+      "basename": "Acols",
+      "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
+    },
+    {
+      "basename": "Sem título",
+      "path": "05 - Magia e Sistemas/Magia/Magia Vital/Sem título.md"
+    },
+    {
+      "basename": "Mana no Sistema",
+      "path": "13 - SISTEMA DE RPG/Sobrenatural/Mana no Sistema.md"
+    },
+    {
+      "basename": "Magia no Sistema",
+      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia no Sistema.md"
+    },
+    {
+      "basename": "Elemental no Sistema",
+      "path": "13 - SISTEMA DE RPG/Sobrenatural/Elemental no Sistema.md"
+    },
+    {
       "basename": "Magia Mortal",
       "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Magia Mortal.md"
     },
     {
       "basename": "Magia Vital",
       "path": "05 - Magia e Sistemas/Magia/Magia Vital/Magia Vital.md"
-    },
-    {
-      "basename": "Ankórra",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
     },
     {
       "basename": "Magia Mortal no Sistema",
@@ -51,10 +79,6 @@
     {
       "basename": "Parte 0 - Taverna",
       "path": "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md"
-    },
-    {
-      "basename": "Elemental no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Elemental no Sistema.md"
     },
     {
       "basename": "Ferimentos Permanentes",
@@ -175,30 +199,6 @@
     {
       "basename": "Fratura",
       "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Fratura.md"
-    },
-    {
-      "basename": "Ligamento Estourado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Ligamento Estourado.md"
-    },
-    {
-      "basename": "Mutilação",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Mutilação.md"
-    },
-    {
-      "basename": "Pressionado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Pressionado.md"
-    },
-    {
-      "basename": "Queimadura",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Queimadura.md"
-    },
-    {
-      "basename": "Projétil Alojado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Projétil Alojado.md"
-    },
-    {
-      "basename": "Paralisia Parcial",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Paralisia Parcial.md"
     }
   ],
   "omittedPaths": [],

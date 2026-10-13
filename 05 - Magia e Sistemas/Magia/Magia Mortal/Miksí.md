@@ -40,7 +40,4 @@ Progressão numérica do intervalo de memórias afetado e do tempo de recomposi�
 
 ## Recomposição da mana
 
-Está definido que a mana tende a se reorganizar e que o esquecimento é temporário. Ainda não foi estabelecido se a recuperação depende do retorno da mana expulsa, da reorganização da mana restante ou de ambos.
-
-Mecanismo exato de recuperação: Indefinido  
-Interação da recuperação com [[Ankórra]] ou [[Sev]]: Indefinido
+A mana tende a voltar à origem e se reorganizar, retornando aquilo que foi perdido.

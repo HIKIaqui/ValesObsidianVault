@@ -21,11 +21,11 @@ Palavras mágicas tem poder, mas também tem um custo ainda maior. Você passou 
 
 Para cada característica escolhida, escolha também **1 Trauma**.
 
-**Acostumado a Mana:** Toda conjuração que não usar Pefro custa -1 M.
+**Acostumado a Mana:** Toda conjuração que não usar Pefro custa -1 ~~M~~.
 
 **Sobrecarga de Mana:** Pode escolher sobrecarregar uma conjuração ao conjurar, recebendo +1 Dado para os testes. Porém, para cada dado que cair em um valor menor ou igual a 10, você recebe 1 de dano que ignora armadura.
 
-**Inscrição Bruta:** Consegue desenhar runas na pele com tinta a base de mana ou sangue. Cada desenho diminui o custo de conjuração em -1 M. Porém, ao falhar em conjurar, para cada runa desenhada em seu corpo, recebe +1 de Estresse.
+**Inscrição Bruta:** Consegue desenhar runas na pele com tinta a base de mana ou sangue. Cada desenho diminui o custo de conjuração em -1 ~~M~~. Porém, ao falhar em conjurar, para cada runa desenhada em seu corpo, recebe +1 de Estresse.
 
 ## Perícias Recomendadas
 
@@ -45,9 +45,9 @@ Para cada característica escolhida, escolha também **1 Trauma**.
 
 **Veste Alquímica:** +1 Armadura | Peso 1 | +1 Armadura para dano de Fogo, Ácido ou Gelo
 
-**Frasco de Cristal:** Peso 0 | Consegue extrair mana pura de suas formas naturais. Após 24h de contato com fonte mágica, o frasco transforma-a em Mana Pura. Ao banhar um recipiente de mana com o conteúdo do frasco cheio, o recipiente absorve a mana pura, recuperando 3 M.
+**Frasco de Cristal:** Peso 0 | Consegue extrair mana pura de suas formas naturais. Após 24h de contato com fonte mágica, o frasco transforma-a em Mana Pura. Ao banhar um recipiente de mana com o conteúdo do frasco cheio, o recipiente absorve a mana pura, recuperando 3 ~~M~~.
 
-**Pedra de Mana Pequena:** 3 / 3 M | Peso 1 | Pode ser usada como fonte de mana pra conjurar.
+**Pedra de Mana Pequena:** 3 / 3 ~~M~~ | Peso 1 | Pode ser usada como fonte de mana pra conjurar.
 
 ## Nível 1 — Aprendiz Queimado
 
@@ -61,9 +61,9 @@ A prática melhora as habilidades, mas também cobra.
 
 **Escolha 1 Característica.**
 
-**Tatuagem de Runa:** Facilita fazer conjuração no próprio corpo. Toda conjuração que usar SIL ou ARUN custa -1 M.
+**Tatuagem de Runa:** Facilita fazer conjuração no próprio corpo. Toda conjuração que usar SIL ou ARUN custa -1 ~~M~~.
 
-**Escrita Viva:** Conjurações que usarem RUNDE custam -1 M.
+**Escrita Viva:** Conjurações que usarem RUNDE custam -1 ~~M~~.
 
 **Precisão Mágica:** Ao conjurar com LAC, recebe bônus de +5 Mira.
 

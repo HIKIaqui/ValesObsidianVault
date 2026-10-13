@@ -8,7 +8,7 @@ Magia Mortal manipula Mana e seu comportamento. As conjurações utilizam os mé
 
 ### Sev
 
-2 M | 5 Poder | Dispersa a mana na área afetada. Se usado contra um organismo artificial, o poder precisa ser maior que a resistência dele para funcionar.
+2 ~~M~~ | 5 Poder | Dispersa a mana na área afetada. Se usado contra um organismo artificial, o poder precisa ser maior que a resistência dele para funcionar.
 
 ## Feitiços na Vault
 

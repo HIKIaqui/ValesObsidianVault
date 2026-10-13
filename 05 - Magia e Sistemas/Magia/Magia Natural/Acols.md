@@ -22,10 +22,10 @@ Cada **Pefro** dobra o custo e a duração do feitiço, seguindo as regras norma
 
 | Pefro | Custo do feitiço | Duração |
 | --- | --- | --- |
-| Nenhum | 2 M | 1 turno |
-| 1 | 4 M | 2 turnos |
-| 2 | 8 M | 4 turnos |
-| 3 | 16 M | 8 turnos |
+| Nenhum | 2 ~~M~~ | 1 turno |
+| 1 | 4 ~~M~~ | 2 turnos |
+| 2 | 8 ~~M~~ | 4 turnos |
+| 3 | 16 ~~M~~ | 8 turnos |
 
 Os custos acima correspondem ao feitiço isolado. Método e demais modificadores seguem suas próprias regras.
 

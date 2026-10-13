@@ -7,7 +7,7 @@ aliases:
 ---
 # Mana no Sistema
 
-Mana, representada por **M**, é a energia usada em [[Magia no Sistema|conjurações]]. Está presente em seres vivos, plantas, minerais, líquidos e mortos.
+Mana, representada por **~~M~~**, é a energia usada em [[Magia no Sistema|conjurações]]. Está presente em seres vivos, plantas, minerais, líquidos e mortos.
 
 ## Fontes
 
