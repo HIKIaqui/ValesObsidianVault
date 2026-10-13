@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "98 - Dev/Homepage.canvas",
+                "file": "Homepage.canvas",
                 "viewState": {
                   "x": -20,
                   "y": -290,
@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Caído.md",
+                "file": "04 - Criaturas e Bestiário/Fera/Tucho.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caído"
+              "title": "Tucho"
             }
           }
         ],
@@ -337,6 +337,16 @@
   },
   "active": "9f6b574ba0c1f679",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Fera/Tucho de Bico Amarelo.md",
+    "04 - Criaturas e Bestiário/Fera/Tucho.md",
+    "Index.md",
+    "07 - Contratos/07 - Contratos.md",
+    "Infecção dos Substituidores.md",
+    "Untitled Kanban.md",
+    "Livros dos Vales.md",
+    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Agarrado.md",
+    "Sem título.base",
+    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Caído.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Atordoado.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Envenenamento Grave.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Envenenamento Leve.md",
@@ -350,21 +360,12 @@
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Projétil Alojado.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Paralisia Parcial.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Olhos Irritados.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Caído.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Cheiro Forte.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Confusão.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Envenenamento.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Narrativas/Inanição.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Narrativas",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Narrativas/Insônia.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Náusea.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Necrose.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sem Fôlego.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sangramento.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Ruptura Cognitiva.md",
-    "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Náusea (Efeito).md",
-    "98 - Dev/Homepage.canvas",
+    "Homepage.canvas",
     "13 - SISTEMA DE RPG/Bestiário do Statblocks",
     "Sem título 2.base",
     "atlas-vtt/system-presets/Vales.json",
@@ -383,7 +384,6 @@
     "atlas-vtt/collections/Default/tokens/token-starter-occultist.json",
     "atlas-vtt/collections/Default/tokens/token-starter-assassin.json",
     "atlas-vtt/collections/Default/tokens/token-starter-knight.json",
-    "atlas-vtt/collections/Default/tokens/token-starter-wizard.json",
     "08 - Campanhas/O Chamado dos Vermes/Seções/Sequências.canvas",
     "09 - Cronologia e História/Linha do Tempo.canvas",
     "98 - Dev/Lost World (Não Vales. Ignora.)/LOST WORLD PROGRESSION TREE.canvas",

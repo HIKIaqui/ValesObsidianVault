@@ -26,7 +26,7 @@ Suas histórias transitam entre aventura, sobrevivência, política, tragédia, 
 - [[Personagens]]
 - [[Famílias e Linhagens]]
 - [[Eventos Históricos]]
-- [[Contratos]]
+- [[07 - Contratos|Contratos]]
 - [[Livros dos Vales]]
 
 ## Jogo

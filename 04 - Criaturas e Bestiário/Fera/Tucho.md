@@ -23,10 +23,10 @@ atributos:
 pericias:
 - name: Perícias
   desc: |-
-    - Resistência +7
-    - Força +7
+    - [[Constituição|Resistência]] +7
+    - [[Constituição|Força]] +7
     - Porrada +5
-    - Reflexos +5
+    - [[Agilidade|Reflexos]] +5
     - Arrancada +5
     - Furtividade -5
 traits:
@@ -34,18 +34,14 @@ traits:
   desc: +5 em teste Sociais.
 actions:
 - name: Bicar
-  desc: Técnica | Precisão 0 | Dano 2d6 | Crítico 20
+  desc: [[Agilidade|Técnica]] | Precisão 0 | Dano 2d6 | Crítico 20
 - name: Pancada Corporal
-  desc: Porrada | Precisão 0 | Dano 2d4 | Crítico 20 | Alvo testa resistência para definir efeitos seguintes. Atordoamento
+  desc: [[Constituição|Porrada]] | Precisão 0 | Dano 2d4 | Crítico 20 | Alvo testa resistência para definir efeitos seguintes. Atordoamento
     1 (Res. 15), Empurrado 1 casa (Res. 20).
 - name: Pisotear
-  desc: Porrada | Precisão 0 | Dano 2d6 | Crítico 20 | Atordoamento 1 (Res. 20) | Só pode ser usado em alvo atordoado
+  desc: [[Constituição|Porrada]] | Precisão 0 | Dano 2d6 | Crítico 20 | [[Atordoado]] 1 ([[Constituição|Resistência]]. 20) | Só pode ser usado em alvo atordoado
     e menor que o tucho.
 fraquezas:
-- name: Fonte
-  desc: Livro de Regras dos Vales, pp. 113–114.
-- name: Observações
-  desc: Não informadas no livro.
 ```
 
 ---
@@ -100,8 +96,3 @@ fraquezas:
 
 ---
 # Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 113–114.

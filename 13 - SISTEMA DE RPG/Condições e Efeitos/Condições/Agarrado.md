@@ -4,7 +4,7 @@ Um personagem Agarrado:
 
 - não pode se deslocar voluntariamente;
 - só pode realizar ataques corpo a corpo, e apenas contra quem o está agarrando;
-- ainda pode realizar normalmente ações que não sejam ataques, incluindo Escapar.
+- ainda pode realizar normalmente ações que não sejam ataques, incluindo Escapar (Teste de perícia relevante contra a Força de quem agarra).
 
 A condição termina quando:
 

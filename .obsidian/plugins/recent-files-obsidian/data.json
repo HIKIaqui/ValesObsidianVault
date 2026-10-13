@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Tucho",
+      "path": "04 - Criaturas e Bestiário/Fera/Tucho.md"
+    },
+    {
+      "basename": "Tucho de Bico Amarelo",
+      "path": "04 - Criaturas e Bestiário/Fera/Tucho de Bico Amarelo.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "07 - Contratos",
+      "path": "07 - Contratos/07 - Contratos.md"
+    },
+    {
+      "basename": "Infecção dos Substituidores",
+      "path": "Infecção dos Substituidores.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "Untitled Kanban.md"
+    },
+    {
+      "basename": "Livros dos Vales",
+      "path": "Livros dos Vales.md"
+    },
+    {
+      "basename": "Agarrado",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Agarrado.md"
+    },
+    {
       "basename": "Caído",
       "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Caído.md"
     },
@@ -114,7 +146,7 @@
     },
     {
       "basename": "Homepage",
-      "path": "98 - Dev/Homepage.canvas"
+      "path": "Homepage.canvas"
     },
     {
       "basename": "Afogador",
@@ -145,10 +177,6 @@
       "path": "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md"
     },
     {
-      "basename": "Sem título 2",
-      "path": "Sem título 2.base"
-    },
-    {
       "basename": "Atributos e Perícias",
       "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Praticante",
       "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Praticante.md"
-    },
-    {
-      "basename": "Caçador de Monstros",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Caçador de Monstros.md"
-    },
-    {
-      "basename": "Errante Selvagem",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Errante Selvagem.md"
-    },
-    {
-      "basename": "Cobertura",
-      "path": "13 - SISTEMA DE RPG/Combate/Cobertura.md"
-    },
-    {
-      "basename": "Início do Combate",
-      "path": "13 - SISTEMA DE RPG/Combate/Início do Combate.md"
-    },
-    {
-      "basename": "Mirar",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Mirar.md"
-    },
-    {
-      "basename": "Marcado",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Marcado.md"
-    },
-    {
-      "basename": "Médico de Campo",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Médico de Campo.md"
     }
   ],
   "omittedPaths": [],
