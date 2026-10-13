@@ -111,7 +111,7 @@ As Categorias organizam Traços de acordo com sua identidade temática.
 
 Elas não representam alinhamentos, personalidades obrigatórias ou julgamentos morais. Personagens muito diferentes podem possuir Traços da mesma Categoria por razões completamente distintas.
 
-## [[Traços Sangrentos|Sangrentos]]
+## [[Sangrento|Sangrentos]]
 
 Traços relacionados à violência, dor, carne, mutilação, ferimentos e morte.
 
@@ -130,7 +130,7 @@ Traços Sangrentos podem envolver:
 
 Possuir um Traço Sangrento não significa gostar de violência.
 
-## [[Traços Esperançosos|Esperançosos]]
+## **Esperançosos**
 
 Traços relacionados à esperança, empatia, confiança, cooperação e preservação da humanidade diante de situações extremas.
 
@@ -145,7 +145,7 @@ Podem favorecer:
 
 Esperança não significa ingenuidade, assim como empatia não significa incapacidade de agir com violência.
 
-## [[Traços Frios|Frios]]
+## **Frios**
 
 Traços relacionados a controle emocional, planejamento, disciplina, eficiência e capacidade de agir sem permitir que sentimentos interfiram imediatamente numa decisão.
 
@@ -160,7 +160,7 @@ Podem favorecer:
 
 Um personagem com Traços Frios não precisa ser indiferente ou incapaz de sentir. Sua frieza pode existir justamente para permitir que continue agindo apesar do que sente.
 
-## [[Traços Instintivos|Instintivos]]
+## **Instintivos**
 
 Traços relacionados a intuição, impulso, percepção imediata e respostas realizadas antes de um raciocínio consciente.
 
@@ -175,7 +175,7 @@ Podem favorecer:
 
 Instinto não significa irracionalidade. Ele pode representar experiência transformada em reação automática.
 
-## [[Traços Gerais|Gerais]]
+## **Gerais**
 
 Traços que não pertencem naturalmente a nenhuma das outras Categorias.
 

@@ -52,7 +52,7 @@ Cada região possui sua própria tabela, construída a partir de característica
 - fenômenos sobrenaturais;
 - perigos ambientais.
 
-As tabelas regionais podem compartilhar diversos resultados, mas devem adaptar suas Interferências às características do local. Uma alteração ambiental em [[Bismuto]], por exemplo, não precisa funcionar da mesma maneira que uma alteração ambiental em [[Turmalina]] ou no [[Vale Sombrio]].
+As tabelas regionais podem compartilhar diversos resultados, mas devem adaptar suas Interferências às características do local. Uma alteração ambiental em Bismuto, por exemplo, não precisa funcionar da mesma maneira que uma alteração ambiental em [[Turmalina]] ou no [[Vale Sombrio]].
 
 Quando existir uma Tabela de Interferências específica para o contrato ou encontro, ela possui prioridade sobre a tabela regional, salvo quando o contrato determinar o contrário.
 

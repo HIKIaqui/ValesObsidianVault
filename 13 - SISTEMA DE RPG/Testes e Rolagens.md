@@ -158,3 +158,12 @@ A diferença é +5, portanto o teste resulta em um Sucesso Absoluto.
 ## Teste de Acerto
 
 Ao realizar uma [[Ações|Ação]] de Ataque contra um alvo, o realizador faz um Teste da Perícia de Combate relevante, com o objetivo de superar o valor da [[Esquiva]] do alvo.
+
+---
+
+## Referências do Sistema
+
+- [[Dificuldades e Resultados]]
+- [[Precisão]]
+- [[Esquiva]]
+- [[Crítico]]

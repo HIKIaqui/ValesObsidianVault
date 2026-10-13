@@ -29,3 +29,12 @@ Inicialmente, cada Personagem tem:
 - 1 Ação de Movimento
 - 1 Reação
 - Infinitas ações livres.
+
+---
+
+## Referências do Sistema
+
+- [[Ações Comuns]]
+- [[Propriedades de Ações]]
+- [[Deslocamento]]
+- [[Técnicas]]

@@ -12,3 +12,11 @@ Cada criatura mantém:
 Depois disso, rola-se Iniciativa.
 
 Se algo não foi estabelecido antes, deve ser definido conforme a situação mais coerente, nunca retroativamente para obter vantagem.
+
+---
+
+## Referências do Sistema
+
+- [[Iniciativa]]
+- [[Combate]]
+- [[Cobertura]]

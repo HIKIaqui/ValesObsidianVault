@@ -13,3 +13,7 @@ Em combate, a intervenção consome uma Ação. Fora de combate, normalmente dem
 Acúmulos Removidos = 2 + ((Resultado - 10) / 5)$$
 - Cuidar de Feridas – Dif. 15: consome itens do tipo Medicinal e ativa seus efeitos.
 - Tratar Condição: somente quando a própria condição disser que pode ser tratada com Primeiros Socorros.
+
+---
+
+Consulte [[Tratamentos]], [[Itens Medicinais]] e [[Condições e Efeitos]].

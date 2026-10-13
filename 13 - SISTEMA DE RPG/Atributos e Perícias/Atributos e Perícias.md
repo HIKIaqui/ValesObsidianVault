@@ -56,3 +56,14 @@ Quando nenhuma Perícia representar adequadamente uma ação, o Mestre pode soli
 # Perícias de Combate
 
 As Perícias de Combate são as Péricias usadas geralmente por armas durante Testes de Acerto
+
+---
+
+## Referências do Sistema
+
+- [[Criação de Personagem]]
+- [[Progressão]]
+- [[Testes e Rolagens]]
+- [[Pontos de Vida]]
+- [[Pontos de Energia]]
+- [[Esquiva]]

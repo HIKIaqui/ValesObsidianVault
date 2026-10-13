@@ -4,12 +4,11 @@ aliases:
   - Sistema de RPG
   - Sistema de RPG dos Vales
 ---
-
 # Sistema de RPG dos Vales
 
 O Sistema de RPG dos Vales é a adaptação do universo dos Vales para RPG de mesa.
 
-O sistema trata personagens como pessoas humanas, frágeis e limitadas, enfrentando ameaças muito superiores por meio de preparo, conhecimento, estratégia e cooperação.
+O sistema trata personagens como pessoas humanas, frágeis e limitadas, enfrentando ameaças por meio de preparo, conhecimento, estratégia e cooperação.
 
 > Você é um caçador. Aja como um.
 
@@ -22,56 +21,69 @@ O sistema trata personagens como pessoas humanas, frágeis e limitadas, enfrenta
 - [[Testes e Rolagens]]
 - [[Dificuldades e Resultados]]
 
-## Personagens
+## Personagem
 
-- [[Atributos]]
-- [[Perícias]]
+- [[Atributos e Perícias]]
 - [[Classes]]
 - [[Características]]
 - [[Traços]]
+- [[Traumas]]
+- [[Progressão]]
+- [[Reputação]]
 - [[Pontos de Vida]]
-- [[Pontos de Esforço]]
+- [[Pontos de Energia]]
 - [[Estresse]]
+- [[Colapso]]
 - [[Ferimentos Permanentes]]
 
 ## Combate
 
 - [[Combate]]
+- [[Início do Combate]]
 - [[Iniciativa]]
 - [[Ações]]
 - [[Ações Comuns]]
+- [[Propriedades de Ações]]
 - [[Deslocamento]]
 - [[Distâncias]]
 - [[Ataques]]
+- [[Precisão]]
+- [[Esquiva]]
+- [[Crítico]]
 - [[Dano]]
-- [[Condições]]
+- [[Tipos de Dano]]
+- [[Cobertura]]
+- [[Técnicas]]
+- [[Condições e Efeitos]]
 - [[Porta da Morte]]
 - [[Tratamentos]]
+- [[Descanso e Recuperação]]
 
 ## Equipamento
 
 - [[Inventário]]
-- [[Peso]]
+- [[Inventário#Peso|Peso e Carga]]
 - [[Armas]]
 - [[Armaduras]]
 - [[Itens Medicinais]]
 - [[Consumíveis]]
-- [[Artefatos no Sistema]]
+- [[Receitas e Matérias-Primas]]
 
 ## Sobrenatural
 
+- [[Os Quatro Poderes]]
+- [[Elemental no Sistema]]
+- [[Técnicas Elementais]]
 - [[Magia no Sistema]]
 - [[Mana no Sistema]]
-- [[Elemental no Sistema]]
+- [[Métodos de Conjuração]]
+- [[Runas de Conjuração]]
 - [[Maldição no Sistema]]
 - [[Sagrado no Sistema]]
 
-Mestre
+## Mestre
 
-- [[Criando Combates]]
-- [[Criando Criaturas]]
 - [[Graus de Perigo]]
 - [[Bestiário]]
-- [[Contratos e Recompensas]]
-- [[Exploração]]
-- [[Descanso e Recuperação]]
+- [[Interferências]]
+- [[07 - Contratos|Contratos]]
