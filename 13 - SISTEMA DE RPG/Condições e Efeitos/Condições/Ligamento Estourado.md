@@ -2,7 +2,7 @@
 
 Não consegue fazer esforço físico nenhum usando a perna machucada.
 
--7 em Acrobacia.
+-7 em [[Agilidade|Acrobacia]].
 
 **Tratamento:** Dif. 20.
 

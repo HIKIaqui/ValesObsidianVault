@@ -1,6 +1,6 @@
 **Perigo:** Moderado
 
--1 de Constituição e Mente.
+-1 de [[Constituição]] e [[Mente]].
 
 A condição é removida após um descanso longo.
 

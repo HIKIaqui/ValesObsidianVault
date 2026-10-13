@@ -2,7 +2,7 @@
 
 Cumulativo.
 
--1 Dado em testes de Percepção, Acrobacia, Técnica, Reflexos e Mira.
+-1 Dado em testes de [[Mente|Percepção]], [[Agilidade|Acrobacia]], [[Agilidade|Técnica]], [[Agilidade|Reflexos]] e [[Agilidade|Mira]].
 
 Acúmulos extras não aumentam o efeito.
 
