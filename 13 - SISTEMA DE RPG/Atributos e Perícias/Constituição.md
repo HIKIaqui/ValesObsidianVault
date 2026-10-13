@@ -5,7 +5,7 @@ aliases:
   - Resistência
   - Intimidação
 ---
-- **Porrada:** Armas de força bruta (martelos, socos)
+- **Porrada:** Perícia de combate com armas de força bruta (martelos, socos)
 - **Força:** A força bruta do personagem. Capacidade de levantar, empurrar ou arrombar.
 - **Resistência:** Quanto é afetado por veneno, dor, doença, exaustão. Além disso, aumenta o HP máximo.
 - **Intimidação:** Presença ameaçadora. Quanta atenção você chama.

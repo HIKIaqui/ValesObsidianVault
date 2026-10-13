@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Porta da Morte",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas/Porta da Morte.md"
+    },
+    {
+      "basename": "13 - SISTEMA DE RPG",
+      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
+    },
+    {
+      "basename": "Atributos e Perícias",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
+    },
+    {
+      "basename": "Agilidade",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md"
+    },
+    {
+      "basename": "Constituição",
+      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md"
+    },
+    {
       "basename": "Tucho",
       "path": "04 - Criaturas e Bestiário/Fera/Tucho.md"
     },
@@ -177,28 +197,8 @@
       "path": "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md"
     },
     {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
-    },
-    {
-      "basename": "13 - SISTEMA DE RPG",
-      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
-    },
-    {
       "basename": "Ataque de Oportunidade",
       "path": "13 - SISTEMA DE RPG/Combate/Ações/Lista de Ações/Ações Comuns/Ataque de Oportunidade.md"
-    },
-    {
-      "basename": "Ações",
-      "path": "13 - SISTEMA DE RPG/Combate/Ações/Ações.md"
-    },
-    {
-      "basename": "Rato da Cidade Secreta",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Rato da Cidade Secreta.md"
-    },
-    {
-      "basename": "Praticante",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Classes/Praticante.md"
     }
   ],
   "omittedPaths": [],

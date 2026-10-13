@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Criaturas e Bestiário/Fera/Tucho.md",
+                "file": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas/Porta da Morte.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tucho"
+              "title": "Porta da Morte"
             }
           }
         ],
@@ -337,8 +337,12 @@
   },
   "active": "9f6b574ba0c1f679",
   "lastOpenFiles": [
-    "04 - Criaturas e Bestiário/Fera/Tucho de Bico Amarelo.md",
+    "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md",
+    "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md",
     "04 - Criaturas e Bestiário/Fera/Tucho.md",
+    "04 - Criaturas e Bestiário/Fera/Tucho de Bico Amarelo.md",
     "Index.md",
     "07 - Contratos/07 - Contratos.md",
     "Infecção dos Substituidores.md",
@@ -360,10 +364,6 @@
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Projétil Alojado.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Paralisia Parcial.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Olhos Irritados.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Cheiro Forte.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Confusão.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Envenenamento.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Narrativas/Inanição.md",
     "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Narrativas",
     "Homepage.canvas",
     "13 - SISTEMA DE RPG/Bestiário do Statblocks",
