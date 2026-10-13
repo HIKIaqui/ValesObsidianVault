@@ -1,0 +1,10 @@
+- Sofre metade do dano para Fogo e perde a condição.
+- Sofre metade do dano de Impacto.
+- Sofre o dobro do dano para Eletricidade.
+- -5 de Resistência contra Gelo.
+- -2 de Esquiva.
+- +1 de Condição.
+
+---
+
+**Fonte:** Livro de Regras dos Vales, p. 51.

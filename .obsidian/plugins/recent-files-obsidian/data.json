@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Carnicida",
-      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md"
+      "basename": "Sem Fôlego",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sem Fôlego.md"
     },
     {
       "basename": "Sangramento",
       "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Sangramento.md"
+    },
+    {
+      "basename": "Ruptura Cognitiva",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Ruptura Cognitiva.md"
+    },
+    {
+      "basename": "Queimadura",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Queimadura.md"
+    },
+    {
+      "basename": "Projétil Alojado",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Projétil Alojado.md"
+    },
+    {
+      "basename": "Pressionado",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Pressionado.md"
+    },
+    {
+      "basename": "Paralisia Parcial",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Paralisia Parcial.md"
+    },
+    {
+      "basename": "Olhos Irritados",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Olhos Irritados.md"
+    },
+    {
+      "basename": "Necrose",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Necrose.md"
+    },
+    {
+      "basename": "Náusea",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Náusea.md"
+    },
+    {
+      "basename": "Carnicida",
+      "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Grau1/Carnicida.md"
     },
     {
       "basename": "Lobo Selvagem Alfa",
@@ -163,42 +199,6 @@
     {
       "basename": "Torturado",
       "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Torturado.md"
-    },
-    {
-      "basename": "Esquecido",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md"
-    },
-    {
-      "basename": "Amnésia",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Amnésia.md"
-    },
-    {
-      "basename": "Animador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Animador.md"
-    },
-    {
-      "basename": "Amálgama",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Amálgama.md"
-    },
-    {
-      "basename": "Espreitador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Espreitador.md"
-    },
-    {
-      "basename": "Ressonante",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Ressonante.md"
-    },
-    {
-      "basename": "Testemunha da Culpa",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau3/Testemunha da Culpa.md"
-    },
-    {
-      "basename": "Avistador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0/Avistador.md"
-    },
-    {
-      "basename": "Carrasco",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau4/Carrasco.md"
     }
   ],
   "omittedPaths": [],
