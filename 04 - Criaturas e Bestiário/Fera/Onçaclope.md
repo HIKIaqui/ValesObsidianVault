@@ -19,7 +19,7 @@ nome_popular: Caolha
 hp: 20
 pe: 3
 armadura: 0
-esquiva: 18
+esquiva: 17
 atributos:
 - 1
 - 2
@@ -50,7 +50,7 @@ traits:
     terreno, não provoca ataques de oportunidade e tem **+5 Esquiva**.
 actions:
 - name: Rasgar
-  desc: Técnica | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 17)
+  desc: Técnica | Precisão 0 | Dano 2d4 | Crítico 20 | Sangramento 2 (Res. 15)
 - name: Bote Calculado
   desc: 1 PE | Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | Corre, escala ou salta até o alvo e o
     ataca sem precisar usar sua ação de movimento. Depois do ataque, termina na mesma casa que o alvo.

@@ -5,6 +5,10 @@
       "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
     },
     {
+      "basename": "Sob Foco",
+      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Sob Foco.md"
+    },
+    {
       "basename": "Lobo Selvagem Alfa",
       "path": "04 - Criaturas e Bestiário/Fera/Lobo Selvagem Alfa.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mana no Sistema",
       "path": "13 - SISTEMA DE RPG/Sobrenatural/Mana no Sistema.md"
-    },
-    {
-      "basename": "Magia no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Magia no Sistema.md"
     }
   ],
   "omittedPaths": [],
