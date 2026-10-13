@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Esquecido",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md"
+    },
+    {
+      "basename": "Amaldiçoado",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md"
+    },
+    {
+      "basename": "Avistador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0/Avistador.md"
+    },
+    {
+      "basename": "Soldado de Cobre - M1",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Soldado de Cobre - M1.md"
+    },
+    {
+      "basename": "Senhor da Floresta",
+      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Senhor da Floresta.md"
+    },
+    {
+      "basename": "Atritor",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md"
+    },
+    {
+      "basename": "Atritor Devorador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Devorador.md"
+    },
+    {
+      "basename": "Atritor Lacerador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Lacerador.md"
+    },
+    {
+      "basename": "Atritor Sentinela",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Sentinela.md"
+    },
+    {
+      "basename": "Mãe Digestora",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Mãe Digestora.md"
+    },
+    {
+      "basename": "Aranha Arco-Íris",
+      "path": "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md"
+    },
+    {
+      "basename": "Tipos de Dano",
+      "path": "13 - SISTEMA DE RPG/Combate/Tipos de Dano.md"
+    },
+    {
+      "basename": "Distâncias",
+      "path": "13 - SISTEMA DE RPG/Combate/Distâncias.md"
+    },
+    {
+      "basename": "Deslocamento",
+      "path": "13 - SISTEMA DE RPG/Combate/Deslocamento.md"
+    },
+    {
+      "basename": "Tratamentos",
+      "path": "13 - SISTEMA DE RPG/Combate/Tratamentos/Tratamentos.md"
+    },
+    {
+      "basename": "Animador",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Animador.md"
+    },
+    {
+      "basename": "Amnésia",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau2/Amnésia.md"
+    },
+    {
+      "basename": "Carrasco",
+      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Carrasco.md"
+    },
+    {
+      "basename": "Bico de Vidro",
+      "path": "04 - Criaturas e Bestiário/Fera/Bico de Vidro.md"
+    },
+    {
+      "basename": "Pancada na Cabeça",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Comuns/Pancada na Cabeça.md"
+    },
+    {
+      "basename": "Técnicas",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Técnicas.md"
+    },
+    {
+      "basename": "Técnicas Elementais de Sombra",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Técnicas Elementais de Sombra.md"
+    },
+    {
+      "basename": "Técnicas Elementais de Fogo",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Técnicas Elementais de Fogo.md"
+    },
+    {
+      "basename": "Técnicas Elementais de Eletricidade",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Técnicas Elementais de Eletricidade.md"
+    },
+    {
+      "basename": "Técnicas Elementais de Água",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Técnicas Elementais de Água.md"
+    },
+    {
+      "basename": "Técnicas Elementais de Ar",
+      "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Técnicas Elementais de Ar.md"
+    },
+    {
       "basename": "Receitas e Matérias-Primas",
       "path": "13 - SISTEMA DE RPG/Equipamento/Receitas e Matérias-Primas.md"
     },
@@ -85,120 +189,12 @@
       "path": "13 - SISTEMA DE RPG/Personagem Jogável/Ferimentos Permanentes.md"
     },
     {
-      "basename": "Tipos de Dano",
-      "path": "13 - SISTEMA DE RPG/Combate/Tipos de Dano.md"
-    },
-    {
       "basename": "Armaduras",
       "path": "13 - SISTEMA DE RPG/Equipamento/Armaduras.md"
     },
     {
       "basename": "Dano",
       "path": "13 - SISTEMA DE RPG/Combate/Dano.md"
-    },
-    {
-      "basename": "Pontos de Vida",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Pontos de Vida.md"
-    },
-    {
-      "basename": "Atributos e Perícias",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md"
-    },
-    {
-      "basename": "13 - SISTEMA DE RPG",
-      "path": "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md"
-    },
-    {
-      "basename": "Descanso e Recuperação",
-      "path": "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Descanso e Recuperação.md"
-    },
-    {
-      "basename": "Combate",
-      "path": "13 - SISTEMA DE RPG/Combate/Combate.md"
-    },
-    {
-      "basename": "Molhado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Molhado.md"
-    },
-    {
-      "basename": "Ficha de Personagem",
-      "path": "13 - SISTEMA DE RPG/Começando a Jogar/Ficha de Personagem.md"
-    },
-    {
-      "basename": "Introdução ao Sistema",
-      "path": "13 - SISTEMA DE RPG/Começando a Jogar/Introdução ao Sistema.md"
-    },
-    {
-      "basename": "Porta da Morte",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Únicas/Porta da Morte.md"
-    },
-    {
-      "basename": "Agilidade",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Agilidade.md"
-    },
-    {
-      "basename": "Constituição",
-      "path": "13 - SISTEMA DE RPG/Atributos e Perícias/Constituição.md"
-    },
-    {
-      "basename": "Tucho",
-      "path": "04 - Criaturas e Bestiário/Fera/Tucho.md"
-    },
-    {
-      "basename": "Tucho de Bico Amarelo",
-      "path": "04 - Criaturas e Bestiário/Fera/Tucho de Bico Amarelo.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "07 - Contratos",
-      "path": "07 - Contratos/07 - Contratos.md"
-    },
-    {
-      "basename": "Infecção dos Substituidores",
-      "path": "Infecção dos Substituidores.md"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "Untitled Kanban.md"
-    },
-    {
-      "basename": "Livros dos Vales",
-      "path": "Livros dos Vales.md"
-    },
-    {
-      "basename": "Agarrado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Agarrado.md"
-    },
-    {
-      "basename": "Caído",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Caído.md"
-    },
-    {
-      "basename": "Atordoado",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Atordoado.md"
-    },
-    {
-      "basename": "Envenenamento Grave",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Envenenamento Grave.md"
-    },
-    {
-      "basename": "Envenenamento Leve",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Envenenamento Leve.md"
-    },
-    {
-      "basename": "Falta de Oxigênio",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Falta de Oxigênio.md"
-    },
-    {
-      "basename": "Febre",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Febre.md"
-    },
-    {
-      "basename": "Fratura",
-      "path": "13 - SISTEMA DE RPG/Condições e Efeitos/Condições/Fratura.md"
     }
   ],
   "omittedPaths": [],

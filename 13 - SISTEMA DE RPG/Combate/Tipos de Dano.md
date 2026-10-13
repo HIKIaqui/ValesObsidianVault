@@ -1,16 +1,16 @@
 ---
 aliases:
-- Dano Vital
-- Dano Energético
-- Dano Espiritual
-- Dano Cortante
-- Dano de Impacto
-- Dano Perfurante
-- Dano de Calor
-- Dano de Frio
-- Dano Químico
-- Dano Sagrado
-- Dano de Maldição
+  - Dano Vital
+  - Dano Energético
+  - Dano Espiritual
+  - Dano Cortante
+  - Dano de Impacto
+  - Dano Perfurante
+  - Dano de Calor
+  - Dano de Frio
+  - Dano Químico
+  - Dano Sagrado
+  - Dano de Maldição
 ---
 
 # Tipos de Dano

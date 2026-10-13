@@ -71,10 +71,10 @@ Aqueles que são mortos por Esquecidos também se tornam criaturas da mesma esp�
 
 # Atributos
 
-**Constituição:** 2  
-**Agilidade:** 0  
-**Mente:** 0  
-**Social:** 0  
+**Constituição:** 2
+**Agilidade:** 0
+**Mente:** 0
+**Social:** 0
 **Sorte:** 0
 
 # Perícias

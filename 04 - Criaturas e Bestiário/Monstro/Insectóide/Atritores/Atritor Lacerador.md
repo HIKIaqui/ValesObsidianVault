@@ -8,7 +8,7 @@ statblock: inline
 ```statblock
 layout: Vales Bestiário
 name: Atritor Lacerador
-tipo: Insectóide
+tipo: [[Insectóide]]
 grau: 2
 hp: 30
 pe: Não informado no livro.
@@ -99,6 +99,3 @@ Esse atritor maior abdica de sua carapaça em troca de maior mobilidade, a qual 
 **Sensibilidade à Luz:** É altamente sensível a luzes fortes. Recebe -5 para todos os testes quando sob efeito.
 
 **Comunicação Vulnerável:** Usar fogo, eletricidade ou atrapalhar sua comunicação são as melhores formas de lidar com Atritores. Em locais com muito barulho, eles têm dificuldade para se comunicar.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 138–139.

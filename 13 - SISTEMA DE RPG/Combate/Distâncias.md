@@ -1,13 +1,14 @@
 ---
 aliases:
-- Níveis de Distância
-- Nível de Distância
-- Distância
-- Corpo a Corpo
-- Curta Distância
-- Média Distância
-- Longa Distância
-- Muito Distante
+  - Níveis de Distância
+  - Nível de Distância
+  - Distância
+  - Corpo a Corpo
+  - Curta Distância
+  - Média Distância
+  - Longa Distância
+  - Muito Distante
+  - Casa
 ---
 
 # Distâncias

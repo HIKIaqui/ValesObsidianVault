@@ -51,8 +51,6 @@ fraquezas:
 - name: Autoridade de Malaquita
   desc: Insígnias Reais de Malaquita podem ser usadas para comandar Soldados de Cobre, desde que a ordem não contradiga
     uma ordem superior ainda ativa.
-- name: Fonte
-  desc: Livro de Regras dos Vales, pp. 170–171.
 ```
 
 ---
@@ -117,6 +115,3 @@ Tentar dialogar com um deles é completa loucura.
 **Curto e Congelamento:** Eletricidade pode dar curto nele, e Gelo pode congelar seus mecanismos. Causando Atordoado 1 sem teste de Resistência.
 
 **Autoridade de Malaquita:** Insígnias Reais de Malaquita podem ser usadas para comandar Soldados de Cobre, desde que a ordem não contradiga uma ordem superior ainda ativa.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 170–171.

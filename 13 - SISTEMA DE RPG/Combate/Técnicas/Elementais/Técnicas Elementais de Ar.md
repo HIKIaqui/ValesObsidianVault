@@ -1,5 +1,3 @@
-# Técnicas Elementais de Ar
-
 - [[Corte de Vento]]
 - [[Salto Turbulento]]
 - [[Onda de Vento]]

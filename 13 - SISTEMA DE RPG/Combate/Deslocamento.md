@@ -1,5 +1,3 @@
-# Deslocamento
-
 Por padrão, todo personagem pode se mover **1 [[Distâncias|Nível de Distância]] por turno**.
 
 $$

@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Esquecido"
             }
           }
         ]
@@ -305,6 +319,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Ficha ----.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau1/Esquecido.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Amaldiçoado.md",
+    "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Grau0/Avistador.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Soldado de Cobre - M1.md",
+    "04 - Criaturas e Bestiário/Monstro/Constructo/Senhor da Floresta.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Devorador.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Lacerador.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Atritor Sentinela.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Atritores/Mãe Digestora.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Aranha Arco-Íris.md",
     "13 - SISTEMA DE RPG/Equipamento/Receitas e Matérias-Primas.md",
     "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md",
     "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md",
@@ -319,18 +345,6 @@
     "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Vital no Sistema.md",
     "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Natural no Sistema.md",
     "13 - SISTEMA DE RPG/Sobrenatural/Magia/Magia Física no Sistema.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Runas de Conjuração.md",
-    "13 - SISTEMA DE RPG/Sobrenatural/Magia/Métodos de Conjuração.md",
-    "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Ar/Chamado do Vendaval.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Efeitos/Obcecado.md",
-    "13 - SISTEMA DE RPG/Condições e Efeitos/Condições e Efeitos.md",
-    "08 - Campanhas/O Chamado dos Vermes/Seções/Capítulo 1/Parte 0 - Taverna.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Ferimentos Permanentes.md",
-    "13 - SISTEMA DE RPG/Combate/Tipos de Dano.md",
-    "13 - SISTEMA DE RPG/Equipamento/Armaduras.md",
-    "13 - SISTEMA DE RPG/Combate/Dano.md",
-    "13 - SISTEMA DE RPG/Personagem Jogável/Recursos/Pontos de Vida.md",
-    "13 - SISTEMA DE RPG/Atributos e Perícias/Atributos e Perícias.md",
     "13 - SISTEMA DE RPG/Sobrenatural/Magia",
     "13 - SISTEMA DE RPG/Sobrenatural",
     "13 - SISTEMA DE RPG/Personagem Jogável/Recursos",

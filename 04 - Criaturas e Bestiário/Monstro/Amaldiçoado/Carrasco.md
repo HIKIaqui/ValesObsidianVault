@@ -110,7 +110,5 @@ Tentáculos e uma enorme boca em seu abdômen se revelam ao ser ferido o suficie
 ---
 # Fraquezas
 
-**Vulnerabilidade ao Fogo:** Ataques fortes usando Fogo causam +1 Dado de Dano.
+**Vulnerabilidade ao Fogo:** Ataques usando Fogo causam +1 Dado de Dano.
 
----
-**Fonte:** Livro de Regras dos Vales, pp. 163–164.

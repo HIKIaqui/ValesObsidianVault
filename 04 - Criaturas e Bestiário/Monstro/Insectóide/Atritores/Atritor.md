@@ -34,8 +34,8 @@ pericias:
 traits:
 - name: Rede de Cliques (Passiva)
   desc: Para cada outro Atritor no campo de batalha, recebe +1 Porrada.
-- name: '[^1]**Formação Defensiva (Passiva)'
-  desc: '** Quando em combate e na mesma Casa que um ou mais aliados também com esta habilidade, estes se protegem.
+- name: '[^1]Formação Defensiva (Passiva)'
+  desc: 'Quando em combate e na mesma Casa que um ou mais aliados também com esta habilidade, estes se protegem.
     O dano recebido por um é dividido para todos com a habilidade, incluindo o que sofreu o golpe. A redução de
     armadura é aplicada para cada um dos atritores.'
 actions:

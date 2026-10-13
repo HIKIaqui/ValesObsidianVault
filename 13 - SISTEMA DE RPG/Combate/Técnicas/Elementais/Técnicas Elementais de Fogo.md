@@ -1,5 +1,3 @@
-# Técnicas Elementais de Fogo
-
 - [[Estouro]]
 - [[Labareda]]
 

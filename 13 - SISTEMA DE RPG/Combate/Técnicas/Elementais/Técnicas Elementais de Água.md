@@ -1,5 +1,3 @@
-# Técnicas Elementais de Água
-
 - [[Enxurrada Curta]]
 - [[Movimento Fluido]]
 - [[Jato Contínuo]]
