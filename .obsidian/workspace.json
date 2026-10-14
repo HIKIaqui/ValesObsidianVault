@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "690054fa856f8517",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "eadfd56b2462b966",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Corrompido"
+              "title": "Nova aba"
             }
           }
         ]
@@ -289,13 +275,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "atlas-vtt:Display image on player view": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "eadfd56b2462b966",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
     "04 - Criaturas e Bestiário/Espírito/Fada.md",
     "04 - Criaturas e Bestiário/Espírito/Germinante.md",
     "04 - Criaturas e Bestiário/Espírito/Lembrado.md",
@@ -325,7 +310,6 @@
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Remendado.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - O Guarda.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Ent.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Constructo Magnético.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Médio",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Menor",
