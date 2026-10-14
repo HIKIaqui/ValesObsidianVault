@@ -1,52 +1,9 @@
 ---
 tags:
 - Espírito
-- Grau0
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: Lembrado
-tipo: Espírito
-grau: 0
-hp: 10
-pe: Não informado no livro.
-armadura: 0
-esquiva: 10
-atributos:
-- 0
-- 1
-- 1
-- 1
-- 0
-pericias:
-- name: Perícias
-  desc: Não informadas no livro.
-traits:
-- name: Coerência Próxima (Passiva)
-  desc: O Lembrado só apresenta forma espiritual coerente para criaturas próximas. De longe, parece uma distorção,
-    vulto ou nada visível. Criaturas em distância 2 ou mais não conseguem enxergar ele.
-- name: Degradação Espiritual (Passiva)
-  desc: Ao fim de cada dia relevante, ou sempre que sofrer grande perturbação emocional, o Lembrado se aproxima
-    da corrupção. Quando sua degradação se completa, torna-se um Corrompido.
-- name: Espírito (Passiva)
-  desc: Não possui corpo físico e não é afetado por ataques físicos comuns nem por condições de origem puramente
-    física. Dano Energético, prata e efeitos que afetem espíritos o atingem normalmente.
-actions:
-- name: Perturbar
-  desc: Alcance 1 | O alvo testa Vontade (Dif. 15) ou recebe +1 Estresse.
-fraquezas:
-- name: Fonte
-  desc: Livro de Regras dos Vales, pp. 122–123.
-- name: Observações
-  desc: Não informadas no livro.
-```
-
 ---
 
 **Tipo:** Espírito
-**Grau de Perigo:** 0
 
 # Descrição
 
@@ -58,46 +15,6 @@ A forma de um Lembrado é imperfeita, como uma lembrança falha, apresentando: t
 
 Lembrados não representam perigo imediato, porém, a degradação de sua mana consequentemente acaba fazendo com que em um período de dias ou semanas se tornem Corrompidos.
 
----
-# Status
+## Ficha no RPG
 
-**PV:** 10
-**Armadura:** 0
-**Esquiva:** 10
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** 0
-**Agilidade:** 1
-**Mente:** 1
-**Social:** 1
-**Sorte:** 0
-
-# Perícias
-
-Não informadas no livro.
-
----
-# Habilidades
-
-## Passivas
-
-**Coerência Próxima (Passiva):** O Lembrado só apresenta forma espiritual coerente para criaturas próximas. De longe, parece uma distorção, vulto ou nada visível. Criaturas em distância 2 ou mais não conseguem enxergar ele.
-
-**Degradação Espiritual (Passiva):** Ao fim de cada dia relevante, ou sempre que sofrer grande perturbação emocional, o Lembrado se aproxima da corrupção. Quando sua degradação se completa, torna-se um Corrompido.
-
-**Espírito (Passiva):** Não possui corpo físico e não é afetado por ataques físicos comuns nem por condições de origem puramente física. Dano Energético, prata e efeitos que afetem espíritos o atingem normalmente.
-
-## Ativas
-
-**Perturbar:** Alcance 1 | O alvo testa Vontade (Dif. 15) ou recebe +1 Estresse.
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 122–123.
+[[13 - SISTEMA DE RPG/Bestiário/Espírito/Ficha - Lembrado|Ficha - Lembrado]]

@@ -1,49 +1,10 @@
 ---
 tags:
 - Constructo
-- Grau5
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: A Garganta do Mundo
-tipo: Constructo
-grau: 5
-hp: Imensurável
-pe: Não informado no livro.
-armadura: Irrelevante
-esquiva: 0
-atributos:
-- Absoluta
-- 0
-- 0
-- 0
-- 0
-pericias:
-- name: Perícias
-  desc: '- Resistência +100'
-traits:
-- name: Sem Consciência (Passiva)
-  desc: Não pode ser convencido por testes de Social.
-actions: []
-fraquezas:
-- name: Fonte
-  desc: Livro de Regras dos Vales, pp. 180–181.
-- name: Observações
-  desc: Não informadas no livro.
-observacoes:
-- name: Observações — Habilidades
-  desc: Nenhuma listada no livro.
-```
-
 ---
 
 **Tipo:** Constructo
-**Grau de Perigo:** 5
 
-> [!warning] Pendência da fonte
-> PV (Imensurável), Armadura (Irrelevante) e Constituição (Absoluta) são valores não numéricos do PDF. Não devem ser convertidos em zero na database. A seção de Fraquezas está vazia na fonte.
 
 # Descrição
 
@@ -66,42 +27,6 @@ A exposição prolongada é letal. O líquido é altamente ácido.
 
 A real natureza desse sistema cavernoso é um segredo guardado pela elite de Rubi. Conscientes de que não há meios seguros de intervir, optam por esconder e ignorar sua existência. Assim, exploradores continuam se perdendo e sendo digeridos na Garganta de forma recorrente, sem jamais compreender onde estavam antes de condenarem suas próprias existências.
 
----
-# Status
+## Ficha no RPG
 
-**PV:** Imensurável
-**Armadura:** Irrelevante
-**Esquiva:** 0
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** Absoluta
-**Agilidade:** 0
-**Mente:** 0
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Resistência +100
-
----
-# Habilidades
-
-## Passivas
-
-**Sem Consciência (Passiva):** Não pode ser convencido por testes de Social.
-
-## Ativas
-
-Nenhuma listada no livro.
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 180–181.
+[[13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - A Garganta do Mundo|Ficha - A Garganta do Mundo]]

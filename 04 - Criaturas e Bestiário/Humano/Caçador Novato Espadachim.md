@@ -1,45 +1,4 @@
----
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: Caçador Novato Espadachim
-tipo: Humano
-grau: 1
-afiliacao: '[[Caçadores de Monstros]]'
-hp: 25
-pe: 8
-armadura: 1
-esquiva: 15
-atributos:
-- 1
-- 1
-- 1
-- 1
-- 1
-pericias:
-- name: Perícias
-  desc: |-
-    - Sobrevivência +5
-    - Percepção +5
-    - Técnica +5
-    - Reflexos +5
-traits:
-- name: Elemental (Passiva)
-  desc: Pode usar técnicas elementais. Um tipo de elemental apenas.
-- name: Caçador (Passiva)
-  desc: +1 Dado para toda ação relacionada a monstros.
-actions:
-- name: Corte de Prata
-  desc: Técnica | Precisão 0 | Dano 2d6 | Crítico 20 | +1d6 de Dano contra monstros.
-fraquezas: []
-```
-
----
-
 **Tipo:** Humano
-**Grau de Perigo:** 1
 **Afiliação:** [[Caçadores de Monstros]]
 # Descrição
 
@@ -49,34 +8,6 @@ Ainda tem a capa longa padrão do uniforme... que ingênuo, isso vai matar ele.
 
 Usa uma espada de prata.
 
----
-# Status
+## Ficha no RPG
 
-**PV:** 25
-**Armadura:** 1
-**Esquiva:** 15
-**PE:** 8
-
-# Atributos
-
-**Constituição:** 1
-**Agilidade:** 1
-**Mente:** 1
-**Social:** 1
-**Sorte:** 1
-
-# Perícias
-
-- Sobrevivência +5
-- Percepção +5
-- Técnica +5
-- Reflexos +5
-
----
-# Habilidades
-
-Elemental (Passiva): Pode usar técnicas elementais. Um tipo de elemental apenas.
-
-Caçador (Passiva): +1 Dado para toda ação relacionada a monstros.
-
-Corte de Prata: Técnica | Precisão 0 | Dano 2d6 | Crítico 20 | +1d6 de Dano contra monstros.
+[[13 - SISTEMA DE RPG/Bestiário/Humano/Ficha - Caçador Novato Espadachim|Ficha - Caçador Novato Espadachim]]

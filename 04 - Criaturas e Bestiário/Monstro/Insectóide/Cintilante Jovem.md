@@ -1,49 +1,9 @@
 ---
 tags:
 - Insectóide
-- Grau1
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: Cintilante Jovem
-tipo: Insectóide
-grau: 1
-hp: 15
-pe: Não informado no livro.
-armadura: 2
-esquiva: 18
-atributos:
-- 0
-- 2
-- 1
-- 1
-- 0
-pericias:
-- name: Perícias
-  desc: |-
-    - Reflexos +5
-    - Acrobacia +5
-    - Furtividade +5
-    - Força -5
-traits:
-- name: Escalador (Passiva)
-  desc: Pode se mover e permanecer em terreno difícil, recebendo +5 Esquiva quando nesses terrenos.
-actions:
-- name: Mandíbula Mineradora
-  desc: Técnica | Precisão 0 | Dano 2d6 | Crítico 20 | Ignora Armadura.
-fraquezas:
-- name: Fonte
-  desc: Livro de Regras dos Vales, pp. 146–147.
-- name: Observações
-  desc: Não informadas no livro.
-```
-
 ---
 
 **Tipo:** Insectóide
-**Grau de Perigo:** 1
 
 # Descrição
 
@@ -51,45 +11,6 @@ Aracnídeos que se alimentam de minerais, os quais são absorvidos por seu corpo
 
 Esse mal tem carapaça por ser jovem demais. Pela mesma razão, ainda não consegue gerar seda.
 
----
-# Status
+## Ficha no RPG
 
-**PV:** 15
-**Armadura:** 2
-**Esquiva:** 18
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** 0
-**Agilidade:** 2
-**Mente:** 1
-**Social:** 1
-**Sorte:** 0
-
-# Perícias
-
-- Reflexos +5
-- Acrobacia +5
-- Furtividade +5
-- Força -5
-
----
-# Habilidades
-
-## Passivas
-
-**Escalador (Passiva):** Pode se mover e permanecer em terreno difícil, recebendo +5 Esquiva quando nesses terrenos.
-
-## Ativas
-
-**Mandíbula Mineradora:** Técnica | Precisão 0 | Dano 2d6 | Crítico 20 | Ignora Armadura.
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, pp. 146–147.
+[[13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide/Ficha - Cintilante Jovem|Ficha - Cintilante Jovem]]

@@ -1,51 +1,10 @@
 ---
 tags:
 - Constructo
-- Grau2
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: Ent
-tipo: Constructo
-grau: 2
-hp: 60
-pe: Não informado no livro.
-armadura: 2
-esquiva: 8
-atributos:
-- 3
-- 1
-- 1
-- 0
-- 0
-pericias:
-- name: Perícias
-  desc: '- Resistência +15'
-traits: []
-actions:
-- name: Purificação
-  desc: Cura 1d4 de PV do alvo.
-- name: Grito da Natureza
-  desc: Chama a atenção do Senhor da Floresta.
-fraquezas:
-- name: Fonte
-  desc: Livro de Regras dos Vales, p. 167.
-- name: Observações
-  desc: Não informadas no livro.
-observacoes:
-- name: Observações — Habilidades
-  desc: Nenhuma listada no livro.
-```
-
 ---
 
 **Tipo:** Constructo
-**Grau de Perigo:** 2
 
-> [!warning] Pendência da fonte
-> A descrição afirma que Ents atacam quem destrói a vegetação, mas o PDF não define nenhum ataque ofensivo. A ficha foi portada sem inventar dano ou ação de ataque.
 
 # Descrição
 
@@ -53,44 +12,6 @@ observacoes:
 
 Muitas vezes são confundidos com “O Senhor da Floresta” devido ao fato de atacarem aqueles que destroem a vegetação em seu território. Porém, para Ents, agressividade contra aqueles que ameaçam as plantas em sua área não é nada além de uma tentativa de proteger sua própria fonte de alimentação, que gera mana.
 
----
-# Status
+## Ficha no RPG
 
-**PV:** 60
-**Armadura:** 2
-**Esquiva:** 8
-
-**PE:** Não informado no livro.
-
-# Atributos
-
-**Constituição:** 3
-**Agilidade:** 1
-**Mente:** 1
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Resistência +15
-
----
-# Habilidades
-
-## Passivas
-
-Nenhuma listada no livro.
-
-## Ativas
-
-**Purificação:** Cura 1d4 de PV do alvo.
-
-**Grito da Natureza:** Chama a atenção do Senhor da Floresta.
-
----
-# Fraquezas
-
-Não informadas no livro.
-
----
-**Fonte:** Livro de Regras dos Vales, p. 167.
+[[13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Ent|Ficha - Ent]]

@@ -1,57 +1,9 @@
 ---
 tags:
 - Aberração
-- Grau1
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: Afogador
-tipo: Aberração
-grau: 1
-habitat: Rios, lagos, canais, pântanos e regiões alagadas
-hp: 15
-pe: 3
-armadura: 3
-esquiva: 10
-atributos:
-- 1
-- 1
-- 1
-- 0
-- 0
-pericias:
-- name: Perícias
-  desc: |-
-    - Técnica +3
-    - Porrada +2
-    - Furtividade +2
-    - Resistência +2
-traits:
-- name: Garras Fixadoras (Passiva)
-  desc: Recebe +5 Resistência para resistir a [[Movimento Forçado]].
-- name: Camuflagem Natural (Passiva)
-  desc: Recebe +5 Furtividade enquanto não notado pelo alvo e fora de combate.
-actions:
-- name: Arranhar
-  desc: Porrada | Precisão 0 | Dano 2d4 | Crítico 20
-- name: Envolver com Tentáculos
-  desc: Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 |
-- name: Afogar
-  desc: Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 |
-fraquezas:
-- name: Desnorteado (Passiva)
-  desc: Ao ser afetado por [[Movimento Forçado]], sofre [[Atordoado]].
-- name: Ventre Protegido (Passiva)
-  desc: Ataques Baixos contra o Afogador **Ignoram Armadura**, porém sofrem **-1 Precisão**. Caso o Afogador esteja
-    [[Atordoado]], a penalidade de Precisão não se aplica.
-```
-
 ---
 
 **Tipo:** Aberração
-**Grau de Perigo:** 1
 **Habitat:** Rios, lagos, canais, pântanos e regiões alagadas
 
 # Descrição
@@ -70,45 +22,6 @@ Apesar de perigosos dentro da água, Afogadores são consideravelmente menos efi
 
 São criaturas naturais relativamente comuns nos Vales. Muitos de seus ataques acabam atribuídos a afogamentos, especialmente quando o corpo da vítima nunca é recuperado.
 
----
-# Status
+## Ficha no RPG
 
-**PV:** 15
-**Armadura:** 3
-**Esquiva:** 10
-**PE:** 3
-
-# Atributos
-
-**Constituição:** 1
-**Agilidade:** 1
-**Mente:** 1
-**Social:** 0
-**Sorte:** 0
-
-# Perícias
-
-- Técnica +3
-- Porrada +2
-- Furtividade +2
-- Resistência +2
-
----
-# HABILIDADES
-
-**Garras Fixadoras (Passiva):** Recebe +5 Resistência para resistir a [[Movimento Forçado]].
-
-**Camuflagem Natural (Passiva):** Recebe +5 Furtividade enquanto não notado pelo alvo e fora de combate.
-
-**Arranhar:** Porrada | Precisão 0 | Dano 2d4 | Crítico 20
-
-**Envolver com Tentáculos:** Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | 
-
-**Afogar:** Técnica | Alcance 1 | Precisão 0 | Dano 1d6 | Crítico 20 | 
-
----
-### FRAQUEZAS
-
-**Desnorteado (Passiva):** Ao ser afetado por [[Movimento Forçado]], sofre [[Atordoado]].
-
-**Ventre Protegido (Passiva):** Ataques Baixos contra o Afogador **Ignoram Armadura**, porém sofrem **-1 Precisão**. Caso o Afogador esteja [[Atordoado]], a penalidade de Precisão não se aplica.
+[[13 - SISTEMA DE RPG/Bestiário/Monstro/Aberração/Ficha - Afogador|Ficha - Afogador]]

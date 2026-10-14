@@ -1,83 +1,6 @@
----
-statblock: inline
----
-
-```statblock
-layout: Vales Bestiário
-name: Troll
-tipo: Semi-Humano
-grau: Variável - geralmente de 2 a 5, conforme idade e Maldições acumuladas
-habitat: Regiões isoladas, ruínas, cavernas, florestas densas e territórios com grande disponibilidade de alimento
-nome_popular: Troll
-hp: A definir conforme idade
-pe: A definir conforme idade e Maldições
-armadura: A definir conforme alterações corporais
-esquiva: A definir conforme tamanho e poderes
-atributos:
-- A definir — sempre elevada para sua categoria
-- A definir
-- A definir individualmente
-- A definir individualmente
-- A definir individualmente
-pericias:
-- name: Perícias
-  desc: |-
-    - Porrada — a definir
-    - Resistência — a definir
-    - Sobrevivência — a definir
-    - Furtividade — a definir
-    - Percepção — a definir
-    - Intimidação — a definir
-    - Perícias adicionais conforme vida e Maldições do indivíduo
-traits:
-- name: Regeneração Troll (Passiva)
-  desc: Reconstrói ferimentos e partes perdidas do corpo mediante tempo e nutrição suficientes. A velocidade, o
-    limite e a qualidade da regeneração dependem da idade, das reservas do organismo e das alterações acumuladas.
-- name: Crescimento Contínuo (Passiva)
-  desc: Regenerações e alimentação acumuladas aumentam progressivamente a massa, a resistência e a força do Troll.
-    Indivíduos mais velhos tendem a possuir capacidades físicas muito superiores às de jovens da mesma espécie.
-- name: Corpo Sacrificável (Passiva)
-  desc: O Troll pode oferecer partes regeneráveis do próprio corpo como custos físicos para poderes e pactos de
-    Maldição. Regras específicas serão adicionadas junto ao sistema de Maldições.
-- name: Plasticidade Amaldiçoada (Passiva)
-  desc: O organismo aceita e incorpora alterações de Maldição com facilidade excepcional. Modificações podem passar
-    a fazer parte do molde usado para regenerar o corpo.
-- name: Nutrição Humana (Passiva)
-  desc: Carne humana oferece eficiência nutricional superior e acelera a recuperação do Troll. Os efeitos mecânicos
-    ainda serão definidos.
-- name: Molde Dominante (Passiva)
-  desc: Descendentes de Trolls nascem completamente Trolls, independentemente da espécie do outro progenitor.
-actions:
-- name: Ataques
-  desc: A definir na ficha individual conforme tamanho, armas, anatomia e poderes de Maldição.
-fraquezas:
-- name: Metabolismo Colossal (Passiva)
-  desc: Trolls precisam consumir grandes quantidades de alimento. Regenerações, crescimento e uso do corpo como
-    sacrifício aumentam drasticamente essa necessidade. Fome prolongada reduz sua capacidade de reconstrução e pode
-    obrigar o organismo a consumir as próprias reservas.
-- name: Crescimento Visível (Passiva)
-  desc: Quanto maior e mais poderoso se torna, mais difícil é para o Troll esconder-se, deslocar-se por estruturas
-    humanas e encontrar território capaz de sustentá-lo sem chamar atenção.
-- name: Sistema de Maldições
-  desc: Outras fraquezas podem surgir de pactos, dívidas, deformações e incompatibilidades acumuladas. Devem ser
-    registradas individualmente quando esse sistema for formalizado.
-observacoes:
-- name: Observações — Status
-  desc: |-
-    > [!note] Ficha variável
-    > Trolls não possuem um bloco de Status único. PV, Armadura, Esquiva e PE devem ser definidos conforme idade, tamanho, alimentação, regenerações e Maldições acumuladas pelo indivíduo.
-- name: Observações — Habilidades
-  desc: |-
-    > [!warning] Placeholders mecânicos
-    > As habilidades abaixo registram apenas a função conceitual da espécie. Custos, valores, velocidades de regeneração e interações com Maldições serão definidos posteriormente.
-```
-
----
-
 **Nome popular:** Troll  
 **Tipo:** Semi-Humano  
 **Habitat:** Regiões isoladas, ruínas, cavernas, florestas densas e territórios com grande disponibilidade de alimento  
-**Grau de Perigo:** Variável - geralmente de 2 a 5, conforme idade e Maldições acumuladas
 
 # Descrição
 
@@ -89,7 +12,6 @@ O perigo de um Troll não pode ser determinado apenas pela espécie. Idade, alim
 
 Um Troll não envelhece apenas acumulando anos. Ele acumula corpo.
 
----
 ## Origem
 
 Trolls foram criados por Malaquita durante pesquisas destinadas à produção de tecidos e órgãos regenerativos. O objetivo era desenvolver organismos capazes de repor continuamente aquilo que fosse removido, funcionando como fontes renováveis para transfusões, enxertos e transplantes.
@@ -104,7 +26,6 @@ Depois do fracasso médico, Trolls foram reaproveitados como cobaias renováveis
 
 Essa utilidade teve vida curta. Trolls que sobreviviam aos procedimentos acumulavam modificações, tornavam-se progressivamente mais fortes e, com o tempo, difíceis demais de conter. A linhagem acabou classificada como **Lixo**, não por ausência de resultados, mas por não oferecer o resultado controlável, transferível e obediente que Malaquita pretendia transformar em produto.
 
----
 ## Molde Regenerativo
 
 O corpo Troll é organizado por um molde regenerativo capaz de reconstruir grandes perdas de tecido. Essa regeneração não cria matéria do nada. Todo reparo consome água, sangue, gordura, proteínas, minerais e energia armazenados pelo organismo.
@@ -115,7 +36,6 @@ O molde também não restaura necessariamente o estado original. Maldições, ci
 
 Regenerações sucessivas tendem a aumentar a densidade dos ossos, a espessura dos tecidos e a massa total do Troll. Por isso, indivíduos mais velhos geralmente são maiores e fisicamente mais poderosos. A aparência de um Troll antigo funciona como um registro das coisas que perdeu, recuperou e permitiu que alterassem seu corpo.
 
----
 ## Crescimento e Idade
 
 Trolls não nascem com as proporções de um adulto. O crescimento começa ainda durante a gestação, mas continua principalmente depois do nascimento e pode persistir durante toda a vida.
@@ -145,7 +65,6 @@ Por isso, Trolls antigos são conhecidos individualmente. Nessa idade, dizer ape
 
 Essa escala representa apenas uma tendência. Um Troll jovem exposto precocemente a Maldições pode superar indivíduos mais velhos, enquanto um Troll que rejeita pactos pode permanecer abaixo do perigo esperado para sua idade.
 
----
 ## Alimentação
 
 O metabolismo Troll acompanha seu tamanho e sua regeneração. Mesmo sem ferimentos, um adulto precisa consumir quantidades enormes de alimento. Depois de perder um membro ou utilizar o próprio corpo como sacrifício, essa necessidade aumenta drasticamente.
@@ -158,7 +77,6 @@ Existem Trolls que recusam carne humana, mas essa escolha exige acesso constante
 
 A necessidade de comer muito e a necessidade de não ser encontrado são as duas pressões centrais da vida Troll. Toda caça deixa rastros. Todo território capaz de alimentar um Troll por muito tempo eventualmente atrai a atenção de outras pessoas.
 
----
 ## Compatibilidade com Maldições
 
 Trolls possuem compatibilidade excepcional com Maldições. Seu tecido não apenas tolera alterações que destruiriam um humano comum, mas pode incorporá-las ao próprio molde regenerativo.
@@ -180,7 +98,6 @@ Maldições acumuladas também tornam cada Troll menos previsível. Poderes, def
 > [!warning] Sistema em desenvolvimento
 > As regras para pactos, sacrifícios, aquisição de poderes e acúmulo de Maldições ainda não foram formalizadas. As capacidades desta seção permanecem conceituais até a criação do sistema de Maldições do RPG.
 
----
 ## Reprodução
 
 Trolls podem se reproduzir com humanos e com a maioria dos outros semi-humanos. Não existem híbridos Troll: o molde regenerativo da linhagem sobrepõe as características herdadas do outro progenitor e reorganiza o desenvolvimento segundo o padrão Troll.
@@ -193,7 +110,6 @@ O parto ainda pode provocar hemorragias, lesões graves ou a morte da mãe, espe
 
 Recém-nascidos desenvolvem autonomia muito cedo. Aprendem a se esconder, reconhecer alimento e consumir carne sólida antes de crianças humanas. Seu crescimento ocorre em surtos relacionados à disponibilidade de comida: um filhote faminto pode permanecer pequeno por algum tempo, enquanto outro bem alimentado cresce de forma visível em períodos curtos.
 
----
 ## Solidão e Abandono
 
 Trolls tendem a viver sozinhos, mas isso não significa que sejam incapazes de afeto ou convivência. A solidão é uma resposta às condições materiais de sua existência.
@@ -206,7 +122,6 @@ Os filhotes que procuram humanos ou demonstram confiança costumam ser descobert
 
 Adultos pacíficos também permanecem solitários. Viver numa comunidade revela sua localização, ameaça quem os abriga e oferece aos caçadores pessoas que podem ser interrogadas ou usadas contra eles. Para alguns Trolls, proteger alguém significa nunca permanecer ao lado dessa pessoa por tempo suficiente para que sejam encontrados juntos.
 
----
 ## Caça Preventiva
 
 Trolls foram caçados até quase desaparecerem. A perseguição não depende necessariamente de um indivíduo ter atacado alguém. Para muitos reinos, comunidades e caçadores, permitir que um Troll jovem cresça significa aceitar a possibilidade de enfrentar uma ameaça muito maior no futuro.
@@ -223,7 +138,6 @@ Essa perseguição ajuda a explicar tanto a raridade quanto a reputação da esp
 
 Trolls não são raros porque sejam incapazes de nascer. São raros porque poucos recebem permissão para crescer.
 
----
 ## Comportamento
 
 Trolls são inteligentes e capazes de planejamento. Indivíduos que alcançaram idade avançada não devem ser tratados como gigantes barulhentos ou predadores incapazes de estratégia. Um corpo enorme que permaneceu escondido durante décadas aprendeu a controlar rastros, escolher presas, abandonar territórios e reconhecer os métodos usados por caçadores.
@@ -241,65 +155,6 @@ Sua reação a humanos depende do indivíduo e da situação. Um Troll pode:
 
 Fome extrema reduz cautela e torna até indivíduos normalmente pacíficos muito mais perigosos. Ferir um Troll sem conseguir matá-lo também pode piorar a situação: a regeneração aumenta sua necessidade de alimento e pode levá-lo a buscar imediatamente a fonte de carne mais eficiente disponível.
 
----
-# Status
-
-> [!note] Ficha variável
-> Trolls não possuem um bloco de Status único. PV, Armadura, Esquiva e PE devem ser definidos conforme idade, tamanho, alimentação, regenerações e Maldições acumuladas pelo indivíduo.
-
-**PV:** A definir conforme idade
-**Armadura:** A definir conforme alterações corporais
-**Esquiva:** A definir conforme tamanho e poderes
-**PE:** A definir conforme idade e Maldições
-
-# Atributos
-
-**Constituição:** A definir — sempre elevada para sua categoria  
-**Agilidade:** A definir
-**Mente:** A definir individualmente
-**Social:** A definir individualmente  
-**Sorte:** A definir individualmente
-
-# Perícias
-
-- Porrada — a definir
-- Resistência — a definir
-- Sobrevivência — a definir
-- Furtividade — a definir
-- Percepção — a definir
-- Intimidação — a definir
-- Perícias adicionais conforme vida e Maldições do indivíduo
-
----
-# HABILIDADES
-
-> [!warning] Placeholders mecânicos
-> As habilidades abaixo registram apenas a função conceitual da espécie. Custos, valores, velocidades de regeneração e interações com Maldições serão definidos posteriormente.
-
-**Regeneração Troll (Passiva):** Reconstrói ferimentos e partes perdidas do corpo mediante tempo e nutrição suficientes. A velocidade, o limite e a qualidade da regeneração dependem da idade, das reservas do organismo e das alterações acumuladas.
-
-**Crescimento Contínuo (Passiva):** Regenerações e alimentação acumuladas aumentam progressivamente a massa, a resistência e a força do Troll. Indivíduos mais velhos tendem a possuir capacidades físicas muito superiores às de jovens da mesma espécie.
-
-**Corpo Sacrificável (Passiva):** O Troll pode oferecer partes regeneráveis do próprio corpo como custos físicos para poderes e pactos de Maldição. Regras específicas serão adicionadas junto ao sistema de Maldições.
-
-**Plasticidade Amaldiçoada (Passiva):** O organismo aceita e incorpora alterações de Maldição com facilidade excepcional. Modificações podem passar a fazer parte do molde usado para regenerar o corpo.
-
-**Nutrição Humana (Passiva):** Carne humana oferece eficiência nutricional superior e acelera a recuperação do Troll. Os efeitos mecânicos ainda serão definidos.
-
-**Molde Dominante (Passiva):** Descendentes de Trolls nascem completamente Trolls, independentemente da espécie do outro progenitor.
-
-**Ataques:** A definir na ficha individual conforme tamanho, armas, anatomia e poderes de Maldição.
-
----
-### FRAQUEZAS
-
-**Metabolismo Colossal (Passiva):** Trolls precisam consumir grandes quantidades de alimento. Regenerações, crescimento e uso do corpo como sacrifício aumentam drasticamente essa necessidade. Fome prolongada reduz sua capacidade de reconstrução e pode obrigar o organismo a consumir as próprias reservas.
-
-**Crescimento Visível (Passiva):** Quanto maior e mais poderoso se torna, mais difícil é para o Troll esconder-se, deslocar-se por estruturas humanas e encontrar território capaz de sustentá-lo sem chamar atenção.
-
-**Sistema de Maldições:** Outras fraquezas podem surgir de pactos, dívidas, deformações e incompatibilidades acumuladas. Devem ser registradas individualmente quando esse sistema for formalizado.
-
----
 ## Notas do Mestre
 
 - **Grau de Perigo não representa hostilidade.** Um Troll pacífico continua possuindo o Grau correspondente àquilo que é capaz de fazer.
@@ -310,3 +165,7 @@ Fome extrema reduz cautela e torna até indivíduos normalmente pacíficos muito
 - Encontros com filhotes e recém-nascidos devem ser tratados como conflitos morais e sociais, não como combates convencionais.
 - Sobreviver por muito tempo é, por si só, uma característica perigosa. Um Troll antigo representa alguém que superou todas as condições que normalmente matam sua espécie antes da maturidade.
 - Trolls continuam sendo pessoas. Inteligência, afeto e moralidade devem ser definidos individualmente, mesmo quando sua biologia e alimentação os tornam ameaças reais.
+
+## Ficha no RPG
+
+[[13 - SISTEMA DE RPG/Bestiário/Monstro/Semi-Humano/Ficha - Troll|Ficha - Troll]]
