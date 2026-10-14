@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "690054fa856f8517",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "eadfd56b2462b966",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Remendado.md",
-                "bFile": "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Remendado.md",
-                "aRef": ""
+                "file": "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Ficha - Remendado  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Corrompido"
             }
           }
         ]
@@ -284,8 +294,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eadfd56b2462b966",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Espírito/Fada.md",
+    "04 - Criaturas e Bestiário/Espírito/Germinante.md",
+    "04 - Criaturas e Bestiário/Espírito/Lembrado.md",
+    "13 - SISTEMA DE RPG/Bestiário/Espírito/Ficha - Lembrado.md",
+    "13 - SISTEMA DE RPG/Bestiário/Espírito/Ficha - Germinante.md",
     "04 - Criaturas e Bestiário/Fera/Onçaclope.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Semi-Humano/Ficha - Troll.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Semi-Humano/Ficha - Sereia.md",
@@ -311,11 +326,6 @@
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - O Guarda.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Ent.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Constructo Magnético.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Broto.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Barreira de Cobre - M2.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Assistente Modular - A3.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Abominação.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - A Garganta do Mundo.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Médio",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Menor",

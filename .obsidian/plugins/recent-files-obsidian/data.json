@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Corrompido",
+      "path": "04 - Criaturas e Bestiário/Espírito/Corrompido.md"
+    },
+    {
+      "basename": "Fada",
+      "path": "04 - Criaturas e Bestiário/Espírito/Fada.md"
+    },
+    {
+      "basename": "Germinante",
+      "path": "04 - Criaturas e Bestiário/Espírito/Germinante.md"
+    },
+    {
+      "basename": "Lembrado",
+      "path": "04 - Criaturas e Bestiário/Espírito/Lembrado.md"
+    },
+    {
+      "basename": "Ficha - Lembrado",
+      "path": "13 - SISTEMA DE RPG/Bestiário/Espírito/Ficha - Lembrado.md"
+    },
+    {
+      "basename": "Ficha - Germinante",
+      "path": "13 - SISTEMA DE RPG/Bestiário/Espírito/Ficha - Germinante.md"
+    },
+    {
       "basename": "Onçaclope",
       "path": "04 - Criaturas e Bestiário/Fera/Onçaclope.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Técnicas Elementais de Ar",
       "path": "13 - SISTEMA DE RPG/Combate/Técnicas/Elementais/Técnicas Elementais de Ar.md"
-    },
-    {
-      "basename": "Receitas e Matérias-Primas",
-      "path": "13 - SISTEMA DE RPG/Equipamento/Receitas e Matérias-Primas.md"
-    },
-    {
-      "basename": "Ankórra",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Ankórra.md"
-    },
-    {
-      "basename": "Miksí",
-      "path": "05 - Magia e Sistemas/Magia/Magia Mortal/Miksí.md"
-    },
-    {
-      "basename": "Acols",
-      "path": "05 - Magia e Sistemas/Magia/Magia Natural/Acols.md"
-    },
-    {
-      "basename": "Sem título",
-      "path": "05 - Magia e Sistemas/Magia/Magia Vital/Sem título.md"
-    },
-    {
-      "basename": "Mana no Sistema",
-      "path": "13 - SISTEMA DE RPG/Sobrenatural/Mana no Sistema.md"
     }
   ],
   "omittedPaths": [],
