@@ -46,12 +46,12 @@ A mesa pode seguir qualquer pista que aparecer. Entregue o fato observável quan
 
 ### Conclusões
 
-- [[Os Desaparecimentos São Antigos]] — os registros dão o histórico. Os restos no covil dão peso ao que os papéis deixaram sem resposta.
-- [[A Garota Mais Vulnerável]] — Isis vivia exposta na mata. As crianças que a criatura conseguia alcançar com mais facilidade dormiam dentro de Oleon.
-- [[Isis Foi Uma Exceção]] — as marcas de fuga e o corpo deixado na clareira mostram um ataque fora do padrão.
-- [[A Ameaça Vem de Baixo]] e [[O Bicho-Papão Usa Túneis]] — as frestas e os desenhos levantam a hipótese. O poço e as marcas nos túneis confirmam a rota.
-- [[O Ovo Mantém o Ciclo]] — a fêmea pode cair enquanto o ovo segue intacto.
-- [[Os Túneis Não São da Criatura]] — a construção já estava ali. A porta é um gancho opcional para investigar Malaquita.
+- [[Os Desaparecimentos São Antigos]]: os registros dão o histórico. Os restos no covil dão peso ao que os papéis deixaram sem resposta.
+- [[A Garota Mais Vulnerável]]: Isis vivia exposta na mata. As crianças que a criatura conseguia alcançar com mais facilidade dormiam dentro de Oleon.
+- [[Isis Foi Uma Exceção]]: as marcas de fuga e o corpo deixado na clareira mostram um ataque fora do padrão.
+- [[A Ameaça Vem de Baixo]] e [[O Bicho-Papão Usa Túneis]]: as frestas e os desenhos levantam a hipótese. O poço e as marcas nos túneis confirmam a rota.
+- [[O Ovo Mantém o Ciclo]]: a fêmea pode cair enquanto o ovo segue intacto.
+- [[Os Túneis Não São da Criatura]]: a construção já estava ali. A porta é um gancho opcional para investigar Malaquita.
 
 ## Fechamento
 
