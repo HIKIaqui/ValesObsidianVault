@@ -14,6 +14,7 @@ name: Amálgama
 tipo: Amaldiçoado
 grau: 3
 hp: 120
+pe: 6
 armadura: 0
 esquiva: 10
 atributos:
@@ -31,18 +32,18 @@ pericias:
     - Força +10
 traits:
 - name: Cérebro Morto (Passiva)
-  desc: Não é afetada por testes sociais ou de Intimidação.
+  desc: Não é afetada por testes de [[Social]] ou de [[Constituição|Intimidação]].
 - name: Mente Colmeia (Passiva)
-  desc: Amaldiçoados próximos compartilham seus sentidos. Se um deles enxergar um inimigo, todos sabem sua localização.
+  desc: [[Amaldiçoado|Amaldiçoados]] próximos compartilham seus sentidos. Se um deles enxergar um inimigo, todos sabem sua localização.
 - name: Corpo Indeciso (Passiva)
-  desc: Sempre age por último em combate, independentemente da Iniciativa. Os vários cadáveres que formam seu corpo
+  desc: Não rola [[Iniciativa]]. Sua iniciativa sempre é 1. Os vários cadáveres que formam seu corpo
     têm dificuldade para se mover em conjunto durante o combate.
 - name: Força Bruta (Passiva)
-  desc: A Amálgama atravessa barreiras físicas destrutíveis, como paredes, portas e muros, sem precisar realizar
+  desc: A Amálgama atravessa barreiras físicas destrutíveis, como paredes, portas, muros e até mesmo cobertura sem precisar realizar
     testes de Força, destruindo-as durante o processo.
 actions:
-- name: Gritos de Sofrimento (1x por Combate, Ação Livre)
-  desc: Alcance 1 | Os gemidos dos cadáveres fazem com que todas as criaturas próximas testem Vontade (Dif. 15).
+- name: Gritos de Sofrimento (Ação Livre)
+  desc: 6 PE | Alcance 1 | Os gemidos dos cadáveres fazem com que todas as criaturas próximas testem Vontade (Dif. 15).
     Quem falhar recebe +1d4 de Estresse.
 - name: Pancada Múltipla
   desc: Porrada | Precisão -4 | Dano 3d6 | Crítico 20 | Ataca com vários braços ao mesmo tempo, atingindo todos

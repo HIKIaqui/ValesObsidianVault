@@ -1,6 +1,9 @@
 ---
 tags:
-- Aberração
+  - Aberração
+aliases:
+  - Carnicida (Criatura)
+  - Carnicidas (Criatura)
 ---
 
 **Tipo:** Aberração

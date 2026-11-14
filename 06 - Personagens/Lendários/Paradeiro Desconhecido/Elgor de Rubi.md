@@ -653,7 +653,7 @@ Elgor cria uma corrente violenta de ar em uma direção.
 
 Elgor manipula o ar ao redor de um disparo.
 
-O ataque recebe **+1 de Precisão**, ignora penalidades causadas por vento e cobertura parcial e pode alterar levemente sua trajetória. A técnica não permite que o projétil faça curvas impossíveis, apenas corrige erros e desvios plausíveis.
+O ataque recebe **+1 de Precisão**, ignora penalidades causadas por vento e [[Cobertura|Cobertura Leve]] e pode alterar levemente sua trajetória. A técnica não permite que o projétil faça curvas impossíveis, apenas corrige erros e desvios plausíveis.
 
 ## **Características Únicas:**
 

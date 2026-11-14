@@ -1,3 +1,8 @@
+---
+aliases:
+  - Constructo
+  - Constructos
+---
 Constructos são seres cujo corpo físico é constituído por matéria organizada e animada por [[Forças Fundamentais|Energia]]. Essa animação estabelece o funcionamento da matéria como uma criatura, podendo reunir partes existentes ou formar uma nova estrutura corporal.
 
 Podem surgir espontaneamente ou ser produzidos de forma intencional. Seus corpos podem incluir pedra, metal, madeira, ossos, carne ou combinações desses materiais.

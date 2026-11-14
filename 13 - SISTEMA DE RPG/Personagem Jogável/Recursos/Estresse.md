@@ -1,5 +1,3 @@
-# Estresse
-
 Estresse representa medo, trauma, pânico, ansiedade e desgaste mental. Seu valor vai de **0 a 10**, o máximo normal.
 
 ## Acumulando Estresse

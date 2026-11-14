@@ -1,3 +1,8 @@
+---
+aliases:
+  - Amaldiçoados
+---
+
 Amaldiçoados são cadáveres animados e deformados pela energia de [[Maldição]].
 
 >O cadáver fornece matéria. O medo dá forma. A dor fornece função.

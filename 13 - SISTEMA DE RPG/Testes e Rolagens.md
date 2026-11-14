@@ -66,7 +66,8 @@ O Mestre determina a Dificuldade considerando a ação tentada e as circunstânc
 Uma ação normalmente simples pode receber uma Dificuldade maior quando realizada sob pressão, sem ferramentas adequadas ou em condições desfavoráveis.
 
 > [!info] **Obs** 
-> Em fichas de equipamento, [[Ações]], [[Condições]] e bestiário, Dificuldade de testes tende a ser resumida por "Dif." seguido do valor da Dificuldade. Ex: Resistência Dif. 15.
+> Em fichas de equipamento, [[Ações]], [[Condições e Efeitos|Condições]] e bestiário, Dificuldade de testes tende a ser resumida por "Dif." seguido do valor da Dificuldade. Ex: Resistência Dif. 15.
+> 
 > Especificamente para a aplicação de Condições, quando uma [[Atributos e Perícias|Perícia]] relevante não é mencionada, é presumido que [[Constituição|Resistência]] seja a perícia utilizada.
 
 
@@ -157,7 +158,14 @@ A diferença é +5, portanto o teste resulta em um Sucesso Absoluto.
 ---
 ## Teste de Acerto
 
-Ao realizar uma [[Ações|Ação]] de Ataque contra um alvo, o realizador faz um Teste da Perícia de Combate relevante, com o objetivo de superar o valor da [[Esquiva]] do alvo.
+Ao realizar uma [[Ações|Ação]] de Ataque contra um alvo, o realizador faz um Teste da [[Atributos e Perícias|Perícia]] de [[Combate]] relevante, com o objetivo de superar o valor da [[Esquiva]] do alvo.
+
+---
+## Testes Assistidos
+
+Quando outro personagem ajuda diretamente na realização de um teste, quem realiza o teste recebe +1 no [[Atributos e Perícias|Atributo]] relevante para aquela rolagem.
+
+Se os dois estiverem agindo na cena, ajudando um ao outro, e ambos precisarem testar, cada um recebe +1 no [[Atributos e Perícias|Atributo]] relevante do próprio teste. Cada rolagem é resolvida individualmente.
 
 ---
 

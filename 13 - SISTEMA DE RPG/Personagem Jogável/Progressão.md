@@ -40,4 +40,39 @@ Ao subir de nível, o personagem recebe as características descritas em sua [[C
 
 O Mestre também pode recompensar jogadores com PP da forma que achar válida.
 
+
+---
+# Treino
+
+Durante um turno de tempo livre entre contratos, cada personagem pode **treinar um atributo** ou **ajudar um aliado a treinar**. Declare quem vai treinar e quem vai ajudar antes de fazer os testes.
+
+**Treinar.** Escolha um atributo e descreva como o personagem vai praticar. Faça um teste de **Dificuldade 15** usando o valor bruto do atributo para determinar quantos dados rolar e qual resultado manter, conforme a regra normal de testes de atributo. Use apenas o resultado do dado escolhido e os bônus de ajuda.
+
+**Ajudar.** Dedique seu turno de tempo livre ao treino de um aliado e diga como você contribui. Cada aliado que ajudar concede **+5 ao resultado do teste**. Os bônus se somam. Quem ajuda usa o turno nessa atividade.
+
+|Resultado final|Pontos de Traço do atributo treinado|
+|---|---|
+|14 ou menos|0|
+|15 a 19|1|
+|20 ou mais|2|
+
+Use esta tabela para determinar os pontos do treino, inclusive quando o dado escolhido for um 1 ou 20 natural.
+
+**Aprender traços.** Anote os Pontos de Traço de cada atributo na ficha. Eles acumulam entre contratos e podem ser gastos para aprender traços que indiquem aquele atributo como custo. Qualquer classe pode aprender esses traços se o personagem tiver os pontos necessários e cumprir os requisitos do traço. O jogador pode decidir o que aprender depois de acumular os pontos.
+
+| Atributo         | Exemplos de treino                                                                                                           |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Constituição** | Levantar peso, fazer musculação ou carregar carga num percurso de resistência.                                               |
+| **Agilidade**    | Fazer aeróbica, percorrer um circuito de obstáculos ou praticar equilíbrio e coordenação.                                    |
+| **Mente**        | Ler, estudar com alguém, aprender uma atividade nova ou enfrentar um medo aos poucos em ambiente controlado.                 |
+| **Social**       | Fazer teatro, improvisar cenas ou ensaiar conversas difíceis com amigos.                                                     |
+| **Sorte**        | Apostar em jogos de azar ou participar de um bolão. Resolva o que foi ganho ou perdido na aposta à parte do teste de treino. |
+
+**Exemplo.** O próximo contrato passa por túneis sem iluminação. Pablo decide treinar [[Mente]] ficando alguns minutos numa sala escura. Uma aliada fica do lado de fora conversando com ele e outro se oferece pra entrar junto. Pablo tira **11** no dado que manteve. Com **+10** pela ajuda, chega a **21** e ganha **2 Pontos de Traço de Mente**. Ele pode gastar esses pontos se já cumprir os requisitos do traço que quer aprender.
+
+
+
+
+
+
 Consulte [[Graus de Perigo]], [[Técnicas]] e [[Atributos e Perícias]].

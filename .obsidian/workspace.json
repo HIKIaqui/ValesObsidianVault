@@ -11,12 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.5"
+                "file": "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Manuscritos do Escolhido.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.14.5"
+              "icon": "lucide-file",
+              "title": "Manuscritos do Escolhido"
             }
           }
         ]
@@ -283,6 +295,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "13 - SISTEMA DE RPG/Personagem Jogável/Progressão.md",
+    "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Manuscritos do Escolhido.md",
+    "01 - Lore Geral/Sem título",
+    "13 - SISTEMA DE RPG/13 - SISTEMA DE RPG.md",
+    "04 - Criaturas e Bestiário/Monstro/Aberração/Carnicidas/Carnicidas.md",
+    "04 - Criaturas e Bestiário/Monstro/Dragão/Dragão.md",
+    "04 - Criaturas e Bestiário/Monstro/Insectóide/Insectóide.md",
+    "Amaldiçoados.md",
     "04 - Criaturas e Bestiário/Espírito/Corrompido.md",
     "04 - Criaturas e Bestiário/Espírito/Fada.md",
     "04 - Criaturas e Bestiário/Espírito/Germinante.md",
@@ -303,22 +323,14 @@
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide/Atritores/Ficha - Atritor Devorador.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide/Ficha - Pseudo-Unicórnio.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide/Ficha - Vagalume Bexiga.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide/Ficha - Cintilante Jovem.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide/Atritores",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Insectóide",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Dragão/Ficha - Kolsin Adulto.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Dragão",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Soldado de Cobre - M1.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Senhor da Floresta.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Remendado.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - O Guarda.md",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo/Ficha - Ent.md",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Médio",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Menor",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Maior",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Insignificante",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado",
     "Homepage.canvas",
     "atlas-vtt/assets/thumbnails/Occultist_1791776616627_5kxhbm-9c341e03.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1791776616615_pdvcg5-b998018b.webp",

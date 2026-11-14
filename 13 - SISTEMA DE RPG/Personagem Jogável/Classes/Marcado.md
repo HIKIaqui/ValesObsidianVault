@@ -38,7 +38,7 @@ _[A definir: descrição do nível.]_
 
 **Escolha 1 Característica.**
 
-**Aceitar Maldição:** Compreende a essência da dor. Ao sofrer um ferimento permanente, recupera todos os PE e recebe um turno extra.
+**Aceitar Maldição:** Compreende a essência da dor. Ao sofrer um ferimento permanente, recupera todos os PE e recebe uma [[Ações|Ação]] Extra para ser usada imediatamente. Após o uso, a ordem dos turnos prossegue normalmente como era antes.
 
 **Característica 2:** A definir.
 

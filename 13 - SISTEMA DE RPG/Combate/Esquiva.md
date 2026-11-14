@@ -1,5 +1,3 @@
-# Esquiva
-
 Esquiva determina a dificuldade para atingir o personagem com um ataque. O resultado final do teste do atacante precisa ser **maior** que a Esquiva do alvo.
 
 $$

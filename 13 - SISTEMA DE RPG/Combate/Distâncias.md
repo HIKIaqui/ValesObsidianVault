@@ -26,3 +26,7 @@ São zonas relativas: a posição de cada personagem é definida pela distância
 | Muito Distante | 4 |
 
 O alcance de um ataque indica quais distâncias ele pode atingir. O movimento está em [[Deslocamento]].
+
+Caso pareça complicado, pense nisso como casas em um tabuleiro.
+Ações com alcance 0 não alcançam nada fora da mesma casa. Alcance 1 alcança um alvo a uma casa de distância.
+

@@ -14,7 +14,7 @@ name: Warg Inferior
 tipo: Aberração
 grau: 2
 hp: 45
-pe: Não informado no livro.
+pe: 10
 armadura: 1
 esquiva: 19
 atributos:
@@ -40,9 +40,6 @@ actions:
     turno.
 - name: Garras Enormes
   desc: Porrada | Precisão 0 | Dano 2d6 | Crítico 19+ | 3 Sangramento (Dif. 15)
-fraquezas:
-- name: Observações
-  desc: Não informadas no livro.
 observacoes:
 - name: Criatura no mundo
   desc: '[[04 - Criaturas e Bestiário/Monstro/Aberração/Wargs/Warg Inferior|Warg Inferior]]'

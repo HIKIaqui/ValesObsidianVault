@@ -1,0 +1,1 @@
+Monstros com principalmente características relacionadas a insetos ou aracnídeos, acima de suas outras características.

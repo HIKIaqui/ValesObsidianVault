@@ -6,3 +6,11 @@ aliases:
 Seres vivos criados artificialmente por intervenção direta ou indireta da ordem natural.
 
 Sofrem dano extra de Prata, que causa queimaduras em seus corpos.
+
+Essa categoria engloba:
+- [[Aberrações]]
+- [[Amaldiçoado|Amaldiçoados]]
+- [[Constructos]]
+- [[Dragões]]
+- [[Insectóides]]
+- [[Semi-Humanos]]

@@ -1,4 +1,5 @@
 **Perigo:** Moderado
+Cumulativo
 
 Se recusou a dormir quando teve a oportunidade. O corpo está sem descanso há certo tempo.
 
@@ -8,6 +9,3 @@ Só pode ser tratado ao dormir.
 
 Remove **1 Acúmulo por Descanso Prolongado**.
 
----
-
-**Fonte:** Livro de Regras dos Vales, p. 55.

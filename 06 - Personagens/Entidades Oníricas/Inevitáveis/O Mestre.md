@@ -120,7 +120,7 @@ Ele pode apenas **encerrar o jogo** ou **se retirar**.
 ---
 
 ## Exemplos de Manifestações
-- Os Jogos
+- [[#^1aa3f3|Os Jogos]]
 
 ---
 ## A Plateia Onírica
@@ -148,44 +148,49 @@ Ele joga para que a vitória, a derrota e a eliminação sejam vistas.
 ---
 # Os Jogos
 
+^1aa3f3
+
 ## 5 Rodadas 
 
-1 - Cada jogador compra uma carta por turno.
+1 - Cada jogador compra uma carta por turno, que é adicionada à sua mão atual. Os tipos de carta mudam a cada turno, seguindo uma ordem cíclica. São 3 tipos.
 
-2 - Deve seguir o que está escrito na carta enquanto a possuir.
+2 - Deve seguir o que está escrito na carta enquanto a possuir em sua mão atual.
 
-3 - Não é permitido largar cartas.
+3 - Não é permitido descartar cartas da sua mão atual.
 
 4 - Uma vez por turno, após comprar sua carta, o jogador pode fazer uma dessas ações:
 
-- Entregar uma carta para outro jogador, que não pode negar a carta.
-- Roubar uma carta aleatória de outro jogador.
+- Entregar uma carta para outro jogador, que não pode negar a carta, adicionando-a à mão deste jogador e removendo da sua.
+- Roubar uma carta da mão de outro jogador (O jogador NÃO deve mostrar sua mão para aquele que está roubando.).
 - Passar seu turno.
 
-6 - Após cinco rodadas, vence quem tiver o maior número de cartas.
+5 - Após cinco rodadas, vence quem tiver o maior número de cartas.
 
-7 - Quebrar qualquer regra implica eliminação imediata.
+6 - Tentativas de espiar intencionalmente a mão atual de outro jogador ou mostrar fisicamente sua mão atual para outros jogadores não são permitidas.
 
+7 - Quebrar qualquer regra implica eliminação imediata, exceto quando dito o contrário.
 
-Cartas:
+8 - Incapacidade de obedecer cartas não implica em eliminação imediata, mas ao final de seu turno, caso a incapacidade de obedecer permaneça. Essa regra não se aplica quando a carta especifica uma punição fora do padrão.
 
-Físicas
+#### Cartas:
 
-1. Você não pode mais falar até o final do jogo. Cartas que exigem que você fale são anuladas por essa.
+###### Físicas
+
+1. Você não pode mais falar até o final do jogo.
 2. Diga “próximo” sempre que encerrar o seu turno.
 3. Toda vez que alguém falar seu nome, você deve bater palmas.
 4. Fale mais alto que o jogador do turno anterior.
-5. Você não pode mais repetir nenhuma palavra que disser até o final do jogo.
+5. Você não pode mais repetir nenhuma palavra que disser a partir de agora até o final do jogo.
 6. Soque seu rosto antes de realizar sua ação.
 7. Bata a cabeça na mesa antes de realizar sua ação.
+8. Bata na mesa antes de realizar sua ação.
+9. Deve torcer um dedo antes de realizar sua ação.
 
   
 
-Psicológicas:
+###### Psicológicas:
 
-  
-
-1. Você deve responder “sim” a qualquer perguntar.
+1. Você deve responder “sim” a qualquer pergunta.
 2. Você deve rir sempre que um jogador for eliminado.
 3. Você deve sempre falar em tom de pergunta.
 4. Você deve escolher um jogador e copiar todas as jogadas dele a partir de agora. Essa carta é descartada caso ele seja eliminado.
@@ -195,11 +200,11 @@ Psicológicas:
 8. Você deve instigar a agir logo qualquer jogador que demorar a agir.
 9. No início de cada turno, você deve insistir que o jogo está quase acabando, mesmo que não esteja.
 10. Em voz alta para todos os jogadores, prometa que não vai roubar ou entregar cartas nessa partida.
-11. Diga que está com medo antes de realizar uma ação.
+11. Diga que está com medo antes de realizar uma ação.  
 
-  
 
-Interativas:
+
+###### Interativas:
 
 1. Uma vez por turno, caso um jogador fale diretamente com você, ele compra uma carta extra.
 2. A última palavra que você disse antes de tirar essa carta não pode mais ser dita durante o jogo por nenhum dos jogadores.
@@ -236,9 +241,8 @@ Uma balança gigante, com um poço enorme embaixo, cheio de espinhos ou algo sim
 
 5 - Jogar fora um companheiro é permitido.
 
-6 - Se a condição de vitória não for cumprida em 5 minutos, todos morrem.
+6 - Se a condição de vitória não for cumprida em 5 minutos, todos são eliminados imediatamente.
 
-  
 
   
 
@@ -286,39 +290,19 @@ F = 7:02m | 422s ( O ajuste fino, mas com poucas chances de ajustar. )
 
   
 
-  
-
-  
-
-Xadrez Humano
-
-  
-
-  
+## Xadrez Humano
 
 1 - Um jogo de xadrez, mas as peças brancas são os jogadores, com exceção do rei.
 
-  
-
-2 - As peças pretas são jogadas pelo mestre, que joga propositalmente mal porque sabe que os humanos não vão cooperar. (Ele evita capturar peças que se arriscam propositalmente a serem capturadas, respeitando a coragem do jogador, que é importante para seu espetáculo. Ele quer criar um jogo interessante e )
-
-  
+2 - As peças pretas são jogadas pelo mestre, que joga propositalmente mal porque sabe que os humanos não vão cooperar. (Ele evita capturar peças que se arriscam propositalmente a serem capturadas, respeitando a coragem do jogador, que é importante para seu espetáculo. Ele quer criar um jogo interessante e dramático. )
 
 3 - Peças capturadas são mortas pelas peças que capturam.
 
-  
-
 4 - O time inteiro é eliminado se o rei for morto.
-
-  
 
 5 - As regras são iguais para ambos os times.
 
-  
-
 6 - Cada time tem 1 minuto para se mover. Caso nenhuma peça do time se mova durante esse tempo, o turno é passado para o time oposto.
-
-  
 
 7 - Peças que saiam de suas casas fora de seus turnos ou que se movam de forma errada são eliminadas imediatamente após período de 5 segundos para corrigir sua posição.
 
