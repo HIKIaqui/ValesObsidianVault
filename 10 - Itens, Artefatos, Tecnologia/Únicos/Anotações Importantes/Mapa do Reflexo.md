@@ -204,9 +204,9 @@ Um evento lembrado não é apenas algo acontecendo dentro da sala. Ele faz parte
 5. **Se a sala estiver inundando e o nível da água ainda estiver subindo:** funciona como **Norte**.
 6. **Se a sala estiver preservada durante um incêndio e ainda houver chamas:** funciona como **Oeste**.
 7. **Se houver chuva e trovões:** funciona como **Leste**.
-8. **Se houver trovões, mas nenhuma chuva:** funciona como **Leste**.
+8. **Se houver trovões, mas nenhuma chuva:** funciona como **Norte**.
 9. **Se houver chuva, mas nenhum trovão:** permanece funcionando como **Sul**.
-10. **Se houver apenas neblina:** funciona como **Norte**.
+10. **Se houver apenas neblina no ambiente:** funciona como **Norte**.
 11. **Se nenhuma condição anterior corresponder à sala:** leva ao presente normalmente.
 
 > [!note] Ao lado da segunda regra  
