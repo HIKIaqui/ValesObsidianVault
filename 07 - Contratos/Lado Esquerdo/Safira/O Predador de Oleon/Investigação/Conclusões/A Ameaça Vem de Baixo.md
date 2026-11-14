@@ -2,7 +2,7 @@
 > **Contrato:** [[O Predador de Oleon]]  
 > **Tipo:** Conclusão essencial  
 > **Importância:** Alta  
-> **Pistas ligadas:** [[Vilarejo de Oleon]], [[Casa de Dona Mirela]], [[Nino]], [[Desenhos de Nino]], [[Poço Antigo de Oleon]], [[Túneis Sob Oleon]]
+> **Pistas ligadas:** [[Vila]], [[Casa da Dona Mirela e Nino]], [[Nino]], [[Desenhos de Nino]], [[O Poço]], [[Túneis Sob Oleon]]
 
 ---
 ## Pergunta
@@ -15,7 +15,7 @@
 
 De baixo da vila.
 
-O [[Bicho-Papão de Oleon]] usa túneis subterrâneos conectados ao [[Poço Antigo de Oleon]], às casas velhas e às frestas de Oleon.
+O [[Bicho-Papão de Oleon]] usa túneis subterrâneos conectados ao [[O Poço]], às casas velhas e às frestas de Oleon.
 
 Ele não precisa invadir a vila vindo de fora.
 
@@ -29,11 +29,11 @@ embaixo dele.
 
 ## Como os Jogadores Podem Chegar Nisso
 
-- No [[Vilarejo de Oleon]], várias casas têm frestas vedadas.
-- Na [[Casa de Dona Mirela]], lanternas ficam acesas e entradas baixas são bloqueadas.
+- No [[Vila]], várias casas têm frestas vedadas.
+- Na [[Casa da Dona Mirela e Nino]], lanternas ficam acesas e entradas baixas são bloqueadas.
 - [[Nino]] demonstra medo de escuro, frestas e espaços apertados.
 - [[Desenhos de Nino]] mostram algo vindo de baixo.
-- O [[Poço Antigo de Oleon]] possui rachadura lateral.
+- O [[O Poço]] possui rachadura lateral.
 - Os [[Túneis Sob Oleon]] conectam áreas da vila.
 
 ---

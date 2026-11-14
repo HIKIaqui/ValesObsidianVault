@@ -2,7 +2,7 @@
 > **Contrato:** [[O Predador de Oleon]]  
 > **Tipo:** Conclusão essencial  
 > **Importância:** Média/Alta  
-> **Pistas ligadas:** [[Poço Antigo de Oleon]], [[Túneis Sob Oleon]], [[Casa de Dona Mirela]], [[Desenhos de Nino]], [[Covil do Bicho-Papão]]
+> **Pistas ligadas:** [[O Poço]], [[Túneis Sob Oleon]], [[Casa da Dona Mirela e Nino]], [[Desenhos de Nino]], [[Covil do Bicho-Papão]]
 
 ---
 ## Pergunta
@@ -25,7 +25,7 @@ O território dele não é uma caverna isolada.
 
 ## Como os Jogadores Podem Chegar Nisso
 
-- O [[Poço Antigo de Oleon]] possui acesso lateral.
+- O [[O Poço]] possui acesso lateral.
 - Os [[Túneis Sob Oleon]] conectam áreas próximas às casas.
 - [[Nino]] desenha dedos em frestas.
 - [[Dona Mirela]] veda frestas e mantém luz.

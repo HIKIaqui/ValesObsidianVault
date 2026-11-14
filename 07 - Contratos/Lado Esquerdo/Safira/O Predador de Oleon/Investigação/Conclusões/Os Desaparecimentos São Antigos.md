@@ -2,7 +2,7 @@
 > **Contrato:** [[O Predador de Oleon]]
 > **Tipo:** Conclusão essencial
 > **Importância:** Alta
-> **Pistas ligadas:** [[Documentos da Illya]], [[Contratos Retirados de Oleon]], [[Registro do Caso do Poço]], [[Dona Mirela]], [[Covil do Bicho-Papão]]
+> **Pistas ligadas:** [[Contratos Retirados de Oleon]], [[Registro do Caso do Poço]], [[Dona Mirela]], [[Covil do Bicho-Papão]]
 
 ---
 ## Pergunta

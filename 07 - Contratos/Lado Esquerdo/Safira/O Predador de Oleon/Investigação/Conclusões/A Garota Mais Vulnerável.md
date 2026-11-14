@@ -2,7 +2,7 @@
 > **Contrato:** [[O Predador de Oleon]]  
 > **Tipo:** Conclusão essencial  
 > **Importância:** Alta  
-> **Pistas ligadas:** [[Cabana de Isis na Mata]], [[Clareira na Mata]], [[Documentos da Illya]], [[Contratos Retirados de Oleon]], [[Os Desaparecimentos São Antigos]]
+> **Pistas ligadas:** [[A Cabana de Isis na Mata]], [[A Clareira na Mata]], [[Contratos Retirados de Oleon]], [[Os Desaparecimentos São Antigos]]
 
 ---
 ## Pergunta
@@ -31,7 +31,7 @@ A criatura não caçava como um predador comum da floresta. Ela usava:
 - casas velhas;
 - quartos escuros;
 - túneis subterrâneos;
-- o [[Poço Antigo de Oleon]];
+- o [[O Poço]];
 - passagens estreitas sob a vila.
 
 Isis era vulnerável à fome, frio, abandono, acidentes e pessoas ruins.
@@ -42,9 +42,9 @@ Mas não era a presa ideal desse predador.
 
 ## Como os Jogadores Podem Chegar Nisso
 
-- [[Cabana de Isis na Mata]] mostra que Isis vivia isolada há bastante tempo.
+- [[A Cabana de Isis na Mata]] mostra que Isis vivia isolada há bastante tempo.
 - [[Contratos Retirados de Oleon]] mostra que casos antigos já aconteciam antes da morte dela, e que envolviam crianças da vila.
-- [[Clareira na Mata]] mostra que o ataque contra Isis foi apressado e fora do padrão.
+- [[A Clareira na Mata]] mostra que o ataque contra Isis foi apressado e fora do padrão.
 - [[A Ameaça Vem de Baixo]] mostra que o território principal do monstro era a vila, não a floresta.
 
 ---

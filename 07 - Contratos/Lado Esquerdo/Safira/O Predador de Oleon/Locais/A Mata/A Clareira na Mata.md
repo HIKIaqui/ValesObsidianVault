@@ -1,20 +1,13 @@
-Onde as crianças da vila brincam, e onde o cadáver de [[Isis]] foi encontrado.
+# A Clareira na Mata
 
-##### Ao redor, na área coberta por árvores, galhos quebrados, folhas e frutas estão caídos no chão
-( Percepção Dif. 20 ) 
-Ou
-( Sobrevivência Dif. 15 )
-Ou
-( Instinto Dif. 20 )
-> Personagem percebe que o padrão de vários dos itens no chão é não natural. (Indica que algo derrubou aquilo de cima das árvores.)
+As crianças brincavam aqui. O chão é batido, com marcas de pés pequenos e brinquedos improvisados. Foi aqui que encontraram [[Isis]].
 
+## O que dá pra examinar
 
+- **No chão.** Há uma sequência de pegadas pequenas que muda de direção, tropeça e termina de repente. O sangue e a falta de um rastro longo de arrasto indicam que o ataque aconteceu na clareira. Consulte o [[Relatório do Corpo de Isis]] para o exame do corpo.
+- **Sob as árvores.** Galhos quebrados, folhas e frutas caídos. **Percepção Dif. 20, Sobrevivência Dif. 15 ou Instinto Dif. 20** revela que a distribuição é irregular para uma queda natural. Algo derrubou aquilo de cima.
+- **Depoimento.** Uma [[Criança Testemunha|criança]] viu uma silhueta alta e magra e perdeu a criatura de vista perto de uma árvore. Cruzar o relato com os galhos derrubados aponta para uma fuga pela copa.
 
-Uma das crianças que tinha fugido de casa na madrugada viu a silhueta da criatura na noite do acontecimento.
-O garoto diz: 
-##### “Eu vi! Era alto e magro! Ele tava se escondendo atrás de uma árvore, espiando! Então sumiu do nada quando olhei pro lado! Aí saí correndo com medo!”
-( Persuasão Dif. 15 )
-Ou
-( Intimidação Dif. 15 )
-> **“Na verdade talvez eu não tenha visto bem porque olhei rápido, nervoso. Só que parecia mesmo ser alto e magro, eu acho. Mas eu juro que só olhei rápido pro lado antes da criatura sumir!”
-> (A única pista interessante é que a criatura sumiu rápido. Nesse caso a criatura sumiu rápido porque subiu até o topo da árvore que estava escalando.)**
+## Pista
+
+[[Isis Foi Uma Exceção]]

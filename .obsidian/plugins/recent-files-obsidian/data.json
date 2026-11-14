@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Desenhos de Nino",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Desenhos de Nino.md"
+    },
+    {
+      "basename": "Fragmento MALAQ-O13",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Fragmento MALAQ-O13.md"
+    },
+    {
+      "basename": "Contratos Retirados de Oleon",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Contratos Retirados de Oleon.md"
+    },
+    {
+      "basename": "Registro do Caso do Poço",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Registro do Caso do Poço.md"
+    },
+    {
+      "basename": "Os Desaparecimentos São Antigos",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Desaparecimentos São Antigos.md"
+    },
+    {
+      "basename": "O Ovo Mantém o Ciclo",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Ovo Mantém o Ciclo.md"
+    },
+    {
+      "basename": "Os Túneis Não São da Criatura",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Túneis Não São da Criatura.md"
+    },
+    {
+      "basename": "O Bicho-Papão Usa Túneis",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/O Bicho-Papão Usa Túneis.md"
+    },
+    {
+      "basename": "Isis Foi Uma Exceção",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Isis Foi Uma Exceção.md"
+    },
+    {
+      "basename": "A Garota Mais Vulnerável",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md"
+    },
+    {
+      "basename": "A Ameaça Vem de Baixo",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md"
+    },
+    {
+      "basename": "Relatório do Corpo de Isis",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Relatório do Corpo de Isis.md"
+    },
+    {
+      "basename": "O Predador de Oleon",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md"
+    },
+    {
       "basename": "Manuscritos do Escolhido",
       "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Manuscritos do Escolhido.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "04 - Rio Carmesim",
       "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/04 - Rio Carmesim/04 - Rio Carmesim.md"
-    },
-    {
-      "basename": "01 - Deserto das Cinzas",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/01 - Deserto das Cinzas/01 - Deserto das Cinzas.md"
-    },
-    {
-      "basename": "02 - Malaquita",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/02 - Malaquita/02 - Malaquita.md"
-    },
-    {
-      "basename": "03 - Floresta dos Lamentos",
-      "path": "02 - Reinos e Regiões/Véu Comum/Vales/02 - Vale Sombrio/03 - Floresta dos Lamentos/03 - Floresta dos Lamentos.md"
-    },
-    {
-      "basename": "Sem Rosto",
-      "path": "03 - Facções e Grupos/Cidade Secreta/Sem Rosto.md"
-    },
-    {
-      "basename": "O Mestre",
-      "path": "06 - Personagens/Entidades Oníricas/Inevitáveis/O Mestre.md"
-    },
-    {
-      "basename": "O Curioso",
-      "path": "06 - Personagens/Entidades Oníricas/Observadoras/O Curioso.md"
-    },
-    {
-      "basename": "Apego",
-      "path": "06 - Personagens/Entidades Oníricas/Predatórias/Apego.md"
-    },
-    {
-      "basename": "Animador",
-      "path": "04 - Criaturas e Bestiário/Monstro/Amaldiçoado/Animador.md"
-    },
-    {
-      "basename": "Broto",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Broto.md"
-    },
-    {
-      "basename": "Barreira de Cobre - M2",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Barreira de Cobre - M2.md"
-    },
-    {
-      "basename": "Assistente Modular - A3",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Assistente Modular - A3.md"
-    },
-    {
-      "basename": "Abominação",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/Abominação.md"
-    },
-    {
-      "basename": "A Garganta do Mundo",
-      "path": "04 - Criaturas e Bestiário/Monstro/Constructo/A Garganta do Mundo.md"
     }
   ],
   "omittedPaths": [],

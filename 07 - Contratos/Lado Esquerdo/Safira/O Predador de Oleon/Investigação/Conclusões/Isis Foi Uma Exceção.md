@@ -2,7 +2,7 @@
 > **Contrato:** [[O Predador de Oleon]]  
 > **Tipo:** Conclusão essencial  
 > **Importância:** Alta  
-> **Pistas ligadas:** [[Clareira na Mata]], [[Relatório do Corpo de Isis]], [[Criança Testemunha]], [[Cabana de Isis na Mata]], [[Os Desaparecimentos São Antigos]]
+> **Pistas ligadas:** [[A Clareira na Mata]], [[Relatório do Corpo de Isis]], [[Criança Testemunha]], [[A Cabana de Isis na Mata]], [[Os Desaparecimentos São Antigos]]
 
 ---
 ## Pergunta
@@ -32,7 +32,7 @@ Ela viu a criatura fora do padrão normal de caça.
 
 Tentou fugir.
 
-A criatura atacou de forma apressada, em um local ruim, perto da [[Clareira na Mata]].
+A criatura atacou de forma apressada, em um local ruim, perto da [[A Clareira na Mata]].
 
 O predador começou a se alimentar ali mesmo, mas não terminou.
 
@@ -44,10 +44,10 @@ Por isso houve prova.
 
 ## Como os Jogadores Podem Chegar Nisso
 
-- [[Clareira na Mata]] mostra pegadas de fuga.
+- [[A Clareira na Mata]] mostra pegadas de fuga.
 - [[Relatório do Corpo de Isis]] mostra consumo parcial e descuidado.
 - [[Criança Testemunha]] viu uma silhueta que sumiu rápido demais.
-- [[Documentos da Illya]] mostram que vítimas antigas normalmente desapareciam sem deixar restos.
+- [[Contratos Retirados de Oleon]] mostram que vítimas antigas normalmente desapareciam sem deixar restos.
 - [[Covil do Bicho-Papão]] mostra ossos incompletos e consumo quase total de vítimas anteriores.
 
 ---

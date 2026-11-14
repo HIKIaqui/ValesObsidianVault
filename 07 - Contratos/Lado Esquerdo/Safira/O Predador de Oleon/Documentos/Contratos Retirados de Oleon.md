@@ -114,10 +114,10 @@ Com atenção, surgem padrões:
 
 ## O Que Esse Documento Prova
 
-- O caso de [[Isis]] não é isolado.
+- A morte de [[Isis]] tem precedentes de desaparecimentos infantis na mesma vila. A ligação com a criatura depende das pistas de campo.
 - A vila tem histórico de desaparecimentos.
 - Os moradores interromperam investigações anteriores.
-- A Guilda recebeu sinais, mas nunca conseguiu concluir o padrão em campo.
+- A Guilda recebeu sinais e os pedidos foram retirados antes que o padrão pudesse ser confirmado em campo.
 
 ---
 
