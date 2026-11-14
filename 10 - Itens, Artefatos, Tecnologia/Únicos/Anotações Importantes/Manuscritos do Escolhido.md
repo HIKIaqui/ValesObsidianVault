@@ -1,3 +1,8 @@
+---
+aliases:
+  - Escrituras do Ancião
+  - Ensinamentos do Ancião
+---
 
 ## Livro I — Livro do Encontro
 
@@ -9,99 +14,53 @@
 
 ¹ Voltei à minha casa antes do anoitecer. Havia pão sobre a mesa, e alguém havia deixado uma janela aberta. Lembro-me dessas coisas porque permaneci muito tempo diante delas, sem conseguir entrar.
 
-  
-
 ² Tudo estava como eu deixara. Ainda me parece estranho que pudesse estar.
-
-  
 
 ³ Escrevo antes de dormir, pois temo que o sono leve algum detalhe do que vi. Já procurei recordar certas palavras e encontrei apenas o sentido que julguei haver nelas. Quero guardar o que ouvi enquanto ainda consigo distingui-lo do que penso.
 
-  
-
 ⁴ Estive diante do Ancião.
-
-  
 
 ⁵ Tenho repetido essas palavras em voz baixa. Não encontrei outras que tornem mais compreensível o que aconteceu.
 
-  
-
 ⁶ Levei comigo as mãos com que assino meus contratos, a voz com que dou ordens e o entendimento que tantos homens vieram consultar. Entretanto, demorei a conseguir fazer uma pergunta.
-
-  
 
 ⁷ Perguntei-lhe o que aconteceria quando eu morresse.
 
-  
-
 ⁸ Hoje me envergonha que essa tenha sido minha primeira preocupação. Diante daquele que sustenta a continuidade de todas as coisas, quis saber o que seria de mim.
-
-  
 
 ⁹ Ele me falou do que continuaria.
 
-  
-
 ¹⁰ Procuro recordar sua resposta inteira. Enquanto a ouvia, pensei em minha casa ocupada por outras pessoas, em minhas ferramentas passando a outras mãos, nas obras que deixaria sem terminar. Pensei que haveria uma manhã na qual meus empregados esperariam por mim, e outra na qual já não esperariam.
-
-  
 
 ¹¹ Até então, eu havia cuidado do futuro como quem prepara um lugar onde pretende chegar. Pela primeira vez, consegui imaginar os dias aos quais não chegarei.
 
-  
-
 ¹² Recordei meu primeiro mestre. Faz muitos anos que morreu, mas ainda seguro a pena da maneira como ele corrigiu meus dedos. Ao escrever estas palavras, percebo que continuo obedecendo àquela pequena lição.
-
-  
 
 ¹³ Não sei quantas coisas recebi assim. Quantos homens sustentam meus dias sem que eu conheça seus nomes.
 
-  
-
 ¹⁴ Sempre tive orgulho do que construí. Conheço as noites que passei acordado, as decisões que ninguém pôde tomar por mim e o temor de perder aquilo que havia empregado em cada empreendimento.
-
-  
 
 ¹⁵ Hoje tentei recordar quem me ensinou a fazer cada uma dessas coisas. Para algumas, já não encontrei resposta.
 
-  
-
 ¹⁶ Pedi que me trouxessem os registros de minha primeira oficina. Pretendia apenas consultá-los, mas acabei procurando os nomes dos homens que trabalharam comigo naquele tempo. Há contas muito bem conservadas. Alguns nomes estão incompletos.
-
-  
 
 ¹⁷ Hei de corrigir isso enquanto ainda houver a quem perguntar.
 
-  
-
 ¹⁸ Também voltei a examinar o projeto que havia abandonado no último inverno. Antes, perguntava quanto dele conseguiria ver concluído. Agora me parece necessário perguntar quem poderia terminá-lo.
-
-  
 
 ¹⁹ Talvez eu deva começar por ensinar melhor o que sei.
 
-  
-
 ²⁰ Não compreendo ainda por que me foi permitido estar diante dele. Percorro minha vida em busca de alguma preparação para aquele instante: os anos de estudo, o trabalho, tudo quanto procurei erguer. Pergunto-me se meus passos já me conduziam até lá quando eu julgava escolher sozinho o caminho.
-
-  
 
 ²¹ Se fui considerado digno de ouvir, desejo tornar-me digno de ter ouvido.
 
-  
-
 ²² Amanhã procurarei aqueles com quem tenho trabalhado. Há coisas que preciso lhes perguntar e outras que venho adiando dizer. Hoje descobri quanto de uma vida pode ficar à espera de uma ocasião que seu dono presume possuir.
-
-  
 
 ²³ Guardo estas páginas para que a lembrança permaneça precisa e para que, quando eu compreender melhor o que me foi mostrado, possa voltar a este primeiro testemunho.
 
-  
-
 ²⁴ Por ora, sei que voltei. Há pão sobre a mesa, trabalho por fazer e pessoas que ainda posso encontrar pela manhã. Nunca me pareceu tão grande aquilo que tenho diante de mim.
 
-  
+
 
 ### Segundo Manuscrito — Da passagem
 
