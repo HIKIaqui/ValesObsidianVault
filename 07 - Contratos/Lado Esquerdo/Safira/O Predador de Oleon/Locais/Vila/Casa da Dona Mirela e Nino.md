@@ -1,5 +1,3 @@
-# Casa da Dona Mirela e Nino
-
 As lanternas ficam acesas mesmo durante o dia. As frestas junto ao chão estão vedadas. [[Dona Mirela]] atende à porta e mantém [[Nino]] perto dela.
 
 ## Em cena

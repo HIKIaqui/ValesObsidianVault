@@ -1,4 +1,3 @@
-# Porta Selada de Malaquita
 
 Uma porta metálica antiga atrás do [[Covil do Bicho-Papão]]. No centro, sob a sujeira, há um símbolo quase apagado de [[02 - Malaquita|Malaquita]]. Perto da estrutura está o [[Fragmento MALAQ-O13]].
 

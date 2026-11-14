@@ -1,4 +1,3 @@
-# Covil do Bicho-Papão
 
 Os restos de roupa e os ossos pequenos vêm de épocas diferentes. Alguns já estão misturados à terra. Há um ninho em um ponto mais seco, com um único ovo intacto no centro. A fêmea de [[Bicho-Papão de Oleon]] guarda o ninho.
 

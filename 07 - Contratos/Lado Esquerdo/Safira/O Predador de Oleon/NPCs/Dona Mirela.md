@@ -1,4 +1,3 @@
-# Dona Mirela
 
 Moradora antiga de Oleon e avó de [[Nino]]. Na vila, chamam ela de louca pelas lanternas, pelas frestas vedadas e pelo costume de manter as crianças dentro de casa.
 

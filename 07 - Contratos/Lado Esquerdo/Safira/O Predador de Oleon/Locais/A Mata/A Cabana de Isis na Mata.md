@@ -1,4 +1,3 @@
-# A Cabana de Isis na Mata
 
 [[Isis]] vivia aqui, perto da [[A Clareira na Mata|clareira]]. O lugar tem sinais de uso continuado por uma pessoa. As crianças de Oleon sabiam chegar e às vezes deixavam comida.
 

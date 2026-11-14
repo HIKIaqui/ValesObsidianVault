@@ -1,4 +1,3 @@
-# Nino
 
 Neto de [[Dona Mirela]]. É mudo e já viu a criatura. Evita frestas, o escuro e lugares apertados. As outras crianças se afastaram dele porque achavam que ele exagerava.
 

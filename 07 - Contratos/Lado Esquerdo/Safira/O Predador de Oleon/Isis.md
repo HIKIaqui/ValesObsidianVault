@@ -1,4 +1,3 @@
-# Isis
 
 Vivia sozinha numa [[A Cabana de Isis na Mata|cabana]] perto da clareira. Ninguém em Oleon sabe quem são ou eram seus pais. As crianças levavam restos de comida para ela. [[Luan]] às vezes deixava de comer a própria porção pra guardar pra Isis.
 

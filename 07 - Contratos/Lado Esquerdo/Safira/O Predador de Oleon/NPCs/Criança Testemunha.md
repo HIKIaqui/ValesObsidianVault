@@ -1,4 +1,3 @@
-# Criança Testemunha
 
 O garoto saiu escondido de casa de madrugada e viu uma silhueta perto da [[A Clareira na Mata|clareira]] na noite do ataque.
 

@@ -1,4 +1,3 @@
-# O Poço
 
 O poço antigo fica no centro velho de Oleon. Visto de cima, o fundo parece vazio. Com luz voltada para a parede lateral, dá pra ver uma rachadura estreita que segue para os [[Túneis Sob Oleon]].
 

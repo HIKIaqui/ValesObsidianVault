@@ -1,4 +1,3 @@
-# Bicho-Papão de Oleon
 
 **Criatura:** [[04 - Criaturas e Bestiário/Monstro/Aberração/Bicho-Papão|Bicho-Papão]]
 
