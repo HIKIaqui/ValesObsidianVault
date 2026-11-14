@@ -1,4 +1,3 @@
-# Registro do Caso do Poço
 
 > [!info] Fonte
 > A menção nos papéis de [[Illya]] localiza o caso. [[Dona Mirela]] consegue contar a sequência com mais clareza.

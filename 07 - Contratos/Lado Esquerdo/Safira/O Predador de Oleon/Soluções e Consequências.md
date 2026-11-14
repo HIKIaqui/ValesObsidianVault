@@ -1,15 +1,13 @@
-# Soluções e Consequências
-
 ## A adulta e o ovo
 
-| Decisão | Consequência |
-| --- | --- |
-| Matar a adulta | A predadora atual deixa de ameaçar Oleon. O ovo ainda precisa de destino. |
-| Expulsar a adulta | Resolve a ameaça imediata se ela perder acesso às crianças. Registre por onde fugiu e o risco que permanece fora da vila. Uma fuga para outro ramo dos mesmos túneis ainda deixa a vila exposta. |
-| Destruir o ovo ou queimar o ninho | O grupo precisa confirmar que o ovo foi destruído. Se a adulta estiver por perto, mexer no ninho pode trazê-la de volta para a cena. |
-| Entregar à Guilda ou esperar reforços | A solução se completa quando a Guilda assume a custódia. Até lá, o grupo precisa vigiar o ovo e manter a passagem sob controle. |
-| Selar o covil | Funciona como contenção enquanto todas as saídas relevantes estiverem fechadas e alguém puder conferir se continuam fechadas. Vedar só o poço deixa abertas as ligações com as casas. |
-| Deixar, vender ou retirar o ovo sem contenção | O ciclo pode continuar em Oleon ou onde o ovo acabar. |
+| Decisão                                       | Consequência                                                                                                                                                                                     |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Matar a adulta                                | A predadora atual deixa de ameaçar Oleon. O ovo ainda precisa de destino.                                                                                                                        |
+| Expulsar a adulta                             | Resolve a ameaça imediata se ela perder acesso às crianças. Registre por onde fugiu e o risco que permanece fora da vila. Uma fuga para outro ramo dos mesmos túneis ainda deixa a vila exposta. |
+| Destruir o ovo ou queimar o ninho             | O grupo precisa confirmar que o ovo foi destruído. Se a adulta estiver por perto, mexer no ninho pode trazê-la de volta para a cena.                                                             |
+| Entregar à Guilda ou esperar reforços         | A solução se completa quando a Guilda assume a custódia. Até lá, o grupo precisa vigiar o ovo e manter a passagem sob controle.                                                                  |
+| Selar o covil                                 | Funciona como contenção enquanto todas as saídas relevantes estiverem fechadas e alguém puder conferir se continuam fechadas. Vedar só o poço deixa abertas as ligações com as casas.            |
+| Deixar, vender ou retirar o ovo sem contenção | O ciclo pode continuar em Oleon ou onde o ovo acabar.                                                                                                                                            |
 
 ## Resultado do contrato
 

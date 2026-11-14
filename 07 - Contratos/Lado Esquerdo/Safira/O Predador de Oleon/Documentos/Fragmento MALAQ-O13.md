@@ -1,4 +1,3 @@
-# Fragmento MALAQ-O13
 
 > [!info] Onde encontrar
 > Junto à [[Porta Selada de Malaquita]], atrás do covil.
