@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Nino",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Nino.md"
+    },
+    {
+      "basename": "Desenhos de Nino",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Desenhos de Nino.md"
+    },
+    {
+      "basename": "Registro do Caso do Poço",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Registro do Caso do Poço.md"
+    },
+    {
+      "basename": "Fragmento MALAQ-O13",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Fragmento MALAQ-O13.md"
+    },
+    {
+      "basename": "O Predador de Oleon",
+      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md"
+    },
+    {
+      "basename": "Merak",
+      "path": "06 - Personagens/Lendários/Paradeiro Desconhecido/Pecados Capitais/Merak.md"
+    },
+    {
       "basename": "HunterAcademyManager_Databases",
       "path": "98 - Dev/HunterAcademyManager_Databases.md"
     },
@@ -17,16 +41,8 @@
       "path": "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Manuscritos do Escolhido.md"
     },
     {
-      "basename": "O Predador de Oleon",
-      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md"
-    },
-    {
       "basename": "Luan",
       "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Luan.md"
-    },
-    {
-      "basename": "Nino",
-      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Nino.md"
     },
     {
       "basename": "O Contrato",
@@ -93,20 +109,8 @@
       "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Relatório do Corpo de Isis.md"
     },
     {
-      "basename": "Registro do Caso do Poço",
-      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Registro do Caso do Poço.md"
-    },
-    {
-      "basename": "Fragmento MALAQ-O13",
-      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Fragmento MALAQ-O13.md"
-    },
-    {
       "basename": "Os Desaparecimentos São Antigos",
       "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/Os Desaparecimentos São Antigos.md"
-    },
-    {
-      "basename": "Desenhos de Nino",
-      "path": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Desenhos de Nino.md"
     },
     {
       "basename": "Contratos Retirados de Oleon",
@@ -195,10 +199,6 @@
     {
       "basename": "Warg Superior",
       "path": "04 - Criaturas e Bestiário/Monstro/Aberração/Wargs/Warg Superior.md"
-    },
-    {
-      "basename": "Ficha - Warg Superior",
-      "path": "13 - SISTEMA DE RPG/Bestiário/Monstro/Aberração/Wargs/Ficha - Warg Superior.md"
     }
   ],
   "omittedPaths": [],

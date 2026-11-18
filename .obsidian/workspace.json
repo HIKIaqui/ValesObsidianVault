@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Nino.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Nino"
             }
           }
         ]
@@ -285,12 +299,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Desenhos de Nino.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Registro do Caso do Poço.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Fragmento MALAQ-O13.md",
+    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
+    "06 - Personagens/Lendários/Paradeiro Desconhecido/Pecados Capitais/Merak.md",
     "98 - Dev/HunterAcademyManager_Databases.md",
     "modos-de-resourcemodifiers.md",
     "98 - Dev/HunterAcademyManager_Databases 1.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Manuscritos do Escolhido.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Predador de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/O Contrato.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Soluções e Consequências.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Garota Mais Vulnerável.md",
@@ -307,10 +325,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo/Porta Selada de Malaquita.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo/Túneis Sob Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Casa da Dona Mirela e Nino.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Investigação/Conclusões/A Ameaça Vem de Baixo.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Relatório do Corpo de Isis.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Registro do Caso do Poço.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Fragmento MALAQ-O13.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo",
     "01 - Lore Geral/Sem título",
