@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11564b7b5f6b8389",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8ae8ba19ce0eb9f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98 - Dev/HunterAcademyManager_Databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HunterAcademyManager_Databases"
+              "title": "Nova aba"
             }
           }
         ]
@@ -297,10 +283,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d8ae8ba19ce0eb9f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "modos-de-resourcemodifiers.md",
     "98 - Dev/HunterAcademyManager_Databases.md",
+    "modos-de-resourcemodifiers.md",
     "98 - Dev/HunterAcademyManager_Databases 1.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Mapa do Reflexo.md",
     "10 - Itens, Artefatos, Tecnologia/Únicos/Anotações Importantes/Manuscritos do Escolhido.md",
