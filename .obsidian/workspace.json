@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Lore Geral/Termos/Sobrenatural/Colisão.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Colisão"
             }
           }
         ]
@@ -285,6 +299,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Criaturas e Bestiário/Espírito/Poltergeist.md",
+    "01 - Lore Geral/Termos/Sobrenatural/Colisão.md",
+    "01 - Lore Geral/Termos/Sobrenatural",
+    "04 - Criaturas e Bestiário/Espírito/Fada.md",
+    "04 - Criaturas e Bestiário/Espírito/Germinante.md",
+    "04 - Criaturas e Bestiário/Espírito/Lembrado.md",
     "98 - Dev/HunterAcademyManager_Databases.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Nino.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Documentos/Desenhos de Nino.md",
@@ -306,11 +326,6 @@
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Bicho-Papão de Oleon.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs/Luan.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/A Mata/A Clareira na Mata.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/O Poço.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo/Covil do Bicho-Papão.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo/Porta Selada de Malaquita.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo/Túneis Sob Oleon.md",
-    "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Vila/Casa da Dona Mirela e Nino.md",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/NPCs",
     "07 - Contratos/Lado Esquerdo/Safira/O Predador de Oleon/Locais/Subsolo",
     "01 - Lore Geral/Sem título",
@@ -320,7 +335,6 @@
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Dragão",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Constructo",
     "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Médio",
-    "13 - SISTEMA DE RPG/Bestiário/Monstro/Amaldiçoado/Menor",
     "Homepage.canvas",
     "atlas-vtt/assets/thumbnails/Occultist_1791776616627_5kxhbm-9c341e03.webp",
     "atlas-vtt/assets/thumbnails/Assassin_1791776616615_pdvcg5-b998018b.webp",
